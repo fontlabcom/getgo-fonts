@@ -1,0 +1,5864 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":102,
+    "upm":1000,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":300
+          }
+        ]
+      },
+      {
+        "name":"space",
+        "unicode":"0020",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":177
+          }
+        ]
+      },
+      {
+        "name":"A",
+        "unicode":"0041",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":577,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "28 0",
+                        "46 0",
+                        "135 219",
+                        "441 219",
+                        "530 0",
+                        "549 0",
+                        "295 616",
+                        "281 616"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "435 234",
+                        "142 234",
+                        "288 596"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":219,
+                "thickness":15
+              },
+              {
+                "horizontal":true,
+                "position":596,
+                "thickness":20
+              },
+              {
+                "vertical":true,
+                "position":28,
+                "thickness":521
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"B",
+        "unicode":"0042",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":441,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "65 0",
+                        "271 0 s",
+                        "336 0  388 48  388 116 s",
+                        "388 171  348 233  265 233",
+                        "338 254  409 324  409 417 s",
+                        "409 535  321 616  211 616 s",
+                        "65 616"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "81 234",
+                        "81 601",
+                        "211 601 s",
+                        "311 601  392 524  392 417 s",
+                        "392 325  305 234  206 234 s"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "81 15",
+                        "81 219",
+                        "260 219 s",
+                        "331 219  372 172  372 115 s",
+                        "372 56  326 15  271 15 s"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":15
+              },
+              {
+                "horizontal":true,
+                "position":219,
+                "thickness":15
+              },
+              {
+                "horizontal":true,
+                "position":601,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":372,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":392,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"C",
+        "unicode":"0043",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":671,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "600 123",
+                        "555 61  466 7  360 7 s",
+                        "195 7  61 143  61 308 s",
+                        "61 473  195 609  360 609 s",
+                        "478 609  556 554  603 488",
+                        "615 499",
+                        "570 559  492 624  360 624 s",
+                        "185 624  44 482  44 308 s",
+                        "44 133  185 -8  360 -8 s",
+                        "484 -8  572 59  611 113"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":15
+              },
+              {
+                "horizontal":true,
+                "position":609,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":44,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"D",
+        "unicode":"0044",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":594,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "65 0",
+                        "244 0 s",
+                        "418 0  560 133  560 308 s",
+                        "560 482  418 616  244 616 s",
+                        "65 616"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "81 15",
+                        "81 601",
+                        "244 601 s",
+                        "409 601  543 473  543 308 s",
+                        "543 143  409 15  244 15 s"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":15
+              },
+              {
+                "horizontal":true,
+                "position":601,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":543,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"E",
+        "unicode":"0045",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":387,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "65 0",
+                        "351 0",
+                        "351 15",
+                        "81 15",
+                        "81 219",
+                        "311 219",
+                        "311 234",
+                        "81 234",
+                        "81 597",
+                        "341 597",
+                        "341 612",
+                        "65 612"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":15
+              },
+              {
+                "horizontal":true,
+                "position":219,
+                "thickness":15
+              },
+              {
+                "horizontal":true,
+                "position":597,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"F",
+        "unicode":"0046",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":343,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "65 0",
+                        "81 0",
+                        "81 219",
+                        "311 219",
+                        "311 234",
+                        "81 234",
+                        "81 597",
+                        "341 597",
+                        "341 612",
+                        "65 612"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":219,
+                "thickness":15
+              },
+              {
+                "horizontal":true,
+                "position":597,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"G",
+        "unicode":"0047",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":655,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "446 219",
+                        "584 219",
+                        "584 116",
+                        "537 57  451 7  349 7 s",
+                        "184 7  50 143  50 308 s",
+                        "50 473  184 609  349 609 s",
+                        "467 609  545 554  592 488",
+                        "604 499",
+                        "559 559  481 624  349 624 s",
+                        "174 624  33 482  33 308 s",
+                        "33 133  174 -8  349 -8 s",
+                        "473 -8  561 59  600 113",
+                        "600 234",
+                        "446 234"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":15
+              },
+              {
+                "horizontal":true,
+                "position":219,
+                "thickness":15
+              },
+              {
+                "horizontal":true,
+                "position":609,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":33,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":584,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"H",
+        "unicode":"0048",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":576,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "65 0",
+                        "81 0",
+                        "81 219",
+                        "495 219",
+                        "495 0",
+                        "511 0",
+                        "511 616",
+                        "495 616",
+                        "495 234",
+                        "81 234",
+                        "81 616",
+                        "65 616"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":219,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":495,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"I",
+        "unicode":"0049",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":146,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "65 0",
+                        "81 0",
+                        "81 616",
+                        "65 616"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"J",
+        "unicode":"004a",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":336,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "9 89",
+                        "27 29  80 -8  140 -8 s",
+                        "216 -8  277 53  277 129 s",
+                        "277 616",
+                        "261 616",
+                        "261 126 s",
+                        "261 56  203 7  142 7 s",
+                        "82 7  45 40  22 96"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":261,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"K",
+        "unicode":"004b",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":439,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "65 0",
+                        "81 0",
+                        "81 221",
+                        "129 275",
+                        "404 0",
+                        "428 0",
+                        "140 287",
+                        "430 616",
+                        "410 616",
+                        "81 242",
+                        "81 616",
+                        "65 616"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":242,
+                "thickness":-20
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"L",
+        "unicode":"004c",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":368,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "65 0",
+                        "351 0",
+                        "351 15",
+                        "81 15",
+                        "81 616",
+                        "65 616"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"M",
+        "unicode":"004d",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":711,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "65 0",
+                        "81 0",
+                        "81 594",
+                        "349 214",
+                        "362 214",
+                        "630 594",
+                        "630 0",
+                        "646 0",
+                        "646 616",
+                        "626 616",
+                        "356 231",
+                        "85 616",
+                        "65 616"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":214,
+                "thickness":17
+              },
+              {
+                "horizontal":true,
+                "position":594,
+                "thickness":22
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":630,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"N",
+        "unicode":"004e",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":576,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "65 0",
+                        "81 0",
+                        "81 594",
+                        "489 0",
+                        "511 0",
+                        "511 616",
+                        "495 616",
+                        "495 19",
+                        "87 616",
+                        "65 616"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":19
+              },
+              {
+                "horizontal":true,
+                "position":594,
+                "thickness":22
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":495,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"O",
+        "unicode":"004f",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":700,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "34 308 s",
+                        "34 133  175 -8  350 -8 s",
+                        "524 -8  666 133  666 308 s",
+                        "666 482  524 624  350 624 s",
+                        "175 624  34 482 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "51 308 s",
+                        "51 473  185 609  350 609 s",
+                        "515 609  649 473  649 308 s",
+                        "649 143  515 7  350 7 s",
+                        "185 7  51 143 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":15
+              },
+              {
+                "horizontal":true,
+                "position":609,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":34,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":649,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"P",
+        "unicode":"0050",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":468,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "65 0",
+                        "81 0",
+                        "81 219",
+                        "251 219 s",
+                        "361 219  449 308  449 417 s",
+                        "449 527  361 616  251 616 s",
+                        "65 616"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "81 234",
+                        "81 601",
+                        "251 601 s",
+                        "351 601  432 523  432 417 s",
+                        "432 312  351 234  251 234 s"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":219,
+                "thickness":15
+              },
+              {
+                "horizontal":true,
+                "position":601,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":432,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"Q",
+        "unicode":"0051",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":700,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "340 -21 s",
+                        "340 -97  396 -158  472 -158 s",
+                        "501 -158  527 -150  550 -134",
+                        "542 -122",
+                        "524 -136  500 -143  474 -143 s",
+                        "413 -143  356 -97  356 -18 s",
+                        "356 -8",
+                        "527 -5  666 135  666 308 s",
+                        "666 482  524 624  350 624 s",
+                        "175 624  34 482  34 308 s",
+                        "34 136  170 -3  340 -8"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "350 7 s",
+                        "185 7  51 143  51 308 s",
+                        "51 473  185 609  350 609 s",
+                        "515 609  649 473  649 308 s",
+                        "649 143  515 7 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-158,
+                "thickness":15
+              },
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":15
+              },
+              {
+                "horizontal":true,
+                "position":609,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":34,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":340,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":649,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"R",
+        "unicode":"0052",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":464,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "65 0",
+                        "81 0",
+                        "81 601",
+                        "251 601 s",
+                        "351 601  432 523  432 417 s",
+                        "432 312  351 234  251 234 s",
+                        "218 234",
+                        "409 0",
+                        "432 0",
+                        "251 219",
+                        "361 219  449 308  449 417 s",
+                        "449 527  361 616  251 616 s",
+                        "65 616"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":219,
+                "thickness":15
+              },
+              {
+                "horizontal":true,
+                "position":601,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":432,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"S",
+        "unicode":"0053",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":425,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "49 84",
+                        "88 21  144 -8  207 -8 s",
+                        "303 -8  374 50  374 137 s",
+                        "374 216  335 275  215 314 s",
+                        "118 346  81 392  81 473 s",
+                        "81 559  153 609  220 609 s",
+                        "295 609  336 573  358 521",
+                        "373 529",
+                        "342 598  284 624  221 624 s",
+                        "142 624  64 564  64 467 s",
+                        "64 384  110 330  206 300 s",
+                        "320 264  357 207  357 136 s",
+                        "357 60  296 7  208 7 s",
+                        "150 7  101 33  61 92"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":15
+              },
+              {
+                "horizontal":true,
+                "position":609,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":64,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":357,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"T",
+        "unicode":"0054",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":460,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "222 0",
+                        "238 0",
+                        "238 597",
+                        "448 597",
+                        "448 612",
+                        "12 612",
+                        "12 597",
+                        "222 597"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":597,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":222,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"U",
+        "unicode":"0055",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":596,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "52 248 s",
+                        "52 68  162 -8  298 -8 s",
+                        "433 -8  544 68  544 248 s",
+                        "544 616",
+                        "528 616",
+                        "528 248 s",
+                        "528 83  430 7  298 7 s",
+                        "165 7  68 83  68 248 s",
+                        "68 616",
+                        "52 616"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":52,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":528,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"V",
+        "unicode":"0056",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":565,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "276 0",
+                        "290 0",
+                        "543 616",
+                        "525 616",
+                        "283 20",
+                        "41 616",
+                        "22 616"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":20
+              },
+              {
+                "vertical":true,
+                "position":22,
+                "thickness":521
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"W",
+        "unicode":"0057",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":803,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "204 0",
+                        "219 0",
+                        "404 582",
+                        "583 0",
+                        "599 0",
+                        "781 616",
+                        "763 616",
+                        "591 24",
+                        "412 606",
+                        "396 606",
+                        "212 24",
+                        "40 616",
+                        "22 616"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":24
+              },
+              {
+                "horizontal":true,
+                "position":582,
+                "thickness":24
+              },
+              {
+                "vertical":true,
+                "position":22,
+                "thickness":759
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"X",
+        "unicode":"0058",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":484,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "19 0",
+                        "37 0",
+                        "238 294",
+                        "442 0",
+                        "462 0",
+                        "249 307",
+                        "465 616",
+                        "446 616",
+                        "241 320",
+                        "44 616",
+                        "25 616",
+                        "230 307"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "vertical":true,
+                "position":19,
+                "thickness":446
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"Y",
+        "unicode":"0059",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":547,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "266 0",
+                        "282 0",
+                        "282 218",
+                        "525 616",
+                        "506 616",
+                        "275 235",
+                        "42 616",
+                        "22 616",
+                        "266 219"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "vertical":true,
+                "position":266,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"Z",
+        "unicode":"005a",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":492,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "35 0",
+                        "459 0",
+                        "459 15",
+                        "55 15",
+                        "459 596",
+                        "459 612",
+                        "43 612",
+                        "43 597",
+                        "439 597",
+                        "35 15"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":15
+              },
+              {
+                "horizontal":true,
+                "position":597,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":35,
+                "thickness":20
+              },
+              {
+                "vertical":true,
+                "position":439,
+                "thickness":20
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"period",
+        "unicode":"002e",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":100,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "34 8 s",
+                        "34 -1  41 -8  50 -8 s",
+                        "59 -8  66 -1  66 8 s",
+                        "66 17  59 24  50 24 s",
+                        "41 24  34 17 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":32
+              },
+              {
+                "vertical":true,
+                "position":34,
+                "thickness":32
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"a",
+        "unicode":"0061",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":346,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "265 0",
+                        "281 0",
+                        "281 238",
+                        "265 238",
+                        "265 215 s",
+                        "265 197  266 179  268 169",
+                        "251 214  212 244  161 244 s",
+                        "94 244  35 199  35 114 s",
+                        "35 39  89 -8  154 -8 s",
+                        "203 -8  246 14  268 69",
+                        "266 60  265 42  265 23 s"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "160 5 s",
+                        "99 5  52 51  52 117 s",
+                        "52 186  98 231  160 231 s",
+                        "218 231  265 184  265 129 s",
+                        "265 107 s",
+                        "265 54  217 5 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":231,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":238,
+                "thickness":-20
+              },
+              {
+                "vertical":true,
+                "position":35,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":265,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"b",
+        "unicode":"0062",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":346,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "65 0",
+                        "81 0",
+                        "81 21 s",
+                        "81 39  80 57  78 67",
+                        "95 21  134 -8  185 -8 s",
+                        "252 -8  311 36  311 122 s",
+                        "311 197  257 244  192 244 s",
+                        "143 244  100 222  78 167",
+                        "80 176  81 194  81 213 s",
+                        "81 788",
+                        "65 788"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "81 107 s",
+                        "81 129 s",
+                        "81 181  129 231  186 231 s",
+                        "247 231  294 185  294 119 s",
+                        "294 49  248 5  186 5 s",
+                        "128 5  81 52 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":231,
+                "thickness":13
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":294,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"c",
+        "unicode":"0063",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":289,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "242 43",
+                        "217 16  195 5  160 5 s",
+                        "99 5  52 48  52 120 s",
+                        "52 188  102 231  159 231 s",
+                        "199 231  220 218  243 193",
+                        "253 203",
+                        "234 228  209 244  160 244 s",
+                        "93 244  35 200  35 114 s",
+                        "35 39  87 -8  155 -8 s",
+                        "201 -8  227 6  251 34"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":231,
+                "thickness":13
+              },
+              {
+                "vertical":true,
+                "position":35,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"d",
+        "unicode":"0064",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":346,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "265 0",
+                        "281 0",
+                        "281 788",
+                        "265 788",
+                        "265 215 s",
+                        "265 197  266 179  268 169",
+                        "251 214  212 244  161 244 s",
+                        "94 244  35 199  35 114 s",
+                        "35 39  89 -8  154 -8 s",
+                        "203 -8  246 14  268 69",
+                        "266 60  265 42  265 23 s"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "160 5 s",
+                        "99 5  52 51  52 117 s",
+                        "52 186  98 231  160 231 s",
+                        "218 231  265 184  265 129 s",
+                        "265 107 s",
+                        "265 54  217 5 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":231,
+                "thickness":13
+              },
+              {
+                "vertical":true,
+                "position":35,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":265,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"e",
+        "unicode":"0065",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":303,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "247 50",
+                        "224 21  197 5  160 5 s",
+                        "99 5  52 47  52 120",
+                        "264 120",
+                        "264 135 s",
+                        "264 188  228 244  156 244 s",
+                        "89 244  35 201  35 114 s",
+                        "35 39  87 -8  155 -8 s",
+                        "202 -8  233 10  256 41"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "53 134",
+                        "60 195  98 231  155 231 s",
+                        "211 231  246 192  246 134"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":120,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":231,
+                "thickness":13
+              },
+              {
+                "vertical":true,
+                "position":35,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":246,
+                "thickness":18
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"f",
+        "unicode":"0066",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":234,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "34 -180",
+                        "94 -142  130 -81  130 48 s",
+                        "130 220",
+                        "210 220",
+                        "210 234",
+                        "130 234",
+                        "130 531 s",
+                        "130 705  213 778  310 778 s",
+                        "331 778  361 773  381 765",
+                        "385 779",
+                        "369 786  337 792  310 792 s",
+                        "194 792  114 697  114 528 s",
+                        "114 234",
+                        "34 234",
+                        "34 220",
+                        "114 220",
+                        "114 44 s",
+                        "114 -66  90 -123  26 -168"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-159,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":-147,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":220,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":778,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":114,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"g",
+        "unicode":"0067",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":316,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "203 234",
+                        "187 240  171 244  149 244 s",
+                        "86 244  40 208  40 143 s",
+                        "40 85  88 53  148 53",
+                        "135 41  122 32  91 28",
+                        "87 18",
+                        "95 10  106 2  119 0",
+                        "76 -2  25 -38  25 -94 s",
+                        "25 -152  78 -188  142 -188 s",
+                        "212 -188  264 -149  264 -92 s",
+                        "264 -43  225 3  151 3 s",
+                        "136 3  118 10  108 20",
+                        "133 25  153 36  168 54",
+                        "224 63  258 97  258 147 s",
+                        "258 173  248 201  221 220",
+                        "287 220",
+                        "287 234"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "42 -94 s",
+                        "42 -38  88 -10  149 -10 s",
+                        "215 -10  247 -50  247 -94 s",
+                        "247 -142  203 -175  142 -175 s",
+                        "88 -175  42 -143 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "57 143 s",
+                        "57 202  93 231  149 231 s",
+                        "207 231  241 197  241 143 s",
+                        "241 96  203 65  149 65 s",
+                        "100 65  57 90 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-188,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":-10,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "thickness":20
+              },
+              {
+                "horizontal":true,
+                "position":53,
+                "thickness":12
+              },
+              {
+                "horizontal":true,
+                "position":220,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":231,
+                "thickness":13
+              },
+              {
+                "vertical":true,
+                "position":25,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":40,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":241,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":247,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"h",
+        "unicode":"0068",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":349,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "72 -7",
+                        "120 153  167 228  217 228 s",
+                        "255 228  275 200  275 161 s",
+                        "275 0",
+                        "291 0",
+                        "291 169 s",
+                        "291 209  264 244  221 244 s",
+                        "192 244  168 228  145 196 s",
+                        "123 166  96 112  76 42",
+                        "79 62  81 84  81 118 s",
+                        "81 788",
+                        "65 788",
+                        "65 91 s",
+                        "65 52  63 19  57 -3"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":228,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":275,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"i",
+        "unicode":"0069",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":146,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "65 0",
+                        "81 0",
+                        "81 238",
+                        "65 238"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "id":"elementdata",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "59 318 s",
+                        "59 310  65 304  73 304 s",
+                        "81 304  87 310  87 318 s",
+                        "87 326  81 332  73 332 s",
+                        "65 332  59 326 c"
+                      ]
+                    }
+                  ]
+                },
+                "locked":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":238,
+                "thickness":-20
+              },
+              {
+                "horizontal":true,
+                "position":304,
+                "thickness":28
+              },
+              {
+                "vertical":true,
+                "position":59,
+                "thickness":28
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"j",
+        "unicode":"006a",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":149,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-12 -180",
+                        "48 -142  84 -81  84 48 s",
+                        "84 238",
+                        "68 238",
+                        "68 44 s",
+                        "68 -66  44 -123  -20 -168"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":"elementdata",
+                "transform":{
+                  "xOffset":3
+                },
+                "locked":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-159,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":-147,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":238,
+                "thickness":-20
+              },
+              {
+                "horizontal":true,
+                "position":304,
+                "thickness":28
+              },
+              {
+                "vertical":true,
+                "position":62,
+                "thickness":28
+              },
+              {
+                "vertical":true,
+                "position":68,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"k",
+        "unicode":"006b",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":284,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "65 0",
+                        "81 0",
+                        "81 86",
+                        "109 112",
+                        "230 0",
+                        "254 0",
+                        "121 122",
+                        "250 238",
+                        "227 238",
+                        "81 103",
+                        "81 788",
+                        "65 788"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":238,
+                "thickness":-20
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"l",
+        "unicode":"006c",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":146,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "65 0",
+                        "81 0",
+                        "81 788",
+                        "65 788"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"m",
+        "unicode":"006d",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":559,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "72 -7",
+                        "120 153  167 228  217 228 s",
+                        "255 228  275 200  275 161 s",
+                        "275 91 s",
+                        "275 52  273 19  267 -3",
+                        "282 -7",
+                        "330 153  377 228  427 228 s",
+                        "465 228  485 200  485 161 s",
+                        "485 0",
+                        "501 0",
+                        "501 169 s",
+                        "501 209  474 244  431 244 s",
+                        "402 244  378 228  355 196 s",
+                        "333 166  306 112  286 42",
+                        "289 62  291 84  291 118 s",
+                        "291 169 s",
+                        "291 209  264 244  221 244 s",
+                        "192 244  168 228  145 196 s",
+                        "123 166  96 112  76 42",
+                        "79 62  81 84  81 118 s",
+                        "81 238",
+                        "65 238",
+                        "65 91 s",
+                        "65 52  63 19  57 -3"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":228,
+                "thickness":16
+              },
+              {
+                "horizontal":true,
+                "position":238,
+                "thickness":-20
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":275,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":485,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"n",
+        "unicode":"006e",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":349,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "72 -7",
+                        "120 153  167 228  217 228 s",
+                        "255 228  275 200  275 161 s",
+                        "275 0",
+                        "291 0",
+                        "291 169 s",
+                        "291 209  264 244  221 244 s",
+                        "192 244  168 228  145 196 s",
+                        "123 166  96 112  76 42",
+                        "79 62  81 84  81 118 s",
+                        "81 238",
+                        "65 238",
+                        "65 91 s",
+                        "65 52  63 19  57 -3"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":228,
+                "thickness":16
+              },
+              {
+                "horizontal":true,
+                "position":238,
+                "thickness":-20
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":275,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"o",
+        "unicode":"006f",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":314,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "158 -8 s",
+                        "225 -8  281 35  281 118 s",
+                        "281 201  225 244  158 244 s",
+                        "91 244  35 201  35 118 s",
+                        "35 35  91 -8 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "52 118 s",
+                        "52 186  94 231  158 231 s",
+                        "222 231  264 186  264 118 s",
+                        "264 50  222 5  158 5 s",
+                        "94 5  52 50 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":231,
+                "thickness":13
+              },
+              {
+                "vertical":true,
+                "position":35,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":264,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"p",
+        "unicode":"0070",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":346,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "65 -168",
+                        "81 -168",
+                        "81 21 s",
+                        "81 39  80 57  78 67",
+                        "95 21  134 -8  185 -8 s",
+                        "252 -8  311 36  311 122 s",
+                        "311 197  257 244  192 244 s",
+                        "143 244  100 222  78 167",
+                        "80 176  81 194  81 213 s",
+                        "81 238",
+                        "65 238"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "81 107 s",
+                        "81 129 s",
+                        "81 181  129 231  186 231 s",
+                        "247 231  294 185  294 119 s",
+                        "294 49  248 5  186 5 s",
+                        "128 5  81 52 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-147,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":231,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":238,
+                "thickness":-20
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":294,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"q",
+        "unicode":"0071",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":346,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "265 -168",
+                        "281 -168",
+                        "281 238",
+                        "265 238",
+                        "265 215 s",
+                        "265 197  266 179  268 169",
+                        "251 214  212 244  161 244 s",
+                        "94 244  35 199  35 114 s",
+                        "35 39  89 -8  154 -8 s",
+                        "203 -8  246 14  268 69",
+                        "266 60  265 42  265 23 s"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "160 5 s",
+                        "99 5  52 51  52 117 s",
+                        "52 186  98 231  160 231 s",
+                        "218 231  265 184  265 129 s",
+                        "265 107 s",
+                        "265 54  217 5 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-147,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":231,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":238,
+                "thickness":-20
+              },
+              {
+                "vertical":true,
+                "position":35,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":265,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"r",
+        "unicode":"0072",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":203,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "65 0",
+                        "81 0",
+                        "81 91 s",
+                        "81 153  105 226  184 226",
+                        "183 244",
+                        "123 242  88 206  77 139",
+                        "80 163  81 184  81 200 s",
+                        "81 238",
+                        "65 238"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":226,
+                "thickness":18
+              },
+              {
+                "horizontal":true,
+                "position":238,
+                "thickness":-20
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"s",
+        "unicode":"0073",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":224,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "38 16",
+                        "62 -2  83 -8  109 -8 s",
+                        "149 -8  185 15  185 52 s",
+                        "185 86  164 107  121 118 s",
+                        "82 128  62 145  62 178 s",
+                        "62 209  86 231  121 231 s",
+                        "143 231  159 223  172 207",
+                        "183 217",
+                        "169 233  148 244  122 244 s",
+                        "81 244  46 218  46 175 s",
+                        "46 139  72 116  112 105 s",
+                        "151 94  169 79  169 51 s",
+                        "169 23  144 5  110 5 s",
+                        "88 5  72 11  47 28"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":231,
+                "thickness":13
+              },
+              {
+                "vertical":true,
+                "position":46,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":169,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"t",
+        "unicode":"0074",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":228,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "106 0",
+                        "122 0",
+                        "122 220",
+                        "202 220",
+                        "202 234",
+                        "122 234",
+                        "122 358",
+                        "106 358",
+                        "106 234",
+                        "26 234",
+                        "26 220",
+                        "106 220"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":220,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":106,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u",
+        "unicode":"0075",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":349,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "58 67 s",
+                        "58 27  85 -8  128 -8 s",
+                        "156 -8  180 8  204 40 s",
+                        "226 70  253 124  273 194",
+                        "270 174  268 152  268 118 s",
+                        "268 -1",
+                        "284 -1",
+                        "284 145 s",
+                        "284 184  286 216  292 239",
+                        "277 243",
+                        "229 83  182 8  132 8 s",
+                        "94 8  74 36  74 75 s",
+                        "74 234",
+                        "58 234"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":16
+              },
+              {
+                "horizontal":true,
+                "position":20,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":239,
+                "thickness":-20
+              },
+              {
+                "horizontal":true,
+                "position":243,
+                "thickness":-20
+              },
+              {
+                "vertical":true,
+                "position":58,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":268,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"v",
+        "unicode":"0076",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":278,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "134 0",
+                        "148 0",
+                        "251 238",
+                        "233 238",
+                        "141 19",
+                        "49 238",
+                        "30 238"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":19
+              },
+              {
+                "horizontal":true,
+                "position":238,
+                "thickness":-20
+              },
+              {
+                "vertical":true,
+                "position":30,
+                "thickness":221
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"w",
+        "unicode":"0077",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":439,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "123 0",
+                        "137 0",
+                        "221 218",
+                        "306 0",
+                        "320 0",
+                        "412 238",
+                        "395 238",
+                        "313 20",
+                        "232 234",
+                        "211 234",
+                        "131 20",
+                        "48 238",
+                        "30 238"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":20
+              },
+              {
+                "horizontal":true,
+                "position":218,
+                "thickness":16
+              },
+              {
+                "horizontal":true,
+                "position":218,
+                "thickness":20
+              },
+              {
+                "vertical":true,
+                "position":30,
+                "thickness":382
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"x",
+        "unicode":"0078",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":238,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "22 0",
+                        "40 0",
+                        "118 109",
+                        "195 0",
+                        "215 0",
+                        "128 120",
+                        "216 238",
+                        "198 238",
+                        "119 131",
+                        "46 238",
+                        "26 238",
+                        "109 120"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":238,
+                "thickness":-20
+              },
+              {
+                "vertical":true,
+                "position":22,
+                "thickness":194
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"y",
+        "unicode":"0079",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":270,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "38 -176",
+                        "77 -120  116 -52  139 0 s",
+                        "243 238",
+                        "225 238",
+                        "133 19",
+                        "41 238",
+                        "22 238",
+                        "125 2",
+                        "108 -39  63 -113  25 -166"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-155,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":238,
+                "thickness":-20
+              },
+              {
+                "vertical":true,
+                "position":22,
+                "thickness":221
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"z",
+        "unicode":"007a",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":252,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "31 0",
+                        "216 0",
+                        "216 14",
+                        "50 14",
+                        "215 220",
+                        "215 234",
+                        "37 234",
+                        "37 220",
+                        "196 220",
+                        "31 14"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":220,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":31,
+                "thickness":19
+              },
+              {
+                "vertical":true,
+                "position":196,
+                "thickness":19
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"comma",
+        "unicode":"002c",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":100,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "36 21",
+                        "32 -4  24 -37  15 -65",
+                        "28 -69",
+                        "39 -45  51 -9  58 18"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-69,
+                "thickness":90
+              },
+              {
+                "vertical":true,
+                "position":36,
+                "thickness":22
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"zero",
+        "unicode":"0030",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":268,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "134 -8 s",
+                        "196 -8  232 41  232 118 s",
+                        "232 195  196 244  134 244 s",
+                        "72 244  36 195  36 118 s",
+                        "36 41  72 -8 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "53 118 s",
+                        "53 179  79 231  134 231 s",
+                        "189 231  215 179  215 118 s",
+                        "215 57  189 5  134 5 s",
+                        "79 5  53 57 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":231,
+                "thickness":13
+              },
+              {
+                "vertical":true,
+                "position":36,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":215,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"one",
+        "unicode":"0031",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":268,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "170 0",
+                        "186 0",
+                        "186 238",
+                        "174 238",
+                        "65 170",
+                        "72 159",
+                        "170 218"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":218,
+                "thickness":20
+              },
+              {
+                "vertical":true,
+                "position":170,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"two",
+        "unicode":"0032",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":268,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "37 0",
+                        "219 0",
+                        "219 14",
+                        "59 14",
+                        "137 70",
+                        "186 107  212 134  212 170 s",
+                        "212 212  178 242  129 242 s",
+                        "99 242  71 232  47 200",
+                        "58 191",
+                        "80 218  99 228  129 228 s",
+                        "169 228  196 203  196 168 s",
+                        "196 137  171 113  128 81 s",
+                        "37 14"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":228,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":37,
+                "thickness":22
+              },
+              {
+                "vertical":true,
+                "position":196,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"three",
+        "unicode":"0033",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":268,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "29 -47",
+                        "50 -61  74 -67  100 -67 s",
+                        "156 -67  214 -36  214 24 s",
+                        "214 80  170 112  97 112",
+                        "201 220",
+                        "201 234",
+                        "48 234",
+                        "48 220",
+                        "181 220",
+                        "77 111",
+                        "83 99",
+                        "162 100  198 71  198 23 s",
+                        "198 -23  153 -54  101 -54 s",
+                        "79 -54  58 -49  36 -35"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-67,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":99,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":220,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":181,
+                "thickness":20
+              },
+              {
+                "vertical":true,
+                "position":198,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"four",
+        "unicode":"0034",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":268,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "31 36",
+                        "164 36",
+                        "164 -59",
+                        "180 -59",
+                        "180 36",
+                        "234 36",
+                        "234 50",
+                        "180 50",
+                        "180 238",
+                        "159 238",
+                        "31 48"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "50 50",
+                        "164 220",
+                        "164 50"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":36,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":220,
+                "thickness":18
+              },
+              {
+                "vertical":true,
+                "position":164,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"five",
+        "unicode":"0035",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":268,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "46 -47",
+                        "68 -61  90 -67  116 -67 s",
+                        "170 -67  218 -35  218 19 s",
+                        "218 65  188 107  121 107 s",
+                        "106 107  89 104  75 99",
+                        "75 220",
+                        "219 220",
+                        "219 234",
+                        "59 234",
+                        "59 84",
+                        "64 81",
+                        "84 91  99 94  115 94 s",
+                        "176 94  202 62  202 18 s",
+                        "202 -24  167 -54  117 -54 s",
+                        "95 -54  75 -48  52 -35"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-67,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":94,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":220,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":59,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":202,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"six",
+        "unicode":"0036",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":268,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "198 302",
+                        "122 260  41 173  41 88 s",
+                        "41 32  78 -8  139 -8 s",
+                        "191 -8  237 33  237 85 s",
+                        "237 139  197 177  143 177 s",
+                        "114 177  85 166  66 141",
+                        "94 202  154 263  206 289"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "139 6 s",
+                        "83 6  58 45  58 88 s",
+                        "58 141  101 163  142 163 s",
+                        "190 163  220 131  220 83 s",
+                        "220 38  183 6 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":163,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":41,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":220,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"seven",
+        "unicode":"0037",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":268,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "78 -67",
+                        "233 221",
+                        "233 234",
+                        "40 234",
+                        "40 220",
+                        "214 220",
+                        "65 -60"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":220,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":214,
+                "thickness":19
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"eight",
+        "unicode":"0038",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":268,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "41 68 s",
+                        "41 20  79 -8  134 -8 s",
+                        "189 -8  227 19  227 68 s",
+                        "227 102  209 134  160 144",
+                        "198 154  224 180  224 222 s",
+                        "224 263  194 301  136 301 s",
+                        "84 301  48 268  48 221 s",
+                        "48 182  72 153  108 142",
+                        "68 134  41 106 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "58 69 s",
+                        "58 108  84 129  133 137",
+                        "185 132  210 107  210 69 s",
+                        "210 27  179 5  134 5 s",
+                        "91 5  58 28 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "136 149",
+                        "95 153  65 180  65 224 s",
+                        "65 263  93 288  136 288 s",
+                        "185 288  207 255  207 220 s",
+                        "207 177  178 153 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":137,
+                "thickness":12
+              },
+              {
+                "horizontal":true,
+                "position":288,
+                "thickness":13
+              },
+              {
+                "vertical":true,
+                "position":41,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":48,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":207,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":210,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"nine",
+        "unicode":"0039",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":268,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "71 -68",
+                        "147 -26  228 61  228 146 s",
+                        "228 202  191 242  130 242 s",
+                        "77 242  32 201  32 149 s",
+                        "32 95  72 57  126 57 s",
+                        "155 57  184 68  203 93",
+                        "175 32  115 -29  63 -55"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "49 151 s",
+                        "49 196  86 228  130 228 s",
+                        "186 228  211 189  211 146 s",
+                        "211 93  168 71  127 71 s",
+                        "79 71  49 103 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":57,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":228,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":32,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":211,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"hyphen",
+        "unicode":"002d",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":353,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "99 142",
+                        "254 142",
+                        "254 153",
+                        "99 153"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":142,
+                "thickness":11
+              },
+              {
+                "vertical":true,
+                "position":99,
+                "thickness":155
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"plus",
+        "unicode":"002b",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":466,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "227 -3",
+                        "239 -3",
+                        "239 142",
+                        "367 142",
+                        "367 153",
+                        "239 153",
+                        "239 298",
+                        "227 298",
+                        "227 153",
+                        "99 153",
+                        "99 142",
+                        "227 142"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":142,
+                "thickness":11
+              },
+              {
+                "vertical":true,
+                "position":227,
+                "thickness":12
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"asterisk",
+        "unicode":"002a",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":318,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "78 62",
+                        "154 110",
+                        "150 20",
+                        "168 20",
+                        "164 110",
+                        "240 62",
+                        "249 77",
+                        "170 119",
+                        "249 161",
+                        "240 176",
+                        "164 128",
+                        "168 218",
+                        "150 218",
+                        "154 128",
+                        "78 176",
+                        "69 161",
+                        "148 119",
+                        "69 77"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":20,
+                "thickness":198
+              },
+              {
+                "vertical":true,
+                "position":152,
+                "thickness":14
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"asciicircum",
+        "unicode":"005e",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":268,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "66 108",
+                        "76 103",
+                        "134 211",
+                        "192 103",
+                        "202 108",
+                        "141 221",
+                        "127 221"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":211,
+                "thickness":10
+              },
+              {
+                "vertical":true,
+                "position":66,
+                "thickness":136
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"slash",
+        "unicode":"002f",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":421,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "5 -112",
+                        "427 791",
+                        "416 796",
+                        "-6 -107"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-112,
+                "thickness":908
+              },
+              {
+                "vertical":true,
+                "position":-6,
+                "thickness":433
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"backslash",
+        "unicode":"005c",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":421,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "416 -112",
+                        "427 -107",
+                        "5 796",
+                        "-6 791"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-112,
+                "thickness":908
+              },
+              {
+                "vertical":true,
+                "position":-6,
+                "thickness":433
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"colon",
+        "unicode":"003a",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":100,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"period"
+                },
+                "locked":true
+              },
+              {
+                "component":{
+                  "glyphName":"period"
+                },
+                "transform":{
+                  "yOffset":218
+                },
+                "locked":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":32
+              },
+              {
+                "horizontal":true,
+                "position":210,
+                "thickness":32
+              },
+              {
+                "vertical":true,
+                "position":34,
+                "thickness":32
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"semicolon",
+        "unicode":"003b",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":100,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"period"
+                },
+                "transform":{
+                  "xOffset":1,
+                  "yOffset":218
+                },
+                "locked":true
+              },
+              {
+                "component":{
+                  "glyphName":"comma"
+                },
+                "locked":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":210,
+                "thickness":32
+              },
+              {
+                "vertical":true,
+                "position":35,
+                "thickness":32
+              },
+              {
+                "vertical":true,
+                "position":36,
+                "thickness":22
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"less",
+        "unicode":"003c",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":524,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "456 -44",
+                        "464 -35",
+                        "89 342",
+                        "464 719",
+                        "456 728",
+                        "76 347",
+                        "76 337"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-44,
+                "thickness":772
+              },
+              {
+                "vertical":true,
+                "position":76,
+                "thickness":13
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"equal",
+        "unicode":"003d",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":466,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"elementdata.1",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "99 91",
+                        "367 91",
+                        "367 102",
+                        "99 102"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "yOffset":101
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.1",
+                "locked":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":91,
+                "thickness":11
+              },
+              {
+                "horizontal":true,
+                "position":192,
+                "thickness":11
+              },
+              {
+                "vertical":true,
+                "position":99,
+                "thickness":268
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"greater",
+        "unicode":"003e",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":524,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "68 -44",
+                        "448 337",
+                        "448 347",
+                        "68 728",
+                        "60 719",
+                        "435 342",
+                        "60 -35"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-44,
+                "thickness":772
+              },
+              {
+                "vertical":true,
+                "position":435,
+                "thickness":13
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"exclam",
+        "unicode":"0021",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":164,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "82 -8 s",
+                        "73 -8  66 -1  66 8 s",
+                        "66 17  73 24  82 24 s",
+                        "91 24  98 17  98 8 s",
+                        "98 -1  91 -8 c"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "76 130",
+                        "88 130",
+                        "91 726",
+                        "73 726"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":734
+              },
+              {
+                "vertical":true,
+                "position":74,
+                "thickness":15
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"question",
+        "unicode":"003f",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":465,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"period"
+                },
+                "transform":{
+                  "xOffset":161
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "203 130",
+                        "219 130",
+                        "219 167 s",
+                        "219 237  239 275  286 322 s",
+                        "369 405  416 469  416 548 s",
+                        "416 665  322 734  215 734 s",
+                        "150 734  82 707  28 656",
+                        "38 644",
+                        "91 692  146 718  211 718 s",
+                        "327 718  400 647  400 540 s",
+                        "400 472  359 416  271 327 s",
+                        "231 287  203 248  203 159 s"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":32
+              },
+              {
+                "horizontal":true,
+                "position":718,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":195,
+                "thickness":32
+              },
+              {
+                "vertical":true,
+                "position":203,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":400,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"quotesingle",
+        "unicode":"0027",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":77,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "33 460",
+                        "44 460",
+                        "48 626",
+                        "29 626"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":460,
+                "thickness":166
+              },
+              {
+                "vertical":true,
+                "position":31,
+                "thickness":15
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"quotedbl",
+        "unicode":"0022",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":127,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"quotesingle"
+                },
+                "locked":true
+              },
+              {
+                "component":{
+                  "glyphName":"quotesingle"
+                },
+                "transform":{
+                  "xOffset":50
+                },
+                "locked":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":460,
+                "thickness":166
+              },
+              {
+                "vertical":true,
+                "position":31,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":81,
+                "thickness":15
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"numbersign",
+        "unicode":"0023",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":292,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "64 -17",
+                        "75 -20",
+                        "102 70",
+                        "162 70",
+                        "136 -17",
+                        "147 -20",
+                        "174 70",
+                        "228 70",
+                        "228 81",
+                        "177 81",
+                        "199 153",
+                        "252 153",
+                        "252 164",
+                        "202 164",
+                        "227 244",
+                        "216 247",
+                        "190 164",
+                        "130 164",
+                        "155 244",
+                        "144 247",
+                        "118 164",
+                        "64 164",
+                        "64 153",
+                        "115 153",
+                        "93 81",
+                        "40 81",
+                        "40 70",
+                        "90 70"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "105 81",
+                        "127 153",
+                        "187 153",
+                        "165 81"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":70,
+                "thickness":11
+              },
+              {
+                "horizontal":true,
+                "position":153,
+                "thickness":11
+              },
+              {
+                "horizontal":true,
+                "position":244,
+                "thickness":-20
+              },
+              {
+                "vertical":true,
+                "position":40,
+                "thickness":212
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"at",
+        "unicode":"0040",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":604,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "513 -47",
+                        "462 -91  391 -132  296 -132 s",
+                        "173 -132  58 -39  58 99 s",
+                        "58 243  161 359  315 359 s",
+                        "480 359  538 233  538 147 s",
+                        "538 62  492 17  436 17 s",
+                        "393 17  375 39  380 85 s",
+                        "394 216",
+                        "376 222  344 227  315 227 s",
+                        "247 227  193 167  193 93 s",
+                        "193 39  229 7  280 7 s",
+                        "318 7  349 30  365 67",
+                        "366 25  392 6  434 6 s",
+                        "495 6  552 46  552 149 s",
+                        "552 241  486 370  315 370 s",
+                        "158 370  44 258  44 94 s",
+                        "44 -51  166 -143  293 -143 s",
+                        "390 -143  464 -107  520 -55"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "366 111",
+                        "362 56  328 21  281 21 s",
+                        "239 21  210 47  210 96 s",
+                        "210 156  254 214  315 214 s",
+                        "339 214  357 211  376 206"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-143,
+                "thickness":11
+              },
+              {
+                "horizontal":true,
+                "position":6,
+                "thickness":11
+              },
+              {
+                "horizontal":true,
+                "position":7,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":214,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":359,
+                "thickness":11
+              },
+              {
+                "vertical":true,
+                "position":44,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":193,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":371,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":538,
+                "thickness":14
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"dollar",
+        "unicode":"0024",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":205,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "98 -30",
+                        "110 -30",
+                        "110 12",
+                        "139 14  167 34  167 65 s",
+                        "167 90  153 112  110 124 s",
+                        "78 133  61 146  61 173 s",
+                        "61 198  80 211  106 211 s",
+                        "128 211  140 203  153 188",
+                        "163 197",
+                        "153 211  135 223  111 224",
+                        "111 264",
+                        "99 264",
+                        "99 224",
+                        "69 221  45 202  45 170 s",
+                        "45 138  69 120  101 111 s",
+                        "140 99  151 84  151 64 s",
+                        "151 38  129 25  102 25 s",
+                        "83 25  67 32  49 47",
+                        "41 36",
+                        "59 19  77 13  98 12"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":12,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":211,
+                "thickness":13
+              },
+              {
+                "vertical":true,
+                "position":45,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":98,
+                "thickness":12
+              },
+              {
+                "vertical":true,
+                "position":151,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"percent",
+        "unicode":"0025",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":342,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"elementdata.2",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "102 120 s",
+                        "131 120  160 138  160 181 s",
+                        "160 224  131 242  102 242 s",
+                        "73 242  44 224  44 181 s",
+                        "44 138  73 120 c"
+                      ]
+                    }
+                  ]
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "id":"elementdata.3",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "59 181 s",
+                        "59 215  77 231  102 231 s",
+                        "127 231  145 215  145 181 s",
+                        "145 147  127 131  102 131 s",
+                        "77 131  59 147 c"
+                      ]
+                    }
+                  ]
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "97 -8",
+                        "255 235",
+                        "245 242",
+                        "87 -1"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":"elementdata.2",
+                "transform":{
+                  "xOffset":138,
+                  "yOffset":-128
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.3",
+                "transform":{
+                  "xOffset":138,
+                  "yOffset":-128
+                },
+                "locked":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":11
+              },
+              {
+                "horizontal":true,
+                "position":20,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":103,
+                "thickness":11
+              },
+              {
+                "horizontal":true,
+                "position":120,
+                "thickness":11
+              },
+              {
+                "horizontal":true,
+                "position":231,
+                "thickness":11
+              },
+              {
+                "vertical":true,
+                "position":44,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":145,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":182,
+                "thickness":15
+              },
+              {
+                "vertical":true,
+                "position":283,
+                "thickness":15
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"ampersand",
+        "unicode":"0026",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":484,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "204 216",
+                        "274 260  311 301  311 348 s",
+                        "311 402  267 444  206 444 s",
+                        "149 444  100 410  100 342 s",
+                        "100 298  134 255  179 217",
+                        "101 167  76 131  76 82 s",
+                        "76 23  131 -8  188 -8 s",
+                        "252 -8  289 14  347 68",
+                        "428 0",
+                        "451 0",
+                        "358 80",
+                        "441 160",
+                        "431 169",
+                        "347 89"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "337 78",
+                        "285 25  244 5  194 5 s",
+                        "143 5  93 30  93 85 s",
+                        "93 127  113 158  188 208"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "194 225",
+                        "147 262  117 305  117 345 s",
+                        "117 396  152 431  206 431 s",
+                        "258 431  294 394  294 348 s",
+                        "294 300  254 262 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":21,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":431,
+                "thickness":13
+              },
+              {
+                "vertical":true,
+                "position":76,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":100,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":294,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"parenleft",
+        "unicode":"0028",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":381,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "326 -104",
+                        "205 -13  110 146  110 342 s",
+                        "110 537  205 697  326 788",
+                        "319 798",
+                        "183 694  96 529  96 342 s",
+                        "96 155  183 -10  319 -114"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-114,
+                "thickness":912
+              },
+              {
+                "vertical":true,
+                "position":96,
+                "thickness":14
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"parenright",
+        "unicode":"0029",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":381,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "62 -114",
+                        "198 -10  285 155  285 342 s",
+                        "285 529  198 694  62 798",
+                        "55 788",
+                        "176 697  271 537  271 342 s",
+                        "271 146  176 -13  55 -104"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-114,
+                "thickness":912
+              },
+              {
+                "vertical":true,
+                "position":271,
+                "thickness":14
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"braceleft",
+        "unicode":"007b",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":373,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "169 47 s",
+                        "167 -55  204 -108  317 -114",
+                        "318 -104",
+                        "213 -102  180 -47  182 34 s",
+                        "187 242 s",
+                        "188 299  158 334  108 342",
+                        "158 350  188 385  187 442 s",
+                        "182 650 s",
+                        "180 731  213 785  318 788",
+                        "317 798",
+                        "204 792  167 738  169 637 s",
+                        "174 436 s",
+                        "175 378  138 354  96 348",
+                        "96 336",
+                        "138 330  175 305  174 248 s"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-114,
+                "thickness":10
+              },
+              {
+                "horizontal":true,
+                "position":788,
+                "thickness":10
+              },
+              {
+                "vertical":true,
+                "position":96,
+                "thickness":12
+              },
+              {
+                "vertical":true,
+                "position":171,
+                "thickness":13
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"bar",
+        "unicode":"007c",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":172,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "92 -196",
+                        "92 804",
+                        "80 804",
+                        "80 -196"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-196,
+                "thickness":1000
+              },
+              {
+                "vertical":true,
+                "position":80,
+                "thickness":12
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"braceright",
+        "unicode":"007d",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":373,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "56 -114",
+                        "168 -108  206 -55  204 47 s",
+                        "199 248 s",
+                        "198 305  235 330  277 336",
+                        "277 348",
+                        "235 354  198 378  199 436 s",
+                        "204 637 s",
+                        "206 738  168 792  56 798",
+                        "55 788",
+                        "160 785  193 731  191 650 s",
+                        "186 442 s",
+                        "185 385  215 350  265 342",
+                        "215 334  185 299  186 242 s",
+                        "191 34 s",
+                        "193 -47  160 -102  55 -104"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-114,
+                "thickness":10
+              },
+              {
+                "horizontal":true,
+                "position":788,
+                "thickness":10
+              },
+              {
+                "vertical":true,
+                "position":188,
+                "thickness":13
+              },
+              {
+                "vertical":true,
+                "position":265,
+                "thickness":12
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"bracketleft",
+        "unicode":"005b",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":321,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "121 -104",
+                        "266 -104",
+                        "266 -93",
+                        "133 -93",
+                        "133 777",
+                        "266 777",
+                        "266 788",
+                        "121 788"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-104,
+                "thickness":11
+              },
+              {
+                "horizontal":true,
+                "position":777,
+                "thickness":11
+              },
+              {
+                "vertical":true,
+                "position":121,
+                "thickness":12
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"bracketright",
+        "unicode":"005d",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":321,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "55 -104",
+                        "200 -104",
+                        "200 788",
+                        "55 788",
+                        "55 777",
+                        "188 777",
+                        "188 -93",
+                        "55 -93"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-104,
+                "thickness":11
+              },
+              {
+                "horizontal":true,
+                "position":777,
+                "thickness":11
+              },
+              {
+                "vertical":true,
+                "position":188,
+                "thickness":12
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"quoteleft",
+        "unicode":"2018",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":84,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "35 460",
+                        "43 510  58 580  70 623",
+                        "59 626",
+                        "50 601  26 509  16 463"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":460,
+                "thickness":166
+              },
+              {
+                "vertical":true,
+                "position":16,
+                "thickness":19
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"quoteright",
+        "unicode":"2019",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":84,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "49 626",
+                        "41 576  26 506  14 463",
+                        "25 460",
+                        "34 485  58 577  68 623"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":460,
+                "thickness":166
+              },
+              {
+                "vertical":true,
+                "position":49,
+                "thickness":19
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"quotedblleft",
+        "unicode":"201c",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":134,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"quoteleft"
+                },
+                "locked":true
+              },
+              {
+                "component":{
+                  "glyphName":"quoteleft"
+                },
+                "transform":{
+                  "xOffset":50
+                },
+                "locked":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":460,
+                "thickness":166
+              },
+              {
+                "vertical":true,
+                "position":16,
+                "thickness":19
+              },
+              {
+                "vertical":true,
+                "position":66,
+                "thickness":19
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"quotedblright",
+        "unicode":"201d",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":134,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"quoteright"
+                },
+                "locked":true
+              },
+              {
+                "component":{
+                  "glyphName":"quoteright"
+                },
+                "transform":{
+                  "xOffset":50
+                },
+                "locked":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":460,
+                "thickness":166
+              },
+              {
+                "vertical":true,
+                "position":49,
+                "thickness":19
+              },
+              {
+                "vertical":true,
+                "position":99,
+                "thickness":19
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"underscore",
+        "unicode":"005f",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":500,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "99 -32",
+                        "401 -32",
+                        "401 -21",
+                        "99 -21"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-32,
+                "thickness":11
+              },
+              {
+                "vertical":true,
+                "position":99,
+                "thickness":302
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yen",
+        "unicode":"00a5",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":254,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "49 64",
+                        "119 64",
+                        "119 0",
+                        "135 0",
+                        "135 64",
+                        "205 64",
+                        "205 75",
+                        "135 75",
+                        "135 98",
+                        "139 105",
+                        "205 105",
+                        "205 116",
+                        "146 116",
+                        "218 234",
+                        "201 234",
+                        "128 113",
+                        "54 234",
+                        "36 234",
+                        "108 116",
+                        "49 116",
+                        "49 105",
+                        "115 105",
+                        "119 99",
+                        "119 75",
+                        "49 75"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":75
+              },
+              {
+                "horizontal":true,
+                "position":64,
+                "thickness":11
+              },
+              {
+                "horizontal":true,
+                "position":105,
+                "thickness":11
+              },
+              {
+                "vertical":true,
+                "position":119,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"asciitilde",
+        "unicode":"007e",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":357,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "51 107",
+                        "64 141  85 157  108 157 s",
+                        "135 157  149 146  174 120 s",
+                        "201 92  222 82  250 82 s",
+                        "277 82  305 104  318 140",
+                        "306 145",
+                        "292 111  272 95  249 95 s",
+                        "226 95  208 107  183 132 s",
+                        "158 157  138 170  107 170 s",
+                        "80 170  52 148  39 112"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":82,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":157,
+                "thickness":13
+              },
+              {
+                "vertical":true,
+                "position":39,
+                "thickness":279
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"grave",
+        "unicode":"0060",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":214,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "135 275",
+                        "148 275",
+                        "90 361",
+                        "66 361"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":275,
+                "thickness":86
+              },
+              {
+                "vertical":true,
+                "position":66,
+                "thickness":82
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"_0129",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":500
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "interpolationFlags":0,
+    "openTypeFeatures":[
+      {
+        "feature":"###\n# OpenType Layout feature definitions\n# Format: Adobe FDK for OpenType (AFDKO) version 2.5\n# Generated on: 2021-6-16 7:39\n# Generated by: FontLab 7.1.5\n# Font PostScript name: Penna\n# Font copyright: No Rights Reserved.\n#\n# Totals:\n# Languagesystems: 1\n# GSUB lookups: 0\n# GPOS lookups: 1\n# GPOS features: 1 (kern)\n\n#\n# Languagesystem definitions\n#\n\nlanguagesystem DFLT dflt;\nlanguagesystem latn dflt; # Latin default\n\n\n#\n# Lookup definitions\n#\n\n\n#\n# Feature definitions\n#\n\n"
+      },
+      {
+        "name":"kern",
+        "feature":"feature kern {\n# GPOS feature: Kerning\n# Lookups: 1\n\n  script latn; # Latin\n\n  lookup kern_latn {\n  # GPOS lookup 1, type 2 (Pair adjustment)\n\n    pos r t 7;\n    pos r v 6;\n    pos r y 9;\n    pos T u -114;\n    pos T a -114;\n    pos T n -133;\n    pos T m -133;\n    pos T d -114;\n    pos T o -114;\n    pos T r -133;\n    pos T v -129;\n    pos T y -129;\n    pos T e -114;\n    pos T O -44;\n    pos T A -94;\n    pos T z -133;\n    pos T x -139;\n    pos T C -44;\n    pos T G -44;\n    pos T S -33;\n    pos T J -120;\n    pos L V -113;\n    pos L O -44;\n    pos E A -13;\n    pos F O 44;\n    pos F A -26;\n    pos V a -100;\n    pos V i -78;\n    pos V o -100;\n    pos V e -100;\n    pos V O -31;\n    pos V A -114;\n    pos V J -103;\n    pos O T -44;\n    pos O V -31;\n    pos O A -35;\n    pos O W -20;\n    pos O Z -24;\n    pos O X -29;\n    pos D V -20;\n    pos D A -33;\n    pos U A -29;\n    pos B O 3;\n    pos A v -11;\n    pos A y -6;\n    pos A T -94;\n    pos A w -11;\n    pos A V -114;\n    pos A O -35;\n    pos A U -29;\n    pos A W -71;\n    pos A Y -102;\n    pos A C -35;\n    pos A G -35;\n    pos A Q -35;\n    pos A S -29;\n    pos P a -49;\n    pos P i -14;\n    pos P d -49;\n    pos P q -49;\n    pos P o -63;\n    pos P r -56;\n    pos P g -49;\n    pos P e -63;\n    pos P c -49;\n    pos R O 13;\n    pos R U 14;\n    pos R G 13;\n    pos z y 4;\n    pos W a -78;\n    pos W i -59;\n    pos W o -78;\n    pos W e -78;\n    pos W A -71;\n    pos W J -59;\n    pos Y a -138;\n    pos Y o -138;\n    pos Y A -119;\n    pos Y z -156;\n    pos C O -36;\n    pos C A -35;\n    pos G A -13;\n    pos Q A -35;\n    pos Z O -44;\n    pos slash slash -162;\n    pos K O -41;\n    pos K A -19;\n    pos S A -22;\n    pos X O -29;\n  } kern_latn;\n\n\n} kern;\n\n"
+      }
+    ],
+    "hinting":{
+    },
+    "info":{
+      "tfn":"GG Deco",
+      "sgn":"GG Deco ExtLt",
+      "creationDate":"2011/06/28 06:04:00",
+      "copyright":"No Rights Reserved.",
+      "trademark":"None.",
+      "designer":"Sora Sagano",
+      "designerURL":"http://www.dotcolon.net/",
+      "license":"CC0",
+      "licenseURL":"http://creativecommons.org/publicdomain/zero/1.0/",
+      "manufacturer":"dot colon",
+      "description":"No Rights Reserved.",
+      "vendorID":"pyrs",
+      "versionMajor":1,
+      "versionMinor":0,
+      "version":"0.100",
+      "codepageRange":"0000000000000001",
+      "unicodeRange":"00000000000000000000000000000001",
+      "useTypoMetrics":false,
+      "embedding":"0004"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"7649"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"round"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"ExtraLight",
+          "sgn":"GG Deco ExtLt",
+          "ffn":"GG Deco ExtraLight",
+          "psn":"GGDeco-ExtraLight",
+          "weight_name":"ExtraLight",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":798,
+          "descender":-202,
+          "xHeight":238,
+          "capsHeight":616,
+          "measurement":250,
+          "weight":200,
+          "width":5,
+          "lineGap":150,
+          "safeTop":948,
+          "safeBottom":202,
+          "underlineThickness":50,
+          "underlinePosition":-75,
+          "curveTension":0.552,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "otherData":{
+            "DistanceX":50,
+            "DistanceY":50,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "OS2UseTypoMetrics":0,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":0,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":798,
+            "hhea_descender":-202,
+            "hhea_line_gap":150,
+            "hhea_use_custom":false,
+            "strikeout_position":142,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+            "pairs":{
+              "A":{
+                "C":"-35",
+                "G":"-35",
+                "O":"-35",
+                "Q":"-35",
+                "S":"-29",
+                "T":"-94",
+                "U":"-29",
+                "V":"-114",
+                "W":"-71",
+                "Y":"-102",
+                "v":"-11",
+                "w":"-11",
+                "y":"-6"
+              },
+              "B":{
+                "O":"3"
+              },
+              "C":{
+                "A":"-35",
+                "O":"-36"
+              },
+              "D":{
+                "A":"-33",
+                "V":"-20"
+              },
+              "E":{
+                "A":"-13"
+              },
+              "F":{
+                "A":"-26",
+                "O":"44"
+              },
+              "G":{
+                "A":"-13"
+              },
+              "K":{
+                "A":"-19",
+                "O":"-41"
+              },
+              "L":{
+                "O":"-44",
+                "V":"-113"
+              },
+              "O":{
+                "A":"-35",
+                "T":"-44",
+                "V":"-31",
+                "W":"-20",
+                "X":"-29",
+                "Z":"-24"
+              },
+              "P":{
+                "a":"-49",
+                "c":"-49",
+                "d":"-49",
+                "e":"-63",
+                "g":"-49",
+                "i":"-14",
+                "o":"-63",
+                "q":"-49",
+                "r":"-56"
+              },
+              "Q":{
+                "A":"-35"
+              },
+              "R":{
+                "G":"13",
+                "O":"13",
+                "U":"14"
+              },
+              "S":{
+                "A":"-22"
+              },
+              "T":{
+                "A":"-94",
+                "C":"-44",
+                "G":"-44",
+                "J":"-120",
+                "O":"-44",
+                "S":"-33",
+                "a":"-114",
+                "d":"-114",
+                "e":"-114",
+                "m":"-133",
+                "n":"-133",
+                "o":"-114",
+                "r":"-133",
+                "u":"-114",
+                "v":"-129",
+                "x":"-139",
+                "y":"-129",
+                "z":"-133"
+              },
+              "U":{
+                "A":"-29"
+              },
+              "V":{
+                "A":"-114",
+                "J":"-103",
+                "O":"-31",
+                "a":"-100",
+                "e":"-100",
+                "i":"-78",
+                "o":"-100"
+              },
+              "W":{
+                "A":"-71",
+                "J":"-59",
+                "a":"-78",
+                "e":"-78",
+                "i":"-59",
+                "o":"-78"
+              },
+              "X":{
+                "O":"-29"
+              },
+              "Y":{
+                "A":"-119",
+                "a":"-138",
+                "o":"-138",
+                "z":"-156"
+              },
+              "Z":{
+                "O":"-44"
+              },
+              "r":{
+                "t":"7",
+                "v":"6",
+                "y":"9"
+              },
+              "slash":{
+                "slash":"-162"
+              },
+              "z":{
+                "y":"4"
+              }
+            }
+          },
+          "fontZonesT":[
+            {
+              "position":238,
+              "value":6,
+              "name":"fig"
+            }
+          ],
+          "fontZonesB":[
+            {
+              "position":0,
+              "value":0,
+              "name":"base"
+            },
+            {
+              "position":-168,
+              "value":20,
+              "name":"dsc"
+            }
+          ],
+          "ttZonesT":[
+            {
+              "position":238,
+              "value":6,
+              "name":"fig"
+            }
+          ],
+          "ttZonesB":[
+            {
+              "position":0,
+              "value":0,
+              "name":"base"
+            },
+            {
+              "position":-168,
+              "value":20,
+              "name":"dsc"
+            }
+          ],
+          "measurements":{
+            "STEM_H_X":"16",
+            "STEM_O_X":"17",
+            "STEM_O_H_X":"6.3",
+            "STEM_H_Y":"15",
+            "STEM_O_Y":"15",
+            "STEM_O_H_Y":"0",
+            "stem_h_X":"16",
+            "stem_o_X":"17",
+            "stem_o_h_X":"6.3",
+            "stem_h_Y":"14",
+            "stem_o_Y":"13",
+            "stem_o_h_Y":"-7.1",
+            "Contrast_h_v":"93.8",
+            "Contrast_v_h":"1.07",
+            "COUNTER":"414",
+            "counter":"194",
+            "OVERSHOOT":"8",
+            "overshoot":"6",
+            "ItalicAngle":"0",
+            "Tension":"55",
+            "Ascender":"798",
+            "Descender":"-202",
+            "CapsHeight":"616",
+            "XHeight":"238",
+            "UT":"50",
+            "UP":"-75"
+          }
+        }
+      }
+    ]
+  }
+}

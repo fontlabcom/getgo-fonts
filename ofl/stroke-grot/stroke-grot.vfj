@@ -1,0 +1,6093 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":130,
+    "upm":1000,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "advanceWidth":333
+      },
+      {
+        "name":"space",
+        "unicode":"0020",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":280,
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"A",
+        "unicode":"0041",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":614,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "12 0",
+                        "312 708",
+                        "602 0"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "494 260",
+                        "122 260"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"B",
+        "unicode":"0042",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":636,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "99 350",
+                        "319 350"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "99 0",
+                        "317 0 s",
+                        "442 0  579 28  579 181 s",
+                        "579 329  432 338  319 350",
+                        "428 358  558 377  558 527 s g2",
+                        "558 655  464 700  344 700 s",
+                        "99 700",
+                        "99 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"C",
+        "unicode":"0043",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":676,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "id":"contour",
+                      "open":true,
+                      "nodes":[
+                        "637 168",
+                        "602 35  500 -16  371 -16 s",
+                        "189 -16  56 132  56 335 s",
+                        "56 566  184 716  379 716 s",
+                        "501 716  610 660  637 539"
+                      ]
+                    }
+                  ],
+                  "nodeLinks":[
+                    {
+                      "global":true,
+                      "vertical":true,
+                      "index":3,
+                      "contour":"contour",
+                      "guidelineH":{
+                        "objectType":51,
+                        "name":"bo",
+                        "style":"custom",
+                        "horizontal":true,
+                        "position":-16
+                      },
+                      "constOffset":"0 0.1396"
+                    },
+                    {
+                      "global":true,
+                      "vertical":true,
+                      "index":9,
+                      "contour":"contour",
+                      "guidelineH":{
+                        "objectType":51,
+                        "name":"co",
+                        "style":"custom",
+                        "horizontal":true,
+                        "position":716.393
+                      },
+                      "constOffset":"0 -0.7511"
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"D",
+        "unicode":"0044",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":714,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "99 0",
+                        "99 700",
+                        "278 700 s",
+                        "512 700  657 600  657 348 s",
+                        "657 100  521 0  287 0 s",
+                        "99 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"E",
+        "unicode":"0045",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":599,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "569 0",
+                        "99 0",
+                        "99 700",
+                        "559 700"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "99 360",
+                        "459 360"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"F",
+        "unicode":"0046",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":588,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "99 0",
+                        "99 700",
+                        "569 700"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "99 360",
+                        "469 360"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"G",
+        "unicode":"0047",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":718,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "382 320",
+                        "642 320",
+                        "642 0"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "642 160",
+                        "571 34  509 -16  355 -16 s",
+                        "157 -16  56 177  56 356 s",
+                        "56 556  167 716  377 716 s",
+                        "491 716  615 675  642 540"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"H",
+        "unicode":"0048",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":718,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "99 700",
+                        "99 0"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "619 700",
+                        "619 0"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "99 360",
+                        "619 360"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"I",
+        "unicode":"0049",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":198,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "99 700",
+                        "99 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"J",
+        "unicode":"004a",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":523,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "462 700",
+                        "462 305 s",
+                        "462 65  398 -16  258 -16 s g2",
+                        "134 -16  60 48  60 146 s g2",
+                        "60 171  65 191  73 210"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"K",
+        "unicode":"004b",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":572,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "99 700",
+                        "99 0"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "539 700",
+                        "99 260"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "264 425",
+                        "559 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"L",
+        "unicode":"004c",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":561,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "99 700",
+                        "99 0",
+                        "549 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"M",
+        "unicode":"004d",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":818,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "719 0",
+                        "719 708",
+                        "409 -8",
+                        "99 708",
+                        "99 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"N",
+        "unicode":"004e",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":718,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "619 700",
+                        "619 -8",
+                        "99 708",
+                        "99 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"O",
+        "unicode":"004f",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":757,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "384 -16",
+                        "173 -16  56 136  56 357 s",
+                        "56 551  166 716  384 716 s",
+                        "599 716  701 561  701 357 s",
+                        "701 146  599 -16  384 -16"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"P",
+        "unicode":"0050",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":586,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "99 0",
+                        "99 700",
+                        "320 700 s",
+                        "443 700  553 645  553 507 s",
+                        "553 350  396 320  268 320 s",
+                        "99 320"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"Q",
+        "unicode":"0051",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":751,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "373 -16",
+                        "152 -16  56 162  56 357 s",
+                        "56 555  164 716  373 716 s",
+                        "578 716  695 555  695 357 s",
+                        "695 162  579 -16  373 -16"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "387 -16",
+                        "366 -132  458 -211  560 -211 s g2",
+                        "601 -211  644 -198  679 -180"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"R",
+        "unicode":"0052",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":624,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"R:Regular",
+                  "name":"R",
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "99 0",
+                        "99 700",
+                        "315 700 s",
+                        "435 700  565 666  565 523 s",
+                        "565 428  488 330  389 330 s",
+                        "99 330"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "374 330",
+                        "589 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"S",
+        "unicode":"0053",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":621,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "42 170",
+                        "55 62  172 -16  321 -16 s g2",
+                        "468 -16  575 59  575 186 s g2",
+                        "575 464  62 270  62 540 s g2",
+                        "62 653  151 716  304 716 s g2",
+                        "446 716  537 661  562 560"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"T",
+        "unicode":"0054",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":582,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "11 700",
+                        "571 700"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "291 700",
+                        "291 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"U",
+        "unicode":"0055",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":702,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "91 700",
+                        "91 340 s",
+                        "91 149  107 -16  347 -16 s g2",
+                        "592 -16  611 157  611 340 s",
+                        "611 700"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"V",
+        "unicode":"0056",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":604,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "587 700",
+                        "303 -8",
+                        "17 700"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"W",
+        "unicode":"0057",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":956,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "23 700",
+                        "252 -8",
+                        "483 708",
+                        "698 -8",
+                        "933 700"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"X",
+        "unicode":"0058",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":539,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "42 700",
+                        "522 0"
+                      ]
+                    },
+                    {
+                      "open":true
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "512 700",
+                        "12 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"Y",
+        "unicode":"0059",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":522,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "16 700",
+                        "262 280",
+                        "506 700"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "262 280",
+                        "262 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"Z",
+        "unicode":"005a",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":583,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "29 700",
+                        "529 700",
+                        "22 0",
+                        "559 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"period",
+        "unicode":"002e",
+        "colorFlag":241,
+        "layers":[
+          {
+            "name":"Regular",
+            "colorFlag":241,
+            "advanceWidth":188,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"period:Regular",
+                  "name":"period",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "69 5 s sy",
+                        "69 -9  80 -20  94 -20 s sx",
+                        "108 -20  119 -9  119 5 s sy",
+                        "119 19  108 30  94 30 s sx",
+                        "80 30  69 19 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"a",
+        "unicode":"0061",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":549,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"a:Regular",
+                  "name":"a",
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "58 420",
+                        "78 498  180 530  259 530 s",
+                        "424 530  438 427  438 293 s",
+                        "438 88 s",
+                        "438 45  456 -8  509 -8 s",
+                        "522 -8  536 -5  548 0"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "438 100",
+                        "362 22  320 -8  198 -8 s",
+                        "125 -8  46 31  46 112 s",
+                        "46 260  318 284  438 294"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"b",
+        "unicode":"0062",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":608,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "85 0",
+                        "85 784"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "85 377",
+                        "115 472  191 530  328 530 s",
+                        "473 530  557 426  557 263 s g2",
+                        "557 98  470 -8  311 -8 s g2",
+                        "208 -8  143 36  85 117"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"c",
+        "unicode":"0063",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":547,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"c:Regular",
+                  "name":"c",
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "502 120",
+                        "477 23  391 -20  293 -20 s g2",
+                        "141 -20  51 85  51 247 s",
+                        "51 414  145 530  297 530 s g2",
+                        "380 530  476 495  502 390"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"d",
+        "unicode":"0064",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":618,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "523 770",
+                        "523 140",
+                        "533 0"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "523 140",
+                        "482 51  392 -8  298 -8 s",
+                        "147 -8  51 108  51 265 s",
+                        "51 428  146 530  295 530 s",
+                        "394 530  489 481  523 370"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"e",
+        "unicode":"0065",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":559,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "51 260",
+                        "511 260",
+                        "508 400  458 530  289 530 s g2",
+                        "122 530  51 403  51 264 s",
+                        "51 103  147 -8  291 -8 s g2",
+                        "371 -8  468 26  501 100"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"f",
+        "unicode":"0066",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":330,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "121 0",
+                        "121 574 s",
+                        "121 698  149 779  243 779 s g2",
+                        "278 779  308 768  332 750"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "12 520",
+                        "332 520"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"g",
+        "unicode":"0067",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":519,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "270 -244",
+                        "415 -244  516 -185  516 -98 s g2",
+                        "516 47  238 20  149 20",
+                        "101 0  34 -22  34 -98 s g2",
+                        "34 -187  127 -244  270 -244"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "264 204",
+                        "140 204  59 278  59 371 s g2",
+                        "59 464  140 530  263 530 s g2",
+                        "383 530  473 467  473 367 s g2",
+                        "473 282  408 204  264 204"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "406 491",
+                        "428 554  435 620  519 620"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "149 20",
+                        "92 48  72 72  72 109 s",
+                        "72 164  128 203  212 209"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"h",
+        "unicode":"0068",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":604,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "85 770",
+                        "85 0"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "85 390",
+                        "123 479  212 530  326 530 s g2",
+                        "469 530  525 451  525 279 s",
+                        "525 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"i",
+        "unicode":"0069",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":142,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "71 520",
+                        "71 0"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "id":"dotaccent:Regular",
+                  "name":"dotaccent",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "57 644 s sy",
+                        "57 636  63 630  71 630 s sx",
+                        "79 630  86 636  86 644 s sy",
+                        "86 652  79 658  71 658 s sx",
+                        "63 658  57 652 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"j",
+        "unicode":"006a",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":142,
+            "metricsRight":"i",
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "80 520",
+                        "80 65 s",
+                        "80 -91  85 -244  -43 -244 s",
+                        "-80 -244  -105 -237  -130 -220"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":-8
+                }
+              },
+              {
+                "elementData":"dotaccent:Regular"
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"k",
+        "unicode":"006b",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":487,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "85 770",
+                        "85 0"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "237 310",
+                        "474 -8"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "84 161",
+                        "463 530"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"l",
+        "unicode":"006c",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":234,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "81 770",
+                        "81 157 s",
+                        "81 84  76 -8  177 -8 s",
+                        "193 -8  208 -6  225 -1"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"m",
+        "unicode":"006d",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1024,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "85 520",
+                        "85 230"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "515 370",
+                        "515 0"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "945 0",
+                        "945 258 s",
+                        "945 403  932 530  745 530 s",
+                        "623 530  550 466  515 370",
+                        "495 502  391 530  322 530 s",
+                        "111 530  85 391  85 230 s",
+                        "85 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"n",
+        "unicode":"006e",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":559,
+            "elements":[
+              {
+                "elementData":{
+                  "name":"n",
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "65 0",
+                        "65 268 s",
+                        "65 409  108 530  287 530 s",
+                        "456 530  495 408  495 268 s",
+                        "495 0"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "65 520",
+                        "65 270"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"o",
+        "unicode":"006f",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":654,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"o:Regular",
+                  "name":"o",
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "324 -8",
+                        "153 -8  75 111  75 269 s g2",
+                        "75 427  153 530  330 530 s g2",
+                        "493 530  579 442  579 273 s g2",
+                        "579 93  481 -8  324 -8"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"p",
+        "unicode":"0070",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":616,
+            "elements":[
+              {
+                "elementData":{
+                  "name":"p",
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "85 -240",
+                        "85 520"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "85 377",
+                        "115 472  191 530  328 530 s",
+                        "473 530  557 426  557 263 s",
+                        "557 97  470 -8  310 -8 s",
+                        "208 -8  142 36  85 117"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"q",
+        "unicode":"0071",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":618,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "523 520",
+                        "523 -240"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "523 140",
+                        "482 51  392 -8  298 -8 s",
+                        "147 -8  51 108  51 265 s",
+                        "51 428  146 530  295 530 s",
+                        "394 530  489 481  523 370"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"r",
+        "unicode":"0072",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":342,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "85 0",
+                        "85 520"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "85 390",
+                        "129 487  179 530  261 530 s g2",
+                        "294 530  317 523  335 510"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"s",
+        "unicode":"0073",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":496,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "37 100",
+                        "68 23  142 -8  243 -8 s g2",
+                        "351 -8  449 27  449 129 s g2",
+                        "449 332  57 226  57 403 s g2",
+                        "57 495  163 530  243 530 s g2",
+                        "318 530  436 499  437 410"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"t",
+        "unicode":"0074",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":343,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "120 660",
+                        "120 182 s",
+                        "120 92  126 -8  244 -8 s",
+                        "279 -8  316 4  341 28"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "11 520",
+                        "331 520"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"u",
+        "unicode":"0075",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":584,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"u:Regular",
+                  "name":"u",
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "79 520",
+                        "79 226 s",
+                        "79 108  95 -8  251 -8 s",
+                        "421 -8  499 111  499 266 s",
+                        "499 520"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "499 260",
+                        "499 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"v",
+        "unicode":"0076",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":504,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "22 520",
+                        "252 0",
+                        "482 520"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"w",
+        "unicode":"0077",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":818,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "29 520",
+                        "209 0",
+                        "412 520",
+                        "609 0",
+                        "789 520"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"x",
+        "unicode":"0078",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":479,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "39 520",
+                        "469 0"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "439 520",
+                        "19 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"y",
+        "unicode":"0079",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":498,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "26 520",
+                        "254 0",
+                        "476 520"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "254 0",
+                        "191 -143  164 -234  72 -234 s g2",
+                        "42 -234  15 -224  -4 -200"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"z",
+        "unicode":"007a",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":498,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "52 520",
+                        "441 520",
+                        "41 0",
+                        "471 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"comma",
+        "unicode":"002c",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":159,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "74 36",
+                        "97 33  107 18  107 0 s",
+                        "107 -36  71 -87  44 -94"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"zero",
+        "unicode":"0030",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":618,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "310 -14",
+                        "152 -14  60 148  60 370 s g2",
+                        "60 591  152 713  310 713 s g2",
+                        "468 713  558 591  558 370 s g2",
+                        "558 148  468 -14  310 -14"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"one",
+        "unicode":"0031",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":320,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"one:Regular",
+                  "name":"one",
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "228 0",
+                        "228 708",
+                        "30 540"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"two",
+        "unicode":"0032",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":559,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"two:Regular",
+                  "name":"two",
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "47 500",
+                        "47 623  153 716  273 716 s",
+                        "405 716  479 619  479 494 s",
+                        "479 337  277 191  167 100 s",
+                        "135 74  80 33  58 0",
+                        "517 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"three",
+        "unicode":"0033",
+        "layers":[
+          {
+            "name":"mask",
+            "flags":13,
+            "advanceWidth":534,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "63 580",
+                        "84 672  181 714  267 714 s",
+                        "379 714  457 648  457 556 s",
+                        "457 455  419 397  333 350",
+                        "428 308  475 277  475 166 s",
+                        "475 50  364 -14  259 -14 s",
+                        "174 -14  43 40  43 140"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "233 350",
+                        "303 350"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#608090"
+          },
+          {
+            "name":"Regular",
+            "advanceWidth":534,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"three:Regular",
+                  "name":"three",
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "63 580",
+                        "84 673  154 716  251 716 s g2",
+                        "380 716  445 640  445 537 s g2",
+                        "445 451  399 388  311 360",
+                        "399 342  475 288  475 179 s g2",
+                        "475 48  365 -16  253 -16 s g2",
+                        "149 -16  43 39  43 140"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "233 360",
+                        "311 360"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"four",
+        "unicode":"0034",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":571,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "548 220",
+                        "38 220",
+                        "388 708",
+                        "388 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"five",
+        "unicode":"0035",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":563,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "50 150",
+                        "62 38  166 -16  274 -16 s g2",
+                        "402 -16  514 59  514 201 s g2",
+                        "514 339  408 421  278 421 s",
+                        "170 421  139 396  80 319",
+                        "110 700",
+                        "490 700"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"six",
+        "unicode":"0036",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":561,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "283 -16",
+                        "165 -16  76 72  71 188 s",
+                        "65 320  176 412  293 412 s",
+                        "413 412  512 323  512 200 s",
+                        "512 78  419 -16  283 -16"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "490 600",
+                        "463 677  388 716  311 716 s",
+                        "76 716  58 399  71 189 s"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"seven",
+        "unicode":"0037",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":521,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "22 700",
+                        "512 700",
+                        "368 490  232 262  232 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"eight",
+        "unicode":"0038",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":583,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "348 370",
+                        "228 370"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "290 -16",
+                        "159 -16  55 52  55 177 s",
+                        "55 292  151 337  228 370",
+                        "135 409  86 438  86 552 s",
+                        "86 662  165 716  290 716 s g2",
+                        "422 716  496 655  496 544 s",
+                        "496 441  427 406  348 370",
+                        "417 336  528 291  528 185 s",
+                        "528 54  428 -16  290 -16"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"nine",
+        "unicode":"0039",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":591,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "276 285",
+                        "153 285  57 389  57 504 s",
+                        "57 634  168 716  293 716 s",
+                        "413 716  513 634  513 518 s",
+                        "513 381  415 285  276 285"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "503 578",
+                        "529 516  531 375  531 319 s",
+                        "531 163  466 -16  286 -16 s",
+                        "192 -16  97 37  71 130"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"hyphen",
+        "unicode":"002d",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":226,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "35 280",
+                        "191 280"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"plus",
+        "unicode":"002b",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":630,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "320 570",
+                        "320 80"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "70 330",
+                        "560 330"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"asterisk",
+        "unicode":"002a",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":532,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "266 770",
+                        "266 540",
+                        "486 620"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "46 620",
+                        "266 540"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "266 540",
+                        "136 360"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "266 540",
+                        "396 360"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"asciicircum",
+        "unicode":"005e",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":544,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "37 390",
+                        "267 780",
+                        "507 390"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"slash",
+        "unicode":"002f",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":351,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "315 770",
+                        "35 -80"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"backslash",
+        "unicode":"005c",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":351,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "36 780",
+                        "316 -70"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"semicolon",
+        "unicode":"003b",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":171,
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"less",
+        "unicode":"003c",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":622,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"less:Regular",
+                  "name":"less",
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "551 70",
+                        "91 320",
+                        "551 560"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"equal",
+        "unicode":"003d",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":634,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "87 440",
+                        "547 440"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "87 220",
+                        "547 220"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"greater",
+        "unicode":"003e",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":622,
+            "elements":[
+              {
+                "elementData":"less:Regular",
+                "transform":{
+                  "xScale":-1,
+                  "yScale":-1,
+                  "xOffset":642,
+                  "yOffset":630
+                },
+                "locked":true
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"exclam",
+        "unicode":"0021",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":188,
+            "elements":[
+              {
+                "elementData":{
+                  "name":"exclam",
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "94 700",
+                        "94 180"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":"period:Regular",
+                "locked":true
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"question",
+        "unicode":"003f",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":491,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"elementdata.3",
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "30 540",
+                        "41 652  122 715  248 715 s g2",
+                        "359 715  457 666  457 548 s g2",
+                        "456 412  327 335  240 300",
+                        "240 160"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":"period:Regular",
+                "transform":{
+                  "xOffset":146
+                },
+                "locked":true
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"quotesingle",
+        "unicode":"0027",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":132,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "66 720",
+                        "66 560"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"quotedbl",
+        "unicode":"0022",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":232,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "66 720",
+                        "66 560"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "166 720",
+                        "166 560"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"numbersign",
+        "unicode":"0023",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":666,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "273 700",
+                        "243 480",
+                        "463 480",
+                        "473 470",
+                        "433 220",
+                        "593 220"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "503 700",
+                        "473 480",
+                        "623 480"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "83 480",
+                        "233 480",
+                        "243 470",
+                        "203 220",
+                        "433 220"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "43 220",
+                        "203 220",
+                        "163 -10"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "433 220",
+                        "403 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"at",
+        "unicode":"0040",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1002,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "772 -130",
+                        "704 -184  613 -213  514 -213 s",
+                        "240 -213  54 -24  54 256 s",
+                        "54 532  233 716  500 716 s",
+                        "780 716  943 549  943 260 s",
+                        "943 104  882 -17  802 -17 s",
+                        "751 -17  722 36  722 130 s",
+                        "722 480"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "495 -16",
+                        "346 -16  265 77  265 250 s",
+                        "265 397  359 499  495 499 s",
+                        "634 499  722 402  722 248 s",
+                        "722 100  622 -16  495 -16"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"dollar",
+        "unicode":"0024",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":597,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "288 810",
+                        "288 -107"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "527 550",
+                        "496 649  392 703  290 703 s g2",
+                        "178 703  67 639  67 524 s g2",
+                        "67 404  188 349  305 339 s g2",
+                        "390 332  540 296  540 171 s g2",
+                        "540 48  395 -10  293 -10 s g2",
+                        "190 -10  57 50  57 168"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"percent",
+        "unicode":"0025",
+        "layers":[
+          {
+            "name":"mask",
+            "flags":13,
+            "advanceWidth":805,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "766 179 s g2",
+                        "766 90  711 -4  617 -4 s g2",
+                        "522 -4  474 93  474 177 s g2",
+                        "474 263  524 343  620 343 s g2",
+                        "714 343  766 265 c"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "636 700",
+                        "166 -10"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "177 703 s",
+                        "276 703  327 600  327 513 s",
+                        "327 427  276 347  183 347 s",
+                        "87 347  39 444  39 529 s",
+                        "39 610  85 703 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "766 179 s g2",
+                        "766 90  711 -4  617 -4 s g2",
+                        "522 -4  474 93  474 177 s g2",
+                        "474 263  524 343  620 343 s g2",
+                        "714 343  766 265 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#608090"
+          },
+          {
+            "name":"Regular",
+            "advanceWidth":805,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "636 700",
+                        "166 -10"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "id":"elementdata",
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "323 538",
+                        "323 449  268 356  174 356 s g2",
+                        "79 356  32 453  32 537 s g2",
+                        "32 623  82 703  177 703 s g2",
+                        "272 703  323 624  323 538"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":"elementdata",
+                "transform":{
+                  "xOffset":444,
+                  "yOffset":-360
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"ampersand",
+        "unicode":"0026",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":601,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "538 380",
+                        "538 290  519 160  413 54 s g2",
+                        "399 40  336 -21  245 -21 s g2",
+                        "153 -21  45 41  45 156 s g2",
+                        "45 270  152 314  253 380 s g2",
+                        "299 410  428 489  428 584 s g2",
+                        "428 651  363 704  281 704 s g2",
+                        "198 704  147 649  147 556 s g2",
+                        "147 448  215 398  238 370 s g2",
+                        "458 100 s g2",
+                        "490 60  550 12  608 -20"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"parenleft",
+        "unicode":"0028",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":250,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "241 780",
+                        "97 676  53 483  53 303 s",
+                        "53 92  93 -27  241 -190"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"parenright",
+        "unicode":"0029",
+        "layers":[
+          {
+            "name":"mask",
+            "flags":13,
+            "advanceWidth":250,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "227 784",
+                        "85 678  45 484  48 304 s",
+                        "52 93  94 -26  244 -186"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#608090"
+          },
+          {
+            "name":"Regular",
+            "advanceWidth":250,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "241 780",
+                        "97 676  53 483  53 303 s",
+                        "53 92  93 -27  241 -190"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xScale":-1,
+                  "yScale":-1,
+                  "xOffset":267,
+                  "yOffset":592
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "241 780",
+                        "97 676  53 483  53 303 s",
+                        "53 92  93 -27  241 -190"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xScale":-1,
+                  "yScale":-1,
+                  "xOffset":267,
+                  "yOffset":592
+                },
+                "locked":true
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"braceleft",
+        "unicode":"007b",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":268,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"elementdata.1",
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "8 310",
+                        "58 310 s",
+                        "154 310  136 412  136 501 s",
+                        "136 648 s",
+                        "136 732  148 790  248 790"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":"elementdata.1",
+                "transform":{
+                  "yScale":-1,
+                  "yOffset":620
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"bar",
+        "unicode":"007c",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":152,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "76 780",
+                        "76 -180"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"braceright",
+        "unicode":"007d",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":268,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"elementdata.2",
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "8 310",
+                        "58 310 s",
+                        "154 310  136 412  136 501 s",
+                        "136 648 s",
+                        "136 732  148 790  248 790"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xScale":-1,
+                  "yScale":-1,
+                  "xOffset":256,
+                  "yOffset":620
+                }
+              },
+              {
+                "elementData":"elementdata.2",
+                "transform":{
+                  "xScale":-1,
+                  "xOffset":256
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"bracketleft",
+        "unicode":"005b",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":267,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "256 -180",
+                        "76 -180",
+                        "76 780",
+                        "246 780"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"bracketright",
+        "unicode":"005d",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":277,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "11 780",
+                        "201 780",
+                        "201 -180",
+                        "11 -180"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"quoteleft",
+        "unicode":"2018",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":152,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "86 590",
+                        "56 590",
+                        "54 599  53 607  53 615 s",
+                        "53 654  73 685  106 710"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"quoteright",
+        "unicode":"2019",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":151,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "73 710",
+                        "103 710",
+                        "105 701  106 693  106 685 s",
+                        "106 646  86 615  53 590"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"quotedblleft",
+        "unicode":"201c",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":262,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "86 590",
+                        "56 590",
+                        "54 599  53 607  53 615 s",
+                        "53 654  73 685  106 710"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "86 590",
+                        "56 590",
+                        "54 599  53 607  53 615 s",
+                        "53 654  73 685  106 710"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":100
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"quotedblright",
+        "unicode":"201d",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":264,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "73 710",
+                        "103 710",
+                        "105 701  106 693  106 685 s",
+                        "106 646  86 615  53 590"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "73 710",
+                        "103 710",
+                        "105 701  106 693  106 685 s",
+                        "106 646  86 615  53 590"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":100
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"quotesinglbase",
+        "unicode":"201a",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":178,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "73 710",
+                        "103 710",
+                        "105 701  106 693  106 685 s",
+                        "106 646  86 615  53 590"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "yOffset":-667
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"quotedblbase",
+        "unicode":"201e",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":264,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "73 710",
+                        "103 710",
+                        "105 701  106 693  106 685 s",
+                        "106 646  86 615  53 590"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "yOffset":-667
+                }
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "73 710",
+                        "103 710",
+                        "105 701  106 693  106 685 s",
+                        "106 646  86 615  53 590"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":100,
+                  "yOffset":-667
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"underscore",
+        "unicode":"005f",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":559,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "12 0",
+                        "542 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"endash",
+        "unicode":"2013",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":540,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "19 280",
+                        "519 280"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"emdash",
+        "unicode":"2014",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":893,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "16 280",
+                        "876 280"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"logicalnot",
+        "unicode":"00ac",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":624,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "77 340",
+                        "547 340",
+                        "547 200"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"registered",
+        "unicode":"00ae",
+        "layers":[
+          {
+            "name":"mask",
+            "flags":13,
+            "advanceWidth":850,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "303 150",
+                        "303 540",
+                        "313 540  343 540  363 540 s",
+                        "381 540  407 542  433 542 s",
+                        "502 542  580 528  580 442 s",
+                        "580 388  536 337  473 330",
+                        "473 330",
+                        "493 280",
+                        "583 150"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "303 330",
+                        "473 330"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "426 -10",
+                        "202 -10  56 133  56 359 s g2",
+                        "56 581  196 720  420 720 s g2",
+                        "647 720  787 578  787 354 s g2",
+                        "787 130  648 -10  426 -10"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#608090"
+          },
+          {
+            "name":"Regular",
+            "advanceWidth":850,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "426 -16",
+                        "202 -16  56 128  56 354 s g2",
+                        "56 576  196 716  421 716 s g2",
+                        "647 716  787 574  787 349 s g2",
+                        "787 125  648 -16  426 -16"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":"R:Regular",
+                "transform":{
+                  "xScale":0.5828,
+                  "yScale":0.5543,
+                  "xOffset":246,
+                  "yOffset":152
+                },
+                "locked":true
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"copyright",
+        "unicode":"00a9",
+        "layers":[
+          {
+            "name":"mask",
+            "flags":13,
+            "advanceWidth":843,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "588 280",
+                        "576 213  510 169  424 169 s g2",
+                        "311 169  240 244  240 363 s g2",
+                        "240 483  312 560  425 560 s g2",
+                        "506 560  572 520  588 460"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#608090"
+          },
+          {
+            "name":"Regular",
+            "advanceWidth":843,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "426 -16",
+                        "202 -16  56 128  56 354 s g2",
+                        "56 576  196 716  421 716 s g2",
+                        "647 716  787 574  787 349 s g2",
+                        "787 125  648 -16  426 -16"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":"c:Regular",
+                "transform":{
+                  "xScale":0.7733,
+                  "yScale":0.7023,
+                  "xOffset":201,
+                  "yOffset":183
+                },
+                "locked":true
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"currency",
+        "unicode":"00a4",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":624,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "62 600",
+                        "176 496"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "562 600",
+                        "450 496"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "174 222",
+                        "62 110"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "446 218",
+                        "562 110"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "312 163",
+                        "201 163  128 243  128 360 s g2",
+                        "128 477  202 550  313 550 s g2",
+                        "424 550  497 477  497 361 s g2",
+                        "497 244  424 163  312 163"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"cent",
+        "unicode":"00a2",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":561,
+            "elements":[
+              {
+                "elementData":{
+                  "composite":{
+                    "includes":[
+                      {
+                        "elementData":{
+                          "contours":[
+                            {
+                              "open":true,
+                              "nodes":[
+                                "291.468 640",
+                                "291.468 -110"
+                              ]
+                            },
+                            {
+                              "open":true,
+                              "nodes":[
+                                "511.467 140",
+                                "481.925 37.5338  413.719 -9.2848  293.998 -9.2848 s",
+                                "146.339 -9.2848  56 95.9101  56 260.458 s",
+                                "56 440.835  155.625 547.395  292.051 547.395 s",
+                                "408.133 547.395  476.564 496.326  501.468 410 {r:0}"
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "builder":{
+                      "builderSmartCorner":{
+                        "radius":0.5,
+                        "curvature":0.6,
+                        "inktrapLen":2
+                      }
+                    }
+                  }
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"sterling",
+        "unicode":"00a3",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":599,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "563 110",
+                        "563 42  513 -8  432 -8 s g2",
+                        "302 -8  255 122  129 122 s g2",
+                        "69 122  29 92  29 53 s g2",
+                        "29 11  74 -16  127 -16 s g2",
+                        "222 -16  312 69  312 168 s g2",
+                        "312 301  150 382  150 524 s g2",
+                        "150 631  241 716  355 716 s g2",
+                        "443 716  510 665  531 578"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "473 330",
+                        "103 330"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"yen",
+        "unicode":"00a5",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":588,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "44 700",
+                        "294 280",
+                        "544 700"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "64 280",
+                        "524 280"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "294 280",
+                        "294 0"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "64 150",
+                        "524 150"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"plusminus",
+        "unicode":"00b1",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":634,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "317 650",
+                        "317 110"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "77 390",
+                        "557 390"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "77 -8",
+                        "557 -8"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"brokenbar",
+        "unicode":"00a6",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":166,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "83 780",
+                        "83 400"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "83 200",
+                        "83 -180"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"exclamdown",
+        "unicode":"00a1",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":130,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "65 340",
+                        "65 -170"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":"period:Regular",
+                "transform":{
+                  "xOffset":-27,
+                  "yOffset":510
+                },
+                "locked":true
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"questiondown",
+        "unicode":"00bf",
+        "layers":[
+          {
+            "name":"mask",
+            "flags":13,
+            "advanceWidth":491,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "30 540",
+                        "41 652  122 715  248 715 s g2",
+                        "359 715  457 666  457 548 s g2",
+                        "456 412  327 335  240 300",
+                        "240 160"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "215 5 s sy",
+                        "215 -9  226 -20  240 -20 s sx",
+                        "254 -20  265 -9  265 5 s sy",
+                        "265 19  254 30  240 30 s sx",
+                        "226 30  215 19 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#608090"
+          },
+          {
+            "name":"Regular",
+            "advanceWidth":491,
+            "elements":[
+              {
+                "elementData":{
+                  "composite":{
+                    "includes":[
+                      {
+                        "elementData":"elementdata.3"
+                      },
+                      {
+                        "elementData":"period:Regular",
+                        "transform":{
+                          "xOffset":145.631
+                        },
+                        "locked":true
+                      }
+                    ]
+                  }
+                },
+                "transform":{
+                  "xScale":-1,
+                  "yScale":-1,
+                  "xOffset":493,
+                  "yOffset":520
+                },
+                "locked":true
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"ordfeminine",
+        "unicode":"00aa",
+        "layers":[
+          {
+            "name":"mask",
+            "flags":13,
+            "advanceWidth":369,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "44 640",
+                        "68 681  127 713  184 713 s",
+                        "255 713  298 667  298 599 s",
+                        "298 574  294 547  294 520 s",
+                        "294 418  286 356  149 356 s",
+                        "102 356  34 377  34 434 s",
+                        "34 538  220 560  294 560"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "294 430",
+                        "304 380",
+                        "364 360"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "34 250",
+                        "354 250"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#608090"
+          },
+          {
+            "name":"Regular",
+            "advanceWidth":369,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "34 250",
+                        "354 250"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":"a:Regular",
+                "transform":{
+                  "xScale":0.6544,
+                  "yScale":0.6357,
+                  "xOffset":9,
+                  "yOffset":364
+                },
+                "locked":true
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"ordmasculine",
+        "unicode":"00ba",
+        "layers":[
+          {
+            "name":"mask",
+            "flags":13,
+            "advanceWidth":362,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "151 700",
+                        "159 704  168 706  176 706 s",
+                        "278 706  324 627  324 533 s",
+                        "324 516  323 498  321 480",
+                        "321 390  256 356  177 356 s",
+                        "62 356  38 452  38 548 s",
+                        "38 622  74 683  151 700"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#608090"
+          },
+          {
+            "name":"Regular",
+            "advanceWidth":362,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "41 240",
+                        "321 240"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":"o:Regular",
+                "transform":{
+                  "xScale":0.5708,
+                  "yScale":0.6259,
+                  "xOffset":-3,
+                  "yOffset":368
+                },
+                "locked":true
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"onesuperior",
+        "unicode":"00b9",
+        "layers":[
+          {
+            "name":"mask",
+            "flags":13,
+            "advanceWidth":169,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "150 770",
+                        "20 690"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "150 760",
+                        "150 360"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#608090"
+          },
+          {
+            "name":"Regular",
+            "advanceWidth":320,
+            "elements":[
+              {
+                "elementData":"one:Regular",
+                "transform":{
+                  "xScale":0.66,
+                  "yScale":0.5856,
+                  "xOffset":51,
+                  "yOffset":360
+                },
+                "locked":true
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"twosuperior",
+        "unicode":"00b2",
+        "layers":[
+          {
+            "name":"mask",
+            "flags":13,
+            "advanceWidth":330,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "42 660",
+                        "42 736  111 777  178 777 s",
+                        "247 777  305 734  305 663 s",
+                        "305 625  286 594  262 570",
+                        "212 480  122 440  62 370",
+                        "62 360",
+                        "322 360"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#608090"
+          },
+          {
+            "name":"Regular",
+            "advanceWidth":330,
+            "elements":[
+              {
+                "elementData":"two:Regular",
+                "transform":{
+                  "xScale":0.6007,
+                  "yScale":0.5703,
+                  "xOffset":11,
+                  "yOffset":360
+                },
+                "locked":true
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"threesuperior",
+        "unicode":"00b3",
+        "layers":[
+          {
+            "name":"mask",
+            "flags":13,
+            "advanceWidth":330,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "48 700",
+                        "61 755  109 780  159 780 s",
+                        "219 780  281 744  281 683 s",
+                        "281 638  254 591  208 580",
+                        "208 560",
+                        "228 550  248 550  268 530 s",
+                        "284 514  292 492  292 469 s",
+                        "292 396  231 355  163 355 s",
+                        "107 355  51 382  38 440"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "148 570",
+                        "208 570"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#608090"
+          },
+          {
+            "name":"Regular",
+            "advanceWidth":330,
+            "elements":[
+              {
+                "elementData":"three:Regular",
+                "transform":{
+                  "xScale":0.6082,
+                  "yScale":0.5863,
+                  "xOffset":7,
+                  "yOffset":358
+                },
+                "locked":true
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"mu",
+        "unicode":"00b5",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":590,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "85 278",
+                        "85 -230"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":-6
+                }
+              },
+              {
+                "elementData":"u:Regular",
+                "locked":true
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"paragraph",
+        "unicode":"00b6",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":536,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "285 690",
+                        "285 -110"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "266 267 s",
+                        "138 282  30 366  30 501 s g2",
+                        "30 649  160 700  308 700 s",
+                        "455 700",
+                        "455 -110"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"section",
+        "unicode":"00a7",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":563,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "99 -30",
+                        "125 -86  188 -121  282 -121 s g2",
+                        "405 -121  475 -62  475 19 s g2",
+                        "475 219  49 101  49 319 s g2",
+                        "49 411  126 444  185 454"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "361 139 s",
+                        "442 155  530 184  530 290 s g2",
+                        "530 522  108 337  108 573 s g2",
+                        "108 688  208 716  305 716 s g2",
+                        "363 716  444 706  469 640"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"asciitilde",
+        "unicode":"007e",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":486,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "443 410",
+                        "442 359  399 325  350 325 s g2",
+                        "272 325  214 410  133 410 s g2",
+                        "87 410  43 382  43 330"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"guillemotleft",
+        "unicode":"00ab",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":366,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "196 490",
+                        "46 280",
+                        "186 80"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "316 490",
+                        "176 280",
+                        "316 80"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"guillemotright",
+        "unicode":"00bb",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":372,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "46 480",
+                        "196 280",
+                        "46 70"
+                      ]
+                    },
+                    {
+                      "open":true,
+                      "nodes":[
+                        "176 480",
+                        "326 280",
+                        "176 70"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"dotaccent",
+        "unicode":"02d9",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":94,
+            "elements":[
+              {
+                "elementData":"dotaccent:Regular",
+                "transform":{
+                  "xOffset":-22
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"grave",
+        "unicode":"0060",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":268,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "72 780",
+                        "162 640"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":"cedilla",
+        "unicode":"00b8",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":638,
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":".elm.104",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":347,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "30 290",
+                        "320 290"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":".elm.120",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":117,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "104 780",
+                        "14 630"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":".elm.124",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":362,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "170 710",
+                        "175 711  180 711  185 711",
+                        "257 711  311 645  320 570",
+                        "320 497  252 426  178 426 s",
+                        "101 426  42 501  42 576 s",
+                        "42 667  98 686  170 710"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      },
+      {
+        "name":".elm.125",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":363,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "open":true,
+                      "nodes":[
+                        "25 650",
+                        "335 650"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "color":"#004b96"
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "interpolationFlags":0,
+    "hinting":{
+      "blueScale":0
+    },
+    "info":{
+      "tfn":"GG Stroke Grot OFL",
+      "sgn":"GG Stroke Grot OFL",
+      "creationDate":"2021/06/17 01:28:46",
+      "copyright":"Copyright © 2015 by Wei Huang.  All rights reserved.",
+      "designer":"Wei Huang",
+      "designerURL":"wweeiihhuuaanngg@gmail.com",
+      "license":"This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+      "licenseURL":"http://scripts.sil.org/OFL",
+      "manufacturer":"Wei Huang",
+      "manufacturerURL":"wweeiihhuuaanngg@gmail.com",
+      "description":"Based on Work Sans",
+      "versionMajor":1,
+      "versionMinor":60,
+      "version":"Version 1.060",
+      "codepageRange":"0000000000000000",
+      "unicodeRange":"00000000000000000000000000000000",
+      "embedding":"0000"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"7649"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"round"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"Regular",
+          "sgn":"GG Stroke Grot OFL",
+          "ffn":"GG Stroke Grot OFL Regular",
+          "psn":"GGStrokeGrotOFL-Regular",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":770,
+          "descender":-240,
+          "xHeight":520,
+          "capsHeight":700,
+          "measurement":250,
+          "weight":400,
+          "width":5,
+          "lineGap":100,
+          "safeTop":860,
+          "safeBottom":340,
+          "underlineThickness":50,
+          "underlinePosition":-100,
+          "panose":"0 0 0 0 0 0 0 0 0 0",
+          "guidelines":[
+            {
+              "name":"bo",
+              "style":"custom",
+              "horizontal":true,
+              "position":-16
+            },
+            {
+              "name":"bs",
+              "style":"custom",
+              "horizontal":true,
+              "position":-8
+            },
+            {
+              "name":"co",
+              "style":"custom",
+              "horizontal":true,
+              "position":716
+            },
+            {
+              "name":"ts",
+              "style":"custom",
+              "horizontal":true,
+              "position":708
+            },
+            {
+              "name":"xo",
+              "style":"custom",
+              "horizontal":true,
+              "position":530
+            }
+          ],
+          "otherData":{
+            "DistanceX":100,
+            "DistanceY":100,
+            "HintingMaxH":250,
+            "HintingMaxV":250,
+            "HintingMinH":20,
+            "HintingMinV":20,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":750,
+            "hhea_descender":-240,
+            "hhea_line_gap":100,
+            "hhea_use_custom":false,
+            "strikeout_position":50,
+            "strikeout_size":50,
+            "subscript_x_offset":0,
+            "subscript_x_size":650,
+            "subscript_y_offset":75,
+            "subscript_y_size":600,
+            "superscript_x_offset":0,
+            "superscript_x_size":650,
+            "superscript_y_offset":350,
+            "superscript_y_size":600
+          },
+          "hintingParameters":{
+          },
+          "kerning":{
+            "pairs":{
+              "A":{
+                "quoteleft":"-73",
+                "quoteright":"-83"
+              },
+              "B":{
+                "bracketright":"-38"
+              },
+              "C":{
+                "bracketright":"-35"
+              },
+              "D":{
+                "T":"-50",
+                "bracketright":"-40",
+                "comma":"-40",
+                "parenright":"-34",
+                "period":"-40",
+                "quotedblbase":"-40",
+                "quotesinglbase":"-40",
+                "seven":"-30"
+              },
+              "E":{
+                "c":"-42",
+                "cent":"-42",
+                "d":"-42",
+                "e":"-42",
+                "emdash":"-50",
+                "endash":"-50",
+                "guillemotleft":"-32",
+                "hyphen":"-50",
+                "o":"-42",
+                "q":"-42",
+                "u":"-30",
+                "v":"-39",
+                "w":"-34",
+                "y":"-39"
+              },
+              "F":{
+                "A":"-62",
+                "J":"-108",
+                "a":"-52",
+                "ampersand":"-62",
+                "c":"-46",
+                "cent":"-46",
+                "comma":"-84",
+                "d":"-46",
+                "e":"-46",
+                "emdash":"-46",
+                "endash":"-46",
+                "four":"-29",
+                "g":"-44",
+                "guillemotleft":"-35",
+                "guillemotright":"-39",
+                "hyphen":"-46",
+                "m":"-39",
+                "n":"-39",
+                "o":"-46",
+                "p":"-39",
+                "period":"-84",
+                "q":"-46",
+                "quotedblbase":"-84",
+                "quotesinglbase":"-84",
+                "r":"-39",
+                "s":"-51",
+                "semicolon":"-47",
+                "slash":"-42",
+                "u":"-40",
+                "v":"-43",
+                "w":"-40",
+                "x":"-52",
+                "y":"-43",
+                "z":"-57"
+              },
+              "G":{
+                "bracketright":"-34"
+              },
+              "H":{
+                "bracketright":"-30"
+              },
+              "I":{
+                "bracketright":"-30"
+              },
+              "J":{
+                "bracketright":"-30"
+              },
+              "K":{
+                "c":"-36",
+                "cent":"-36",
+                "d":"-36",
+                "e":"-36",
+                "emdash":"-59",
+                "endash":"-59",
+                "guillemotleft":"-30",
+                "hyphen":"-59",
+                "o":"-36",
+                "q":"-36",
+                "v":"-41",
+                "w":"-31",
+                "y":"-42"
+              },
+              "L":{
+                "C":"-58",
+                "G":"-58",
+                "O":"-58",
+                "Q":"-58",
+                "T":"-149",
+                "U":"-44",
+                "V":"-114",
+                "W":"-94",
+                "Y":"-117",
+                "asterisk":"-146",
+                "backslash":"-59",
+                "bracketright":"-32",
+                "c":"-54",
+                "cent":"-54",
+                "copyright":"-41",
+                "d":"-54",
+                "e":"-54",
+                "emdash":"-116",
+                "endash":"-116",
+                "four":"-46",
+                "guillemotleft":"-56",
+                "hyphen":"-116",
+                "o":"-54",
+                "one":"-44",
+                "ordmasculine":"-88",
+                "q":"-54",
+                "question":"-50",
+                "quotedbl":"-75",
+                "quotedblleft":"-87",
+                "quotedblright":"-86",
+                "quoteleft":"-87",
+                "quoteright":"-86",
+                "quotesingle":"-75",
+                "registered":"-41",
+                "seven":"-45",
+                "t":"-46",
+                "u":"-36",
+                "v":"-109",
+                "w":"-80",
+                "y":"-91"
+              },
+              "M":{
+                "bracketright":"-30"
+              },
+              "N":{
+                "bracketright":"-30"
+              },
+              "O":{
+                "T":"-50",
+                "bracketright":"-40",
+                "comma":"-40",
+                "parenright":"-34",
+                "period":"-40",
+                "quotedblbase":"-40",
+                "quotesinglbase":"-40",
+                "seven":"-30"
+              },
+              "P":{
+                "A":"-35",
+                "J":"-85",
+                "bracketright":"-36",
+                "comma":"-84",
+                "emdash":"-37",
+                "endash":"-37",
+                "hyphen":"-37",
+                "period":"-84",
+                "quotedblbase":"-84",
+                "quotesinglbase":"-84",
+                "slash":"-34"
+              },
+              "Q":{
+                "T":"-50",
+                "bracketright":"-40",
+                "comma":"-40",
+                "parenright":"-34",
+                "period":"-40",
+                "quotedblbase":"-40",
+                "quotesinglbase":"-40",
+                "seven":"-30"
+              },
+              "R":{
+                "bracketright":"-33",
+                "emdash":"-36",
+                "endash":"-36",
+                "hyphen":"-36"
+              },
+              "S":{
+                "T":"-30",
+                "bracketright":"-33"
+              },
+              "T":{
+                "A":"-100",
+                "C":"-50",
+                "G":"-50",
+                "J":"-104",
+                "O":"-50",
+                "Q":"-50",
+                "a":"-109",
+                "ampersand":"-74",
+                "asterisk":"-45",
+                "at":"-57",
+                "b":"-30",
+                "c":"-115",
+                "cent":"-115",
+                "comma":"-84",
+                "copyright":"-37",
+                "d":"-115",
+                "e":"-115",
+                "emdash":"-89",
+                "endash":"-89",
+                "f":"-52",
+                "four":"-64",
+                "g":"-116",
+                "guillemotleft":"-100",
+                "guillemotright":"-73",
+                "h":"-30",
+                "hyphen":"-89",
+                "k":"-30",
+                "m":"-105",
+                "n":"-105",
+                "o":"-115",
+                "p":"-105",
+                "period":"-84",
+                "q":"-115",
+                "quotedblbase":"-84",
+                "quotesinglbase":"-84",
+                "r":"-105",
+                "registered":"-37",
+                "s":"-109",
+                "semicolon":"-78",
+                "slash":"-50",
+                "t":"-53",
+                "u":"-101",
+                "v":"-83",
+                "w":"-76",
+                "x":"-74",
+                "y":"-83",
+                "z":"-97"
+              },
+              "U":{
+                "bracketright":"-30",
+                "comma":"-29",
+                "period":"-29",
+                "quotedblbase":"-29",
+                "quotesinglbase":"-29"
+              },
+              "V":{
+                "A":"-45",
+                "J":"-61",
+                "a":"-50",
+                "ampersand":"-55",
+                "c":"-43",
+                "cent":"-43",
+                "comma":"-64",
+                "d":"-43",
+                "e":"-43",
+                "emdash":"-49",
+                "endash":"-49",
+                "four":"-35",
+                "g":"-41",
+                "guillemotleft":"-42",
+                "hyphen":"-49",
+                "m":"-30",
+                "n":"-30",
+                "o":"-43",
+                "p":"-30",
+                "period":"-64",
+                "q":"-43",
+                "quotedblbase":"-64",
+                "quotesinglbase":"-64",
+                "r":"-30",
+                "s":"-44",
+                "slash":"-47",
+                "space":"-40",
+                "u":"-31"
+              },
+              "W":{
+                "A":"-35",
+                "J":"-36",
+                "a":"-35",
+                "ampersand":"-38",
+                "c":"-35",
+                "cent":"-35",
+                "comma":"-62",
+                "d":"-35",
+                "e":"-35",
+                "emdash":"-36",
+                "endash":"-36",
+                "g":"-35",
+                "guillemotleft":"-32",
+                "hyphen":"-36",
+                "o":"-35",
+                "period":"-62",
+                "q":"-35",
+                "quotedblbase":"-62",
+                "quotesinglbase":"-62",
+                "s":"-35",
+                "slash":"-39",
+                "space":"-36"
+              },
+              "X":{
+                "c":"-34",
+                "cent":"-34",
+                "d":"-34",
+                "e":"-34",
+                "emdash":"-58",
+                "endash":"-58",
+                "guillemotleft":"-30",
+                "hyphen":"-58",
+                "o":"-34",
+                "q":"-34",
+                "v":"-34",
+                "y":"-34"
+              },
+              "Y":{
+                "A":"-70",
+                "J":"-73",
+                "a":"-66",
+                "ampersand":"-73",
+                "at":"-39",
+                "c":"-63",
+                "cent":"-63",
+                "comma":"-74",
+                "d":"-63",
+                "e":"-63",
+                "emdash":"-77",
+                "endash":"-77",
+                "four":"-54",
+                "g":"-63",
+                "guillemotleft":"-64",
+                "guillemotright":"-38",
+                "hyphen":"-77",
+                "m":"-51",
+                "n":"-51",
+                "o":"-63",
+                "p":"-51",
+                "period":"-74",
+                "q":"-63",
+                "quotedblbase":"-74",
+                "quotesinglbase":"-74",
+                "r":"-51",
+                "s":"-66",
+                "semicolon":"-30",
+                "slash":"-55",
+                "space":"-32",
+                "u":"-46",
+                "v":"-33",
+                "w":"-31",
+                "y":"-33",
+                "z":"-30"
+              },
+              "Z":{
+                "ampersand":"-50",
+                "c":"-34",
+                "cent":"-34",
+                "d":"-34",
+                "e":"-34",
+                "emdash":"-74",
+                "endash":"-74",
+                "guillemotleft":"-38",
+                "hyphen":"-74",
+                "o":"-34",
+                "q":"-34",
+                "v":"-40",
+                "w":"-35",
+                "y":"-40"
+              },
+              "ampersand":{
+                "T":"-103",
+                "V":"-34",
+                "Y":"-43",
+                "Z":"30",
+                "quotedbl":"-42",
+                "quotedblright":"-43",
+                "quoteright":"-43",
+                "quotesingle":"-42",
+                "seven":"-80"
+              },
+              "asterisk":{
+                "A":"-64",
+                "J":"-87",
+                "T":"-45"
+              },
+              "at":{
+                "T":"-51",
+                "Y":"-37",
+                "seven":"-70"
+              },
+              "b":{
+                "T":"-115",
+                "V":"-43",
+                "W":"-35",
+                "X":"-30",
+                "Y":"-63",
+                "Z":"-34",
+                "backslash":"-30",
+                "bracketright":"-48",
+                "parenright":"-43",
+                "quotedbl":"-34",
+                "quotedblright":"-36",
+                "quoteright":"-36",
+                "quotesingle":"-34"
+              },
+              "backslash":{
+                "T":"-51",
+                "V":"-47",
+                "W":"-39",
+                "Y":"-55",
+                "backslash":"-124",
+                "one":"-32",
+                "quotedbl":"-52",
+                "quotedblright":"-52",
+                "quoteright":"-52",
+                "quotesingle":"-52",
+                "seven":"-41",
+                "v":"-32",
+                "y":"-30"
+              },
+              "braceleft":{
+                "j":"60"
+              },
+              "bracketleft":{
+                "A":"-37",
+                "B":"-30",
+                "C":"-40",
+                "D":"-30",
+                "E":"-30",
+                "F":"-30",
+                "G":"-40",
+                "H":"-30",
+                "I":"-30",
+                "J":"-40",
+                "K":"-30",
+                "L":"-30",
+                "M":"-30",
+                "N":"-30",
+                "O":"-40",
+                "P":"-30",
+                "Q":"-40",
+                "R":"-30",
+                "S":"-34",
+                "U":"-30",
+                "a":"-45",
+                "c":"-48",
+                "cent":"-48",
+                "d":"-48",
+                "e":"-48",
+                "eight":"-36",
+                "four":"-40",
+                "i":"-29",
+                "j":"50",
+                "m":"-42",
+                "n":"-42",
+                "nine":"-33",
+                "o":"-48",
+                "one":"-34",
+                "p":"-42",
+                "q":"-48",
+                "r":"-42",
+                "s":"-45",
+                "six":"-38",
+                "t":"-37",
+                "three":"-33",
+                "two":"-29",
+                "u":"-44",
+                "v":"-46",
+                "w":"-42",
+                "x":"-36",
+                "z":"-35",
+                "zero":"-37"
+              },
+              "c":{
+                "T":"-107",
+                "V":"-42",
+                "Y":"-68",
+                "bracketright":"-46",
+                "parenright":"-38",
+                "quotedblleft":"-30",
+                "quoteleft":"-30"
+              },
+              "comma":{
+                "A":"30",
+                "C":"-40",
+                "G":"-40",
+                "O":"-40",
+                "Q":"-40",
+                "T":"-84",
+                "U":"-29",
+                "V":"-64",
+                "W":"-62",
+                "X":"30",
+                "Y":"-74",
+                "asterisk":"-40",
+                "emdash":"-70",
+                "endash":"-70",
+                "four":"-31",
+                "hyphen":"-70",
+                "j":"40",
+                "one":"-47",
+                "ordfeminine":"-30",
+                "ordmasculine":"-30",
+                "quotedbl":"-75",
+                "quotedblleft":"-84",
+                "quotedblright":"-84",
+                "quoteleft":"-84",
+                "quoteright":"-84",
+                "quotesingle":"-75",
+                "seven":"-47",
+                "t":"-30",
+                "v":"-72",
+                "w":"-56",
+                "y":"-73"
+              },
+              "d":{
+                "T":"-30"
+              },
+              "e":{
+                "T":"-110",
+                "V":"-46",
+                "W":"-39",
+                "Y":"-75",
+                "bracketright":"-46",
+                "parenright":"-39",
+                "quotedbl":"-30",
+                "quotedblleft":"-34",
+                "quotedblright":"-32",
+                "quoteleft":"-34",
+                "quoteright":"-32",
+                "quotesingle":"-30"
+              },
+              "eight":{
+                "bracketright":"-35"
+              },
+              "emdash":{
+                "J":"-47",
+                "T":"-89",
+                "V":"-49",
+                "W":"-36",
+                "X":"-57",
+                "Y":"-77",
+                "Z":"-63",
+                "comma":"-100",
+                "one":"-43",
+                "period":"-100",
+                "quotedbl":"-75",
+                "quotedblbase":"-100",
+                "quotedblright":"-86",
+                "quoteright":"-86",
+                "quotesinglbase":"-100",
+                "quotesingle":"-75",
+                "seven":"-61",
+                "two":"-44",
+                "x":"-55",
+                "z":"-59"
+              },
+              "endash":{
+                "J":"-47",
+                "T":"-89",
+                "V":"-49",
+                "W":"-36",
+                "X":"-57",
+                "Y":"-77",
+                "Z":"-63",
+                "comma":"-100",
+                "one":"-43",
+                "period":"-100",
+                "quotedbl":"-75",
+                "quotedblbase":"-100",
+                "quotedblright":"-86",
+                "quoteright":"-86",
+                "quotesinglbase":"-100",
+                "quotesingle":"-75",
+                "seven":"-61",
+                "two":"-44",
+                "x":"-55",
+                "z":"-59"
+              },
+              "equal":{
+                "seven":"-36"
+              },
+              "exclamdown":{
+                "T":"-68"
+              },
+              "f":{
+                "A":"-44",
+                "J":"-73",
+                "T":"-82",
+                "Y":"-34",
+                "Z":"-40",
+                "a":"-31",
+                "ampersand":"-31",
+                "c":"-30",
+                "cent":"-30",
+                "comma":"-61",
+                "d":"-30",
+                "e":"-30",
+                "emdash":"-60",
+                "endash":"-60",
+                "f":"-30",
+                "guillemotleft":"-43",
+                "hyphen":"-60",
+                "o":"-30",
+                "period":"-61",
+                "q":"-30",
+                "quotedblbase":"-61",
+                "quotesinglbase":"-61",
+                "slash":"-29",
+                "space":"-33",
+                "t":"-40"
+              },
+              "four":{
+                "Y":"-35",
+                "bracketright":"-35",
+                "comma":"-30",
+                "parenright":"-33",
+                "period":"-30",
+                "quotedbl":"-61",
+                "quotedblbase":"-30",
+                "quotedblleft":"-70",
+                "quotedblright":"-70",
+                "quoteleft":"-70",
+                "quoteright":"-70",
+                "quotesinglbase":"-30",
+                "quotesingle":"-61"
+              },
+              "g":{
+                "T":"-30",
+                "j":"29",
+                "quotedblleft":"29",
+                "quoteleft":"29",
+                "underscore":"40"
+              },
+              "guillemotleft":{
+                "T":"-73",
+                "Y":"-38"
+              },
+              "guillemotright":{
+                "T":"-100",
+                "V":"-42",
+                "W":"-32",
+                "X":"-29",
+                "Y":"-64",
+                "Z":"-32",
+                "quotedbl":"-75",
+                "quotedblright":"-78",
+                "quoteright":"-78",
+                "quotesingle":"-75",
+                "x":"-29",
+                "z":"-29"
+              },
+              "h":{
+                "T":"-121",
+                "V":"-38",
+                "Y":"-59",
+                "bracketright":"-44",
+                "parenright":"-33",
+                "quotedblleft":"-30",
+                "quotedblright":"-29",
+                "quoteleft":"-30",
+                "quoteright":"-29"
+              },
+              "hyphen":{
+                "J":"-47",
+                "T":"-89",
+                "V":"-49",
+                "W":"-36",
+                "X":"-57",
+                "Y":"-77",
+                "Z":"-63",
+                "comma":"-100",
+                "one":"-43",
+                "period":"-100",
+                "quotedbl":"-75",
+                "quotedblbase":"-100",
+                "quotedblright":"-86",
+                "quoteright":"-86",
+                "quotesinglbase":"-100",
+                "quotesingle":"-75",
+                "seven":"-61",
+                "two":"-44",
+                "x":"-55",
+                "z":"-59"
+              },
+              "i":{
+                "bracketright":"-29"
+              },
+              "j":{
+                "bracketright":"-29"
+              },
+              "k":{
+                "T":"-69",
+                "bracketright":"-36",
+                "emdash":"-61",
+                "endash":"-61",
+                "guillemotleft":"-29",
+                "hyphen":"-61",
+                "quotedblleft":"30",
+                "quotedblright":"30",
+                "quoteleft":"30",
+                "quoteright":"30"
+              },
+              "l":{
+                "T":"-61",
+                "V":"-33",
+                "Y":"-40",
+                "emdash":"-44",
+                "endash":"-44",
+                "hyphen":"-44",
+                "ordmasculine":"-32",
+                "quotedblleft":"-30",
+                "quotedblright":"-50",
+                "quoteleft":"-30",
+                "quoteright":"-50"
+              },
+              "m":{
+                "T":"-121",
+                "V":"-38",
+                "Y":"-59",
+                "bracketright":"-44",
+                "parenright":"-33",
+                "quotedblleft":"-30",
+                "quotedblright":"-29",
+                "quoteleft":"-30",
+                "quoteright":"-29"
+              },
+              "n":{
+                "T":"-121",
+                "V":"-38",
+                "Y":"-59",
+                "bracketright":"-44",
+                "parenright":"-33",
+                "quotedblleft":"-30",
+                "quotedblright":"-29",
+                "quoteleft":"-30",
+                "quoteright":"-29"
+              },
+              "nine":{
+                "bracketright":"-37",
+                "parenright":"-31",
+                "quotedblleft":"-30",
+                "quoteleft":"-30"
+              },
+              "o":{
+                "T":"-115",
+                "V":"-43",
+                "W":"-35",
+                "X":"-30",
+                "Y":"-63",
+                "Z":"-34",
+                "backslash":"-30",
+                "bracketright":"-48",
+                "parenright":"-43",
+                "quotedbl":"-34",
+                "quotedblright":"-36",
+                "quoteright":"-36",
+                "quotesingle":"-34"
+              },
+              "p":{
+                "T":"-115",
+                "V":"-43",
+                "W":"-35",
+                "X":"-30",
+                "Y":"-63",
+                "Z":"-34",
+                "backslash":"-30",
+                "bracketright":"-48",
+                "parenright":"-43",
+                "quotedbl":"-42",
+                "quotedblleft":"-49",
+                "quotedblright":"-43",
+                "quoteleft":"-49",
+                "quoteright":"-43",
+                "quotesingle":"-42"
+              },
+              "parenleft":{
+                "C":"-34",
+                "G":"-34",
+                "J":"-32",
+                "O":"-34",
+                "Q":"-34",
+                "a":"-35",
+                "c":"-43",
+                "cent":"-43",
+                "d":"-43",
+                "e":"-43",
+                "four":"-40",
+                "j":"60",
+                "m":"-30",
+                "n":"-30",
+                "o":"-43",
+                "p":"-30",
+                "q":"-43",
+                "r":"-30",
+                "s":"-36",
+                "six":"-32",
+                "u":"-36",
+                "v":"-37",
+                "w":"-33",
+                "zero":"-31"
+              },
+              "period":{
+                "A":"30",
+                "C":"-40",
+                "G":"-40",
+                "O":"-40",
+                "Q":"-40",
+                "T":"-84",
+                "U":"-29",
+                "V":"-64",
+                "W":"-62",
+                "X":"30",
+                "Y":"-74",
+                "asterisk":"-40",
+                "emdash":"-70",
+                "endash":"-70",
+                "four":"-31",
+                "hyphen":"-70",
+                "j":"40",
+                "one":"-47",
+                "ordfeminine":"-30",
+                "ordmasculine":"-30",
+                "quotedbl":"-75",
+                "quotedblleft":"-84",
+                "quotedblright":"-84",
+                "quoteleft":"-84",
+                "quoteright":"-84",
+                "quotesingle":"-75",
+                "seven":"-47",
+                "t":"-30",
+                "v":"-72",
+                "w":"-56",
+                "y":"-73"
+              },
+              "plus":{
+                "seven":"-66",
+                "three":"-34"
+              },
+              "q":{
+                "T":"-105",
+                "V":"-30",
+                "Y":"-51",
+                "bracketright":"-42",
+                "parenright":"-30",
+                "question":"-50"
+              },
+              "questiondown":{
+                "C":"-39",
+                "G":"-39",
+                "O":"-39",
+                "Q":"-39",
+                "T":"-80",
+                "U":"-33",
+                "V":"-64",
+                "W":"-55",
+                "Y":"-68",
+                "v":"-51",
+                "w":"-42"
+              },
+              "quotedbl":{
+                "A":"-75",
+                "J":"-75",
+                "at":"-30",
+                "c":"-34",
+                "cent":"-34",
+                "comma":"-75",
+                "d":"-34",
+                "e":"-34",
+                "emdash":"-75",
+                "endash":"-75",
+                "four":"-88",
+                "g":"-33",
+                "guillemotleft":"-75",
+                "guillemotright":"-48",
+                "hyphen":"-75",
+                "o":"-34",
+                "period":"-75",
+                "q":"-42",
+                "questiondown":"-110",
+                "quotedblbase":"-75",
+                "quotesinglbase":"-75",
+                "slash":"-52"
+              },
+              "quotedblbase":{
+                "A":"30",
+                "C":"-40",
+                "G":"-40",
+                "O":"-40",
+                "Q":"-40",
+                "T":"-84",
+                "V":"-174",
+                "W":"-132",
+                "X":"30",
+                "Y":"-154",
+                "asterisk":"-40",
+                "emdash":"-70",
+                "endash":"-70",
+                "four":"-31",
+                "hyphen":"-70",
+                "i":"40",
+                "j":"40",
+                "one":"-47",
+                "ordfeminine":"-30",
+                "ordmasculine":"-30",
+                "quotedbl":"-75",
+                "quotedblleft":"-84",
+                "quotedblright":"-84",
+                "quoteleft":"-84",
+                "quoteright":"-84",
+                "quotesingle":"-75",
+                "seven":"-47",
+                "t":"-30",
+                "v":"-72",
+                "w":"-56",
+                "y":"-73"
+              },
+              "quotedblleft":{
+                "A":"-113",
+                "J":"-87",
+                "a":"-31",
+                "c":"-39",
+                "cent":"-39",
+                "comma":"-84",
+                "d":"-39",
+                "e":"-39",
+                "four":"-90",
+                "g":"-40",
+                "o":"-39",
+                "period":"-84",
+                "q":"-49",
+                "questiondown":"-110",
+                "quotedblbase":"-84",
+                "quotesinglbase":"-84",
+                "s":"-47",
+                "six":"-50",
+                "two":"30"
+              },
+              "quotedblright":{
+                "A":"-113",
+                "J":"-86",
+                "a":"-32",
+                "at":"-36",
+                "c":"-31",
+                "cent":"-31",
+                "comma":"-84",
+                "d":"-31",
+                "e":"-31",
+                "emdash":"-86",
+                "endash":"-86",
+                "four":"-90",
+                "g":"-41",
+                "guillemotleft":"-86",
+                "guillemotright":"-57",
+                "hyphen":"-86",
+                "o":"-31",
+                "period":"-84",
+                "q":"-51",
+                "quotedblbase":"-84",
+                "quotesinglbase":"-84",
+                "s":"-65",
+                "seven":"30",
+                "six":"-50",
+                "slash":"-53",
+                "two":"30"
+              },
+              "quoteleft":{
+                "A":"-73",
+                "J":"-87",
+                "a":"-31",
+                "c":"-39",
+                "cent":"-39",
+                "comma":"-84",
+                "d":"-39",
+                "e":"-39",
+                "four":"-90",
+                "g":"-40",
+                "o":"-39",
+                "period":"-84",
+                "q":"-49",
+                "questiondown":"-110",
+                "quotedblbase":"-84",
+                "quotesinglbase":"-84",
+                "s":"-47",
+                "six":"-50",
+                "two":"30"
+              },
+              "quoteright":{
+                "A":"-73",
+                "J":"-86",
+                "a":"-32",
+                "at":"-36",
+                "c":"-31",
+                "cent":"-31",
+                "comma":"-84",
+                "d":"-31",
+                "e":"-31",
+                "emdash":"-86",
+                "endash":"-86",
+                "four":"-90",
+                "g":"-41",
+                "guillemotleft":"-86",
+                "guillemotright":"-57",
+                "hyphen":"-86",
+                "o":"-31",
+                "period":"-84",
+                "q":"-51",
+                "quotedblbase":"-84",
+                "quotesinglbase":"-84",
+                "s":"-65",
+                "seven":"30",
+                "six":"-50",
+                "slash":"-53",
+                "two":"30"
+              },
+              "quotesinglbase":{
+                "A":"30",
+                "C":"-40",
+                "G":"-40",
+                "O":"-40",
+                "Q":"-40",
+                "T":"-84",
+                "U":"-29",
+                "V":"-154",
+                "W":"-112",
+                "X":"30",
+                "Y":"-134",
+                "asterisk":"-40",
+                "emdash":"-70",
+                "endash":"-70",
+                "four":"-31",
+                "hyphen":"-70",
+                "i":"40",
+                "j":"40",
+                "one":"-47",
+                "ordfeminine":"-30",
+                "ordmasculine":"-30",
+                "quotedbl":"-75",
+                "quotedblleft":"-84",
+                "quotedblright":"-84",
+                "quoteleft":"-84",
+                "quoteright":"-84",
+                "quotesingle":"-75",
+                "seven":"-47",
+                "t":"-30",
+                "v":"-72",
+                "w":"-56",
+                "y":"-73"
+              },
+              "quotesingle":{
+                "A":"-75",
+                "J":"-75",
+                "at":"-30",
+                "c":"-34",
+                "cent":"-34",
+                "comma":"-75",
+                "d":"-34",
+                "e":"-34",
+                "emdash":"-75",
+                "endash":"-75",
+                "four":"-88",
+                "g":"-33",
+                "guillemotleft":"-75",
+                "guillemotright":"-48",
+                "hyphen":"-75",
+                "o":"-34",
+                "period":"-75",
+                "q":"-42",
+                "questiondown":"-110",
+                "quotedblbase":"-75",
+                "quotesinglbase":"-75",
+                "slash":"-52"
+              },
+              "r":{
+                "A":"-53",
+                "J":"-83",
+                "T":"-90",
+                "X":"-38",
+                "Y":"-46",
+                "Z":"-48",
+                "bracketright":"-42",
+                "c":"-32",
+                "cent":"-32",
+                "comma":"-82",
+                "d":"-32",
+                "e":"-32",
+                "emdash":"-80",
+                "endash":"-80",
+                "guillemotleft":"-53",
+                "hyphen":"-80",
+                "o":"-32",
+                "parenright":"-32",
+                "period":"-82",
+                "q":"-32",
+                "quotedblbase":"-82",
+                "quotedblright":"30",
+                "quoteright":"30",
+                "quotesinglbase":"-82",
+                "slash":"-37"
+              },
+              "s":{
+                "T":"-110",
+                "V":"-42",
+                "W":"-30",
+                "Y":"-60",
+                "bracketright":"-45",
+                "parenright":"-36",
+                "question":"-30",
+                "quotedblleft":"-36",
+                "quotedblright":"-60",
+                "quoteleft":"-36",
+                "quoteright":"-60"
+              },
+              "seven":{
+                "A":"-59",
+                "J":"-65",
+                "ampersand":"-80",
+                "c":"-70",
+                "cent":"-70",
+                "comma":"-67",
+                "d":"-70",
+                "e":"-70",
+                "emdash":"-52",
+                "endash":"-52",
+                "four":"-51",
+                "hyphen":"-52",
+                "numbersign":"-31",
+                "o":"-70",
+                "period":"-67",
+                "plus":"-44",
+                "q":"-70",
+                "quotedbl":"50",
+                "quotedblbase":"-67",
+                "quotedblleft":"60",
+                "quotedblright":"50",
+                "quoteleft":"60",
+                "quoteright":"50",
+                "quotesinglbase":"-67",
+                "quotesingle":"50",
+                "slash":"-50"
+              },
+              "six":{
+                "bracketright":"-31"
+              },
+              "slash":{
+                "A":"-46",
+                "J":"-42",
+                "c":"-30",
+                "cent":"-30",
+                "d":"-30",
+                "e":"-30",
+                "four":"-31",
+                "o":"-30",
+                "q":"-30",
+                "slash":"-124"
+              },
+              "space":{
+                "V":"-40",
+                "W":"-36",
+                "seven":"-30"
+              },
+              "t":{
+                "T":"-81"
+              },
+              "three":{
+                "bracketright":"-34"
+              },
+              "u":{
+                "T":"-105",
+                "V":"-30",
+                "Y":"-51",
+                "bracketright":"-42",
+                "parenright":"-30",
+                "question":"-50"
+              },
+              "underscore":{
+                "g":"40"
+              },
+              "v":{
+                "J":"-45",
+                "T":"-83",
+                "X":"-34",
+                "Y":"-33",
+                "Z":"-47",
+                "bracketright":"-46",
+                "comma":"-72",
+                "parenright":"-37",
+                "period":"-72",
+                "quotedblbase":"-72",
+                "quotesinglbase":"-72",
+                "slash":"-32"
+              },
+              "w":{
+                "J":"-32",
+                "T":"-76",
+                "Y":"-31",
+                "Z":"-37",
+                "bracketright":"-42",
+                "comma":"-56",
+                "parenright":"-33",
+                "period":"-56",
+                "quotedblbase":"-56",
+                "quotesinglbase":"-56"
+              },
+              "x":{
+                "T":"-74",
+                "Y":"-36",
+                "bracketright":"-36",
+                "emdash":"-57",
+                "endash":"-57",
+                "guillemotleft":"-29",
+                "hyphen":"-57"
+              },
+              "y":{
+                "J":"-45",
+                "T":"-83",
+                "X":"-34",
+                "Y":"-33",
+                "Z":"-47",
+                "bracketright":"-46",
+                "comma":"-72",
+                "parenright":"-37",
+                "period":"-72",
+                "quotedblbase":"-72",
+                "quotesinglbase":"-72",
+                "slash":"-32"
+              },
+              "z":{
+                "T":"-97",
+                "Y":"-39",
+                "bracketright":"-35",
+                "emdash":"-57",
+                "endash":"-57",
+                "guillemotleft":"-29",
+                "hyphen":"-57"
+              },
+              "zero":{
+                "bracketright":"-37",
+                "parenright":"-31"
+              }
+            }
+          },
+          "measurements":{
+            "OVERSHOOT":"16",
+            "overshoot":"10",
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"770",
+            "Descender":"-240",
+            "CapsHeight":"700",
+            "XHeight":"520",
+            "UT":"50",
+            "UP":"-100"
+          }
+        }
+      }
+    ]
+  }
+}

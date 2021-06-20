@@ -1,6 +1,7 @@
-# GetGo Baar
+# GetGo Stroke Grot
 
-GetGo Baar is a modular narrow display font.
+GetGo Stroke Grot is a single-stroke design.
+
 It contains a basic Latin glyph set.
 
 

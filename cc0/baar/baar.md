@@ -1,6 +1,7 @@
 # GetGo Baar
 
 GetGo Baar is a modular narrow display font.
+
 It contains a basic Latin glyph set.
 
 

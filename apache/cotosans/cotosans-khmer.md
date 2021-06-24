@@ -1,24 +1,24 @@
 
-# Coto Sans Khmer
+## Coto Sans Khmer
 
 Coto Sans Khmer is a design for the Khmer script.
 
 It contains 265 glyphs and 5 OpenType features, and supports 190 characters from the Unicode blocks: Khmer, Khmer Symbols, Basic Latin.
 
 
-## Supported writing systems
+### Supported writing systems
 
 
-### Khmer
+#### Khmer
 
 Khmer (អក្សរខ្មែរ) is a Southeast Asian abugida, written left-to-right (12 million users). Used since the 7th century in Cambodia for the Khmer language. Also used for Brao, Mnong, Pali. Needs software support for complex text layout (shaping). Read more on [ScriptSource](https://scriptsource.org/scr/Khmr), [Wikipedia](https://en.wikipedia.org/wiki/ISO_15924:Khmr), [Unicode](https://www.unicode.org/versions/Unicode13.0.0/ch16.pdf#G64642), [Wiktionary](https://en.wiktionary.org/wiki/Category:Khmer_script).
 
 
-## License
+### License
 
 Based on [Noto](https://github.com/notofonts) by Google. Copyright 2011-2015 Google Inc. All Rights Reserved. Licensed under the [Apache License v2.0](https://www.apache.org/licenses/LICENSE-2.0.txt).
 
-## Using this font
+### Using this font
 
 You may create your own fonts based on this font, and you may incorporate portions of this font into your own font. You may publish your own font under any license, including a commercial license, but you must:
 

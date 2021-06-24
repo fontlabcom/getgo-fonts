@@ -1,24 +1,24 @@
 
-# Coto Sans Thaana
+## Coto Sans Thaana
 
 Coto Sans Thaana is a design for the Thaana script.
 
 It contains 95 glyphs and 2 OpenType features, and supports 91 characters from the Unicode blocks: Thaana, Basic Latin, Arabic, General Punctuation.
 
 
-## Supported writing systems
+### Supported writing systems
 
 
-### Thaana
+#### Thaana
 
 Thaana (ދިވެހި) is an Indic alphabet, written right-to-left (350,000 users). Used on the Maldives and in India for the Maldivian (Mahl, Dhivehi) language, which also uses a Latin transliteration. Read more on [ScriptSource](https://scriptsource.org/scr/Thaa), [Wikipedia](https://en.wikipedia.org/wiki/ISO_15924:Thaa), [Unicode](https://www.unicode.org/versions/Unicode13.0.0/ch13.pdf#G26451), [Wiktionary](https://en.wiktionary.org/wiki/Category:Thaana_script).
 
 
-## License
+### License
 
 Based on [Noto](https://github.com/notofonts) by Google. Copyright 2011-2015 Google Inc. All Rights Reserved. Licensed under the [Apache License v2.0](https://www.apache.org/licenses/LICENSE-2.0.txt).
 
-## Using this font
+### Using this font
 
 You may create your own fonts based on this font, and you may incorporate portions of this font into your own font. You may publish your own font under any license, including a commercial license, but you must:
 

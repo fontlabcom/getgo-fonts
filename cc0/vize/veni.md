@@ -1,11 +1,11 @@
 
-# GetGo Vize
+## GetGo Vize
 
 GetGo Vize is a Renaissance humanist sanserif font.
 
 It contains 103 glyphs, and supports 102 characters from the Unicode blocks: Basic Latin, General Punctuation.
 
-## License
+### License
 
 Based on Tenderness 0.501 by [Sora Sagano](http://www.dotcolon.net/font/tenderness).
 
@@ -13,7 +13,7 @@ Dedicated to the public domain via the [CC0 1.0 Universal Public Domain Dedicati
 
 The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 
-## Using this font
+### Using this font
 
 You may create your own fonts based on this font, and you may incorporate portions of this font into your own font. You may publish your own font under any license, including a commercial license, without any limitations.
 

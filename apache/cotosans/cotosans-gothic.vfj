@@ -1,0 +1,1961 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":43,
+    "upm":2048,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1229,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "193 0",
+                        "193 1462",
+                        "1034 1462",
+                        "1034 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "930 104",
+                        "930 1358",
+                        "297 1358",
+                        "297 104"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni0000",
+        "unicodes":[
+          0,
+          65279
+        ],
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0
+          }
+        ]
+      },
+      {
+        "name":"CR",
+        "unicode":"000d",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1044
+          }
+        ]
+      },
+      {
+        "name":"space",
+        "unicodes":[
+          32,
+          160
+        ],
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":532
+          }
+        ]
+      },
+      {
+        "name":"colon",
+        "unicode":"003a",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":549,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"periodcentered"
+                },
+                "transform":{
+                  "yOffset":-613
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "272 848 s",
+                        "193 848  147 900  147 987 s",
+                        "147 1075  189 1126  272 1126 s",
+                        "356 1126  401 1076  401 987 s",
+                        "401 902  353 848 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"periodcentered",
+        "unicode":"00b7",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":549,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "272 -29 s",
+                        "193 -29  147 23  147 111 s",
+                        "147 199  192 248  272 248 s",
+                        "353 248  401 199  401 111 s",
+                        "401 24  353 -29 c"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "yOffset":613
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"macroncomb",
+        "unicode":"0304",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"_38"
+                },
+                "transform":{
+                  "xOffset":-1268
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"_t.macroncomb",
+                "point":"-660 1240"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"overlinecomb",
+        "unicode":"0305",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-10 1852",
+                        "-10 1997",
+                        "1350 1997",
+                        "1350 1852"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"_b.overlinecomb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"dieresiscomb",
+        "unicode":"0308",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"_39"
+                },
+                "transform":{
+                  "xOffset":-858
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"macronbelowcomb",
+        "unicode":"0331",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"_38"
+                },
+                "transform":{
+                  "xOffset":-602,
+                  "yOffset":-1542
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"_b.macronbelowcomb_1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10330",
+        "unicode":"10330",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1247,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "211 -385",
+                        "211 442 s",
+                        "211 634  244 782  309 885",
+                        "477 885",
+                        "195 1323",
+                        "408 1323",
+                        "1255 0",
+                        "1040 0",
+                        "496 856",
+                        "429 755  395 611  395 424 s",
+                        "395 -303"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"650 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"820 0"
+              },
+              {
+                "name":"b.overlinecomb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10331",
+        "unicode":"10331",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1292,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1323",
+                        "383 1323",
+                        "383 156",
+                        "551 156 s",
+                        "691 156  800 178  879 222 s",
+                        "958 266  997 329  997 412 s",
+                        "997 579  843 665  518 688",
+                        "518 827",
+                        "623 860  695 895  736 932 s",
+                        "777 969  797 1015  797 1069 s",
+                        "797 1156  742 1216  659 1247",
+                        "733 1378",
+                        "898 1330  987 1230  987 1094 s",
+                        "987 955  913 859  729 786",
+                        "729 778",
+                        "875 768  988 732  1068 670 s",
+                        "1148 607  1188 525  1188 424 s",
+                        "1188 294  1134 191  1025 115 s",
+                        "916 38  770 0  586 0 s"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"530 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"560 0"
+              },
+              {
+                "name":"b.overlinecomb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10332",
+        "unicode":"10332",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1073,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1323",
+                        "1024 1323",
+                        "1024 1159",
+                        "383 1159",
+                        "383 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"620 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"620 0"
+              },
+              {
+                "name":"b.overlinecomb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10333",
+        "unicode":"10333",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1411,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "979 350",
+                        "966 238  919 148  838 81 s",
+                        "756 14  654 -20  532 -20 s",
+                        "397 -20  290 17  211 92 s",
+                        "132 166  92 266  92 393 s",
+                        "92 507  126 603  195 682",
+                        "397 682",
+                        "363 650  336 610  315 563 s",
+                        "294 515  283 466  283 416 s",
+                        "283 331  306 263  353 212 s",
+                        "400 161  464 135  547 135 s",
+                        "721 135  829 263  829 432 s",
+                        "829 551  794 641  729 741 s",
+                        "354 1323",
+                        "569 1323",
+                        "1419 0",
+                        "1202 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"600 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"540 0"
+              },
+              {
+                "name":"b._41"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10334",
+        "unicode":"10334",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1366,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "319 596",
+                        "326 455  372 344  457 263 s",
+                        "542 182  653 141  791 141 s",
+                        "968 141  1101 209  1214 330",
+                        "1315 215",
+                        "1188 64  1000 -20  780 -20 s",
+                        "578 -20  418 40  301 161 s",
+                        "184 281  125 443  125 647 s",
+                        "125 785  154 907  212 1013 s",
+                        "269 1118  351 1199  456 1256 s",
+                        "561 1313  680 1341  813 1341 s",
+                        "1008 1341  1184 1277  1305 1153",
+                        "1202 1018",
+                        "1095 1125  962 1178  803 1178 s",
+                        "669 1178  559 1140  473 1064 s",
+                        "387 987  337 885  324 756",
+                        "1200 756",
+                        "1200 596"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"760 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"760 0"
+              },
+              {
+                "name":"b._41"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10335",
+        "unicode":"10335",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1518,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "377 563 s",
+                        "377 417  412 310  481 242 s",
+                        "550 173  660 139  811 139 s",
+                        "938 139  1046 149  1135 170",
+                        "1135 1323",
+                        "1319 1323",
+                        "1319 45",
+                        "1156 2  987 -20  811 -20 s",
+                        "400 -20  193 163  193 539 s",
+                        "193 1323",
+                        "377 1323"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"760 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"820 0"
+              },
+              {
+                "name":"b._41"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10336",
+        "unicode":"10336",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1274,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "98 0",
+                        "98 139",
+                        "891 1159",
+                        "61 1159",
+                        "61 1323",
+                        "1112 1323",
+                        "1112 1184",
+                        "319 164",
+                        "1223 164",
+                        "1223 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"600 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"650 0"
+              },
+              {
+                "name":"b.overlinecomb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10337",
+        "unicode":"10337",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1518,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1708",
+                        "383 1708",
+                        "383 1311",
+                        "470 1327  570 1335  684 1335 s",
+                        "1111 1335  1325 1156  1325 776 s",
+                        "1325 0",
+                        "1141 0",
+                        "1141 752 s",
+                        "1141 901  1104 1009  1031 1076 s",
+                        "958 1143  837 1176  668 1176 s",
+                        "566 1176  471 1166  383 1145",
+                        "383 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"800 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"760 0"
+              },
+              {
+                "name":"b._41"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10338",
+        "unicode":"10338",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1839,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "829 -492",
+                        "829 104",
+                        "686 115  561 154  454 223 s",
+                        "239 360  121 605  121 918 s",
+                        "121 983  130 1055  147 1134 s",
+                        "164 1212  184 1275  207 1323",
+                        "399 1323",
+                        "375 1273  354 1210  337 1133 s",
+                        "320 1056  311 987  311 926 s",
+                        "311 799  332 688  374 593 s",
+                        "457 404  618 292  829 272",
+                        "829 1708",
+                        "1014 1708",
+                        "1014 272",
+                        "1120 282  1212 314  1290 369 s",
+                        "1446 478  1532 673  1532 926 s",
+                        "1532 992  1524 1062  1508 1136 s",
+                        "1491 1209  1471 1272  1446 1323",
+                        "1636 1323",
+                        "1659 1282  1679 1222  1696 1144 s",
+                        "1713 1065  1722 990  1722 918 s",
+                        "1722 761  1693 623  1636 504 s",
+                        "1578 385  1496 292  1389 223 s",
+                        "1282 154  1157 115  1014 104",
+                        "1014 -410"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"920 1800"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"920 -400"
+              },
+              {
+                "name":"b._42"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10339",
+        "unicode":"10339",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":582,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1323",
+                        "383 1323",
+                        "383 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"280 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"280 0"
+              },
+              {
+                "name":"b._40"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u1033A",
+        "unicode":"1033a",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1315,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1323",
+                        "383 1323",
+                        "383 721",
+                        "588 837  729 930  822 1012 s",
+                        "869 1053  906 1094  935 1135 s",
+                        "964 1176  993 1239  1022 1323",
+                        "1217 1323",
+                        "1186 1228  1156 1157  1128 1109 s",
+                        "1099 1061  1064 1016  1023 974 s",
+                        "940 890  811 798  610 682",
+                        "1300 0",
+                        "1047 0",
+                        "383 664",
+                        "383 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"680 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"640 0"
+              },
+              {
+                "name":"b.overlinecomb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u1033B",
+        "unicode":"1033b",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1315,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "242 0",
+                        "49 0",
+                        "461 1012",
+                        "262 1323",
+                        "475 1323",
+                        "1323 0",
+                        "1108 0",
+                        "571 842"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"530 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"680 0"
+              },
+              {
+                "name":"b.overlinecomb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u1033C",
+        "unicode":"1033c",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1640,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1323",
+                        "383 1323",
+                        "399 1242  431 1161  479 1080 s",
+                        "527 998  581 934  642 887 s",
+                        "702 840  761 817  819 817 s",
+                        "877 817  936 841  997 889 s",
+                        "1058 937  1112 1001  1159 1081 s",
+                        "1206 1161  1238 1242  1255 1323",
+                        "1440 1323",
+                        "1440 0",
+                        "1255 0",
+                        "1255 961",
+                        "1215 871  1154 794  1071 730 s",
+                        "988 665  902 633  813 633 s",
+                        "730 633  646 666  563 731 s",
+                        "479 796  419 872  383 961",
+                        "383 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"800 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"800 0"
+              },
+              {
+                "name":"b._42"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u1033D",
+        "unicode":"1033d",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1556,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1323",
+                        "383 1323",
+                        "397 1299  484 1183  644 976 s",
+                        "921 616 s",
+                        "1081 408  1168 292  1182 268",
+                        "1190 268",
+                        "1179 369  1174 505  1174 674 s",
+                        "1174 1323",
+                        "1358 1323",
+                        "1358 0",
+                        "1174 0",
+                        "373 1059",
+                        "365 1059",
+                        "377 924  383 769  383 592 s",
+                        "383 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"780 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"780 0"
+              },
+              {
+                "name":"b._41"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u1033E",
+        "unicode":"1033e",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1460,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "827 -492",
+                        "1050 -297  1161 -86  1161 139 s",
+                        "1161 178",
+                        "1064 46  923 -20  739 -20 s",
+                        "618 -20  511 8  418 63 s",
+                        "325 118  253 197  202 298 s",
+                        "151 399  125 515  125 647 s",
+                        "125 784  153 906  209 1012 s",
+                        "264 1117  344 1199  448 1256 s",
+                        "551 1313  670 1341  805 1341 s",
+                        "1025 1341  1206 1276  1325 1153",
+                        "1221 1014",
+                        "1093 1131  962 1178  803 1178 s",
+                        "653 1178  535 1131  448 1036 s",
+                        "361 941  317 812  317 651 s",
+                        "317 493  357 368  438 277 s",
+                        "518 185  626 139  762 139 s",
+                        "855 139  936 165  1005 216 s",
+                        "1074 267  1122 337  1151 428",
+                        "1319 428",
+                        "1325 407  1331 373  1336 328 s",
+                        "1341 282  1343 242  1343 209 s",
+                        "1343 -66  1246 -300  1051 -492"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"780 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"600 0"
+              },
+              {
+                "name":"b._41"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u1033F",
+        "unicode":"1033f",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1518,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "383 0",
+                        "199 0",
+                        "199 1274",
+                        "276 1295  360 1311  451 1322 s",
+                        "542 1333  628 1339  707 1339 s",
+                        "1119 1339  1325 1153  1325 780 s",
+                        "1325 0",
+                        "1141 0",
+                        "1141 756 s",
+                        "1141 902  1107 1009  1038 1078 s",
+                        "969 1146  858 1180  707 1180 s",
+                        "579 1180  471 1170  383 1149"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"740 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"740 0"
+              },
+              {
+                "name":"b._41"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10340",
+        "unicode":"10340",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1497,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1323",
+                        "1296 1323",
+                        "1296 0",
+                        "1112 0",
+                        "1112 1161",
+                        "383 1161",
+                        "383 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"740 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"740 0"
+              },
+              {
+                "name":"b._41"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10341",
+        "unicode":"10341",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1454,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "1071 -492",
+                        "1071 205",
+                        "928 152  788 125  653 125 s",
+                        "505 125  391 164  310 242 s",
+                        "229 320  188 431  188 575 s",
+                        "188 1323",
+                        "373 1323",
+                        "373 602 s",
+                        "373 399  480 287  676 287 s",
+                        "807 287  938 311  1071 358",
+                        "1071 1323",
+                        "1255 1323",
+                        "1255 -410"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"740 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"680 0"
+              },
+              {
+                "name":"b._41"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10342",
+        "unicode":"10342",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1300,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 -492",
+                        "199 1323",
+                        "383 1323",
+                        "383 680",
+                        "544 732  662 785  735 839 s",
+                        "808 892  844 952  844 1018 s",
+                        "844 1069  828 1111  797 1144",
+                        "765 1176  708 1206  627 1233",
+                        "696 1374",
+                        "913 1313  1034 1211  1034 1042 s",
+                        "1034 863  901 728  635 637",
+                        "1309 0",
+                        "1040 0",
+                        "383 639",
+                        "383 -410"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"530 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"800 0"
+              },
+              {
+                "name":"b.overlinecomb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10343",
+        "unicode":"10343",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1176,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "113 260",
+                        "174 226  244 197  324 174 s",
+                        "404 151  482 139  559 139 s",
+                        "779 139  889 208  889 346 s",
+                        "889 386  878 419  857 446 s",
+                        "835 473  800 497  753 518 s",
+                        "706 539  619 564  494 594 s",
+                        "348 629  245 676  186 735 s",
+                        "126 794  96 872  96 971 s",
+                        "96 1089  142 1181  233 1248 s",
+                        "324 1315  448 1348  604 1348 s",
+                        "809 1348  980 1294  1083 1198",
+                        "989 1053",
+                        "877 1148  752 1186  596 1186 s",
+                        "392 1186  283 1113  283 977 s",
+                        "283 932  293 895  313 867",
+                        "332 838  364 814  409 795",
+                        "453 775  524 754  621 733 s",
+                        "748 705  841 676  899 645 s",
+                        "1014 584  1073 494  1073 358 s",
+                        "1073 237  1027 143  936 78 s",
+                        "844 13  714 -20  547 -20 s",
+                        "378 -20  234 13  113 78"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"600 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"600 0"
+              },
+              {
+                "name":"b.overlinecomb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10344",
+        "unicode":"10344",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1139,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "477 0",
+                        "477 1161",
+                        "20 1161",
+                        "20 1323",
+                        "1116 1323",
+                        "1116 1161",
+                        "662 1161",
+                        "662 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"570 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"570 0"
+              },
+              {
+                "name":"b.overlinecomb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10345",
+        "unicode":"10345",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1282,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "559 -492",
+                        "559 309",
+                        "-12 1323",
+                        "199 1323",
+                        "651 494",
+                        "1094 1323",
+                        "1292 1323",
+                        "743 317",
+                        "743 -410"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"660 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"660 -400"
+              },
+              {
+                "name":"b.overlinecomb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10346",
+        "unicode":"10346",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1038,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 -492",
+                        "199 1708",
+                        "383 1708",
+                        "383 1323",
+                        "977 1323",
+                        "977 1161",
+                        "383 1161",
+                        "383 623",
+                        "977 623",
+                        "977 461",
+                        "383 461",
+                        "383 -410"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"620 1780"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"720 0"
+              },
+              {
+                "name":"b.overlinecomb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10347",
+        "unicode":"10347",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1200,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-2 0",
+                        "481 688",
+                        "31 1323",
+                        "244 1323",
+                        "602 805",
+                        "963 1323",
+                        "1169 1323",
+                        "717 692",
+                        "1202 0",
+                        "983 0",
+                        "596 573",
+                        "203 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"600 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"600 0"
+              },
+              {
+                "name":"b.overlinecomb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10348",
+        "unicode":"10348",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1599,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "442 65 s",
+                        "340 122  262 202  207 306 s",
+                        "152 410  125 529  125 664 s",
+                        "125 795  154 912  211 1017 s",
+                        "268 1121  349 1202  453 1260 s",
+                        "557 1317  674 1346  803 1346 s",
+                        "938 1346  1057 1318  1159 1263 s",
+                        "1260 1208  1338 1128  1393 1025 s",
+                        "1448 921  1475 800  1475 662 s",
+                        "1475 532  1447 415  1391 310 s",
+                        "1335 205  1256 124  1153 67 s",
+                        "1050 9  932 -20  801 -20 s",
+                        "664 -20  544 8 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "379 388 s",
+                        "459 228  609 139  801 139 s",
+                        "950 139  1067 186  1152 280 s",
+                        "1237 374  1280 501  1280 662 s",
+                        "1280 819  1238 946  1153 1041 s",
+                        "1068 1136  951 1184  803 1184 s",
+                        "656 1184  539 1137  451 1042 s",
+                        "363 947  319 820  319 662 s",
+                        "319 559  339 468 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "799 524 s",
+                        "720 524  674 572  674 664 s",
+                        "674 753  718 803  799 803 s",
+                        "882 803  928 749  928 664 s",
+                        "928 577  880 524 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"820 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"820 0"
+              },
+              {
+                "name":"b._42"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10349",
+        "unicode":"10349",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1059,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-53 -221",
+                        "152 19  315 218  434 377",
+                        "321 506  241 625  192 735 s",
+                        "143 845  119 964  119 1092 s",
+                        "119 1177  135 1254  168 1323",
+                        "911 1323",
+                        "937 1254  950 1182  950 1106 s",
+                        "950 1003  927 896  882 786 s",
+                        "837 675  760 545  653 395",
+                        "758 291  905 159  1096 0",
+                        "817 0",
+                        "705 101  616 185  549 254",
+                        "496 182  371 24  176 -221"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "309 1163",
+                        "305 1141  303 1115  303 1085 s",
+                        "303 984  322 889  360 798 s",
+                        "397 707  457 613  539 518",
+                        "620 635  679 737  714 822 s",
+                        "749 907  766 997  766 1094 s",
+                        "766 1121  763 1144  758 1163"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"530 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"620 0"
+              },
+              {
+                "name":"b.overlinecomb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u1034A",
+        "unicode":"1034a",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":950,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "383 -492",
+                        "383 1147",
+                        "111 961",
+                        "33 1079",
+                        "475 1378",
+                        "918 1079",
+                        "840 961",
+                        "567 1147",
+                        "567 -410"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.macroncomb",
+                "point":"470 1500"
+              },
+              {
+                "name":"b.macronbelowcomb_1",
+                "point":"470 -400"
+              },
+              {
+                "name":"b.overlinecomb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10339_dieresiscomb",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":582,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"u10339"
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "id":"elementdata",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "401 1292 s",
+                        "348 1292  305 1324  305 1395 s",
+                        "305 1467  348 1495  401 1495 s",
+                        "453 1495  498 1467  498 1395 s",
+                        "498 1324  453 1292 c"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":-301,
+                  "yOffset":264
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "id":"elementdata.1",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "784 1292 s",
+                        "733 1292  690 1324  690 1395 s",
+                        "690 1467  733 1495  784 1495 s",
+                        "836 1495  881 1467  881 1395 s",
+                        "881 1324  836 1292 c"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":-301,
+                  "yOffset":264
+                },
+                "locked":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"b.overlinecomb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"_38",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1206,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "299 1241",
+                        "299 1386",
+                        "907 1386",
+                        "907 1241"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"_39",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1188,
+            "elements":[
+              {
+                "elementData":"elementdata",
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.1",
+                "locked":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"overlinecomb.ccmp",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-10 1852",
+                        "-10 1997",
+                        "605 1997",
+                        "605 1852"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"_b._40"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"_41",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-10 1852",
+                        "-10 1997",
+                        "1560 1997",
+                        "1560 1852"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"_b._41"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"_42",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-10 1852",
+                        "-10 1997",
+                        "1860 1997",
+                        "1860 1852"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"_b._42"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "interpolationFlags":0,
+    "openTypeFeatures":[
+      {
+        "feature":"###\n# OpenType Layout feature definitions\n# Format: Adobe FDK for OpenType (AFDKO) version 2.5\n# Generated on: 2021-6-18 14:33\n# Generated by: FontLab 7.1.5\n# Font PostScript name: CotoSansGothic\n# Font copyright: Copyright 2012 Google Inc. All Rights Reserved.\n#\n# Totals:\n# Languagesystems: 2\n# GSUB lookups: 7\n# GSUB features: 1 (ccmp)\n# GPOS lookups: 5\n# GPOS features: 1 (mark)\n\n#\n# Languagesystem definitions\n#\n\nlanguagesystem DFLT dflt; # Default default\nlanguagesystem goth dflt; # Gothic default\n\n\n#\n# Lookup definitions\n#\n\nlookup ccmp_3 {\n# GSUB lookup 5, type 11 (Single)\n  sub overlinecomb by overlinecomb.ccmp;\n} ccmp_3;\n\nlookup ccmp_5 {\n# GSUB lookup 6, type 11 (Single)\n  sub overlinecomb by _41;\n} ccmp_5;\n\nlookup ccmp_7 {\n# GSUB lookup 7, type 11 (Single)\n  sub overlinecomb by _42;\n} ccmp_7;\n\n\n#\n# Feature definitions\n#\n\n"
+      },
+      {
+        "name":"ccmp",
+        "feature":"feature ccmp {\n# GSUB feature: Glyph Composition / Decomposition\n# Lookups: 4\n\n  sub u10339 dieresiscomb by u10339_dieresiscomb;\n  sub u10339 overlinecomb' lookup ccmp_3;\n  sub [u10333 u10334 u10335 u10337 u1033D u1033E u1033F u10340 u10341] overlinecomb' lookup ccmp_5;\n  sub [u10338 u1033C u10348] overlinecomb' lookup ccmp_7;\n\n} ccmp;\n\n"
+      },
+      {
+        "name":"mark",
+        "feature":"feature mark {\n# GPOS feature: Mark Positioning\n# Lookups: 5\n\n\n  lookup mark_1 {\n  # GPOS lookup 1, type 4 (MarkToBase attachment)\n    markClass macroncomb <anchor -660 1240> @t.macroncomb;\n    markClass macronbelowcomb <anchor 0 0> @b.macronbelowcomb_1;\n    pos base u10330\n        <anchor 650 1500> mark @t.macroncomb\n        <anchor 820 0> mark @b.macronbelowcomb_1;\n    pos base u10331\n        <anchor 530 1500> mark @t.macroncomb\n        <anchor 560 0> mark @b.macronbelowcomb_1;\n    pos base u10332\n        <anchor 620 1500> mark @t.macroncomb\n        <anchor 620 0> mark @b.macronbelowcomb_1;\n    pos base u10333\n        <anchor 600 1500> mark @t.macroncomb\n        <anchor 540 0> mark @b.macronbelowcomb_1;\n    pos base u10334\n        <anchor 760 1500> mark @t.macroncomb\n        <anchor 760 0> mark @b.macronbelowcomb_1;\n    pos base u10335\n        <anchor 760 1500> mark @t.macroncomb\n        <anchor 820 0> mark @b.macronbelowcomb_1;\n    pos base u10336\n        <anchor 600 1500> mark @t.macroncomb\n        <anchor 650 0> mark @b.macronbelowcomb_1;\n    pos base u10337\n        <anchor 800 1500> mark @t.macroncomb\n        <anchor 760 0> mark @b.macronbelowcomb_1;\n    pos base u10338\n        <anchor 920 1800> mark @t.macroncomb\n        <anchor 920 -400> mark @b.macronbelowcomb_1;\n    pos base u10339\n        <anchor 280 1500> mark @t.macroncomb\n        <anchor 280 0> mark @b.macronbelowcomb_1;\n    pos base u1033A\n        <anchor 680 1500> mark @t.macroncomb\n        <anchor 640 0> mark @b.macronbelowcomb_1;\n    pos base u1033B\n        <anchor 530 1500> mark @t.macroncomb\n        <anchor 680 0> mark @b.macronbelowcomb_1;\n    pos base u1033C\n        <anchor 800 1500> mark @t.macroncomb\n        <anchor 800 0> mark @b.macronbelowcomb_1;\n    pos base u1033D\n        <anchor 780 1500> mark @t.macroncomb\n        <anchor 780 0> mark @b.macronbelowcomb_1;\n    pos base u1033E\n        <anchor 780 1500> mark @t.macroncomb\n        <anchor 600 0> mark @b.macronbelowcomb_1;\n    pos base u1033F\n        <anchor 740 1500> mark @t.macroncomb\n        <anchor 740 0> mark @b.macronbelowcomb_1;\n    pos base u10340\n        <anchor 740 1500> mark @t.macroncomb\n        <anchor 740 0> mark @b.macronbelowcomb_1;\n    pos base u10341\n        <anchor 740 1500> mark @t.macroncomb\n        <anchor 680 0> mark @b.macronbelowcomb_1;\n    pos base u10342\n        <anchor 530 1500> mark @t.macroncomb\n        <anchor 800 0> mark @b.macronbelowcomb_1;\n    pos base u10343\n        <anchor 600 1500> mark @t.macroncomb\n        <anchor 600 0> mark @b.macronbelowcomb_1;\n    pos base u10344\n        <anchor 570 1500> mark @t.macroncomb\n        <anchor 570 0> mark @b.macronbelowcomb_1;\n    pos base u10345\n        <anchor 660 1500> mark @t.macroncomb\n        <anchor 660 -400> mark @b.macronbelowcomb_1;\n    pos base u10346\n        <anchor 620 1780> mark @t.macroncomb\n        <anchor 720 0> mark @b.macronbelowcomb_1;\n    pos base u10347\n        <anchor 600 1500> mark @t.macroncomb\n        <anchor 600 0> mark @b.macronbelowcomb_1;\n    pos base u10348\n        <anchor 820 1500> mark @t.macroncomb\n        <anchor 820 0> mark @b.macronbelowcomb_1;\n    pos base u10349\n        <anchor 530 1500> mark @t.macroncomb\n        <anchor 620 0> mark @b.macronbelowcomb_1;\n    pos base u1034A\n        <anchor 470 1500> mark @t.macroncomb\n        <anchor 470 -400> mark @b.macronbelowcomb_1;\n  } mark_1;\n\n\n  lookup mark_2 {\n  # GPOS lookup 2, type 4 (MarkToBase attachment)\n    markClass overlinecomb <anchor 0 0> @b.overlinecomb;\n    pos base u10330\n        <anchor 0 0> mark @b.overlinecomb;\n    pos base u10331\n        <anchor 0 0> mark @b.overlinecomb;\n    pos base u10332\n        <anchor 0 0> mark @b.overlinecomb;\n    pos base u10336\n        <anchor 0 0> mark @b.overlinecomb;\n    pos base u1033A\n        <anchor 0 0> mark @b.overlinecomb;\n    pos base u1033B\n        <anchor 0 0> mark @b.overlinecomb;\n    pos base u10342\n        <anchor 0 0> mark @b.overlinecomb;\n    pos base u10343\n        <anchor 0 0> mark @b.overlinecomb;\n    pos base u10344\n        <anchor 0 0> mark @b.overlinecomb;\n    pos base u10345\n        <anchor 0 0> mark @b.overlinecomb;\n    pos base u10346\n        <anchor 0 0> mark @b.overlinecomb;\n    pos base u10347\n        <anchor 0 0> mark @b.overlinecomb;\n    pos base u10349\n        <anchor 0 0> mark @b.overlinecomb;\n    pos base u1034A\n        <anchor 0 0> mark @b.overlinecomb;\n    pos base u10339_dieresiscomb\n        <anchor 0 0> mark @b.overlinecomb;\n  } mark_2;\n\n\n  lookup mark_3 {\n  # GPOS lookup 3, type 4 (MarkToBase attachment)\n    markClass overlinecomb.ccmp <anchor 0 0> @b._40;\n    pos base u10339\n        <anchor 0 0> mark @b._40;\n  } mark_3;\n\n\n  lookup mark_4 {\n  # GPOS lookup 4, type 4 (MarkToBase attachment)\n    markClass _41 <anchor 0 0> @b._41;\n    pos base u10333\n        <anchor 0 0> mark @b._41;\n    pos base u10334\n        <anchor 0 0> mark @b._41;\n    pos base u10335\n        <anchor 0 0> mark @b._41;\n    pos base u10337\n        <anchor 0 0> mark @b._41;\n    pos base u1033D\n        <anchor 0 0> mark @b._41;\n    pos base u1033E\n        <anchor 0 0> mark @b._41;\n    pos base u1033F\n        <anchor 0 0> mark @b._41;\n    pos base u10340\n        <anchor 0 0> mark @b._41;\n    pos base u10341\n        <anchor 0 0> mark @b._41;\n  } mark_4;\n\n\n  lookup mark_5 {\n  # GPOS lookup 5, type 4 (MarkToBase attachment)\n    markClass _42 <anchor 0 0> @b._42;\n    pos base u10338\n        <anchor 0 0> mark @b._42;\n    pos base u1033C\n        <anchor 0 0> mark @b._42;\n    pos base u10348\n        <anchor 0 0> mark @b._42;\n  } mark_5;\n\n\n} mark;\n\n"
+      }
+    ],
+    "hinting":{
+      "maxZones":1,
+      "gasp":[
+        2,
+        8,
+        3,
+        65535
+      ]
+    },
+    "info":{
+      "tfn":"Coto Sans Gothic",
+      "sgn":"Coto Sans Gothic",
+      "creationDate":"2012/11/26 12:51:55",
+      "copyright":"Copyright 2012 Google Inc. All Rights Reserved.",
+      "trademark":"Noto is a trademark of Google Inc. and may be registered in certain jurisdictions.",
+      "designer":"Monotype Design team",
+      "designerURL":"http://www.monotype.com/studio",
+      "license":"Licensed under the Apache License, Version 2.0",
+      "licenseURL":"http://www.apache.org/licenses/LICENSE-2.0",
+      "manufacturer":"Monotype Imaging Inc.",
+      "manufacturerURL":"http://code.google.com/p/noto/",
+      "description":"Designed by Monotype design team",
+      "vendorID":"GOOG",
+      "versionMajor":1,
+      "versionMinor":20,
+      "version":"Version 1.02",
+      "codepageRange":"0000000000000001",
+      "unicodeRange":"00000000004000080200000000000043",
+      "useTypoMetrics":false,
+      "embedding":"0000"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"7649"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"round"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"Regular",
+          "sgn":"Coto Sans Gothic",
+          "ffn":"Coto Sans Gothic",
+          "psn":"CotoSansGothic",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":2189,
+          "descender":-600,
+          "xHeight":1098,
+          "capsHeight":1462,
+          "measurement":512,
+          "weight":400,
+          "width":5,
+          "safeTop":2189,
+          "safeBottom":600,
+          "underlineThickness":102,
+          "underlinePosition":-154,
+          "inktrapLen":4,
+          "panose":"2 11 5 2 4 5 4 2 2 4",
+          "otherData":{
+            "DistanceX":102,
+            "DistanceY":102,
+            "HintingMaxH":512,
+            "HintingMaxV":512,
+            "HintingMinH":41,
+            "HintingMinV":41,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":2189,
+            "hhea_descender":-600,
+            "hhea_line_gap":0,
+            "hhea_use_custom":false,
+            "strikeout_position":512,
+            "strikeout_size":102,
+            "subscript_x_offset":0,
+            "subscript_x_size":1434,
+            "subscript_y_offset":287,
+            "subscript_y_size":1331,
+            "superscript_x_offset":0,
+            "superscript_x_size":1434,
+            "superscript_y_offset":977,
+            "superscript_y_size":1331
+          },
+          "hintingParameters":{
+            "maxZones":1
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"2189",
+            "Descender":"-600",
+            "CapsHeight":"1462",
+            "XHeight":"1098",
+            "UT":"102",
+            "UP":"-154"
+          }
+        }
+      }
+    ]
+  }
+}

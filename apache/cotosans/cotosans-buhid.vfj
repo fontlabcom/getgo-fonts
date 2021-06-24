@@ -1,0 +1,1526 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":39,
+    "upm":2048,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1229,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "193 0",
+                        "193 1462",
+                        "1034 1462",
+                        "1034 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "930 104",
+                        "930 1358",
+                        "297 1358",
+                        "297 104"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni0000",
+        "unicodes":[
+          0,
+          65279
+        ],
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0
+          }
+        ]
+      },
+      {
+        "name":"CR",
+        "unicode":"000d",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1044
+          }
+        ]
+      },
+      {
+        "name":"space",
+        "unicodes":[
+          32,
+          160
+        ],
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":532
+          }
+        ]
+      },
+      {
+        "name":"uni1740",
+        "unicode":"1740",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1696,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "485 139",
+                        "907 139",
+                        "1491 1462",
+                        "1665 1462",
+                        "1018 0",
+                        "293 0",
+                        "514 958",
+                        "109 958",
+                        "141 1098",
+                        "709 1098"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1741",
+        "unicode":"1741",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1696,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "487 139",
+                        "909 139",
+                        "1491 1462",
+                        "1665 1462",
+                        "1018 0",
+                        "293 0",
+                        "516 958",
+                        "106 958",
+                        "141 1098",
+                        "709 1098"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "component":{
+                  "glyphName":"uni1752"
+                },
+                "transform":{
+                  "xOffset":934,
+                  "yOffset":-1704
+                },
+                "locked":true,
+                "nonSpacing":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1742",
+        "unicode":"1742",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1280,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "424 479",
+                        "557 958",
+                        "109 958",
+                        "141 1098",
+                        "760 1098",
+                        "627 618",
+                        "1139 618",
+                        "932 0",
+                        "766 0",
+                        "924 479"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1743",
+        "unicode":"1743",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1268,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "113 0",
+                        "145 139",
+                        "870 139",
+                        "838 0"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "334 958",
+                        "367 1098",
+                        "1090 1098",
+                        "1057 958"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"b.uni1753",
+                "point":"640 660"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1744",
+        "unicode":"1744",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1227,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "635 0",
+                        "754 520",
+                        "190 520",
+                        "338 1163",
+                        "502 1163",
+                        "385 659",
+                        "948 659",
+                        "795 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.uni1752",
+                "point":"700 1150"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1745",
+        "unicode":"1745",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1649,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "113 0",
+                        "145 139",
+                        "702 139",
+                        "905 1024",
+                        "348 1024",
+                        "381 1163",
+                        "1106 1163",
+                        "987 651",
+                        "1544 651",
+                        "1513 512",
+                        "954 512",
+                        "838 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1746",
+        "unicode":"1746",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":2099,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "295 139",
+                        "549 139",
+                        "776 659",
+                        "1300 659",
+                        "1212 139",
+                        "1464 139",
+                        "1880 1098",
+                        "2054 1098",
+                        "1575 0",
+                        "1032 0",
+                        "1120 520",
+                        "887 520",
+                        "659 0",
+                        "102 0",
+                        "356 1098",
+                        "518 1098"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.uni1752",
+                "point":"1060 860"
+              },
+              {
+                "name":"b.uni1753",
+                "point":"840 -140"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1747",
+        "unicode":"1747",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1673,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "293 0",
+                        "457 717",
+                        "6 717",
+                        "41 856",
+                        "492 856",
+                        "631 1462",
+                        "793 1462",
+                        "485 139",
+                        "909 139",
+                        "1491 1462",
+                        "1665 1462",
+                        "1018 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"b.uni1753",
+                "point":"660 -140"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1748",
+        "unicode":"1748",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":897,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "215 0",
+                        "520 1323",
+                        "178 1323",
+                        "211 1462",
+                        "1016 1462",
+                        "983 1323",
+                        "682 1323",
+                        "375 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.uni1752",
+                "point":"660 1640"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1749",
+        "unicode":"1749",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1696,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "518 139",
+                        "893 139",
+                        "1223 1098",
+                        "1790 1098",
+                        "1757 958",
+                        "1343 958",
+                        "1010 0",
+                        "326 0",
+                        "547 958",
+                        "141 958",
+                        "174 1098",
+                        "741 1098"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.uni1752",
+                "point":"1480 1310"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni174A",
+        "unicode":"174a",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1268,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "113 0",
+                        "145 139",
+                        "702 139",
+                        "905 1024",
+                        "348 1024",
+                        "381 1163",
+                        "1106 1163",
+                        "838 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.uni1752",
+                "point":"760 1340"
+              },
+              {
+                "name":"b.uni1753",
+                "point":"480 -140"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni174B",
+        "unicode":"174b",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1503,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "991 0",
+                        "102 0",
+                        "371 1163",
+                        "532 1163",
+                        "514 1090",
+                        "1202 1090",
+                        "1331 1462",
+                        "1501 1462"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "874 139",
+                        "1153 950",
+                        "483 950",
+                        "295 139"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"b.uni1753",
+                "point":"540 -140"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni174C",
+        "unicode":"174c",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1804,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "436 139",
+                        "721 139",
+                        "1051 1098",
+                        "1628 1098",
+                        "1374 0",
+                        "1212 0",
+                        "1434 958",
+                        "1171 958",
+                        "838 0",
+                        "244 0",
+                        "465 958",
+                        "141 958",
+                        "174 1098",
+                        "659 1098"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.uni1752",
+                "point":"1300 1310"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni174D",
+        "unicode":"174d",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1255,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "139 604",
+                        "172 743",
+                        "1137 743",
+                        "1104 604"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni174E",
+        "unicode":"174e",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1776,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "563 -512",
+                        "399 -512",
+                        "575 0",
+                        "102 0",
+                        "291 815",
+                        "453 815",
+                        "297 139",
+                        "625 139",
+                        "983 1180",
+                        "1749 1180",
+                        "1268 0",
+                        "739 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "1157 139",
+                        "1522 1040",
+                        "1102 1040",
+                        "788 139"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"b.uni1753",
+                "point":"840 -340"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni174F",
+        "unicode":"174f",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1673,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "295 139",
+                        "1096 139",
+                        "1327 713",
+                        "952 713",
+                        "836 358",
+                        "672 358",
+                        "831 852",
+                        "1554 852",
+                        "1206 0",
+                        "102 0",
+                        "356 1098",
+                        "518 1098"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.uni1752",
+                "point":"1210 1050"
+              },
+              {
+                "name":"b.uni1753",
+                "point":"700 -140"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1750",
+        "unicode":"1750",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1552,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "741 365",
+                        "901 844",
+                        "410 844",
+                        "567 1323",
+                        "150 1323",
+                        "182 1462",
+                        "782 1462",
+                        "621 983",
+                        "1114 983",
+                        "954 504",
+                        "1444 504",
+                        "1237 -115",
+                        "1071 -115",
+                        "1229 365"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.uni1752",
+                "point":"480 1640"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1751",
+        "unicode":"1751",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1176,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "102 0",
+                        "356 1098",
+                        "518 1098",
+                        "295 139",
+                        "932 139",
+                        "899 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.uni1752",
+                "point":"625 680"
+              },
+              {
+                "name":"b.uni1753",
+                "point":"500 -140"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1752",
+        "unicode":"1752",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "205 -377",
+                        "238 -238",
+                        "965 -238",
+                        "932 -377"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":-934,
+                  "yOffset":1704
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"_t.uni1752",
+                "point":"-370 1310"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1753",
+        "unicode":"1753",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"uni1752"
+                },
+                "transform":{
+                  "xOffset":-404,
+                  "yOffset":-1704
+                },
+                "locked":true,
+                "nonSpacing":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"_b.uni1753",
+                "point":"-725 -210"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1735",
+        "unicode":"1735",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":674,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "178 -285",
+                        "37 -285",
+                        "455 1536",
+                        "598 1536"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1736",
+        "unicode":"1736",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":999,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"uni1735"
+                }
+              },
+              {
+                "component":{
+                  "glyphName":"uni1735"
+                },
+                "transform":{
+                  "xOffset":326
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1743_uni1752",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1268,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "570 30",
+                        "411 30",
+                        "525 521",
+                        "144 521",
+                        "177 660",
+                        "557 660",
+                        "655 1083",
+                        "814 1083",
+                        "716 660",
+                        "1082 660",
+                        "1049 521",
+                        "684 521"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1744_uni1753",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1375,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "635 0",
+                        "754 520",
+                        "190 520",
+                        "338 1163",
+                        "502 1163",
+                        "385 659",
+                        "948 659",
+                        "895 430",
+                        "1275 430",
+                        "1242 291",
+                        "862 291",
+                        "795 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1745_uni1752",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1692,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"uni1745"
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "id":"elementdata",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "1011 246",
+                        "1044 385",
+                        "1480 385",
+                        "1447 246"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":117,
+                  "yOffset":512
+                },
+                "locked":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1745_uni1753",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1649,
+            "elements":[
+              {
+                "elementData":"elementdata",
+                "locked":true
+              },
+              {
+                "component":{
+                  "glyphName":"uni1745"
+                },
+                "locked":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1747_uni1752",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1673,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "293 0",
+                        "596 1323",
+                        "145 1323",
+                        "180 1462",
+                        "793 1462",
+                        "485 139",
+                        "909 139",
+                        "1430 1323",
+                        "996 1323",
+                        "1031 1462",
+                        "1665 1462",
+                        "1018 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1748_uni1753",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1056,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "612 0",
+                        "731 520",
+                        "336 520",
+                        "520 1323",
+                        "178 1323",
+                        "211 1462",
+                        "1016 1462",
+                        "983 1323",
+                        "682 1323",
+                        "528 659",
+                        "925 659",
+                        "772 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1749_uni1753",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1696,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "518 139",
+                        "893 139",
+                        "1223 1098",
+                        "1790 1098",
+                        "1757 958",
+                        "1343 958",
+                        "1216 594",
+                        "1612 594",
+                        "1579 455",
+                        "1168 455",
+                        "1010 0",
+                        "326 0",
+                        "547 958",
+                        "141 958",
+                        "174 1098",
+                        "741 1098"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni174B_uni1752",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1804,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "102 0",
+                        "371 1163",
+                        "532 1163",
+                        "514 1090",
+                        "1202 1090",
+                        "1331 1462",
+                        "1894 1462",
+                        "1861 1322",
+                        "1452 1322",
+                        "991 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "874 139",
+                        "1153 950",
+                        "483 950",
+                        "295 139"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni174C_uni1753",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1985,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "436 139",
+                        "721 139",
+                        "1051 1098",
+                        "1628 1098",
+                        "1406 139",
+                        "1805 139",
+                        "1772 0",
+                        "1212 0",
+                        "1434 958",
+                        "1171 958",
+                        "838 0",
+                        "244 0",
+                        "465 958",
+                        "141 958",
+                        "174 1098",
+                        "659 1098"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni174D_uni1752",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1255,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "554 0",
+                        "395 0",
+                        "516 521",
+                        "121 521",
+                        "154 660",
+                        "548 660",
+                        "665 1163",
+                        "1184 1163",
+                        "1151 1024",
+                        "792 1024",
+                        "707 660",
+                        "1119 660",
+                        "1086 521",
+                        "675 521"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni174D_uni1753",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1255,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "586 139",
+                        "976 139",
+                        "943 0",
+                        "395 0",
+                        "516 521",
+                        "121 521",
+                        "154 660",
+                        "548 660",
+                        "665 1163",
+                        "824 1163",
+                        "707 660",
+                        "1119 660",
+                        "1086 521",
+                        "675 521"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni174E_uni1752",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1776,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "399 -512",
+                        "575 0",
+                        "102 0",
+                        "445 1466",
+                        "1172 1466",
+                        "1139 1327",
+                        "576 1327",
+                        "297 139",
+                        "625 139",
+                        "983 1180",
+                        "1749 1180",
+                        "1268 0",
+                        "739 0",
+                        "563 -512"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "1157 139",
+                        "1522 1040",
+                        "1102 1040",
+                        "788 139"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni1750_uni1753",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1552,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"uni1750"
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "765 1139",
+                        "808 1278",
+                        "1204 1278",
+                        "1171 1139"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "interpolationFlags":0,
+    "openTypeFeatures":[
+      {
+        "feature":"###\n# OpenType Layout feature definitions\n# Format: Adobe FDK for OpenType (AFDKO) version 2.5\n# Generated on: 2021-6-18 14:32\n# Generated by: FontLab 7.1.5\n# Font PostScript name: CotoSansBuhid\n# Font copyright: Copyright 2013 Google Inc. All Rights Reserved.\n#\n# Totals:\n# Languagesystems: 2\n# GSUB lookups: 1\n# GSUB features: 1 (ccmp)\n# GPOS lookups: 2\n# GPOS features: 1 (mark)\n\n#\n# Languagesystem definitions\n#\n\nlanguagesystem DFLT dflt; # Default default\nlanguagesystem buhd dflt; # Buhid default\n\n\n#\n# Lookup definitions\n#\n\n\n#\n# Feature definitions\n#\n\n"
+      },
+      {
+        "name":"ccmp",
+        "feature":"feature ccmp {\n# GSUB feature: Glyph Composition / Decomposition\n# Lookups: 1\n\n  sub uni1743 uni1752 by uni1743_uni1752;\n  sub uni1744 uni1753 by uni1744_uni1753;\n  sub uni1745 uni1752 by uni1745_uni1752;\n  sub uni1745 uni1753 by uni1745_uni1753;\n  sub uni1747 uni1752 by uni1747_uni1752;\n  sub uni1748 uni1753 by uni1748_uni1753;\n  sub uni1749 uni1753 by uni1749_uni1753;\n  sub uni174B uni1752 by uni174B_uni1752;\n  sub uni174C uni1753 by uni174C_uni1753;\n  sub uni174D uni1752 by uni174D_uni1752;\n  sub uni174D uni1753 by uni174D_uni1753;\n  sub uni174E uni1752 by uni174E_uni1752;\n  sub uni1750 uni1753 by uni1750_uni1753;\n\n} ccmp;\n\n"
+      },
+      {
+        "name":"mark",
+        "feature":"feature mark {\n# GPOS feature: Mark Positioning\n# Lookups: 2\n\n\n  lookup mark_1 {\n  # GPOS lookup 1, type 4 (MarkToBase attachment)\n    markClass uni1752 <anchor -370 1310> @t.uni1752;\n    pos base uni1744\n        <anchor 700 1150> mark @t.uni1752;\n    pos base uni1746\n        <anchor 1060 860> mark @t.uni1752;\n    pos base uni1748\n        <anchor 660 1640> mark @t.uni1752;\n    pos base uni1749\n        <anchor 1480 1310> mark @t.uni1752;\n    pos base uni174A\n        <anchor 760 1340> mark @t.uni1752;\n    pos base uni174C\n        <anchor 1300 1310> mark @t.uni1752;\n    pos base uni174F\n        <anchor 1210 1050> mark @t.uni1752;\n    pos base uni1750\n        <anchor 480 1640> mark @t.uni1752;\n    pos base uni1751\n        <anchor 625 680> mark @t.uni1752;\n  } mark_1;\n\n\n  lookup mark_2 {\n  # GPOS lookup 2, type 4 (MarkToBase attachment)\n    markClass uni1753 <anchor -725 -210> @b.uni1753;\n    pos base uni1743\n        <anchor 640 660> mark @b.uni1753;\n    pos base uni1746\n        <anchor 840 -140> mark @b.uni1753;\n    pos base uni1747\n        <anchor 660 -140> mark @b.uni1753;\n    pos base uni174A\n        <anchor 480 -140> mark @b.uni1753;\n    pos base uni174B\n        <anchor 540 -140> mark @b.uni1753;\n    pos base uni174E\n        <anchor 840 -340> mark @b.uni1753;\n    pos base uni174F\n        <anchor 700 -140> mark @b.uni1753;\n    pos base uni1751\n        <anchor 500 -140> mark @b.uni1753;\n  } mark_2;\n\n\n} mark;\n\n"
+      }
+    ],
+    "hinting":{
+      "maxZones":1,
+      "gasp":[
+        10,
+        8,
+        7,
+        14,
+        15,
+        65535
+      ]
+    },
+    "info":{
+      "tfn":"Coto Sans Buhid",
+      "sgn":"Coto Sans Buhid",
+      "creationDate":"2012/10/30 12:26:41",
+      "copyright":"Copyright 2013 Google Inc. All Rights Reserved.",
+      "trademark":"Noto is a trademark of Google Inc. and may be registered in certain jurisdictions.",
+      "designer":"Monotype Design team",
+      "designerURL":"http://www.monotype.com/studio",
+      "license":"Licensed under the Apache License, Version 2.0",
+      "licenseURL":"http://www.apache.org/licenses/LICENSE-2.0",
+      "manufacturer":"Monotype Imaging Inc.",
+      "manufacturerURL":"http://code.google.com/p/noto/",
+      "description":"Designed by Monotype design team",
+      "vendorID":"GOOG",
+      "versionMajor":1,
+      "versionMinor":10,
+      "version":"Version 1.01",
+      "codepageRange":"0000000000000001",
+      "unicodeRange":"00000000001000080000000000000003",
+      "useTypoMetrics":false,
+      "embedding":"0000"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"7649"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"round"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"Regular",
+          "sgn":"Coto Sans Buhid",
+          "ffn":"Coto Sans Buhid",
+          "psn":"CotoSansBuhid",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":2189,
+          "descender":-600,
+          "xHeight":1026,
+          "capsHeight":1466,
+          "measurement":512,
+          "weight":400,
+          "width":5,
+          "safeTop":2189,
+          "safeBottom":600,
+          "underlineThickness":50,
+          "underlinePosition":-75,
+          "inktrapLen":4,
+          "panose":"2 11 5 2 4 5 4 2 2 4",
+          "otherData":{
+            "DistanceX":102,
+            "DistanceY":102,
+            "HintingMaxH":512,
+            "HintingMaxV":512,
+            "HintingMinH":41,
+            "HintingMinV":41,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":8,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":2189,
+            "hhea_descender":-600,
+            "hhea_line_gap":0,
+            "hhea_use_custom":false,
+            "strikeout_position":512,
+            "strikeout_size":102,
+            "subscript_x_offset":0,
+            "subscript_x_size":1434,
+            "subscript_y_offset":287,
+            "subscript_y_size":1331,
+            "superscript_x_offset":0,
+            "superscript_x_size":1434,
+            "superscript_y_offset":977,
+            "superscript_y_size":1331
+          },
+          "hintingParameters":{
+            "maxZones":1
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"2189",
+            "Descender":"-600",
+            "CapsHeight":"1466",
+            "XHeight":"1026",
+            "UT":"50",
+            "UP":"-75"
+          }
+        }
+      }
+    ]
+  }
+}

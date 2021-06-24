@@ -1,0 +1,1208 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":31,
+    "upm":2048,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1024,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "922 0",
+                        "102 0",
+                        "102 1462",
+                        "922 1462"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "823 98",
+                        "823 1364",
+                        "201 1364",
+                        "201 98"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni0000",
+        "unicodes":[
+          0,
+          65279
+        ],
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0
+          }
+        ]
+      },
+      {
+        "name":"CR",
+        "unicode":"000d",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1044
+          }
+        ]
+      },
+      {
+        "name":"space",
+        "unicodes":[
+          32,
+          160
+        ],
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":532
+          }
+        ]
+      },
+      {
+        "name":"u10920",
+        "unicode":"10920",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1347,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "20 0",
+                        "591 1468",
+                        "757 1468",
+                        "1327 0",
+                        "1136 0",
+                        "928 557",
+                        "255 130",
+                        "206 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "351 383",
+                        "870 712",
+                        "741 1059",
+                        "671 1278",
+                        "648 1185  627 1112  608 1059"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10921",
+        "unicode":"10921",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1332,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "618 0 s",
+                        "459 0  334 37  245 110 s",
+                        "155 183  110 285  110 416 s",
+                        "110 608  213 727  438 766",
+                        "438 776",
+                        "257 809  160 927  160 1100 s",
+                        "160 1225  203 1316  290 1375 s",
+                        "377 1433  518 1462  715 1462 s",
+                        "1132 1462",
+                        "1132 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "948 158",
+                        "948 685",
+                        "667 685 s",
+                        "422 685  307 602  307 430 s",
+                        "307 246  420 158  653 158 s"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "706 1304 s",
+                        "459 1304  350 1239  350 1079 s",
+                        "350 994  376 933  427 896 s",
+                        "478 859  562 841  678 841 s",
+                        "948 841",
+                        "948 1304"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10922",
+        "unicode":"10922",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1294,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "120 199",
+                        "250 160  367 141  471 141 s",
+                        "632 141  756 192  844 294 s",
+                        "931 396  975 542  975 731 s",
+                        "975 914  930 1058  840 1163 s",
+                        "750 1268  626 1321  469 1321 s",
+                        "364 1321  254 1294  137 1241",
+                        "63 1397",
+                        "178 1454  312 1483  467 1483 s",
+                        "610 1483  735 1453  842 1392 s",
+                        "948 1331  1029 1243  1085 1130 s",
+                        "1141 1017  1169 884  1169 733 s",
+                        "1169 493  1111 308  995 177 s",
+                        "878 46  712 -20  497 -20 s",
+                        "423 -20  357 -16  300 -7 s",
+                        "242 1  182 16  120 39"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10923",
+        "unicode":"10923",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1119,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "60 90",
+                        "735 816",
+                        "735 1462",
+                        "919 1462",
+                        "919 0",
+                        "735 0",
+                        "735 578",
+                        "179 -20"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10924",
+        "unicode":"10924",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1184,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "60 452",
+                        "144 595",
+                        "800 194",
+                        "800 581",
+                        "210 942",
+                        "294 1085",
+                        "800 776",
+                        "800 1462",
+                        "984 1462",
+                        "984 0",
+                        "800 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10925",
+        "unicode":"10925",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1184,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "294 377",
+                        "210 520",
+                        "800 881",
+                        "800 1267",
+                        "144 867",
+                        "60 1010",
+                        "800 1462",
+                        "984 1462",
+                        "984 0",
+                        "800 0",
+                        "800 686"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10926",
+        "unicode":"10926",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":684,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "250 0",
+                        "250 1462",
+                        "434 1462",
+                        "434 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10927",
+        "unicode":"10927",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1296,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "889 0 s",
+                        "643 0  454 64  323 191 s",
+                        "191 318  125 503  125 745 s",
+                        "125 973  188 1150  315 1275 s",
+                        "441 1400  618 1462  846 1462 s",
+                        "1096 1462",
+                        "1096 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "912 158",
+                        "912 1305",
+                        "872 1305 s",
+                        "504 1305  319 1112  319 739 s",
+                        "319 352  514 158  903 158 s"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10928",
+        "unicode":"10928",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1065,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "159 165",
+                        "60 298",
+                        "611 749",
+                        "60 1201",
+                        "159 1334",
+                        "681 904",
+                        "681 1462",
+                        "865 1462",
+                        "865 0",
+                        "681 0",
+                        "681 594"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10929",
+        "unicode":"10929",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1184,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "800 0",
+                        "800 1267",
+                        "144 867",
+                        "60 1010",
+                        "800 1462",
+                        "984 1462",
+                        "984 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u1092A",
+        "unicode":"1092a",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1536,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "187 819",
+                        "60 925",
+                        "407 1370",
+                        "538 1370",
+                        "808 1020",
+                        "1152 1462",
+                        "1336 1462",
+                        "1336 0",
+                        "1152 0",
+                        "1152 1192",
+                        "893 859",
+                        "725 859",
+                        "470 1182"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u1092B",
+        "unicode":"1092b",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1389,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "1005 0",
+                        "1005 1229",
+                        "636 845",
+                        "507 845",
+                        "506 848",
+                        "503 845",
+                        "60 1370",
+                        "188 1482",
+                        "576 1016",
+                        "1005 1462",
+                        "1189 1462",
+                        "1189 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u1092C",
+        "unicode":"1092c",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1448,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "404 263 s",
+                        "224 354  125 528  125 751 s",
+                        "125 861  149 958  197 1043 s",
+                        "293 1211  480 1305  725 1305 s",
+                        "911 1305  1057 1256  1164 1157 s",
+                        "1270 1058  1323 922  1323 750 s",
+                        "1323 578  1269 443  1162 344 s",
+                        "1055 245  908 195  722 195 s",
+                        "600 195  494 218 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "722 357 s",
+                        "983 357  1129 490  1129 750 s",
+                        "1129 1003  992 1143  725 1143 s",
+                        "458 1143  319 1005  319 750 s",
+                        "319 493  461 357 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u1092D",
+        "unicode":"1092d",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1264,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "880 0",
+                        "880 569",
+                        "712 569 s",
+                        "525 569  380 608  278 685 s",
+                        "176 762  125 875  125 1022 s",
+                        "125 1311  316 1462  677 1462 s",
+                        "1064 1462",
+                        "1064 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "880 727",
+                        "880 1304",
+                        "694 1304 s",
+                        "435 1304  319 1212  319 1024 s",
+                        "319 921  352 845  417 798 s",
+                        "482 751  588 727  733 727 s"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u1092E",
+        "unicode":"1092e",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1166,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "953 -40",
+                        "860 27  794 89  754 145 s",
+                        "713 201  693 260  693 321 s",
+                        "693 355  699 397  712 448 s",
+                        "725 499  731 539  731 570 s",
+                        "731 639  699 673  636 673 s",
+                        "611 673  578 668  539 657",
+                        "511 813",
+                        "672 856  755 962  755 1098 s",
+                        "755 1238  656 1321  489 1321 s",
+                        "424 1321  363 1312  307 1293 s",
+                        "251 1274  188 1241  117 1194",
+                        "30 1331",
+                        "150 1426  311 1483  487 1483 s",
+                        "634 1483  747 1452  828 1389 s",
+                        "909 1326  949 1237  949 1120 s",
+                        "949 999  902 896  807 811",
+                        "886 778  925 710  925 606 s",
+                        "925 572  919 524  906 463 s",
+                        "893 402  887 359  887 336 s",
+                        "887 299  901 263  928 227 s",
+                        "955 191  1001 147  1066 94"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u1092F",
+        "unicode":"1092f",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1156,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "487 0",
+                        "487 1304",
+                        "30 1304",
+                        "30 1462",
+                        "1126 1462",
+                        "1126 1304",
+                        "671 1304",
+                        "671 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10930",
+        "unicode":"10930",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1119,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "919 0",
+                        "735 0",
+                        "735 642",
+                        "60 1369",
+                        "179 1482",
+                        "735 883",
+                        "735 1462",
+                        "919 1462"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10931",
+        "unicode":"10931",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1193,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "233 84 s",
+                        "144 153  100 249  100 373 s",
+                        "100 539  202 669  405 764",
+                        "224 868  148 983  148 1135 s",
+                        "148 1240  189 1324  272 1388 s",
+                        "355 1451  463 1483  596 1483 s",
+                        "731 1483  839 1452  921 1389 s",
+                        "1003 1326  1044 1241  1044 1133 s",
+                        "1044 986  960 874  765 774",
+                        "883 717  967 657  1018 594 s",
+                        "1068 531  1093 459  1093 379 s",
+                        "1093 260  1049 163  960 90 s",
+                        "871 17  752 -20  602 -20 s",
+                        "444 -20  321 15 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "290 371 s",
+                        "290 228  387 142  598 142 s",
+                        "797 142  903 226  903 377 s",
+                        "903 442  877 499  824 548 s",
+                        "771 596  684 642  565 685",
+                        "376 605  290 512 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "442 933 s",
+                        "475 908  529 879  604 847",
+                        "771 916  854 1007  854 1120 s",
+                        "854 1252  757 1321  594 1321 s",
+                        "435 1321  338 1251  338 1120 s",
+                        "338 1081  347 1047  365 1017",
+                        "382 986  408 958 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10932",
+        "unicode":"10932",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1254,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "535 0",
+                        "535 666",
+                        "80 666",
+                        "80 822",
+                        "535 822",
+                        "535 1462",
+                        "719 1462",
+                        "719 822",
+                        "1174 822",
+                        "1174 666",
+                        "719 666",
+                        "719 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10933",
+        "unicode":"10933",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1254,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "535 0",
+                        "535 666",
+                        "80 666",
+                        "80 822",
+                        "535 822",
+                        "535 1304",
+                        "80 1304",
+                        "80 1462",
+                        "1174 1462",
+                        "1174 1304",
+                        "719 1304",
+                        "719 822",
+                        "1174 822",
+                        "1174 666",
+                        "719 666",
+                        "719 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10934",
+        "unicode":"10934",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1254,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "80 0",
+                        "80 158",
+                        "535 158",
+                        "535 666",
+                        "80 666",
+                        "80 822",
+                        "535 822",
+                        "535 1304",
+                        "80 1304",
+                        "80 1462",
+                        "1174 1462",
+                        "1174 1304",
+                        "719 1304",
+                        "719 822",
+                        "1174 822",
+                        "1174 666",
+                        "719 666",
+                        "719 158",
+                        "1174 158",
+                        "1174 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10935",
+        "unicode":"10935",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1913,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "30 0",
+                        "417 1462",
+                        "608 1462",
+                        "879 516",
+                        "918 377  941 279  949 221",
+                        "956 271  981 367  1023 510 s",
+                        "1303 1462",
+                        "1494 1462",
+                        "1883 0",
+                        "1688 0",
+                        "1465 886",
+                        "1428 1027  1405 1144  1394 1236",
+                        "1375 1117  1349 999  1314 884 s",
+                        "1049 0",
+                        "851 0",
+                        "597 877 s",
+                        "560 1007  534 1127  519 1236",
+                        "504 1132  481 1016  449 888 s",
+                        "225 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10936",
+        "unicode":"10936",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1379,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "597 0",
+                        "597 557",
+                        "40 1462",
+                        "228 1462",
+                        "474 1053",
+                        "597 836",
+                        "597 1462",
+                        "781 1462",
+                        "781 832",
+                        "825 914  871 995  919 1075 s",
+                        "1151 1462",
+                        "1339 1462",
+                        "781 557",
+                        "781 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10937",
+        "unicode":"10937",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1698,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "757 0",
+                        "757 1201",
+                        "551 940",
+                        "413 940",
+                        "60 1382",
+                        "187 1482",
+                        "481 1117",
+                        "757 1462",
+                        "941 1462",
+                        "1217 1117",
+                        "1511 1482",
+                        "1638 1382",
+                        "1285 940",
+                        "1147 940",
+                        "941 1201",
+                        "941 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10938",
+        "unicode":"10938",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1337,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "1094 -20",
+                        "949 19  835 77  752 153 s",
+                        "669 228  627 312  627 403 s",
+                        "627 486  648 556  690 614",
+                        "632 653  561 672  477 672 s",
+                        "359 672  259 626  176 534",
+                        "80 651",
+                        "131 707  192 752  261 785 s",
+                        "330 818  401 834  476 834 s",
+                        "597 834  720 794  808 731",
+                        "874 782  918 821  941 849 s",
+                        "986 904  1013 968  1013 1057 s",
+                        "1013 1109  981 1161  918 1212 s",
+                        "854 1263  770 1305  667 1337",
+                        "740 1482",
+                        "887 1436  1001 1376  1084 1303 s",
+                        "1166 1230  1207 1150  1207 1065 s",
+                        "1207 912  1141 790  1014 690 s",
+                        "941 632  891 583  863 543 s",
+                        "835 503  821 459  821 411 s",
+                        "821 353  854 298  920 245 s",
+                        "985 192  1068 152  1167 125"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u10939",
+        "unicode":"10939",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1401,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "609 0",
+                        "609 1211",
+                        "157 748",
+                        "40 862",
+                        "628 1462",
+                        "773 1462",
+                        "1361 862",
+                        "1244 748",
+                        "793 1209",
+                        "793 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"u1093F",
+        "unicode":"1093f",
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":995,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "100 616",
+                        "100 825",
+                        "681 1188",
+                        "865 1188",
+                        "865 253",
+                        "681 253"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "239 720",
+                        "681 442",
+                        "681 999"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "interpolationFlags":0,
+    "openTypeFeatures":[
+      {
+        "feature":"#> languagesystem\nlanguagesystem DFLT dflt;\nlanguagesystem latn dflt;\nlanguagesystem lydi dflt;\n#< languagesystem\n"
+      },
+      {
+        "name":"ccmp"
+      }
+    ],
+    "hinting":{
+      "maxZones":1,
+      "gasp":[
+        10,
+        8,
+        7,
+        14,
+        15,
+        65535
+      ]
+    },
+    "info":{
+      "tfn":"Coto Sans Lydian",
+      "sgn":"Coto Sans Lydian",
+      "creationDate":"2012/08/10 13:26:18",
+      "copyright":"Copyright 2012 Google Inc. All Rights Reserved.",
+      "trademark":"Noto is a trademark of Google Inc. and may be registered in certain jurisdictions.",
+      "designer":"Monotype Design team",
+      "designerURL":"http://www.monotypeimaging.com/ProductsServices/TypeDesignerShowcase",
+      "license":"Licensed under the Apache License, Version 2.0",
+      "licenseURL":"http://www.apache.org/licenses/LICENSE-2.0",
+      "manufacturer":"Monotype Imaging Inc.",
+      "manufacturerURL":"http://code.google.com/p/noto/",
+      "description":"Designed by Monotype design team",
+      "vendorID":"GOOG",
+      "versionMajor":1,
+      "versionMinor":20,
+      "version":"Version 1.02",
+      "codepageRange":"0000000000000001",
+      "unicodeRange":"02000000000000080200000000000003",
+      "useTypoMetrics":false,
+      "embedding":"0000"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"7649"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"round"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"Regular",
+          "sgn":"Coto Sans Lydian",
+          "ffn":"Coto Sans Lydian",
+          "psn":"CotoSansLydian",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":2189,
+          "descender":-600,
+          "xHeight":1024,
+          "capsHeight":1434,
+          "measurement":512,
+          "weight":400,
+          "width":5,
+          "safeTop":2189,
+          "safeBottom":600,
+          "underlineThickness":102,
+          "underlinePosition":-154,
+          "inktrapLen":4,
+          "panose":"2 11 5 2 4 5 4 2 2 4",
+          "otherData":{
+            "DistanceX":102,
+            "DistanceY":102,
+            "HintingMaxH":512,
+            "HintingMaxV":512,
+            "HintingMinH":41,
+            "HintingMinV":41,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":8,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":2189,
+            "hhea_descender":-600,
+            "hhea_line_gap":0,
+            "hhea_use_custom":false,
+            "strikeout_position":512,
+            "strikeout_size":102,
+            "subscript_x_offset":0,
+            "subscript_x_size":1434,
+            "subscript_y_offset":287,
+            "subscript_y_size":1331,
+            "superscript_x_offset":0,
+            "superscript_x_size":1434,
+            "superscript_y_offset":977,
+            "superscript_y_size":1331
+          },
+          "hintingParameters":{
+            "maxZones":1
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"2189",
+            "Descender":"-600",
+            "CapsHeight":"1434",
+            "XHeight":"1024",
+            "UT":"102",
+            "UP":"-154"
+          }
+        }
+      }
+    ]
+  }
+}

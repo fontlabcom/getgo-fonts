@@ -1,14 +1,20 @@
 # GetGo Stroke Grot
 
-GetGo Stroke Grot is a single-stroke design.
+GetGo Stroke Grot is a single-stroke grotesque sanserif design. You can apply Power Brush or a Stroke to it to experiment.
 
 It contains a basic Latin glyph set.
 
 
 ## License
 
-Based on [Baardusan](https://fontstruct.com/fontstructions/show/1917126/baardusan) by [Echo Heo](https://fontstruct.com/fontstructors/1438344/bluemon-1).
+Based on [Work Sans](https://github.com/weiweihuanghuang/Work-Sans) by Wei Huang.
 
-Dedicated to the public domain via the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). No rights reserved.
+Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans). Licensed under the [SIL Open Font License, Version 1.1](https://scripts.sil.org/OFL).
 
-The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+## Using this font
+
+You may create your own fonts based on this font, and you may incorporate portions of this font into your own font, but you must publish the resulting font under the same license (SIL Open Font License, Version 1.1):
+
+- in _Font Info › Legal › Copyright_, include `Portions Copyright 2019 The Work Sans Project Authors.`
+- in _Font Info › Legal › Copyright_, put `Licensed under the SIL Open Font License, Version 1.1.`
+- see [the license](https://scripts.sil.org/OFL) for more details

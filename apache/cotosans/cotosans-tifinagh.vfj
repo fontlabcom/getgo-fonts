@@ -1,0 +1,5627 @@
+{
+  "version":8,
+  "font":{
+    "glyphsCount":101,
+    "upm":2048,
+    "glyphs":[
+      {
+        "name":".notdef",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1229,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "193 0",
+                        "193 1462",
+                        "1034 1462",
+                        "1034 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "930 104",
+                        "930 1358",
+                        "297 1358",
+                        "297 104"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"uni0000",
+        "unicodes":[
+          0,
+          65279
+        ],
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0
+          }
+        ]
+      },
+      {
+        "name":"CR",
+        "unicode":"000d",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":532
+          }
+        ]
+      },
+      {
+        "name":"space",
+        "unicodes":[
+          32,
+          160
+        ],
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":532
+          }
+        ]
+      },
+      {
+        "name":"ya-tifi",
+        "unicode":"2d30",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":848,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "239 54 s",
+                        "188 103  162 165  162 240 s",
+                        "162 314  188 376  239 427 s",
+                        "290 477  352 502  424 502 s",
+                        "496 502  558 477  609 427 s",
+                        "660 376  686 314  686 240 s",
+                        "686 166  661 104  610 55 s",
+                        "559 5  497 -20  424 -20 s",
+                        "352 -20  290 5 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "342 156 s",
+                        "366 133  394 121  426 121 s",
+                        "457 121  485 133  508 156 s",
+                        "531 179  543 207  543 240 s",
+                        "543 272  531 300  508 323 s",
+                        "485 346  457 358  426 358 s",
+                        "393 358  365 347  341 324 s",
+                        "317 301  305 273  305 240 s",
+                        "305 207  317 179 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"420 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"420 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yab-tifi",
+        "unicode":"2d31",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1753,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "494 83 s",
+                        "378 151  287 243  222 359 s",
+                        "156 475  123 599  123 731 s",
+                        "123 866  157 991  224 1108 s",
+                        "291 1225  382 1317  498 1384 s",
+                        "614 1451  739 1485  874 1485 s",
+                        "1009 1485  1135 1451  1252 1384 s",
+                        "1368 1316  1460 1224  1527 1108 s",
+                        "1594 991  1628 866  1628 731 s",
+                        "1628 598  1595 474  1529 359 s",
+                        "1463 244  1372 152  1256 83 s",
+                        "1140 14  1013 -20  874 -20 s",
+                        "737 -20  610 14 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "309 651",
+                        "322 555  356 468  410 389 s",
+                        "463 310  531 248  614 205 s",
+                        "696 161  784 139  877 139 s",
+                        "971 139  1059 161  1141 206 s",
+                        "1223 250  1291 312  1345 391 s",
+                        "1398 470  1431 556  1444 651"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "1444 813",
+                        "1431 908  1397 995  1343 1074 s",
+                        "1289 1153  1221 1214  1139 1259 s",
+                        "1056 1303  969 1325  877 1325 s",
+                        "784 1325  696 1303  614 1258 s",
+                        "531 1213  464 1152  411 1074 s",
+                        "358 996  324 909  311 813"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"880 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"880 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yabh-tifi",
+        "unicode":"2d32",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1755,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "495 84 s",
+                        "378 153  288 245  223 360 s",
+                        "158 475  125 599  125 731 s",
+                        "125 864  158 989  224 1106 s",
+                        "290 1222  381 1314  498 1383 s",
+                        "615 1451  741 1485  877 1485 s",
+                        "1012 1485  1137 1451  1254 1384 s",
+                        "1370 1316  1462 1224  1529 1108 s",
+                        "1596 991  1630 866  1630 731 s",
+                        "1630 598  1597 474  1531 359 s",
+                        "1465 244  1374 152  1258 83 s",
+                        "1142 14  1015 -20  877 -20 s",
+                        "739 -20  612 15 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "797 651",
+                        "309 651",
+                        "326 520  381 408  472 313 s",
+                        "563 218  672 162  797 143"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "958 651",
+                        "958 145",
+                        "1081 161  1188 216  1280 311 s",
+                        "1372 406  1427 519  1444 651"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "797 813",
+                        "797 1319",
+                        "672 1302  565 1246  474 1151 s",
+                        "383 1056  328 944  311 813"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "958 813",
+                        "1444 813",
+                        "1425 945  1371 1057  1282 1150 s",
+                        "1192 1243  1084 1299  958 1319"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"880 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"880 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yag-tifi",
+        "unicode":"2d33",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1391,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "70 0",
+                        "598 713",
+                        "111 1370",
+                        "111 1462",
+                        "1280 1462",
+                        "1280 1372",
+                        "793 713",
+                        "1321 0",
+                        "1126 0",
+                        "694 582",
+                        "264 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "356 1300",
+                        "694 844",
+                        "1032 1300"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"680 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"680 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yaghh-tifi",
+        "unicode":"2d34",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1391,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "111 0",
+                        "111 92",
+                        "598 750",
+                        "70 1462",
+                        "264 1462",
+                        "694 881",
+                        "1126 1462",
+                        "1321 1462",
+                        "793 750",
+                        "1280 90",
+                        "1280 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "694 618",
+                        "356 162",
+                        "1032 162"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"680 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"680 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yajBerberacademy-tifi",
+        "unicode":"2d35",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1309,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "70 0",
+                        "70 92",
+                        "555 731",
+                        "70 1370",
+                        "70 1462",
+                        "1239 1462",
+                        "1239 1372",
+                        "750 731",
+                        "1239 90",
+                        "1239 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "317 1300",
+                        "653 858",
+                        "989 1300"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "653 602",
+                        "317 162",
+                        "989 162"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"680 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"680 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yaj-tifi",
+        "unicode":"2d36",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1239,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"yan-tifi"
+                },
+                "transform":{
+                  "xOffset":329
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "id":"elementdata",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "227 1186 s",
+                        "148 1186  102 1238  102 1325 s",
+                        "102 1413  147 1462  227 1462 s",
+                        "308 1462  356 1413  356 1325 s",
+                        "356 1240  308 1186 c"
+                      ]
+                    }
+                  ]
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata",
+                "transform":{
+                  "xOffset":781
+                },
+                "locked":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"620 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"620 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yad-tifi",
+        "unicode":"2d37",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1292,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "61 0",
+                        "565 1462",
+                        "727 1462",
+                        "1231 0",
+                        "1059 0",
+                        "741 924",
+                        "696 1051  665 1151  647 1223",
+                        "640 1195  633 1167  624 1139 s",
+                        "615 1111  485 731  233 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"640 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"640 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yadh-tifi",
+        "unicode":"2d38",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1292,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "565 0",
+                        "61 1462",
+                        "233 1462",
+                        "549 549 s",
+                        "590 428  623 338  647 242",
+                        "658 284  671 330  687 379 s",
+                        "703 428  827 789  1059 1462",
+                        "1231 1462",
+                        "727 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"640 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"640 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yadd-tifi",
+        "unicode":"2d39",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1325,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1462",
+                        "1202 1462",
+                        "1202 1300",
+                        "381 1300",
+                        "381 813",
+                        "1202 813",
+                        "1202 651",
+                        "381 651",
+                        "381 162",
+                        "1202 162",
+                        "1202 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"680 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"720 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yaddh-tifi",
+        "unicode":"2d3a",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1325,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "123 0",
+                        "123 162",
+                        "944 162",
+                        "944 651",
+                        "123 651",
+                        "123 813",
+                        "944 813",
+                        "944 1300",
+                        "123 1300",
+                        "123 1462",
+                        "1126 1462",
+                        "1126 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"620 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"620 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yey-tifi",
+        "unicode":"2d3b",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1434,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"ya-tifi"
+                },
+                "transform":{
+                  "xOffset":293
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "82 813",
+                        "1352 813",
+                        "1352 651",
+                        "82 651"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "component":{
+                  "glyphName":"ya-tifi"
+                },
+                "transform":{
+                  "xOffset":293,
+                  "yOffset":983
+                },
+                "locked":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"720 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"720 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yaf-tifi",
+        "unicode":"2d3c",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1626,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "123 0",
+                        "123 162",
+                        "483 162",
+                        "483 1300",
+                        "123 1300",
+                        "123 1462",
+                        "666 1462",
+                        "666 813",
+                        "961 813",
+                        "961 1462",
+                        "1503 1462",
+                        "1503 1300",
+                        "1143 1300",
+                        "1143 162",
+                        "1503 162",
+                        "1503 0",
+                        "961 0",
+                        "961 651",
+                        "666 651",
+                        "666 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"810 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"810 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yak-tifi",
+        "unicode":"2d3d",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1483,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "291 0",
+                        "199 0",
+                        "199 1462",
+                        "1368 1462",
+                        "1368 1372",
+                        "872 741",
+                        "1413 0",
+                        "1219 0",
+                        "770 610"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "381 678 s",
+                        "381 539  378 426  373 338",
+                        "1118 1300",
+                        "381 1300"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"760 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"760 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yakTuareg-tifi",
+        "unicode":"2d3e",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1020,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "270 -20 s",
+                        "177 -20  123 39  123 143 s",
+                        "123 247  177 305  270 305 s",
+                        "365 305  422 247  422 143 s",
+                        "422 39  365 -20 c"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "id":"elementdata.1",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "297 41 s",
+                        "205 41  150 101  150 205 s",
+                        "150 309  201 367  297 367 s",
+                        "393 367  449 310  449 205 s",
+                        "449 101  390 41 c"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":448,
+                  "yOffset":528
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.1",
+                "transform":{
+                  "xOffset":-27,
+                  "yOffset":1118
+                },
+                "locked":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"500 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"500 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yakhh-tifi",
+        "unicode":"2d3f",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1483,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1462",
+                        "291 1462",
+                        "770 850",
+                        "1219 1462",
+                        "1413 1462",
+                        "872 721",
+                        "1368 90",
+                        "1368 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "381 162",
+                        "1116 162",
+                        "371 1104",
+                        "378 992  381 852  381 684 s"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"740 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"740 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yah-tifi",
+        "unicode":"2d40",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1755,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "495 84 s",
+                        "378 153  288 245  223 360 s",
+                        "158 475  125 599  125 731 s",
+                        "125 864  158 989  224 1106 s",
+                        "290 1222  381 1314  498 1383 s",
+                        "615 1451  741 1485  877 1485 s",
+                        "1012 1485  1137 1451  1254 1384 s",
+                        "1370 1316  1462 1224  1529 1108 s",
+                        "1596 991  1630 866  1630 731 s",
+                        "1630 598  1597 474  1531 359 s",
+                        "1465 244  1374 152  1258 83 s",
+                        "1142 14  1015 -20  877 -20 s",
+                        "739 -20  612 15 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "786 1317",
+                        "698 1304  617 1269  542 1213 s",
+                        "467 1156  408 1086  367 1002 s",
+                        "326 917  305 827  305 731 s",
+                        "305 635  326 545  367 462 s",
+                        "408 378  466 308  540 253 s",
+                        "614 198  696 162  786 147"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "969 147",
+                        "1058 161  1139 196  1214 252 s",
+                        "1288 307  1346 377  1387 461 s",
+                        "1428 545  1448 635  1448 731 s",
+                        "1448 826  1427 916  1386 1001 s",
+                        "1345 1085  1287 1155  1214 1210 s",
+                        "1141 1265  1059 1301  969 1317"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"880 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"880 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yahBerberacademy-tifi",
+        "unicode":"2d41",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1755,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "125 94",
+                        "291 260",
+                        "180 396  125 553  125 731 s",
+                        "125 864  158 989  224 1106 s",
+                        "290 1222  381 1314  498 1383 s",
+                        "615 1451  741 1485  877 1485 s",
+                        "1056 1485  1219 1421  1348 1317",
+                        "1516 1485",
+                        "1630 1370",
+                        "1462 1202",
+                        "1567 1073  1630 910  1630 731 s",
+                        "1630 598  1597 474  1531 359 s",
+                        "1465 244  1374 152  1258 83 s",
+                        "1142 14  1015 -20  877 -20 s",
+                        "700 -20  543 35  406 145",
+                        "240 -20"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "1229 1198",
+                        "1122 1283  1004 1325  877 1325 s",
+                        "772 1325  675 1299  588 1247 s",
+                        "500 1195  431 1123  381 1031 s",
+                        "330 939  305 839  305 731 s",
+                        "305 609  341 493  414 383"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "524 264",
+                        "630 181  748 139  877 139 s",
+                        "982 139  1078 165  1167 218 s",
+                        "1255 270  1324 341  1374 432 s",
+                        "1423 523  1448 622  1448 731 s",
+                        "1448 858  1412 974  1339 1079"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"880 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"880 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yahTuareg-tifi",
+        "unicode":"2d42",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":584,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "289 -39 s",
+                        "208 -39  160 12  160 104 s",
+                        "160 196  204 248  289 248 s",
+                        "376 248  424 195  424 104 s",
+                        "424 13  373 -39 c"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "289 379 s",
+                        "209 379  160 432  160 524 s",
+                        "160 619  203 666  289 666 s",
+                        "374 666  424 616  424 524 s",
+                        "424 433  372 379 c"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "289 797 s",
+                        "208 797  160 848  160 940 s",
+                        "160 1031  208 1083  289 1083 s",
+                        "373 1083  424 1029  424 940 s",
+                        "424 849  373 797 c"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "289 1214 s",
+                        "210 1214  160 1265  160 1358 s",
+                        "160 1449  205 1501  289 1501 s",
+                        "376 1501  424 1446  424 1358 s",
+                        "424 1269  370 1214 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"300 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"300 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yahh-tifi",
+        "unicode":"2d43",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1309,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "70 0",
+                        "1044 1462",
+                        "1239 1462",
+                        "752 731",
+                        "1239 0",
+                        "1044 0",
+                        "653 584",
+                        "264 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"640 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"640 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yaa-tifi",
+        "unicode":"2d44",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1485,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 813",
+                        "651 813",
+                        "651 1462",
+                        "834 1462",
+                        "834 813",
+                        "1286 813",
+                        "1286 0",
+                        "1104 0",
+                        "1104 651",
+                        "381 651",
+                        "381 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"740 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"740 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yakh-tifi",
+        "unicode":"2d45",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1309,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "70 0",
+                        "557 731",
+                        "70 1462",
+                        "264 1462",
+                        "339 1349  401 1257  448 1186 s",
+                        "495 1115  541 1040  584 963",
+                        "588 963",
+                        "578 1073  573 1147  573 1186 s",
+                        "573 1462",
+                        "735 1462",
+                        "735 1192 s",
+                        "735 1139  731 1063  723 963",
+                        "727 963",
+                        "797 1084  842 1160  862 1190 s",
+                        "1044 1462",
+                        "1239 1462",
+                        "752 731",
+                        "1239 0",
+                        "1044 0",
+                        "653 584",
+                        "264 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"660 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"660 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yakhTuareg-tifi",
+        "unicode":"2d46",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1432,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"elementdata.2",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "287 127 s",
+                        "191 127  139 188  139 291 s",
+                        "139 395  192 453  287 453 s",
+                        "383 453  438 394  438 291 s",
+                        "438 188  384 127 c"
+                      ]
+                    }
+                  ]
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.2",
+                "transform":{
+                  "xOffset":854
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "id":"elementdata.3",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "401 960 s",
+                        "309 960  253 1019  253 1123 s",
+                        "253 1227  304 1285  401 1285 s",
+                        "498 1285  552 1227  552 1123 s",
+                        "552 1022  494 960 c"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":-114,
+                  "yOffset":48
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.3",
+                "transform":{
+                  "xOffset":740,
+                  "yOffset":48
+                },
+                "locked":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"740 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"740 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yaq-tifi",
+        "unicode":"2d47",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1491,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1462",
+                        "1368 1462",
+                        "1368 1372",
+                        "479 162",
+                        "1368 162",
+                        "1368 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "381 743 s",
+                        "381 594  377 438  369 276",
+                        "1120 1300",
+                        "381 1300"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"780 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"780 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yaqTuareg-tifi",
+        "unicode":"2d48",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1520,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "274 594 s",
+                        "197 594  150 645  150 733 s",
+                        "150 824  191 870  274 870 s",
+                        "358 870  403 818  403 733 s",
+                        "403 648  355 594 c"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "id":"elementdata.4",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "758 594 s",
+                        "679 594  633 644  633 733 s",
+                        "633 824  675 870  758 870 s",
+                        "842 870  887 818  887 733 s",
+                        "887 648  839 594 c"
+                      ]
+                    }
+                  ]
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.4",
+                "transform":{
+                  "xOffset":483
+                },
+                "locked":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"760 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"760 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yi-tifi",
+        "unicode":"2d49",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":977,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "123 477",
+                        "383 612  554 699  635 737",
+                        "503 801",
+                        "123 997",
+                        "123 1114",
+                        "854 1485",
+                        "854 1313",
+                        "585 1171  416 1084  348 1053",
+                        "439 1010  506 978  547 956 s",
+                        "854 797",
+                        "854 678",
+                        "591 546  415 459  326 418",
+                        "374 396  550 307  854 152",
+                        "854 -20",
+                        "123 360"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"500 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"500 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yazh-tifi",
+        "unicode":"2d4a",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1047,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "102 0",
+                        "102 162",
+                        "432 162",
+                        "432 1300",
+                        "102 1300",
+                        "102 1462",
+                        "944 1462",
+                        "944 1300",
+                        "614 1300",
+                        "614 162",
+                        "944 162",
+                        "944 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"520 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"520 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yazhAhaggar-tifi",
+        "unicode":"2d4b",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1284,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "123 139",
+                        "200 139  271 166  338 219 s",
+                        "405 272  457 345  496 436 s",
+                        "534 527  553 625  553 731 s",
+                        "553 837  534 936  495 1029 s",
+                        "456 1121  404 1193  337 1246 s",
+                        "270 1299  199 1325  123 1325",
+                        "123 1485",
+                        "231 1485  332 1449  426 1377 s",
+                        "519 1305  592 1206  643 1081",
+                        "694 1207  766 1306  859 1378 s",
+                        "951 1449  1052 1485  1161 1485",
+                        "1161 1325",
+                        "1084 1325  1013 1299  947 1246 s",
+                        "881 1193  829 1121  791 1029 s",
+                        "752 937  733 838  733 731 s",
+                        "733 625  752 526  790 435 s",
+                        "828 344  880 272  947 219 s",
+                        "1014 166  1085 139  1161 139",
+                        "1161 -20",
+                        "1052 -20  951 16  858 87 s",
+                        "765 158  693 256  643 379",
+                        "592 256  521 158  428 87 s",
+                        "335 16  233 -20  123 -20"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"640 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"640 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yazhTuareg-tifi",
+        "unicode":"2d4c",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1606,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "442 0",
+                        "442 381",
+                        "92 381",
+                        "92 543",
+                        "442 543",
+                        "442 920",
+                        "92 920",
+                        "92 1081",
+                        "442 1081",
+                        "442 1462",
+                        "625 1462",
+                        "625 1081",
+                        "981 1081",
+                        "981 1462",
+                        "1163 1462",
+                        "1163 1081",
+                        "1513 1081",
+                        "1513 920",
+                        "1163 920",
+                        "1163 543",
+                        "1513 543",
+                        "1513 381",
+                        "1163 381",
+                        "1163 0",
+                        "981 0",
+                        "981 381",
+                        "625 381",
+                        "625 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "981 543",
+                        "981 920",
+                        "625 920",
+                        "625 543"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"800 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"800 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yal-tifi",
+        "unicode":"2d4d",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1098,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1462",
+                        "383 1462",
+                        "383 772 s",
+                        "383 707  381 613  377 489",
+                        "383 489",
+                        "408 560  436 648  467 711",
+                        "717 1264",
+                        "717 1462",
+                        "899 1462",
+                        "899 0",
+                        "717 0",
+                        "717 797 s",
+                        "717 874  719 937  723 987",
+                        "717 987",
+                        "681 882",
+                        "641 784",
+                        "383 215",
+                        "383 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"560 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"560 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yam-tifi",
+        "unicode":"2d4e",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1325,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1462",
+                        "1202 1462",
+                        "1202 1300",
+                        "381 1300",
+                        "381 162",
+                        "1202 162",
+                        "1202 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"720 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"720 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yan-tifi",
+        "unicode":"2d4f",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":580,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "188 0",
+                        "188 1462",
+                        "371 1462",
+                        "371 0"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":11
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"300 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"300 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yagnTuareg-tifi",
+        "unicode":"2d50",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1567,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "113 442",
+                        "113 604",
+                        "692 604",
+                        "692 858",
+                        "113 858",
+                        "113 1020",
+                        "692 1020",
+                        "692 1462",
+                        "874 1462",
+                        "874 1020",
+                        "1452 1020",
+                        "1452 858",
+                        "874 858",
+                        "874 604",
+                        "1452 604",
+                        "1452 442",
+                        "874 442",
+                        "874 0",
+                        "692 0",
+                        "692 442"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"780 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"780 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yangTuareg-tifi",
+        "unicode":"2d51",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":559,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"yan-tifi"
+                },
+                "transform":{
+                  "xOffset":-11
+                },
+                "locked":true
+              },
+              {
+                "component":{
+                  "glyphName":"dotbelowcomb"
+                },
+                "transform":{
+                  "xOffset":585
+                },
+                "locked":true,
+                "nonSpacing":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"280 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"280 -380"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yap-tifi",
+        "unicode":"2d52",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1128,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "506 829",
+                        "537 831",
+                        "565 831 s",
+                        "715 831  834 793  923 718 s",
+                        "1011 642  1055 539  1055 410 s",
+                        "1055 329  1035 256  995 190 s",
+                        "914 57  762 -20  565 -20 s",
+                        "414 -20  295 18  208 93 s",
+                        "120 168  76 271  76 403 s",
+                        "76 479  91 546  120 605 s",
+                        "149 664  210 741  303 838",
+                        "760 1303",
+                        "145 1303",
+                        "145 1462",
+                        "989 1462",
+                        "989 1317"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "341 204 s",
+                        "395 155  470 131  567 131 s",
+                        "662 131  737 157  790 209 s",
+                        "843 261  870 333  870 424 s",
+                        "870 498  842 560  786 610 s",
+                        "730 659  657 684  567 684 s",
+                        "472 684  397 659  342 609 s",
+                        "287 559  260 492  260 408 s",
+                        "260 321  287 253 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"560 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"560 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yu-tifi",
+        "unicode":"2d53",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":848,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"ya-tifi"
+                },
+                "locked":true
+              },
+              {
+                "component":{
+                  "glyphName":"ya-tifi"
+                },
+                "transform":{
+                  "yOffset":983
+                },
+                "locked":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"420 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"420 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yar-tifi",
+        "unicode":"2d54",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1755,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "495 84 s",
+                        "378 153  288 245  223 360 s",
+                        "158 475  125 599  125 731 s",
+                        "125 864  158 989  224 1106 s",
+                        "290 1222  381 1314  498 1383 s",
+                        "615 1451  741 1485  877 1485 s",
+                        "1012 1485  1137 1451  1254 1384 s",
+                        "1370 1316  1462 1224  1529 1108 s",
+                        "1596 991  1630 866  1630 731 s",
+                        "1630 598  1597 474  1531 359 s",
+                        "1465 244  1374 152  1258 83 s",
+                        "1142 14  1015 -20  877 -20 s",
+                        "739 -20  612 15 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "590 219 s",
+                        "679 166  774 139  877 139 s",
+                        "979 139  1074 166  1163 219 s",
+                        "1252 272  1321 344  1372 436 s",
+                        "1423 527  1448 626  1448 731 s",
+                        "1448 837  1422 936  1371 1028 s",
+                        "1320 1120  1250 1193  1163 1246 s",
+                        "1075 1299  980 1325  877 1325 s",
+                        "774 1325  679 1299  591 1246 s",
+                        "503 1193  433 1121  382 1029 s",
+                        "331 936  305 837  305 731 s",
+                        "305 626  330 527  381 436 s",
+                        "432 344  501 272 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"880 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"880 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yarr-tifi",
+        "unicode":"2d55",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1755,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "1327 129",
+                        "1272 84  1205 48  1124 21 s",
+                        "1043 -6  962 -20  879 -20 s",
+                        "740 -20  613 14  497 83 s",
+                        "380 152  289 244  224 360 s",
+                        "158 475  125 599  125 731 s",
+                        "125 866  159 992  227 1109 s",
+                        "294 1225  386 1317  503 1384 s",
+                        "619 1451  744 1485  879 1485 s",
+                        "1014 1485  1139 1451  1255 1384 s",
+                        "1371 1317  1463 1225  1530 1108 s",
+                        "1597 991  1630 866  1630 731 s",
+                        "1630 552  1567 375  1446 238",
+                        "1628 55",
+                        "1513 -59"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "817 639",
+                        "932 754",
+                        "1321 360",
+                        "1406 465  1448 588  1448 731 s",
+                        "1448 837  1422 936  1371 1029 s",
+                        "1319 1122  1249 1194  1162 1247 s",
+                        "1075 1299  980 1325  879 1325 s",
+                        "776 1325  681 1299  592 1246 s",
+                        "503 1193  433 1120  382 1028 s",
+                        "331 935  305 836  305 731 s",
+                        "305 624  330 526  381 435 s",
+                        "432 344  502 272  591 219 s",
+                        "680 166  776 139  879 139 s",
+                        "997 139  1106 175  1206 248"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"880 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"880 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yagh-tifi",
+        "unicode":"2d56",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1485,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "651 0",
+                        "651 610",
+                        "199 610",
+                        "199 1462",
+                        "381 1462",
+                        "381 772",
+                        "1104 772",
+                        "1104 1462",
+                        "1286 1462",
+                        "1286 610",
+                        "834 610",
+                        "834 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"740 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"740 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yaghTuareg-tifi",
+        "unicode":"2d57",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":598,
+            "elements":[
+              {
+                "elementData":"elementdata.1",
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.1",
+                "transform":{
+                  "yOffset":530
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.1",
+                "transform":{
+                  "yOffset":1061
+                },
+                "locked":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"300 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"300 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yaghAyer-tifi",
+        "unicode":"2d58",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1454,
+            "elements":[
+              {
+                "elementData":"elementdata.2",
+                "transform":{
+                  "xOffset":2,
+                  "yOffset":-2
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.1",
+                "transform":{
+                  "xOffset":864,
+                  "yOffset":84
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.1",
+                "transform":{
+                  "xOffset":428,
+                  "yOffset":532
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.2",
+                "transform":{
+                  "xOffset":2,
+                  "yOffset":895
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.1",
+                "transform":{
+                  "xOffset":864,
+                  "yOffset":981
+                },
+                "locked":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"720 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"720 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yas-tifi",
+        "unicode":"2d59",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1755,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "495 84 s",
+                        "378 153  288 245  223 360 s",
+                        "158 475  125 599  125 731 s",
+                        "125 864  158 989  224 1106 s",
+                        "290 1222  381 1314  498 1383 s",
+                        "615 1451  741 1485  877 1485 s",
+                        "1012 1485  1137 1451  1254 1384 s",
+                        "1370 1316  1462 1224  1529 1108 s",
+                        "1596 991  1630 866  1630 731 s",
+                        "1630 598  1597 474  1531 359 s",
+                        "1465 244  1374 152  1258 83 s",
+                        "1142 14  1015 -20  877 -20 s",
+                        "739 -20  612 15 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "590 219 s",
+                        "679 166  774 139  877 139 s",
+                        "979 139  1074 166  1163 219 s",
+                        "1252 272  1321 344  1372 436 s",
+                        "1423 527  1448 626  1448 731 s",
+                        "1448 837  1422 936  1371 1028 s",
+                        "1320 1120  1250 1193  1163 1246 s",
+                        "1075 1299  980 1325  877 1325 s",
+                        "774 1325  679 1299  591 1246 s",
+                        "503 1193  433 1121  382 1029 s",
+                        "331 936  305 837  305 731 s",
+                        "305 626  330 527  381 436 s",
+                        "432 344  501 272 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "761 617 s",
+                        "729 650  713 688  713 731 s",
+                        "713 776  729 815  761 848 s",
+                        "792 881  831 897  877 897 s",
+                        "924 897  963 881  995 848 s",
+                        "1026 815  1042 776  1042 731 s",
+                        "1042 687  1026 649  995 616 s",
+                        "963 583  924 567  877 567 s",
+                        "831 567  792 584 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"880 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"880 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yass-tifi",
+        "unicode":"2d5a",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1755,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "1446 1227",
+                        "1567 1090  1630 912  1630 733 s",
+                        "1630 599  1597 474  1530 357 s",
+                        "1463 240  1371 148  1256 81 s",
+                        "1140 14  1014 -20  879 -20 s",
+                        "744 -20  618 14  502 82 s",
+                        "385 149  293 241  226 358 s",
+                        "159 474  125 599  125 733 s",
+                        "125 868  159 995  228 1112 s",
+                        "296 1229  388 1320  505 1386 s",
+                        "621 1452  746 1485  879 1485 s",
+                        "962 1485  1043 1472  1122 1445 s",
+                        "1201 1418  1269 1381  1327 1335",
+                        "1513 1524",
+                        "1628 1409"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "932 711",
+                        "817 825",
+                        "1206 1217",
+                        "1105 1289  996 1325  879 1325 s",
+                        "776 1325  679 1298  590 1245 s",
+                        "501 1192  431 1120  381 1029 s",
+                        "330 938  305 839  305 733 s",
+                        "305 627  331 528  382 437 s",
+                        "433 345  503 272  592 219 s",
+                        "681 166  777 139  879 139 s",
+                        "978 139  1072 165  1161 218 s",
+                        "1249 270  1319 342  1371 435 s",
+                        "1422 528  1448 627  1448 733 s",
+                        "1448 869  1405 1001  1321 1104"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"880 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"880 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yash-tifi",
+        "unicode":"2d5b",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1548,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "897 139",
+                        "848 193  823 258  823 334 s",
+                        "823 415  852 483  910 538 s",
+                        "968 593  1039 621  1122 621 s",
+                        "1206 621  1278 592  1337 534 s",
+                        "1396 476  1425 404  1425 319 s",
+                        "1425 212  1378 129  1284 70 s",
+                        "1189 10  1054 -20  877 -20 s",
+                        "739 -20  612 15  495 84 s",
+                        "378 153  288 245  223 360 s",
+                        "158 475  125 599  125 731 s",
+                        "125 864  158 989  224 1106 s",
+                        "290 1222  381 1314  498 1383 s",
+                        "615 1451  741 1485  877 1485 s",
+                        "1050 1485  1184 1455  1281 1396 s",
+                        "1377 1337  1425 1252  1425 1143 s",
+                        "1425 1058  1396 987  1337 930 s",
+                        "1278 873  1207 844  1122 844 s",
+                        "1038 844  967 871  910 925 s",
+                        "852 979  823 1047  823 1130 s",
+                        "823 1203  847 1268  895 1325",
+                        "877 1325 s",
+                        "774 1325  679 1299  591 1246 s",
+                        "503 1193  433 1121  382 1029 s",
+                        "331 936  305 837  305 731 s",
+                        "305 626  330 527  381 436 s",
+                        "432 344  501 272  590 219 s",
+                        "679 166  774 139  877 139 s"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "1016 221",
+                        "1045 191  1081 176  1122 176 s",
+                        "1164 176  1200 191  1229 220 s",
+                        "1258 249  1272 285  1272 328 s",
+                        "1272 370  1258 405  1230 434 s",
+                        "1201 463  1165 477  1122 477 s",
+                        "1079 477  1044 463  1015 434 s",
+                        "986 405  971 370  971 328 s",
+                        "971 286  986 250 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "1016 1028",
+                        "1045 998  1081 983  1122 983 s",
+                        "1164 983  1200 998  1229 1027 s",
+                        "1258 1056  1272 1092  1272 1135 s",
+                        "1272 1177  1258 1212  1230 1241 s",
+                        "1201 1270  1165 1284  1122 1284 s",
+                        "1079 1284  1044 1270  1015 1241 s",
+                        "986 1212  971 1177  971 1135 s",
+                        "971 1093  986 1057 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"820 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"820 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yat-tifi",
+        "unicode":"2d5c",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1063,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "440 0",
+                        "440 672",
+                        "102 672",
+                        "102 834",
+                        "440 834",
+                        "440 1462",
+                        "623 1462",
+                        "623 834",
+                        "961 834",
+                        "961 672",
+                        "623 672",
+                        "623 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"530 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"530 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yath-tifi",
+        "unicode":"2d5d",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1309,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "70 0",
+                        "557 731",
+                        "70 1462",
+                        "264 1462",
+                        "653 877",
+                        "1044 1462",
+                        "1239 1462",
+                        "752 731",
+                        "1239 0",
+                        "1044 0",
+                        "653 584",
+                        "264 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"660 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"660 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yach-tifi",
+        "unicode":"2d5e",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1548,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "547 365",
+                        "547 664",
+                        "309 664",
+                        "320 567  351 478  404 398 s",
+                        "457 317  525 254  609 208 s",
+                        "693 162  782 139  877 139 s",
+                        "897 139",
+                        "848 193  823 258  823 334 s",
+                        "823 415  852 483  910 538 s",
+                        "968 593  1039 621  1122 621 s",
+                        "1206 621  1278 592  1337 534 s",
+                        "1396 476  1425 404  1425 319 s",
+                        "1425 212  1378 129  1284 70 s",
+                        "1189 10  1054 -20  877 -20 s",
+                        "739 -20  612 15  495 84 s",
+                        "378 153  288 245  223 360 s",
+                        "158 475  125 599  125 731 s",
+                        "125 864  158 989  224 1106 s",
+                        "290 1222  381 1314  498 1383 s",
+                        "615 1451  741 1485  877 1485 s",
+                        "1050 1485  1184 1455  1281 1396 s",
+                        "1377 1337  1425 1252  1425 1143 s",
+                        "1425 1058  1396 987  1337 930 s",
+                        "1278 873  1207 844  1122 844 s",
+                        "1038 844  967 871  910 925 s",
+                        "852 979  823 1047  823 1130 s",
+                        "823 1203  847 1268  895 1325",
+                        "877 1325 s",
+                        "784 1325  696 1303  613 1259 s",
+                        "530 1214  462 1152  409 1073 s",
+                        "355 993  322 905  309 809",
+                        "547 809",
+                        "547 1110",
+                        "694 1110",
+                        "694 809",
+                        "979 809",
+                        "979 664",
+                        "694 664",
+                        "694 365"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "1016 221",
+                        "1045 191  1081 176  1122 176 s",
+                        "1164 176  1200 191  1229 220 s",
+                        "1258 249  1272 285  1272 328 s",
+                        "1272 370  1258 405  1230 434 s",
+                        "1201 463  1165 477  1122 477 s",
+                        "1079 477  1044 463  1015 434 s",
+                        "986 405  971 370  971 328 s",
+                        "971 286  986 250 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "1016 1028",
+                        "1045 998  1081 983  1122 983 s",
+                        "1164 983  1200 998  1229 1027 s",
+                        "1258 1056  1272 1092  1272 1135 s",
+                        "1272 1177  1258 1212  1230 1241 s",
+                        "1201 1270  1165 1284  1122 1284 s",
+                        "1079 1284  1044 1270  1015 1241 s",
+                        "986 1212  971 1177  971 1135 s",
+                        "971 1093  986 1057 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"800 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"800 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yatt-tifi",
+        "unicode":"2d5f",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1325,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1462",
+                        "1202 1462",
+                        "1202 1300",
+                        "381 1300",
+                        "381 813",
+                        "618 813",
+                        "618 1069",
+                        "780 1069",
+                        "780 813",
+                        "1036 813",
+                        "1036 651",
+                        "780 651",
+                        "780 395",
+                        "618 395",
+                        "618 651",
+                        "381 651",
+                        "381 162",
+                        "1202 162",
+                        "1202 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"720 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"720 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yav-tifi",
+        "unicode":"2d60",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1374,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "102 0",
+                        "102 92",
+                        "606 1462",
+                        "768 1462",
+                        "1272 90",
+                        "1272 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "1071 162",
+                        "780 963 s",
+                        "739 1076  708 1183  688 1284",
+                        "667 1182  634 1073  590 956",
+                        "299 162"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"680 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"680 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yaw-tifi",
+        "unicode":"2d61",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1444,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1462",
+                        "381 1462",
+                        "381 162",
+                        "1063 162",
+                        "1063 1462",
+                        "1245 1462",
+                        "1245 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"720 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"720 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yay-tifi",
+        "unicode":"2d62",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":977,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "123 -20",
+                        "123 184",
+                        "422 451  581 592  601 609 s",
+                        "621 626  648 647  682 674",
+                        "682 676",
+                        "653 691  622 707  589 726 s",
+                        "556 744  400 835  123 999",
+                        "123 1116",
+                        "854 1485",
+                        "854 1313",
+                        "612 1190",
+                        "515 1139  419 1092  324 1051",
+                        "443 987  619 887  854 750",
+                        "854 633"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"500 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"500 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yaz-tifi",
+        "unicode":"2d63",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1712,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "123 0",
+                        "156 171  230 310  343 417 s",
+                        "456 524  596 581  764 590",
+                        "764 872",
+                        "596 881  455 939  342 1047 s",
+                        "229 1154  156 1293  123 1462",
+                        "289 1462",
+                        "354 1203  513 1049  764 1030",
+                        "764 1462",
+                        "946 1462",
+                        "946 1030",
+                        "1193 1049  1357 1202  1421 1462",
+                        "1589 1462",
+                        "1568 1353  1527 1253  1467 1164 s",
+                        "1347 985  1167 884  946 872",
+                        "946 590",
+                        "1056 585  1155 557  1244 508 s",
+                        "1333 458  1407 388  1467 299 s",
+                        "1527 210  1568 110  1589 0",
+                        "1421 0",
+                        "1357 261  1191 413  946 432",
+                        "946 0",
+                        "764 0",
+                        "764 432",
+                        "517 413  353 260  289 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"850 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"850 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yazTawellemet-tifi",
+        "unicode":"2d64",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":930,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1462",
+                        "381 1462",
+                        "827 1014",
+                        "713 899",
+                        "514 1098  401 1215  375 1249",
+                        "379 1180  381 1109  381 1036 s",
+                        "381 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"460 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"460 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yazz-tifi",
+        "unicode":"2d65",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1712,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "123 0",
+                        "155 154  229 279  344 375 s",
+                        "459 471  599 522  764 528",
+                        "764 662",
+                        "229 662",
+                        "229 803",
+                        "764 803",
+                        "764 934",
+                        "597 941  456 992  343 1089 s",
+                        "229 1185  156 1309  123 1462",
+                        "289 1462",
+                        "354 1234  512 1098  764 1081",
+                        "764 1462",
+                        "946 1462",
+                        "946 1081",
+                        "1198 1098  1356 1234  1421 1462",
+                        "1589 1462",
+                        "1568 1365  1527 1276  1468 1196 s",
+                        "1349 1035  1169 943  946 934",
+                        "946 803",
+                        "1481 803",
+                        "1481 662",
+                        "946 662",
+                        "946 528",
+                        "1111 521  1250 471  1365 376 s",
+                        "1480 281  1554 155  1589 0",
+                        "1421 0",
+                        "1356 227  1195 365  946 381",
+                        "946 0",
+                        "764 0",
+                        "764 381",
+                        "513 365  354 227  289 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"850 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"850 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"ye-tifi",
+        "unicode":"2d66",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1333,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "360 576",
+                        "1210 152",
+                        "1210 -20",
+                        "41 565",
+                        "41 682",
+                        "1210 1266",
+                        "1210 1094",
+                        "547 762",
+                        "465 720  368 674  256 625"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"680 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"640 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yo-tifi",
+        "unicode":"2d67",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1579,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"elementdata.5",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "123 651",
+                        "123 813",
+                        "709 813",
+                        "709 651"
+                      ]
+                    }
+                  ]
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.5",
+                "transform":{
+                  "xOffset":747
+                },
+                "locked":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"780 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"780 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"labialization-tifi",
+        "unicode":"2d6f",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":631,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "61 1079",
+                        "61 1462",
+                        "213 1462",
+                        "213 1229",
+                        "420 1229",
+                        "420 1462",
+                        "569 1462",
+                        "569 1079"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"separator-tifi",
+        "unicode":"2d70",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1575,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "68 -281",
+                        "315 -225  532 -119  718 36 s",
+                        "903 191  1051 390  1162 634 s",
+                        "1273 878  1343 1154  1372 1462",
+                        "1534 1462",
+                        "1490 941  1342 520  1090 200 s",
+                        "837 -120  497 -320  68 -399"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"consonantjoiner-tifi",
+        "unicode":"2d7f",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"elementdata.6",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "166 -356 s",
+                        "107 -356  63 -324  63 -244 s",
+                        "63 -163  107 -131  166 -131 s",
+                        "231 -131  270 -171  270 -244 s",
+                        "270 -315  230 -356 c"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":-995
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "id":"elementdata.7",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-498 -356 s",
+                        "-555 -356  -600 -324  -600 -244 s",
+                        "-600 -163  -555 -131  -498 -131 s",
+                        "-431 -131  -393 -172  -393 -244 s",
+                        "-393 -324  -442 -356 c"
+                      ]
+                    }
+                  ]
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-166 -356 s",
+                        "-223 -356  -268 -324  -268 -244 s",
+                        "-268 -163  -223 -131  -166 -131 s",
+                        "-109 -131  -61 -163  -61 -244 s",
+                        "-61 -324  -109 -356 c"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":"elementdata.6",
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "498 -356 s",
+                        "439 -356  395 -324  395 -244 s",
+                        "395 -163  439 -131  498 -131 s",
+                        "555 -131  602 -163  602 -244 s",
+                        "602 -324  555 -356 c"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":"elementdata.7",
+                "transform":{
+                  "xOffset":1327
+                },
+                "locked":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yal-tifi_zerowidthjoiner_yat-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1651,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "150 170",
+                        "150 1260",
+                        "334 1260",
+                        "334 784",
+                        "734 784",
+                        "734 1002",
+                        "917 1002",
+                        "917 784",
+                        "1317 784",
+                        "1317 1260",
+                        "1501 1260",
+                        "1501 170",
+                        "1317 170",
+                        "1317 622",
+                        "917 622",
+                        "917 420",
+                        "734 420",
+                        "734 622",
+                        "334 622",
+                        "334 170"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"820 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"820 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yah-tifi_zerowidthjoiner_yat-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":2491,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "1626 658",
+                        "1614 535  1573 421  1504 317 s",
+                        "1435 213  1345 131  1234 71 s",
+                        "1123 10  1004 -20  877 -20 s",
+                        "742 -20  618 13  503 80 s",
+                        "388 146  297 237  228 353 s",
+                        "159 468  125 594  125 731 s",
+                        "125 861  158 985  225 1102 s",
+                        "291 1219  382 1313  498 1382 s",
+                        "614 1451  740 1485  877 1485 s",
+                        "998 1485  1114 1456  1224 1399 s",
+                        "1333 1341  1424 1261  1495 1160 s",
+                        "1566 1059  1609 945  1625 820",
+                        "1850 820",
+                        "1850 1068",
+                        "2033 1068",
+                        "2033 820",
+                        "2411 820",
+                        "2411 658",
+                        "2033 658",
+                        "2033 386",
+                        "1850 386",
+                        "1850 658"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "786 1317",
+                        "699 1304  618 1269  544 1213 s",
+                        "469 1157  411 1087  369 1002 s",
+                        "326 917  305 826  305 731 s",
+                        "305 637  326 547  369 462 s",
+                        "411 377  469 306  543 251 s",
+                        "617 195  698 160  786 147"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "969 147",
+                        "1060 162  1142 197  1216 254 s",
+                        "1289 310  1346 381  1387 466 s",
+                        "1428 551  1448 639  1448 731 s",
+                        "1448 824  1428 913  1387 997 s",
+                        "1346 1080  1289 1150  1216 1207 s",
+                        "1143 1264  1060 1300  969 1317"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"880 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"880 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yam-tifi_zerowidthjoiner_yah-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1455,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"elementdata.8",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1462",
+                        "1332 1462",
+                        "1332 1300",
+                        "381 1300",
+                        "381 162",
+                        "1332 162",
+                        "1332 0"
+                      ]
+                    }
+                  ]
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "534 506 s",
+                        "572 443  624 393  690 357 s",
+                        "756 321  826 303  900 303 s",
+                        "969 303  1036 322  1099 360 s",
+                        "1162 397  1212 448  1249 512 s",
+                        "1286 576  1305 644  1305 716 s",
+                        "1305 785  1287 853  1250 918 s",
+                        "1213 983  1163 1035  1101 1074 s",
+                        "1038 1112  971 1131  900 1131 s",
+                        "823 1131  753 1113  688 1076 s",
+                        "623 1039  571 989  534 925 s",
+                        "496 861  477 791  477 716 s",
+                        "477 639  496 569 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "970 974",
+                        "1025 957  1070 924  1106 875 s",
+                        "1142 825  1160 772  1160 716 s",
+                        "1160 659  1142 607  1107 559 s",
+                        "1072 511  1026 478  970 459"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "813 461",
+                        "756 478  710 510  675 557 s",
+                        "640 603  623 656  623 716 s",
+                        "623 773  641 826  676 874 s",
+                        "711 922  756 955  813 972"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"780 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"780 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yam-tifi_zerowidthjoiner_yas-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1455,
+            "elements":[
+              {
+                "elementData":"elementdata.8",
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "534 506 s",
+                        "572 443  624 393  690 357 s",
+                        "756 321  826 303  900 303 s",
+                        "969 303  1036 322  1099 360 s",
+                        "1162 397  1212 448  1249 512 s",
+                        "1286 576  1305 644  1305 716 s",
+                        "1305 785  1287 853  1250 918 s",
+                        "1213 983  1163 1035  1101 1074 s",
+                        "1038 1112  971 1131  900 1131 s",
+                        "823 1131  753 1113  688 1076 s",
+                        "623 1039  571 989  534 925 s",
+                        "496 861  477 791  477 716 s",
+                        "477 639  496 569 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "705 524 s",
+                        "650 574  623 638  623 716 s",
+                        "623 790  650 853  703 906 s",
+                        "756 959  821 985  898 985 s",
+                        "944 985  987 973  1028 948 s",
+                        "1068 923  1100 889  1124 847 s",
+                        "1148 805  1160 761  1160 716 s",
+                        "1160 644  1134 581  1082 528 s",
+                        "1029 475  968 448  898 448 s",
+                        "823 448  759 473 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "812 633 s",
+                        "788 654  776 682  776 716 s",
+                        "776 749  788 777  812 799 s",
+                        "835 821  863 832  894 832 s",
+                        "924 832  950 820  973 797 s",
+                        "996 774  1007 747  1007 716 s",
+                        "1007 685  996 658  974 635 s",
+                        "951 612  925 601  894 601 s",
+                        "863 601  835 612 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"780 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"780 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yam-tifi_zerowidthjoiner_yat-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1762,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1462",
+                        "1136 1462",
+                        "1136 1660",
+                        "1308 1660",
+                        "1308 1462",
+                        "1662 1462",
+                        "1662 1300",
+                        "1308 1300",
+                        "1308 1090",
+                        "1136 1090",
+                        "1136 1300",
+                        "381 1300",
+                        "381 162",
+                        "1202 162",
+                        "1202 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"700 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"710 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yan-tifi_zerowidthjoiner_yah-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1755,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "125 -300",
+                        "125 731 s",
+                        "125 861  158 985  225 1102 s",
+                        "291 1219  382 1313  498 1382 s",
+                        "614 1451  740 1485  877 1485 s",
+                        "1008 1485  1131 1452  1248 1385 s",
+                        "1364 1318  1457 1227  1526 1111 s",
+                        "1595 995  1630 868  1630 731 s",
+                        "1630 598  1596 474  1529 357 s",
+                        "1461 240  1369 148  1253 81 s",
+                        "1136 14  1011 -20  877 -20 s",
+                        "766 -20  660 3  560 50 s",
+                        "459 96  375 159  307 239",
+                        "307 -300"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "307 684 s",
+                        "307 601  329 520  373 441 s",
+                        "416 362  475 297  550 244 s",
+                        "624 191  703 159  786 147",
+                        "786 1317",
+                        "703 1305  625 1272  552 1219 s",
+                        "479 1166  420 1100  377 1021 s",
+                        "334 942  310 857  307 768"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "969 147",
+                        "1060 162  1142 197  1216 254 s",
+                        "1289 310  1346 381  1387 466 s",
+                        "1428 551  1448 639  1448 731 s",
+                        "1448 824  1428 913  1387 997 s",
+                        "1346 1080  1289 1150  1216 1207 s",
+                        "1143 1264  1060 1300  969 1317"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"880 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"880 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yan-tifi_zerowidthjoiner_yadd-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1325,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1462",
+                        "1030 1462",
+                        "1030 1660",
+                        "1202 1660",
+                        "1202 1300",
+                        "381 1300",
+                        "381 813",
+                        "1202 813",
+                        "1202 651",
+                        "381 651",
+                        "381 162",
+                        "1202 162",
+                        "1202 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"640 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"740 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yan-tifi_zerowidthjoiner_yadh-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1292,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"yadh-tifi"
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "559 1090",
+                        "559 1660",
+                        "731 1660",
+                        "731 1090"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"640 1740"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"640 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yaf-tifi_zerowidthjoiner_yat-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1826,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "123 0",
+                        "123 162",
+                        "483 162",
+                        "483 1300",
+                        "123 1300",
+                        "123 1462",
+                        "666 1462",
+                        "666 813",
+                        "827 813",
+                        "827 1069",
+                        "999 1069",
+                        "999 813",
+                        "1161 813",
+                        "1161 1462",
+                        "1703 1462",
+                        "1703 1300",
+                        "1343 1300",
+                        "1343 162",
+                        "1703 162",
+                        "1703 0",
+                        "1161 0",
+                        "1161 651",
+                        "999 651",
+                        "999 387",
+                        "827 387",
+                        "827 651",
+                        "666 651",
+                        "666 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"920 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"920 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yan-tifi_zerowidthjoiner_yaf-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1782,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "160 0",
+                        "160 543",
+                        "799 543",
+                        "799 920",
+                        "160 920",
+                        "160 1462",
+                        "342 1462",
+                        "342 1082",
+                        "1440 1082",
+                        "1440 1462",
+                        "1622 1462",
+                        "1622 920",
+                        "981 920",
+                        "981 543",
+                        "1622 543",
+                        "1622 0",
+                        "1440 0",
+                        "1440 381",
+                        "342 381",
+                        "342 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"910 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"910 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yan-tifi_zerowidthjoiner_yaj-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1258,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "528 0",
+                        "528 1462",
+                        "711 1462",
+                        "711 426 s",
+                        "711 345  709 274  704 213",
+                        "728 243  776 295  847 368 s",
+                        "918 441  983 506  1042 563",
+                        "1156 448",
+                        "710 0"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":"elementdata",
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.4",
+                "transform":{
+                  "xOffset":250,
+                  "yOffset":592
+                },
+                "locked":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"600 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"600 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yan-tifi_zerowidthjoiner_yaghh-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1391,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "111 0",
+                        "111 92",
+                        "609 750",
+                        "70 1462",
+                        "264 1462",
+                        "694 881",
+                        "1126 1462",
+                        "1321 1462",
+                        "793 750",
+                        "1280 90",
+                        "1280 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "694 618",
+                        "356 162",
+                        "1032 162"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "609 1140",
+                        "609 1660",
+                        "781 1660",
+                        "781 1140"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"700 1740"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"700 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yan-tifi_zerowidthjoiner_yaghTuareg-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1239,
+            "elements":[
+              {
+                "elementData":"elementdata.4",
+                "transform":{
+                  "xOffset":250,
+                  "yOffset":-594
+                },
+                "locked":true
+              },
+              {
+                "component":{
+                  "glyphName":"yan-tifi"
+                },
+                "transform":{
+                  "xOffset":329
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata",
+                "locked":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"610 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"610 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yan-tifi_zerowidthjoiner_yazhTuareg-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1606,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "442 0",
+                        "442 920",
+                        "92 920",
+                        "92 1081",
+                        "442 1081",
+                        "442 1462",
+                        "625 1462",
+                        "625 1081",
+                        "981 1081",
+                        "981 1462",
+                        "1163 1462",
+                        "1163 1081",
+                        "1513 1081",
+                        "1513 920",
+                        "1163 920",
+                        "1163 0",
+                        "981 0",
+                        "981 920",
+                        "625 920",
+                        "625 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"800 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"800 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yan-tifi_zerowidthjoiner_yakTuareg-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":688,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"elementdata.9",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "163 -60 s",
+                        "94 -60  60 -22  60 53 s",
+                        "60 128  94 165  163 165 s",
+                        "220 165  268 133  268 53 s",
+                        "268 -18  230 -60 c"
+                      ]
+                    }
+                  ]
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.9",
+                "transform":{
+                  "xOffset":360
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "435 257",
+                        "253 257",
+                        "253 1169",
+                        "435 1169"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "id":"elementdata.10",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "163 1260 s",
+                        "94 1260  60 1297  60 1372 s",
+                        "60 1447  94 1485  163 1485 s",
+                        "230 1485  268 1443  268 1372 s",
+                        "268 1292  220 1260 c"
+                      ]
+                    }
+                  ]
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.10",
+                "transform":{
+                  "xOffset":360
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.10",
+                "transform":{
+                  "xOffset":180,
+                  "yOffset":240
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.9",
+                "transform":{
+                  "xOffset":180,
+                  "yOffset":-240
+                },
+                "locked":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"340 1740"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"340 -240"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yan-tifi_zerowidthjoiner_yas-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1755,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "228 353 s",
+                        "159 468  125 594  125 731 s",
+                        "125 861  158 985  225 1102 s",
+                        "291 1219  382 1313  498 1382 s",
+                        "614 1451  740 1485  877 1485 s",
+                        "1008 1485  1131 1452  1248 1385 s",
+                        "1364 1318  1457 1227  1526 1111 s",
+                        "1595 995  1630 868  1630 731 s",
+                        "1630 598  1596 474  1529 357 s",
+                        "1461 240  1369 148  1253 81 s",
+                        "1136 14  1011 -20  877 -20 s",
+                        "742 -20  618 13  503 80 s",
+                        "388 146  297 237 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "589 220 s",
+                        "677 166  773 139  877 139 s",
+                        "977 139  1071 165  1160 218 s",
+                        "1249 271  1319 343  1371 434 s",
+                        "1422 525  1448 624  1448 731 s",
+                        "1448 834  1422 932  1371 1025 s",
+                        "1320 1118  1250 1191  1163 1245 s",
+                        "1075 1298  980 1325  877 1325 s",
+                        "776 1325  680 1298  591 1244 s",
+                        "501 1190  431 1117  381 1025 s",
+                        "330 933  305 835  305 731 s",
+                        "305 627  330 529  381 438 s",
+                        "432 346  501 273 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "649 269",
+                        "649 1175",
+                        "821 1175",
+                        "821 269"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "972 615 s",
+                        "939 647  923 686  923 731 s",
+                        "923 776  939 815  971 848 s",
+                        "1003 881  1042 897  1087 897 s",
+                        "1132 897  1171 881  1204 848 s",
+                        "1236 815  1252 776  1252 731 s",
+                        "1252 686  1236 648  1204 616 s",
+                        "1172 583  1133 567  1087 567 s",
+                        "1043 567  1005 583 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"880 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"880 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yan-tifi_zerowidthjoiner_yat-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1383,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "600 0",
+                        "600 1300",
+                        "92 1300",
+                        "92 1462",
+                        "1291 1462",
+                        "1291 1300",
+                        "783 1300",
+                        "783 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"680 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"680 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yan-tifi_zerowidthjoiner_yazTawellemet-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1662,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "100 0",
+                        "100 162",
+                        "1136 162 s",
+                        "1209 162  1280 160  1349 156",
+                        "1286 210 s",
+                        "1255 237  1160 333  999 494",
+                        "1114 608",
+                        "1562 162",
+                        "1562 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"840 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"840 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yar-tifi_zerowidthjoiner_yat-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":2449,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "1628 672",
+                        "1617 545  1577 428  1508 322 s",
+                        "1438 215  1348 132  1237 71 s",
+                        "1126 10  1006 -20  877 -20 s",
+                        "742 -20  618 13  503 80 s",
+                        "388 146  297 237  228 353 s",
+                        "159 468  125 594  125 731 s",
+                        "125 861  158 985  225 1102 s",
+                        "291 1219  382 1313  498 1382 s",
+                        "614 1451  740 1485  877 1485 s",
+                        "999 1485  1115 1456  1225 1398 s",
+                        "1334 1339  1424 1260  1494 1161 s",
+                        "1564 1062  1607 953  1623 834",
+                        "1848 834",
+                        "1848 1072",
+                        "2031 1072",
+                        "2031 834",
+                        "2389 834",
+                        "2389 672",
+                        "2031 672",
+                        "2031 390",
+                        "1848 390",
+                        "1848 672"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "589 220 s",
+                        "677 166  773 139  877 139 s",
+                        "977 139  1071 165  1160 218 s",
+                        "1249 271  1319 343  1371 434 s",
+                        "1422 525  1448 624  1448 731 s",
+                        "1448 834  1422 932  1371 1025 s",
+                        "1320 1118  1250 1191  1163 1245 s",
+                        "1075 1298  980 1325  877 1325 s",
+                        "776 1325  680 1298  591 1244 s",
+                        "501 1190  431 1117  381 1025 s",
+                        "330 933  305 835  305 731 s",
+                        "305 627  330 529  381 438 s",
+                        "432 346  501 273 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"880 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"880 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yas-tifi_zerowidthjoiner_yan-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1755,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "790 -300",
+                        "790 -15",
+                        "669 -2  557 39  454 110 s",
+                        "351 180  271 270  213 380 s",
+                        "154 490  125 607  125 731 s",
+                        "125 861  158 985  225 1102 s",
+                        "291 1219  382 1313  498 1382 s",
+                        "614 1451  740 1485  877 1485 s",
+                        "1008 1485  1131 1452  1248 1385 s",
+                        "1364 1318  1457 1227  1526 1111 s",
+                        "1595 995  1630 868  1630 731 s",
+                        "1630 609  1601 493  1543 383 s",
+                        "1485 273  1405 182  1303 111 s",
+                        "1200 40  1087 -2  962 -15",
+                        "962 -300"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "790 322",
+                        "962 322",
+                        "962 145",
+                        "1051 159  1134 194  1209 251 s",
+                        "1284 308  1343 378  1385 463 s",
+                        "1427 548  1448 637  1448 731 s",
+                        "1448 834  1422 932  1371 1025 s",
+                        "1320 1118  1250 1191  1163 1245 s",
+                        "1075 1298  980 1325  877 1325 s",
+                        "776 1325  680 1298  591 1244 s",
+                        "501 1190  431 1117  381 1025 s",
+                        "330 933  305 835  305 731 s",
+                        "305 638  326 548  368 463 s",
+                        "409 377  467 306  542 250 s",
+                        "616 194  699 159  790 145"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "762 615 s",
+                        "729 647  713 686  713 731 s",
+                        "713 776  729 815  761 848 s",
+                        "793 881  832 897  877 897 s",
+                        "922 897  961 881  994 848 s",
+                        "1026 815  1042 776  1042 731 s",
+                        "1042 686  1026 648  994 616 s",
+                        "962 583  923 567  877 567 s",
+                        "833 567  795 583 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"880 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"880 -240"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yas-tifi_zerowidthjoiner_yat-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":2449,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "1628 672",
+                        "1617 545  1577 428  1508 322 s",
+                        "1438 215  1348 132  1237 71 s",
+                        "1126 10  1006 -20  877 -20 s",
+                        "742 -20  618 13  503 80 s",
+                        "388 146  297 237  228 353 s",
+                        "159 468  125 594  125 731 s",
+                        "125 861  158 985  225 1102 s",
+                        "291 1219  382 1313  498 1382 s",
+                        "614 1451  740 1485  877 1485 s",
+                        "999 1485  1115 1456  1225 1398 s",
+                        "1334 1339  1424 1260  1494 1161 s",
+                        "1564 1062  1607 953  1623 834",
+                        "1848 834",
+                        "1848 1072",
+                        "2031 1072",
+                        "2031 834",
+                        "2389 834",
+                        "2389 672",
+                        "2031 672",
+                        "2031 390",
+                        "1848 390",
+                        "1848 672"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "589 220 s",
+                        "677 166  773 139  877 139 s",
+                        "977 139  1071 165  1160 218 s",
+                        "1249 271  1319 343  1371 434 s",
+                        "1422 525  1448 624  1448 731 s",
+                        "1448 834  1422 932  1371 1025 s",
+                        "1320 1118  1250 1191  1163 1245 s",
+                        "1075 1298  980 1325  877 1325 s",
+                        "776 1325  680 1298  591 1244 s",
+                        "501 1190  431 1117  381 1025 s",
+                        "330 933  305 835  305 731 s",
+                        "305 627  330 529  381 438 s",
+                        "432 346  501 273 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "762 615 s",
+                        "729 647  713 686  713 731 s",
+                        "713 776  729 815  761 848 s",
+                        "793 881  832 897  877 897 s",
+                        "922 897  961 881  994 848 s",
+                        "1026 815  1042 776  1042 731 s",
+                        "1042 686  1026 648  994 616 s",
+                        "962 583  923 567  877 567 s",
+                        "833 567  795 583 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"880 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"880 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yash-tifi_zerowidthjoiner_yat-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1949,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "1457 365",
+                        "1457 664",
+                        "309 664",
+                        "325 515  380 390  467 299 s",
+                        "510 254  561 218  618 191 s",
+                        "675 164  729 150  780 150",
+                        "759 193  749 237  749 283 s",
+                        "749 363  778 432  835 491 s",
+                        "892 550  961 579  1042 579 s",
+                        "1128 579  1201 551  1261 495 s",
+                        "1321 438  1351 367  1351 280 s",
+                        "1351 225  1334 174  1299 128 s",
+                        "1229 36  1097 -20  908 -20 s",
+                        "768 -20  638 12  518 75 s",
+                        "398 138  303 227  232 343 s",
+                        "161 458  125 588  125 731 s",
+                        "125 871  159 1000  226 1117 s",
+                        "293 1234  386 1325  505 1389 s",
+                        "623 1453  757 1485  908 1485 s",
+                        "1003 1485  1083 1472  1148 1446 s",
+                        "1279 1393  1351 1296  1351 1185 s",
+                        "1351 1098  1321 1027  1262 971 s",
+                        "1202 914  1129 886  1042 886 s",
+                        "991 886  943 899  898 925 s",
+                        "853 951  817 987  790 1033 s",
+                        "763 1079  749 1129  749 1182 s",
+                        "749 1228  759 1272  780 1315",
+                        "707 1313  634 1288  561 1239 s",
+                        "414 1142  328 985  309 809",
+                        "1457 809",
+                        "1457 1110",
+                        "1604 1110",
+                        "1604 809",
+                        "1889 809",
+                        "1889 664",
+                        "1604 664",
+                        "1604 365"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "940 182 s",
+                        "969 153  1005 139  1048 139 s",
+                        "1091 139  1127 154  1156 183 s",
+                        "1184 212  1198 247  1198 288 s",
+                        "1198 329  1184 365  1155 395 s",
+                        "1126 425  1091 440  1048 440 s",
+                        "1007 440  971 425  942 396 s",
+                        "912 366  897 330  897 288 s",
+                        "897 246  911 211 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "942 1070",
+                        "971 1040  1007 1025  1048 1025 s",
+                        "1090 1025  1126 1040  1155 1071 s",
+                        "1184 1101  1198 1136  1198 1177 s",
+                        "1198 1219  1183 1254  1154 1283 s",
+                        "1125 1312  1089 1326  1048 1326 s",
+                        "1005 1326  969 1312  940 1283 s",
+                        "911 1254  897 1219  897 1177 s",
+                        "897 1135  912 1099 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"880 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"890 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yat-tifi_zerowidthjoiner_yas-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1325,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1462",
+                        "381 1462",
+                        "381 864",
+                        "841 864",
+                        "841 702",
+                        "381 702",
+                        "381 162",
+                        "1202 162",
+                        "1202 0"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"740 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"740 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yu-tifi_zerowidthjoiner_yat-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1567,
+            "elements":[
+              {
+                "elementData":"elementdata.3",
+                "transform":{
+                  "xOffset":761,
+                  "yOffset":-727
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "692 0",
+                        "692 678",
+                        "113 678",
+                        "113 840",
+                        "692 840",
+                        "692 1462",
+                        "874 1462",
+                        "874 840",
+                        "1452 840",
+                        "1452 678",
+                        "874 678",
+                        "874 0"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":"elementdata.3",
+                "locked":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"780 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"780 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yay-tifi_zerowidthjoiner_yat-tifi",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":977,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "576 -185",
+                        "576 124",
+                        "123 360",
+                        "123 477",
+                        "635 737",
+                        "522 790  352 877  123 997",
+                        "123 1114",
+                        "854 1485",
+                        "854 1313",
+                        "575 1166  407 1080  348 1053",
+                        "854 797",
+                        "854 678",
+                        "607 553  431 467  326 418",
+                        "576 293",
+                        "576 405",
+                        "748 405",
+                        "748 206",
+                        "854 152",
+                        "854 -20",
+                        "748 35",
+                        "748 -185"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"480 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"480 -160"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yazhTuareg-tifi_zerowidthjoiner_yat-tifi",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1811,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "312 0",
+                        "312 231",
+                        "92 231",
+                        "92 393",
+                        "312 393",
+                        "312 1070",
+                        "92 1070",
+                        "92 1231",
+                        "312 1231",
+                        "312 1462",
+                        "495 1462",
+                        "495 1231",
+                        "1317 1231",
+                        "1317 1462",
+                        "1499 1462",
+                        "1499 1231",
+                        "1719 1231",
+                        "1719 1070",
+                        "1499 1070",
+                        "1499 393",
+                        "1719 393",
+                        "1719 231",
+                        "1499 231",
+                        "1499 0",
+                        "1317 0",
+                        "1317 231",
+                        "495 231",
+                        "495 0"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "495 653",
+                        "495 393",
+                        "815 393",
+                        "815 653"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "997 393",
+                        "1317 393",
+                        "1317 653",
+                        "997 653"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "495 1070",
+                        "495 815",
+                        "815 815",
+                        "815 1070"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "997 815",
+                        "1317 815",
+                        "1317 1070",
+                        "997 1070"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"910 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"910 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"acutecomb",
+        "unicode":"0301",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-462 1241",
+                        "-462 1266",
+                        "-387 1362  -322 1463  -267 1569",
+                        "-50 1569",
+                        "-50 1548",
+                        "-79 1505  -125 1452  -187 1387 s",
+                        "-249 1322  -301 1274  -343 1241"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"_t.acutecomb",
+                "point":"-330 1230"
+              },
+              {
+                "name":"_b.acutecomb",
+                "point":"-440 1230"
+              },
+              {
+                "name":"b.acutecomb",
+                "point":"-50 1230"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"circumflexcomb",
+        "unicode":"0302",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-742 1241",
+                        "-742 1264",
+                        "-659 1353  -600 1419  -565 1462 s",
+                        "-531 1505  -506 1540  -490 1569",
+                        "-306 1569",
+                        "-271 1502  -186 1400  -50 1264",
+                        "-50 1241",
+                        "-177 1241",
+                        "-237 1276  -311 1338  -400 1425",
+                        "-487 1340  -560 1278  -619 1241"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"_t.acutecomb",
+                "point":"-400 1230"
+              },
+              {
+                "name":"_b.acutecomb",
+                "point":"-720 1230"
+              },
+              {
+                "name":"b.acutecomb",
+                "point":"0 1230"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"macroncomb",
+        "unicode":"0304",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-801 -299",
+                        "-801 -154",
+                        "-193 -154",
+                        "-193 -299"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":143,
+                  "yOffset":1540
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"_t.acutecomb",
+                "point":"-360 1230"
+              },
+              {
+                "name":"_b.acutecomb",
+                "point":"-680 1230"
+              },
+              {
+                "name":"b.acutecomb",
+                "point":"0 1230"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"brevecomb",
+        "unicode":"0306",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-577 1516",
+                        "-572 1469  -555 1435  -527 1416 s",
+                        "-499 1396  -447 1386  -370 1386 s",
+                        "-235 1386  -174 1427  -163 1516",
+                        "-50 1516",
+                        "-59 1429  -92 1361  -149 1313 s",
+                        "-206 1265  -281 1241  -374 1241 s",
+                        "-562 1241  -675 1333  -687 1516"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"_t.acutecomb",
+                "point":"-370 1230"
+              },
+              {
+                "name":"_b.acutecomb",
+                "point":"-720 1230"
+              },
+              {
+                "name":"b.acutecomb",
+                "point":"0 1230"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"dotaccentcomb",
+        "unicode":"0307",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-155 1280 s",
+                        "-215 1280  -261 1316  -261 1395 s",
+                        "-261 1475  -215 1509  -155 1509 s",
+                        "-99 1509  -50 1475  -50 1395 s",
+                        "-50 1316  -99 1280 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"_t.acutecomb",
+                "point":"-160 1230"
+              },
+              {
+                "name":"_b.acutecomb",
+                "point":"-280 1230"
+              },
+              {
+                "name":"b.acutecomb",
+                "point":"0 1230"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"dotbelowcomb",
+        "unicode":"0323",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "279 -360 s",
+                        "215 -360  172 -318  172 -246 s",
+                        "172 -166  220 -131  279 -131 s",
+                        "336 -131  385 -166  385 -246 s",
+                        "385 -317  342 -360 c"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":-585
+                }
+              }
+            ],
+            "anchors":[
+              {
+                "name":"_b.dotbelowcomb_1",
+                "point":"-310 0"
+              },
+              {
+                "name":"_t.dotbelowcomb",
+                "point":"-400 0"
+              },
+              {
+                "name":"t.dotbelowcomb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"macronbelowcomb",
+        "unicode":"0331",
+        "openTypeGlyphClass":3,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"macroncomb"
+                },
+                "transform":{
+                  "xOffset":-143,
+                  "yOffset":-1540
+                },
+                "locked":true,
+                "nonSpacing":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"_b.dotbelowcomb_1",
+                "point":"-500 0"
+              },
+              {
+                "name":"_t.dotbelowcomb",
+                "point":"-800 0"
+              },
+              {
+                "name":"t.dotbelowcomb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yal-tifi_yal-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1970,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"elementdata.11",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "199 0",
+                        "199 1462",
+                        "383 1462",
+                        "383 772 s",
+                        "383 707  381 613  377 489",
+                        "383 489",
+                        "412 570  431 623  440 646 s",
+                        "449 669  541 875  717 1264",
+                        "717 1462",
+                        "899 1462",
+                        "899 0",
+                        "717 0",
+                        "717 797 s",
+                        "717 874  719 937  723 987",
+                        "717 987",
+                        "686 898",
+                        "383 215",
+                        "383 0"
+                      ]
+                    }
+                  ]
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "id":"elementdata.12",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "795 0",
+                        "479 1392",
+                        "649 1422",
+                        "972 0"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":518
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "id":"elementdata.13",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "1125 0",
+                        "799 1432",
+                        "969 1462",
+                        "1302 0"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":518
+                },
+                "locked":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"900 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"1020 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yal-tifi_yan-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1640,
+            "elements":[
+              {
+                "elementData":"elementdata.11",
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.12",
+                "transform":{
+                  "xOffset":518
+                },
+                "locked":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"700 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"800 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yan-tifi_yal-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1452,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"yan-tifi"
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.12",
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.13",
+                "locked":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"600 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"760 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"yan-tifi_yan-tifi",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":1122,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"yan-tifi"
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.12",
+                "locked":true
+              }
+            ],
+            "anchors":[
+              {
+                "name":"t.acutecomb",
+                "point":"400 1640"
+              },
+              {
+                "name":"b.dotbelowcomb_1",
+                "point":"550 0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"zerowidthjoiner",
+        "unicode":"200d",
+        "openTypeGlyphClass":1,
+        "layers":[
+          {
+            "name":"Regular",
+            "advanceWidth":0
+          }
+        ]
+      }
+    ],
+    "defaultMaster":"Regular",
+    "interpolationFlags":0,
+    "openTypeFeatures":[
+      {
+        "feature":"###\n# OpenType Layout feature definitions\n# Format: Adobe FDK for OpenType (AFDKO) version 2.5\n# Generated on: 2021-6-18 14:33\n# Generated by: FontLab 7.1.5\n# Font PostScript name: CotoSansTifinagh\n# Font copyright: Copyright 2013 Google Inc. All Rights Reserved.\n#\n# Totals:\n# Languagesystems: 1\n# GSUB lookups: 2\n# GSUB features: 1 (ccmp)\n# GPOS lookups: 3\n# GPOS features: 2 (mark, mkmk)\n\n#\n# Languagesystem definitions\n#\n\nlanguagesystem DFLT dflt;\nlanguagesystem tfng dflt; # Tifinagh default\n\n\n#\n# Lookup definitions\n#\n\n\n#\n# Feature definitions\n#\n\n"
+      },
+      {
+        "name":"ccmp",
+        "feature":"feature ccmp {\n# GSUB feature: Glyph Composition / Decomposition\n# Lookups: 2\n\n  script tfng; # Tifinagh\n  sub yal-tifi yal-tifi by yal-tifi_yal-tifi;\n  sub yal-tifi yan-tifi by yal-tifi_yan-tifi;\n  sub yan-tifi yal-tifi by yan-tifi_yal-tifi;\n  sub yan-tifi yan-tifi by yan-tifi_yan-tifi;\n  sub yaf-tifi zerowidthjoiner yat-tifi by yaf-tifi_zerowidthjoiner_yat-tifi;\n  sub yaf-tifi consonantjoiner-tifi yat-tifi by yaf-tifi_zerowidthjoiner_yat-tifi;\n  sub yah-tifi zerowidthjoiner yat-tifi by yah-tifi_zerowidthjoiner_yat-tifi;\n  sub yah-tifi consonantjoiner-tifi yat-tifi by yah-tifi_zerowidthjoiner_yat-tifi;\n  sub yazhTuareg-tifi zerowidthjoiner yat-tifi by yazhTuareg-tifi_zerowidthjoiner_yat-tifi;\n  sub yazhTuareg-tifi consonantjoiner-tifi yat-tifi by yazhTuareg-tifi_zerowidthjoiner_yat-tifi;\n  sub yal-tifi zerowidthjoiner yat-tifi by yal-tifi_zerowidthjoiner_yat-tifi;\n  sub yal-tifi consonantjoiner-tifi yat-tifi by yal-tifi_zerowidthjoiner_yat-tifi;\n  sub yam-tifi zerowidthjoiner yah-tifi by yam-tifi_zerowidthjoiner_yah-tifi;\n  sub yam-tifi consonantjoiner-tifi yah-tifi by yam-tifi_zerowidthjoiner_yah-tifi;\n  sub yam-tifi zerowidthjoiner yas-tifi by yam-tifi_zerowidthjoiner_yas-tifi;\n  sub yam-tifi consonantjoiner-tifi yas-tifi by yam-tifi_zerowidthjoiner_yas-tifi;\n  sub yam-tifi zerowidthjoiner yat-tifi by yam-tifi_zerowidthjoiner_yat-tifi;\n  sub yam-tifi consonantjoiner-tifi yat-tifi by yam-tifi_zerowidthjoiner_yat-tifi;\n  sub yan-tifi zerowidthjoiner yah-tifi by yan-tifi_zerowidthjoiner_yah-tifi;\n  sub yan-tifi consonantjoiner-tifi yah-tifi by yan-tifi_zerowidthjoiner_yah-tifi;\n  sub yan-tifi zerowidthjoiner yadd-tifi by yan-tifi_zerowidthjoiner_yadd-tifi;\n  sub yan-tifi consonantjoiner-tifi yadd-tifi by yan-tifi_zerowidthjoiner_yadd-tifi;\n  sub yan-tifi zerowidthjoiner yadh-tifi by yan-tifi_zerowidthjoiner_yadh-tifi;\n  sub yan-tifi consonantjoiner-tifi yadh-tifi by yan-tifi_zerowidthjoiner_yadh-tifi;\n  sub yan-tifi zerowidthjoiner yaf-tifi by yan-tifi_zerowidthjoiner_yaf-tifi;\n  sub yan-tifi consonantjoiner-tifi yaf-tifi by yan-tifi_zerowidthjoiner_yaf-tifi;\n  sub yan-tifi zerowidthjoiner yaj-tifi by yan-tifi_zerowidthjoiner_yaj-tifi;\n  sub yan-tifi consonantjoiner-tifi yaj-tifi by yan-tifi_zerowidthjoiner_yaj-tifi;\n  sub yan-tifi zerowidthjoiner yaghh-tifi by yan-tifi_zerowidthjoiner_yaghh-tifi;\n  sub yan-tifi consonantjoiner-tifi yaghh-tifi by yan-tifi_zerowidthjoiner_yaghh-tifi;\n  sub yan-tifi zerowidthjoiner yaghTuareg-tifi by yan-tifi_zerowidthjoiner_yaghTuareg-tifi;\n  sub yan-tifi consonantjoiner-tifi yaghTuareg-tifi by yan-tifi_zerowidthjoiner_yaghTuareg-tifi;\n  sub yan-tifi zerowidthjoiner yazhTuareg-tifi by yan-tifi_zerowidthjoiner_yazhTuareg-tifi;\n  sub yan-tifi consonantjoiner-tifi yazhTuareg-tifi by yan-tifi_zerowidthjoiner_yazhTuareg-tifi;\n  sub yan-tifi zerowidthjoiner yakTuareg-tifi by yan-tifi_zerowidthjoiner_yakTuareg-tifi;\n  sub yan-tifi consonantjoiner-tifi yakTuareg-tifi by yan-tifi_zerowidthjoiner_yakTuareg-tifi;\n  sub yan-tifi zerowidthjoiner yas-tifi by yan-tifi_zerowidthjoiner_yas-tifi;\n  sub yan-tifi consonantjoiner-tifi yas-tifi by yan-tifi_zerowidthjoiner_yas-tifi;\n  sub yan-tifi zerowidthjoiner yat-tifi by yan-tifi_zerowidthjoiner_yat-tifi;\n  sub yan-tifi consonantjoiner-tifi yat-tifi by yan-tifi_zerowidthjoiner_yat-tifi;\n  sub yan-tifi zerowidthjoiner yazTawellemet-tifi by yan-tifi_zerowidthjoiner_yazTawellemet-tifi;\n  sub yan-tifi consonantjoiner-tifi yazTawellemet-tifi by yan-tifi_zerowidthjoiner_yazTawellemet-tifi;\n  sub yu-tifi zerowidthjoiner yat-tifi by yu-tifi_zerowidthjoiner_yat-tifi;\n  sub yu-tifi consonantjoiner-tifi yat-tifi by yu-tifi_zerowidthjoiner_yat-tifi;\n  sub yar-tifi zerowidthjoiner yat-tifi by yar-tifi_zerowidthjoiner_yat-tifi;\n  sub yar-tifi consonantjoiner-tifi yat-tifi by yar-tifi_zerowidthjoiner_yat-tifi;\n  sub yas-tifi zerowidthjoiner yan-tifi by yas-tifi_zerowidthjoiner_yan-tifi;\n  sub yas-tifi consonantjoiner-tifi yan-tifi by yas-tifi_zerowidthjoiner_yan-tifi;\n  sub yas-tifi zerowidthjoiner yat-tifi by yas-tifi_zerowidthjoiner_yat-tifi;\n  sub yas-tifi consonantjoiner-tifi yat-tifi by yas-tifi_zerowidthjoiner_yat-tifi;\n  sub yash-tifi zerowidthjoiner yat-tifi by yash-tifi_zerowidthjoiner_yat-tifi;\n  sub yash-tifi consonantjoiner-tifi yat-tifi by yash-tifi_zerowidthjoiner_yat-tifi;\n  sub yat-tifi zerowidthjoiner yas-tifi by yat-tifi_zerowidthjoiner_yas-tifi;\n  sub yat-tifi consonantjoiner-tifi yas-tifi by yat-tifi_zerowidthjoiner_yas-tifi;\n  sub yay-tifi zerowidthjoiner yat-tifi by yay-tifi_zerowidthjoiner_yat-tifi;\n  sub yay-tifi consonantjoiner-tifi yat-tifi by yay-tifi_zerowidthjoiner_yat-tifi;\n\n} ccmp;\n\n"
+      },
+      {
+        "name":"mark",
+        "feature":"feature mark {\n# GPOS feature: Mark Positioning\n# Lookups: 1\n\n  script tfng; # Tifinagh\n\n  lookup mark_tfng {\n  # GPOS lookup 1, type 4 (MarkToBase attachment)\n    markClass acutecomb <anchor -330 1230> @t.acutecomb;\n    markClass circumflexcomb <anchor -400 1230> @t.acutecomb;\n    markClass macroncomb <anchor -360 1230> @t.acutecomb;\n    markClass brevecomb <anchor -370 1230> @t.acutecomb;\n    markClass dotaccentcomb <anchor -160 1230> @t.acutecomb;\n    markClass dotbelowcomb <anchor -310 0> @b.dotbelowcomb_1;\n    markClass macronbelowcomb <anchor -500 0> @b.dotbelowcomb_1;\n    pos base ya-tifi\n        <anchor 420 1640> mark @t.acutecomb\n        <anchor 420 0> mark @b.dotbelowcomb_1;\n    pos base yab-tifi\n        <anchor 880 1640> mark @t.acutecomb\n        <anchor 880 0> mark @b.dotbelowcomb_1;\n    pos base yabh-tifi\n        <anchor 880 1640> mark @t.acutecomb\n        <anchor 880 0> mark @b.dotbelowcomb_1;\n    pos base yag-tifi\n        <anchor 680 1640> mark @t.acutecomb\n        <anchor 680 0> mark @b.dotbelowcomb_1;\n    pos base yaghh-tifi\n        <anchor 680 1640> mark @t.acutecomb\n        <anchor 680 0> mark @b.dotbelowcomb_1;\n    pos base yajBerberacademy-tifi\n        <anchor 680 1640> mark @t.acutecomb\n        <anchor 680 0> mark @b.dotbelowcomb_1;\n    pos base yaj-tifi\n        <anchor 620 1640> mark @t.acutecomb\n        <anchor 620 0> mark @b.dotbelowcomb_1;\n    pos base yad-tifi\n        <anchor 640 1640> mark @t.acutecomb\n        <anchor 640 0> mark @b.dotbelowcomb_1;\n    pos base yadh-tifi\n        <anchor 640 1640> mark @t.acutecomb\n        <anchor 640 0> mark @b.dotbelowcomb_1;\n    pos base yadd-tifi\n        <anchor 680 1640> mark @t.acutecomb\n        <anchor 720 0> mark @b.dotbelowcomb_1;\n    pos base yaddh-tifi\n        <anchor 620 1640> mark @t.acutecomb\n        <anchor 620 0> mark @b.dotbelowcomb_1;\n    pos base yey-tifi\n        <anchor 720 1640> mark @t.acutecomb\n        <anchor 720 0> mark @b.dotbelowcomb_1;\n    pos base yaf-tifi\n        <anchor 810 1640> mark @t.acutecomb\n        <anchor 810 0> mark @b.dotbelowcomb_1;\n    pos base yak-tifi\n        <anchor 760 1640> mark @t.acutecomb\n        <anchor 760 0> mark @b.dotbelowcomb_1;\n    pos base yakTuareg-tifi\n        <anchor 500 1640> mark @t.acutecomb\n        <anchor 500 0> mark @b.dotbelowcomb_1;\n    pos base yakhh-tifi\n        <anchor 740 1640> mark @t.acutecomb\n        <anchor 740 0> mark @b.dotbelowcomb_1;\n    pos base yah-tifi\n        <anchor 880 1640> mark @t.acutecomb\n        <anchor 880 0> mark @b.dotbelowcomb_1;\n    pos base yahBerberacademy-tifi\n        <anchor 880 1640> mark @t.acutecomb\n        <anchor 880 0> mark @b.dotbelowcomb_1;\n    pos base yahTuareg-tifi\n        <anchor 300 1640> mark @t.acutecomb\n        <anchor 300 0> mark @b.dotbelowcomb_1;\n    pos base yahh-tifi\n        <anchor 640 1640> mark @t.acutecomb\n        <anchor 640 0> mark @b.dotbelowcomb_1;\n    pos base yaa-tifi\n        <anchor 740 1640> mark @t.acutecomb\n        <anchor 740 0> mark @b.dotbelowcomb_1;\n    pos base yakh-tifi\n        <anchor 660 1640> mark @t.acutecomb\n        <anchor 660 0> mark @b.dotbelowcomb_1;\n    pos base yakhTuareg-tifi\n        <anchor 740 1640> mark @t.acutecomb\n        <anchor 740 0> mark @b.dotbelowcomb_1;\n    pos base yaq-tifi\n        <anchor 780 1640> mark @t.acutecomb\n        <anchor 780 0> mark @b.dotbelowcomb_1;\n    pos base yaqTuareg-tifi\n        <anchor 760 1640> mark @t.acutecomb\n        <anchor 760 0> mark @b.dotbelowcomb_1;\n    pos base yi-tifi\n        <anchor 500 1640> mark @t.acutecomb\n        <anchor 500 0> mark @b.dotbelowcomb_1;\n    pos base yazh-tifi\n        <anchor 520 1640> mark @t.acutecomb\n        <anchor 520 0> mark @b.dotbelowcomb_1;\n    pos base yazhAhaggar-tifi\n        <anchor 640 1640> mark @t.acutecomb\n        <anchor 640 0> mark @b.dotbelowcomb_1;\n    pos base yazhTuareg-tifi\n        <anchor 800 1640> mark @t.acutecomb\n        <anchor 800 0> mark @b.dotbelowcomb_1;\n    pos base yal-tifi\n        <anchor 560 1640> mark @t.acutecomb\n        <anchor 560 0> mark @b.dotbelowcomb_1;\n    pos base yam-tifi\n        <anchor 720 1640> mark @t.acutecomb\n        <anchor 720 0> mark @b.dotbelowcomb_1;\n    pos base yan-tifi\n        <anchor 300 1640> mark @t.acutecomb\n        <anchor 300 0> mark @b.dotbelowcomb_1;\n    pos base yagnTuareg-tifi\n        <anchor 780 1640> mark @t.acutecomb\n        <anchor 780 0> mark @b.dotbelowcomb_1;\n    pos base yangTuareg-tifi\n        <anchor 280 1640> mark @t.acutecomb\n        <anchor 280 -380> mark @b.dotbelowcomb_1;\n    pos base yap-tifi\n        <anchor 560 1640> mark @t.acutecomb\n        <anchor 560 0> mark @b.dotbelowcomb_1;\n    pos base yu-tifi\n        <anchor 420 1640> mark @t.acutecomb\n        <anchor 420 0> mark @b.dotbelowcomb_1;\n    pos base yar-tifi\n        <anchor 880 1640> mark @t.acutecomb\n        <anchor 880 0> mark @b.dotbelowcomb_1;\n    pos base yarr-tifi\n        <anchor 880 1640> mark @t.acutecomb\n        <anchor 880 0> mark @b.dotbelowcomb_1;\n    pos base yagh-tifi\n        <anchor 740 1640> mark @t.acutecomb\n        <anchor 740 0> mark @b.dotbelowcomb_1;\n    pos base yaghTuareg-tifi\n        <anchor 300 1640> mark @t.acutecomb\n        <anchor 300 0> mark @b.dotbelowcomb_1;\n    pos base yaghAyer-tifi\n        <anchor 720 1640> mark @t.acutecomb\n        <anchor 720 0> mark @b.dotbelowcomb_1;\n    pos base yas-tifi\n        <anchor 880 1640> mark @t.acutecomb\n        <anchor 880 0> mark @b.dotbelowcomb_1;\n    pos base yass-tifi\n        <anchor 880 1640> mark @t.acutecomb\n        <anchor 880 0> mark @b.dotbelowcomb_1;\n    pos base yash-tifi\n        <anchor 820 1640> mark @t.acutecomb\n        <anchor 820 0> mark @b.dotbelowcomb_1;\n    pos base yat-tifi\n        <anchor 530 1640> mark @t.acutecomb\n        <anchor 530 0> mark @b.dotbelowcomb_1;\n    pos base yath-tifi\n        <anchor 660 1640> mark @t.acutecomb\n        <anchor 660 0> mark @b.dotbelowcomb_1;\n    pos base yach-tifi\n        <anchor 800 1640> mark @t.acutecomb\n        <anchor 800 0> mark @b.dotbelowcomb_1;\n    pos base yatt-tifi\n        <anchor 720 1640> mark @t.acutecomb\n        <anchor 720 0> mark @b.dotbelowcomb_1;\n    pos base yav-tifi\n        <anchor 680 1640> mark @t.acutecomb\n        <anchor 680 0> mark @b.dotbelowcomb_1;\n    pos base yaw-tifi\n        <anchor 720 1640> mark @t.acutecomb\n        <anchor 720 0> mark @b.dotbelowcomb_1;\n    pos base yay-tifi\n        <anchor 500 1640> mark @t.acutecomb\n        <anchor 500 0> mark @b.dotbelowcomb_1;\n    pos base yaz-tifi\n        <anchor 850 1640> mark @t.acutecomb\n        <anchor 850 0> mark @b.dotbelowcomb_1;\n    pos base yazTawellemet-tifi\n        <anchor 460 1640> mark @t.acutecomb\n        <anchor 460 0> mark @b.dotbelowcomb_1;\n    pos base yazz-tifi\n        <anchor 850 1640> mark @t.acutecomb\n        <anchor 850 0> mark @b.dotbelowcomb_1;\n    pos base ye-tifi\n        <anchor 680 1640> mark @t.acutecomb\n        <anchor 640 0> mark @b.dotbelowcomb_1;\n    pos base yo-tifi\n        <anchor 780 1640> mark @t.acutecomb\n        <anchor 780 0> mark @b.dotbelowcomb_1;\n    pos base yal-tifi_zerowidthjoiner_yat-tifi\n        <anchor 820 1640> mark @t.acutecomb\n        <anchor 820 0> mark @b.dotbelowcomb_1;\n    pos base yah-tifi_zerowidthjoiner_yat-tifi\n        <anchor 880 1640> mark @t.acutecomb\n        <anchor 880 0> mark @b.dotbelowcomb_1;\n    pos base yam-tifi_zerowidthjoiner_yah-tifi\n        <anchor 780 1640> mark @t.acutecomb\n        <anchor 780 0> mark @b.dotbelowcomb_1;\n    pos base yam-tifi_zerowidthjoiner_yas-tifi\n        <anchor 780 1640> mark @t.acutecomb\n        <anchor 780 0> mark @b.dotbelowcomb_1;\n    pos base yam-tifi_zerowidthjoiner_yat-tifi\n        <anchor 700 1640> mark @t.acutecomb\n        <anchor 710 0> mark @b.dotbelowcomb_1;\n    pos base yan-tifi_zerowidthjoiner_yah-tifi\n        <anchor 880 1640> mark @t.acutecomb\n        <anchor 880 0> mark @b.dotbelowcomb_1;\n    pos base yan-tifi_zerowidthjoiner_yadd-tifi\n        <anchor 640 1640> mark @t.acutecomb\n        <anchor 740 0> mark @b.dotbelowcomb_1;\n    pos base yan-tifi_zerowidthjoiner_yadh-tifi\n        <anchor 640 1740> mark @t.acutecomb\n        <anchor 640 0> mark @b.dotbelowcomb_1;\n    pos base yaf-tifi_zerowidthjoiner_yat-tifi\n        <anchor 920 1640> mark @t.acutecomb\n        <anchor 920 0> mark @b.dotbelowcomb_1;\n    pos base yan-tifi_zerowidthjoiner_yaf-tifi\n        <anchor 910 1640> mark @t.acutecomb\n        <anchor 910 0> mark @b.dotbelowcomb_1;\n    pos base yan-tifi_zerowidthjoiner_yaj-tifi\n        <anchor 600 1640> mark @t.acutecomb\n        <anchor 600 0> mark @b.dotbelowcomb_1;\n    pos base yan-tifi_zerowidthjoiner_yaghh-tifi\n        <anchor 700 1740> mark @t.acutecomb\n        <anchor 700 0> mark @b.dotbelowcomb_1;\n    pos base yan-tifi_zerowidthjoiner_yaghTuareg-tifi\n        <anchor 610 1640> mark @t.acutecomb\n        <anchor 610 0> mark @b.dotbelowcomb_1;\n    pos base yan-tifi_zerowidthjoiner_yazhTuareg-tifi\n        <anchor 800 1640> mark @t.acutecomb\n        <anchor 800 0> mark @b.dotbelowcomb_1;\n    pos base yan-tifi_zerowidthjoiner_yakTuareg-tifi\n        <anchor 340 1740> mark @t.acutecomb\n        <anchor 340 -240> mark @b.dotbelowcomb_1;\n    pos base yan-tifi_zerowidthjoiner_yas-tifi\n        <anchor 880 1640> mark @t.acutecomb\n        <anchor 880 0> mark @b.dotbelowcomb_1;\n    pos base yan-tifi_zerowidthjoiner_yat-tifi\n        <anchor 680 1640> mark @t.acutecomb\n        <anchor 680 0> mark @b.dotbelowcomb_1;\n    pos base yan-tifi_zerowidthjoiner_yazTawellemet-tifi\n        <anchor 840 1640> mark @t.acutecomb\n        <anchor 840 0> mark @b.dotbelowcomb_1;\n    pos base yar-tifi_zerowidthjoiner_yat-tifi\n        <anchor 880 1640> mark @t.acutecomb\n        <anchor 880 0> mark @b.dotbelowcomb_1;\n    pos base yas-tifi_zerowidthjoiner_yan-tifi\n        <anchor 880 1640> mark @t.acutecomb\n        <anchor 880 -240> mark @b.dotbelowcomb_1;\n    pos base yas-tifi_zerowidthjoiner_yat-tifi\n        <anchor 880 1640> mark @t.acutecomb\n        <anchor 880 0> mark @b.dotbelowcomb_1;\n    pos base yash-tifi_zerowidthjoiner_yat-tifi\n        <anchor 880 1640> mark @t.acutecomb\n        <anchor 890 0> mark @b.dotbelowcomb_1;\n    pos base yat-tifi_zerowidthjoiner_yas-tifi\n        <anchor 740 1640> mark @t.acutecomb\n        <anchor 740 0> mark @b.dotbelowcomb_1;\n    pos base yu-tifi_zerowidthjoiner_yat-tifi\n        <anchor 780 1640> mark @t.acutecomb\n        <anchor 780 0> mark @b.dotbelowcomb_1;\n    pos base yay-tifi_zerowidthjoiner_yat-tifi\n        <anchor 480 1640> mark @t.acutecomb\n        <anchor 480 -160> mark @b.dotbelowcomb_1;\n    pos base yazhTuareg-tifi_zerowidthjoiner_yat-tifi\n        <anchor 910 1640> mark @t.acutecomb\n        <anchor 910 0> mark @b.dotbelowcomb_1;\n    pos base yal-tifi_yal-tifi\n        <anchor 900 1640> mark @t.acutecomb\n        <anchor 1020 0> mark @b.dotbelowcomb_1;\n    pos base yal-tifi_yan-tifi\n        <anchor 700 1640> mark @t.acutecomb\n        <anchor 800 0> mark @b.dotbelowcomb_1;\n    pos base yan-tifi_yal-tifi\n        <anchor 600 1640> mark @t.acutecomb\n        <anchor 760 0> mark @b.dotbelowcomb_1;\n    pos base yan-tifi_yan-tifi\n        <anchor 400 1640> mark @t.acutecomb\n        <anchor 550 0> mark @b.dotbelowcomb_1;\n  } mark_tfng;\n\n\n} mark;\n\n"
+      },
+      {
+        "name":"mkmk",
+        "feature":"feature mkmk {\n# GPOS feature: Mark to Mark Positioning\n# Lookups: 2\n\n  script tfng; # Tifinagh\n\n  lookup mkmk_tfng_1 {\n  # GPOS lookup 2, type 6 (MarkToMark attachment)\n    markClass acutecomb <anchor -440 1230> @b.acutecomb;\n    markClass circumflexcomb <anchor -720 1230> @b.acutecomb;\n    markClass macroncomb <anchor -680 1230> @b.acutecomb;\n    markClass brevecomb <anchor -720 1230> @b.acutecomb;\n    markClass dotaccentcomb <anchor -280 1230> @b.acutecomb;\n    pos mark acutecomb\n        <anchor -50 1230> mark @b.acutecomb;\n    pos mark circumflexcomb\n        <anchor 0 1230> mark @b.acutecomb;\n    pos mark macroncomb\n        <anchor 0 1230> mark @b.acutecomb;\n    pos mark brevecomb\n        <anchor 0 1230> mark @b.acutecomb;\n    pos mark dotaccentcomb\n        <anchor 0 1230> mark @b.acutecomb;\n  } mkmk_tfng_1;\n\n\n  lookup mkmk_tfng_2 {\n  # GPOS lookup 3, type 6 (MarkToMark attachment)\n    markClass dotbelowcomb <anchor -400 0> @t.dotbelowcomb;\n    markClass macronbelowcomb <anchor -800 0> @t.dotbelowcomb;\n    pos mark dotbelowcomb\n        <anchor 0 0> mark @t.dotbelowcomb;\n    pos mark macronbelowcomb\n        <anchor 0 0> mark @t.dotbelowcomb;\n  } mkmk_tfng_2;\n\n\n} mkmk;\n\n"
+      }
+    ],
+    "hinting":{
+      "maxZones":1,
+      "gasp":[
+        2,
+        8,
+        3,
+        65535
+      ]
+    },
+    "info":{
+      "tfn":"Coto Sans Tifinagh",
+      "sgn":"Coto Sans Tifinagh",
+      "creationDate":"2013/10/17 17:33:30",
+      "copyright":"Copyright 2013 Google Inc. All Rights Reserved.",
+      "trademark":"Noto is a trademark of Google Inc. and may be registered in certain jurisdictions.",
+      "designer":"Monotype Design team",
+      "designerURL":"http://www.monotype.com/studio",
+      "license":"Licensed under the Apache License, Version 2.0",
+      "licenseURL":"http://www.apache.org/licenses/LICENSE-2.0",
+      "manufacturer":"Monotype Imaging Inc.",
+      "manufacturerURL":"http://code.google.com/p/noto/",
+      "description":"Designed by Monotype design team",
+      "vendorID":"GOOG",
+      "versionMajor":1,
+      "versionMinor":20,
+      "version":"Version 1.02",
+      "codepageRange":"0000000000000001",
+      "unicodeRange":"00000004000000080000000080000043",
+      "useTypoMetrics":false,
+      "embedding":"0000"
+    },
+    "meta":{
+      "metaCreator":true,
+      "metaFormatVersion":8,
+      "metaBuild":"7649"
+    },
+    "settings":{
+      "settings.RoundCoordinates":"round"
+    },
+    "masters":[
+      {
+        "fontMaster":{
+          "name":"Regular",
+          "tsn":"Regular",
+          "sgn":"Coto Sans Tifinagh",
+          "ffn":"Coto Sans Tifinagh",
+          "psn":"CotoSansTifinagh",
+          "weight_name":"Regular",
+          "width_name":"Normal",
+          "slope_name":"Plain",
+          "ascender":2189,
+          "descender":-600,
+          "xHeight":1024,
+          "capsHeight":1434,
+          "measurement":512,
+          "weight":400,
+          "width":5,
+          "safeTop":2189,
+          "safeBottom":600,
+          "underlineThickness":102,
+          "underlinePosition":-154,
+          "inktrapLen":4,
+          "panose":"2 11 5 2 4 5 4 2 2 4",
+          "otherData":{
+            "DistanceX":102,
+            "DistanceY":102,
+            "HintingMaxH":512,
+            "HintingMaxV":512,
+            "HintingMinH":41,
+            "HintingMinV":41,
+            "OS2UseTypoMetrics":false,
+            "ProcessLoops":false,
+            "TtHinter":1,
+            "TtHorizSmoothing":0,
+            "TtNoSmoothing":0,
+            "TtaFamilyAlign":false,
+            "TtaHintComposites":true,
+            "TtaHintingLimit":200,
+            "TtaHintingRangeMax":50,
+            "TtaHintingRangeMin":8,
+            "TtaIncreaseXHeight":11,
+            "TtaNoClipping":true,
+            "TtaSharpDw":false,
+            "TtaSharpGdi":true,
+            "TtaSharpGray":false,
+            "hhea_ascender":2189,
+            "hhea_descender":-600,
+            "hhea_line_gap":0,
+            "hhea_use_custom":false,
+            "strikeout_position":512,
+            "strikeout_size":102,
+            "subscript_x_offset":0,
+            "subscript_x_size":1434,
+            "subscript_y_offset":287,
+            "subscript_y_size":1331,
+            "superscript_x_offset":0,
+            "superscript_x_size":1434,
+            "superscript_y_offset":977,
+            "superscript_y_size":1331
+          },
+          "hintingParameters":{
+            "maxZones":1
+          },
+          "kerning":{
+          },
+          "measurements":{
+            "ItalicAngle":"0",
+            "Tension":"60",
+            "Ascender":"2189",
+            "Descender":"-600",
+            "CapsHeight":"1434",
+            "XHeight":"1024",
+            "UT":"102",
+            "UP":"-154"
+          }
+        }
+      }
+    ]
+  }
+}

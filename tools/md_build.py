@@ -247,11 +247,12 @@ class GetGoDocs(object):
             self.data[fo.metadata['full_name']] = OrderedDict()
             drec = self.data[fo.metadata['full_name']]
             drec.update(fo.metadata)
-            drec['vfj_url'] = fo.get_download_url(fo.vfj_path)
-            drec['ttf_url'] = fo.get_download_url(fo.ttf_path)
-            drec['md_url'] = fo.get_download_url(fo.md_path)
-            drec['svg_url'] = fo.get_download_url(fo.svg_path)
-            drec['png_url'] = fo.get_download_url(fo.png_path)
+            drec['url'] = OrderedDict()
+            drec['url']['vfj'] = fo.get_download_url(fo.vfj_path)
+            drec['url']['ttf'] = fo.get_download_url(fo.ttf_path)
+            drec['url']['md'] = fo.get_download_url(fo.md_path)
+            drec['url']['svg'] = fo.get_download_url(fo.svg_path)
+            drec['url']['png'] = fo.get_download_url(fo.png_path)
             self.font_css += fo.get_font_css()
 
         with open(Path(self.folders['css'], 'fonts.css'), 'w', encoding='utf-8') as f:

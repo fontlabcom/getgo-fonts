@@ -9,11 +9,13 @@
             "Latin"
         ],
         "sample_text": "PJVNNX TQFBHI wuufªk ldmzea prxhºy",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.png"
+        }
     },
     "GG Stroke Chan OFL Italic": {
         "full_name": "GG Stroke Chan OFL Italic",
@@ -25,11 +27,13 @@
             "Latin"
         ],
         "sample_text": "TLVUBG YKMMIP txnckj qixarh zpyegj",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.png"
+        }
     },
     "GG Boto Regular": {
         "full_name": "GG Boto Regular",
@@ -43,11 +47,13 @@
             "Greek"
         ],
         "sample_text": "ᴃꝪẐḔĨꝠ ƸḆŶȪĪᶃ ấǽṁꟸⅎế tɋɣẹǌễ ṅẖᶚᴀꭃʫ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto.png"
+        }
     },
     "Coto Serif Armenian": {
         "full_name": "Coto Serif Armenian",
@@ -59,11 +65,13 @@
             "Armenian"
         ],
         "sample_text": "ԽՉՒԿՂՅ ՏՂԸՄԵԻ էէզըքգ նբյթփպ թցզՙձծ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-armenian.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-armenian.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-armenian.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-armenian.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-armenian.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-armenian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-armenian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-armenian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-armenian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-armenian.png"
+        }
     },
     "Coto Serif Georgian": {
         "full_name": "Coto Serif Georgian",
@@ -75,11 +83,13 @@
             "Georgian"
         ],
         "sample_text": "ჁჼჅᲦႧႶ ႴᲴᲘᲠᲐႲ ⴟშვⴌⴔⴠ ⴤⴆჰⴀⴈⴎ ⴟჶⴊⴚლგ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-georgian.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-georgian.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-georgian.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-georgian.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-georgian.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-georgian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-georgian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-georgian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-georgian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-georgian.png"
+        }
     },
     "Coto Serif Lao": {
         "full_name": "Coto Serif Lao",
@@ -91,11 +101,13 @@
             "Lao"
         ],
         "sample_text": "ໃຣຯສຕດ ຊຢມໝເຫ ໂນໄຝວແ ໞບຈພະລ ຟກໜຳຮໟ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-lao.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-lao.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-lao.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-lao.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-lao.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-lao.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-lao.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-lao.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-lao.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-lao.png"
+        }
     },
     "Coto Serif Khmer": {
         "full_name": "Coto Serif Khmer",
@@ -107,11 +119,13 @@
             "Khmer"
         ],
         "sample_text": "ឲយរឦញណ ឫខឥហសឭ ឳគងបឌឍ ថឧឈៗនធ ឡឆឯជឬឞ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-khmer.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-khmer.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-khmer.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-khmer.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-khmer.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-khmer.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-khmer.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-khmer.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-khmer.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-khmer.png"
+        }
     },
     "Coto Sans Tai Viet": {
         "full_name": "Coto Sans Tai Viet",
@@ -123,11 +137,13 @@
             "Tai Viet"
         ],
         "sample_text": "ꪕꪮꪃꪺꪄꪪ ꪅꪻꪍꪢꪠꪩ ꪔꪆꪶꪭꪯꪋ ꪇꪽꫛꪟꪛꫝ ꪒꪘꪚꪉꪌꪊ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taiviet.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taiviet.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taiviet.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taiviet.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taiviet.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taiviet.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taiviet.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taiviet.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taiviet.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taiviet.png"
+        }
     },
     "Coto Sans Ugaritic": {
         "full_name": "Coto Sans Ugaritic",
@@ -139,11 +155,13 @@
             "Ugaritic"
         ],
         "sample_text": "𐎍𐎒𐎁𐎓𐎔𐎋 𐎄𐎌𐎅𐎛𐎆𐎑 𐎊𐎐𐎜𐎝𐎏𐎘 𐎉𐎈𐎚𐎃𐎖𐎗 𐎇𐎕𐎙𐎀𐎂𐎎",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ugaritic.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ugaritic.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ugaritic.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ugaritic.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ugaritic.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ugaritic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ugaritic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ugaritic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ugaritic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ugaritic.png"
+        }
     },
     "Coto Sans Tai Tham": {
         "full_name": "Coto Sans Tai Tham",
@@ -155,11 +173,13 @@
             "Tai Tham"
         ],
         "sample_text": "ᨻᩈᨾᩁᨫᩓ ᨿᩃᩊᨯᩒᨹ ᨤᩏᨭᩀᨳᨢ ᨡᨧᨲᨺᨵᩌ ᨸᩎᨩᨶᩅᨨ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taitham.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taitham.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taitham.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taitham.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taitham.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taitham.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taitham.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taitham.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taitham.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taitham.png"
+        }
     },
     "Coto Sans Coptic": {
         "full_name": "Coto Sans Coptic",
@@ -171,11 +191,13 @@
             "Coptic"
         ],
         "sample_text": "ⲰⲮⲄⳜⲜⳄ ⲦⲤⲢϮⲶⳠ ⲽⲫⲭⳗⲿⳳ ⲃⳇⲃⲏⳃⳗ ϫⳁⲅⲽⲉⲩ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-coptic.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-coptic.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-coptic.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-coptic.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-coptic.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-coptic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-coptic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-coptic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-coptic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-coptic.png"
+        }
     },
     "Coto Sans Cypriot": {
         "full_name": "Coto Sans Cypriot",
@@ -187,11 +209,13 @@
             "Cypriot"
         ],
         "sample_text": "𐠼𐠐𐠣𐠅𐠎𐠱 𐠩𐠍𐠪𐠢𐠦𐠮 𐠤𐠬𐠲𐠌𐠔𐠰 𐠕𐠞𐠡𐠝𐠖𐠊 𐠒𐠠𐠀𐠨𐠭𐠟",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cypriot.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cypriot.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cypriot.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cypriot.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cypriot.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cypriot.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cypriot.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cypriot.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cypriot.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cypriot.png"
+        }
     },
     "Coto Sans Kayah Li": {
         "full_name": "Coto Sans Kayah Li",
@@ -203,11 +227,13 @@
             "Kayah Li"
         ],
         "sample_text": "ꤢꤜꤊꤍꤠꤝ ꤒꤥꤟꤖꤐꤛ ꤋꤡꤌꤑꤞꤔ ꤚꤙꤎꤕꤏꤤ ꤘꤣꤓꤗ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kayahli.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kayahli.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kayahli.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kayahli.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kayahli.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kayahli.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kayahli.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kayahli.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kayahli.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kayahli.png"
+        }
     },
     "Coto Sans Lycian": {
         "full_name": "Coto Sans Lycian",
@@ -219,11 +245,13 @@
             "Lycian"
         ],
         "sample_text": "𐊜𐊀𐊖𐊙𐊋𐊊 𐊂𐊐𐊛𐊓𐊆𐊑 𐊔𐊗𐊄𐊍𐊘𐊃 𐊕𐊌𐊒𐊉𐊁𐊚 𐊈𐊅𐊎𐊏𐊇",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lycian.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lycian.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lycian.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lycian.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lycian.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lycian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lycian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lycian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lycian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lycian.png"
+        }
     },
     "Coto Sans Osmanya": {
         "full_name": "Coto Sans Osmanya",
@@ -235,11 +263,13 @@
             "Osmanya"
         ],
         "sample_text": "𐒌𐒆𐒓𐒈𐒊𐒚 𐒒𐒉𐒙𐒀𐒑𐒘 𐒖𐒅𐒃𐒄𐒕𐒝 𐒇𐒍𐒏𐒋𐒗𐒜 𐒛𐒐𐒔𐒁𐒂𐒎",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-osmanya.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-osmanya.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-osmanya.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-osmanya.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-osmanya.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-osmanya.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-osmanya.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-osmanya.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-osmanya.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-osmanya.png"
+        }
     },
     "Coto Sans Rejang": {
         "full_name": "Coto Sans Rejang",
@@ -251,11 +281,13 @@
             "Rejang"
         ],
         "sample_text": "ꤶꥀꤱꤺꤻꤵ ꤳꥂꥁꤴꥃꤸ ꤼꥄꥅꤾꤹꤿ ꤽꤲꤰꥆꤷ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-rejang.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-rejang.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-rejang.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-rejang.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-rejang.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-rejang.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-rejang.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-rejang.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-rejang.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-rejang.png"
+        }
     },
     "Coto Sans Old Turkic": {
         "full_name": "Coto Sans Old Turkic",
@@ -267,11 +299,13 @@
             "Old Turkic"
         ],
         "sample_text": "𐰥𐱁𐰶𐰢𐰯𐰐 𐰋𐰪𐰚𐰈𐰛𐰗 𐰳𐰝𐰖𐰊𐱆𐰽 𐰬𐰺𐰨𐰘𐰟𐰦 𐱅𐰼𐰁𐰹𐰙𐱀",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldturkic.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldturkic.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldturkic.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldturkic.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldturkic.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldturkic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldturkic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldturkic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldturkic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldturkic.png"
+        }
     },
     "Coto Sans Old Italic": {
         "full_name": "Coto Sans Old Italic",
@@ -283,11 +317,13 @@
             "Old Italic"
         ],
         "sample_text": "𐌏𐌉𐌆𐌊𐌙𐌜 𐌇𐌞𐌕𐌎𐌀𐌚 𐌃𐌁𐌓𐌅𐌋𐌔 𐌘𐌌𐌛𐌖𐌍𐌈 𐌄𐌝𐌐𐌂𐌗𐌑",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olditalic.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olditalic.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olditalic.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olditalic.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olditalic.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olditalic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olditalic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olditalic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olditalic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olditalic.png"
+        }
     },
     "Coto Sans Kharoshthi": {
         "full_name": "Coto Sans Kharoshthi",
@@ -299,11 +335,13 @@
             "Kharoshthi"
         ],
         "sample_text": "𐨙𐨥𐨣𐨦𐨮𐨤 𐨀𐨬𐨐𐨞𐨖𐨠 𐨡𐨟𐨳𐨛𐨰𐨲 𐨯𐨜𐨭𐨒𐨫𐨱 𐨨𐨗𐨢𐨑𐨪𐨧",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kharoshthi.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kharoshthi.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kharoshthi.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kharoshthi.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kharoshthi.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kharoshthi.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kharoshthi.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kharoshthi.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kharoshthi.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kharoshthi.png"
+        }
     },
     "Coto Sans Hebrew": {
         "full_name": "Coto Sans Hebrew",
@@ -315,11 +353,13 @@
             "Hebrew"
         ],
         "sample_text": "ןפרטּזּשׂ לּאָקמּיּשּׂ זףתעהּךּ אﬠךהװתּ כּײַﭏﬦוּבֿ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hebrew.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hebrew.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hebrew.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hebrew.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hebrew.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hebrew.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hebrew.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hebrew.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hebrew.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hebrew.png"
+        }
     },
     "Coto Kufi Arabic": {
         "full_name": "Coto Kufi Arabic",
@@ -331,11 +371,13 @@
             "Arabic"
         ],
         "sample_text": "ﻹݬݣڙﺯﭘ ﹾﺂښێﹲۯ ۮڦﭖﺤﮌظ ڰګﺊذﮭڢ ۉﺠحﭧﭭﭽ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/coto-kufiarabic.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/coto-kufiarabic.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/coto-kufiarabic.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/coto-kufiarabic.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/coto-kufiarabic.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/coto-kufiarabic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/coto-kufiarabic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/coto-kufiarabic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/coto-kufiarabic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/coto-kufiarabic.png"
+        }
     },
     "Coto Sans Tagalog": {
         "full_name": "Coto Sans Tagalog",
@@ -347,11 +389,13 @@
             "Tagalog"
         ],
         "sample_text": "ᜋᜐᜂᜊᜏᜈ ᜁᜃᜀᜑᜄᜇ ᜅᜎᜉᜌᜆ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagalog.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagalog.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagalog.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagalog.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagalog.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagalog.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagalog.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagalog.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagalog.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagalog.png"
+        }
     },
     "Coto Sans Cherokee": {
         "full_name": "Coto Sans Cherokee",
@@ -363,11 +407,13 @@
             "Cherokee"
         ],
         "sample_text": "ᏓᎲᎮᎻᏛᏱ ᏌᎼᎳᏦᏊᎹ ꮈꮠꮢꮽꮷꮒ ꮏꮟꭰꭳꮪꮇ ꮴᏸꮆꮼꮤꭸ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cherokee.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cherokee.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cherokee.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cherokee.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cherokee.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cherokee.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cherokee.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cherokee.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cherokee.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cherokee.png"
+        }
     },
     "Coto Sans Mandaic": {
         "full_name": "Coto Sans Mandaic",
@@ -379,11 +425,13 @@
             "Mandaic"
         ],
         "sample_text": "ࡗࡆࡌࡒࡁࡇ ࡊࡉࡋࡎࡖࡈ ࡏࡔࡍࡂࡄࡑ ࡓࡀࡅࡐࡃࡘ ࡕ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mandaic.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mandaic.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mandaic.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mandaic.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mandaic.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mandaic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mandaic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mandaic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mandaic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mandaic.png"
+        }
     },
     "Coto Sans Symbols": {
         "full_name": "Coto Sans Symbols",
@@ -393,11 +441,13 @@
         "description": "Font",
         "scripts": [],
         "sample_text": "⛈꜐➊𝐛ℐ𝛶 ⎶𝜷➇⠭𝈷⩛ 🁁𝒱⍹𝞝𝛍⓾ ⎠ℼ🂧⤖⦖⏕ ⍃𝛕⪃𝑬𝜀⥆",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-symbols.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-symbols.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-symbols.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-symbols.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-symbols.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-symbols.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-symbols.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-symbols.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-symbols.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-symbols.png"
+        }
     },
     "Coto Sans New Tai Lue": {
         "full_name": "Coto Sans New Tai Lue",
@@ -409,11 +459,13 @@
             "New Tai Lue"
         ],
         "sample_text": "ᦝᧀᧄᦈᦒᦕ ᧂᦁᧃᦱᦆᧉ ᦙᦗᦉᦵᦡᦇ ᦄᦞᦰᦴᦪᦎ ᧅᦑᦸᦌᦏᦘ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-newtailue.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-newtailue.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-newtailue.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-newtailue.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-newtailue.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-newtailue.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-newtailue.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-newtailue.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-newtailue.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-newtailue.png"
+        }
     },
     "Coto Sans Buhid": {
         "full_name": "Coto Sans Buhid",
@@ -425,11 +477,13 @@
             "Buhid"
         ],
         "sample_text": "ᝌᝃᝑᝏᝊᝄ ᝎᝍᝇᝀᝂᝉ ᝆᝈᝋᝅᝐᝁ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buhid.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buhid.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buhid.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buhid.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buhid.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buhid.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buhid.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buhid.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buhid.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buhid.png"
+        }
     },
     "Coto Sans Deseret": {
         "full_name": "Coto Sans Deseret",
@@ -441,11 +495,13 @@
             "Deseret"
         ],
         "sample_text": "𐐈𐐔𐐟𐐚𐐢𐐌 𐐜𐐀𐐒𐐖𐐈𐐇 𐐹𐐷𐐮𐑅𐐫𐐵 𐐬𐐩𐐵𐐾𐑌𐐯 𐑏𐐸𐐬𐐽𐐱𐑏",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-deseret.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-deseret.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-deseret.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-deseret.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-deseret.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-deseret.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-deseret.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-deseret.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-deseret.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-deseret.png"
+        }
     },
     "Coto Sans Phoenician": {
         "full_name": "Coto Sans Phoenician",
@@ -457,11 +513,13 @@
             "Phoenician"
         ],
         "sample_text": "𐤏𐤋𐤕𐤑𐤐𐤆 𐤉𐤔𐤍𐤅𐤒𐤄 𐤂𐤇𐤃𐤓𐤀𐤈 𐤁𐤊𐤎𐤌",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phoenician.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phoenician.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phoenician.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phoenician.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phoenician.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phoenician.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phoenician.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phoenician.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phoenician.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phoenician.png"
+        }
     },
     "Coto Sans Hanunoo": {
         "full_name": "Coto Sans Hanunoo",
@@ -473,11 +531,13 @@
             "Hanunoo"
         ],
         "sample_text": "ᜣᜢᜬᜮᜡᜥ ᜦᜩᜱᜫᜤᜰ ᜠᜪᜨᜧᜯᜭ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hanunoo.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hanunoo.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hanunoo.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hanunoo.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hanunoo.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hanunoo.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hanunoo.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hanunoo.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hanunoo.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hanunoo.png"
+        }
     },
     "Coto Sans Tagbanwa": {
         "full_name": "Coto Sans Tagbanwa",
@@ -489,11 +549,13 @@
             "Tagbanwa"
         ],
         "sample_text": "ᝰᝣᝯᝪᝨᝤ ᝦᝠᝡᝥᝢᝧ ᝫᝮᝬᝩ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagbanwa.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagbanwa.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagbanwa.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagbanwa.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagbanwa.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagbanwa.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagbanwa.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagbanwa.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagbanwa.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagbanwa.png"
+        }
     },
     "Coto Sans Bamum": {
         "full_name": "Coto Sans Bamum",
@@ -505,11 +567,13 @@
             "Bamum"
         ],
         "sample_text": "𖦺ꚯꛀꛂ𖡖𖠟 𖢇𖧶𖤣𖡎𖢯𖧷 𖦢𖣙ꛚ𖥌ꚴ𖢏 𖣮𖨅𖦿𖧀𖥵𖢱 𖠓ꛆ𖢴ꛎ𖣯𖦊",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-bamum.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-bamum.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-bamum.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-bamum.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-bamum.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-bamum.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-bamum.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-bamum.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-bamum.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-bamum.png"
+        }
     },
     "Coto Sans Batak": {
         "full_name": "Coto Sans Batak",
@@ -521,11 +585,13 @@
             "Batak"
         ],
         "sample_text": "ᯓᯇᯆᯂᯠᯑ ᯗᯍᯝᯣᯖᯛ ᯅᯈᯎᯡᯃᯜ ᯀᯊᯄᯘᯤᯙ ᯔᯉᯥᯚᯁᯏ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-batak.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-batak.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-batak.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-batak.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-batak.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-batak.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-batak.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-batak.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-batak.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-batak.png"
+        }
     },
     "Coto Sans Gurmukhi": {
         "full_name": "Coto Sans Gurmukhi",
@@ -537,11 +603,13 @@
             "Gurmukhi"
         ],
         "sample_text": "ਔਅਗ਼ਘਇਪ ਣੴਆਙਜਥ ਯਡਫ਼ਖ਼ਹਦ ਨਲ਼ਈਞਲਛ ਬਏਕੲਗਭ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gurmukhi.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gurmukhi.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gurmukhi.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gurmukhi.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gurmukhi.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gurmukhi.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gurmukhi.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gurmukhi.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gurmukhi.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gurmukhi.png"
+        }
     },
     "Coto Sans Inscriptional Parthian": {
         "full_name": "Coto Sans Inscriptional Parthian",
@@ -553,11 +621,13 @@
             "Inscriptional Parthian"
         ],
         "sample_text": "𐭊𐭕𐭈𐭃𐭔𐭍 𐭏𐭋𐭆𐭁𐭐𐭂 𐭀𐭄𐭒𐭌𐭎𐭅 𐭓𐭇𐭉𐭑",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalparthian.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalparthian.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalparthian.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalparthian.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalparthian.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalparthian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalparthian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalparthian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalparthian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalparthian.png"
+        }
     },
     "Coto Sans Javanese": {
         "full_name": "Coto Sans Javanese",
@@ -569,11 +639,13 @@
             "Javanese"
         ],
         "sample_text": "ꦅꦲꦈꦠꦞꦕ ꦪꦉꦚꦜꦣꦯ ꦧꦋꦇꦙꦥꦛ ꦆꦦꦡꦔꦫꦭ ꦩꦬꦖꦏꦝꦢ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-javanese.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-javanese.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-javanese.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-javanese.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-javanese.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-javanese.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-javanese.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-javanese.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-javanese.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-javanese.png"
+        }
     },
     "Coto Sans Canadian Aboriginal": {
         "full_name": "Coto Sans Canadian Aboriginal",
@@ -585,11 +657,13 @@
             "Canadian Aboriginal"
         ],
         "sample_text": "ᓿᒩᗰᒺᓙᘈ ᐳᗛᙸᔣᗊᐴ ᐨᕸᕂᒮᘂᔴ ᗝᒝᗿᘗᐧᖵ ᖀᖴᗄᐸᒌᑾ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-canadianaboriginal.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-canadianaboriginal.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-canadianaboriginal.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-canadianaboriginal.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-canadianaboriginal.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-canadianaboriginal.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-canadianaboriginal.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-canadianaboriginal.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-canadianaboriginal.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-canadianaboriginal.png"
+        }
     },
     "Coto Sans Thaana": {
         "full_name": "Coto Sans Thaana",
@@ -601,11 +675,13 @@
             "Thaana"
         ],
         "sample_text": "ޘޢޚޝމޕ ލޱފވޔޖ ޣސބށޙޥ ޠޅޓޏޗޤ ކތހޛޡރ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-thaana.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-thaana.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-thaana.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-thaana.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-thaana.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-thaana.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-thaana.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-thaana.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-thaana.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-thaana.png"
+        }
     },
     "Coto Sans Balinese": {
         "full_name": "Coto Sans Balinese",
@@ -617,11 +693,13 @@
             "Balinese"
         ],
         "sample_text": "ᬰᬋᬘᬎᬓᬮ ᭊᬉᬥᬫᬌᬯ ᬪᬠᬲᭋᭅᬡ ᬑᬊᬭᬒᬨᬅ ᬧᬇᬗᬍᬩᭆ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-balinese.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-balinese.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-balinese.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-balinese.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-balinese.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-balinese.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-balinese.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-balinese.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-balinese.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-balinese.png"
+        }
     },
     "Coto Sans Cham": {
         "full_name": "Coto Sans Cham",
@@ -633,11 +711,13 @@
             "Cham"
         ],
         "sample_text": "ꨌꨝꨨꨘꩈꨢ ꨑꨤꨙꩀꨡꩇ ꨕꨅꨠꨍꨦꨒ ꨋꨏꩄꨃꨈꩆ ꨐꨚꨎꨁꨖꨆ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cham.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cham.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cham.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cham.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cham.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cham.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cham.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cham.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cham.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cham.png"
+        }
     },
     "Coto Sans Ogham": {
         "full_name": "Coto Sans Ogham",
@@ -649,11 +729,13 @@
             "Ogham"
         ],
         "sample_text": "ᚔᚚᚍᚋᚈᚐ ᚉᚏᚕᚅᚆᚂ ᚖᚑᚎᚗᚘᚊ ᚁᚇᚓᚄᚌᚒ ᚙᚃ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ogham.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ogham.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ogham.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ogham.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ogham.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ogham.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ogham.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ogham.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ogham.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ogham.png"
+        }
     },
     "Coto Sans Shavian": {
         "full_name": "Coto Sans Shavian",
@@ -665,11 +747,13 @@
             "Shavian"
         ],
         "sample_text": "𐑙𐑷𐑺𐑚𐑶𐑲 𐑳𐑴𐑮𐑤𐑜𐑬 𐑟𐑞𐑥𐑼𐑣𐑭 𐑔𐑵𐑰𐑸𐑻𐑖 𐑢𐑹𐑾𐑿𐑗𐑑",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-shavian.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-shavian.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-shavian.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-shavian.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-shavian.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-shavian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-shavian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-shavian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-shavian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-shavian.png"
+        }
     },
     "Coto Sans Limbu": {
         "full_name": "Coto Sans Limbu",
@@ -681,11 +765,13 @@
             "Limbu"
         ],
         "sample_text": "ᤌᤖᤓᤁᤕᤃ ᤐᤒᤚᤏᤛᤗ ᤑᤈᤎᤄᤅᤀ ᤜᤍᤆᤂᤔᤘ ᤊᤇᤋᤙᤉ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-limbu.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-limbu.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-limbu.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-limbu.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-limbu.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-limbu.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-limbu.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-limbu.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-limbu.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-limbu.png"
+        }
     },
     "Coto Sans Ethiopic": {
         "full_name": "Coto Sans Ethiopic",
@@ -697,11 +783,13 @@
             "Ethiopic"
         ],
         "sample_text": "ⷞⶌኻዝጼዬ ዑቿⷀጴሠሂ ᎍቊዃቾዔሃ ፑጆⷙቶⶉⶳ ጜየቀꬥጽቱ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ethiopic.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ethiopic.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ethiopic.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ethiopic.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ethiopic.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ethiopic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ethiopic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ethiopic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ethiopic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ethiopic.png"
+        }
     },
     "Coto Sans Georgian": {
         "full_name": "Coto Sans Georgian",
@@ -713,11 +801,13 @@
             "Georgian"
         ],
         "sample_text": "ᲣႣჀᲶႽჂ ႭᲠႸႺႱᲒ ⴇზⴂⴄჺⴊ ⴊფაⴥⴡⴌ ⴤჟღⴄსⴇ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-georgian.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-georgian.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-georgian.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-georgian.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-georgian.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-georgian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-georgian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-georgian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-georgian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-georgian.png"
+        }
     },
     "Coto Sans Phags Pa": {
         "full_name": "Coto Sans Phags Pa",
@@ -729,11 +819,13 @@
             "Phags Pa"
         ],
         "sample_text": "ꡜꡤꡩꡕꡏꡂ ꡐꡗꡡꡯꡭꡓ ꡖꡘꡑꡉꡧꡟ ꡇꡁꡰꡄꡲꡥ ꡀꡆꡌꡙꡪꡠ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phagspa.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phagspa.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phagspa.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phagspa.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phagspa.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phagspa.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phagspa.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phagspa.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phagspa.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phagspa.png"
+        }
     },
     "Coto Sans Egyptian Hieroglyphs": {
         "full_name": "Coto Sans Egyptian Hieroglyphs",
@@ -745,11 +837,13 @@
             "Egyptian Hieroglyphs"
         ],
         "sample_text": "𓁫𓋾𓅷𓆢𓋁𓁗 𓇶𓈓𓋉𓄌𓅞𓈥 𓍪𓅵𓂥𓎮𓎇𓅺 𓋘𓐦𓀮𓅶𓎐𓍼 𓈭𓍙𓐣𓐘𓁳𓅅",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-egyptianhieroglyphs.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-egyptianhieroglyphs.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-egyptianhieroglyphs.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-egyptianhieroglyphs.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-egyptianhieroglyphs.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-egyptianhieroglyphs.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-egyptianhieroglyphs.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-egyptianhieroglyphs.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-egyptianhieroglyphs.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-egyptianhieroglyphs.png"
+        }
     },
     "Coto Sans Lao": {
         "full_name": "Coto Sans Lao",
@@ -761,11 +855,13 @@
             "Lao"
         ],
         "sample_text": "ບໃຜລາອ ຫຽຟະຂຄ ຍຣມຳສຈ ໟໆເປຕໝ ພຢງທໜກ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lao.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lao.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lao.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lao.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lao.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lao.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lao.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lao.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lao.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lao.png"
+        }
     },
     "Coto Sans Samaritan": {
         "full_name": "Coto Sans Samaritan",
@@ -777,11 +873,13 @@
             "Samaritan"
         ],
         "sample_text": "ࠎࠑࠃࠔࠕࠁ ࠚࠇࠐࠤࠆࠓ ࠄࠌࠍࠅࠋࠂ ࠏࠈࠉࠒࠨࠀ ࠊ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-samaritan.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-samaritan.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-samaritan.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-samaritan.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-samaritan.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-samaritan.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-samaritan.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-samaritan.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-samaritan.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-samaritan.png"
+        }
     },
     "Coto Sans Saurashtra": {
         "full_name": "Coto Sans Saurashtra",
@@ -793,11 +891,13 @@
             "Saurashtra"
         ],
         "sample_text": "ꢘꢉꢓꢛꢤꢔ ꢧꢰꢕꢋꢙꢩ ꢮꢬꢊꢑꢡꢨ ꢃꢂꢫꢖꢞꢣ ꢲꢦꢯꢌꢠꢱ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-saurashtra.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-saurashtra.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-saurashtra.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-saurashtra.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-saurashtra.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-saurashtra.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-saurashtra.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-saurashtra.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-saurashtra.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-saurashtra.png"
+        }
     },
     "Coto Sans Historic": {
         "full_name": "Coto Sans Historic",
@@ -810,11 +910,13 @@
             "Cuneiform"
         ],
         "sample_text": "𓊺𓆼𓍚𓉆𓌅𓁐 𓍉𓎯𓍽𓇷𓏨𓁻 𓁧𓃹𓃨𓋞𓀦𓆤 𓁑𓌉𓃂𓋤𓐜𓇲 𓃘𓁱𓄫𓎀𓋘𓁮",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-historic.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-historic.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-historic.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-historic.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-historic.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-historic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-historic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-historic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-historic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-historic.png"
+        }
     },
     "Coto Sans Mongolian": {
         "full_name": "Coto Sans Mongolian",
@@ -826,11 +928,13 @@
             "Mongolian"
         ],
         "sample_text": "ᡙᡇᠷᡬᢃᠠ ᢖᠱᠽᠩᡞᡏ ᢢᠬᢙᡮᠫᠥ ᠼᢨᠾᠰᢎᡲ ᢉᢛᢝᢋᠮᡓ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mongolian.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mongolian.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mongolian.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mongolian.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mongolian.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mongolian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mongolian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mongolian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mongolian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mongolian.png"
+        }
     },
     "Coto Sans Tamil": {
         "full_name": "Coto Sans Tamil",
@@ -842,11 +946,13 @@
             "Tamil"
         ],
         "sample_text": "ஶஹௐஈஞட ஓணஎஙளய தஊஔஉஆற மசஒநவஸ ஏஐகழஜஷ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tamil.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tamil.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tamil.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tamil.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tamil.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tamil.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tamil.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tamil.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tamil.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tamil.png"
+        }
     },
     "Coto Sans Old South Arabian": {
         "full_name": "Coto Sans Old South Arabian",
@@ -858,11 +964,13 @@
             "Old South Arabian"
         ],
         "sample_text": "𐩧𐩣𐩳𐩡𐩺𐩻 𐩷𐩰𐩫𐩸𐩶𐩮 𐩴𐩱𐩥𐩢𐩭𐩵 𐩪𐩬𐩨𐩩𐩼𐩦 𐩹𐩯𐩠𐩲𐩤",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldsoutharabian.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldsoutharabian.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldsoutharabian.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldsoutharabian.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldsoutharabian.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldsoutharabian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldsoutharabian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldsoutharabian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldsoutharabian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldsoutharabian.png"
+        }
     },
     "Coto Sans Tifinagh": {
         "full_name": "Coto Sans Tifinagh",
@@ -874,11 +982,13 @@
             "Tifinagh"
         ],
         "sample_text": "ⴲⵢⵑⴿⴺⵉ ⵆⵅⵤⵕⴸⵞ ⴼⴵⴻⵍⵃⵄ ⵈⵐⴳⵛⵌⵖ ⵣⴴⵧⵓⵏⴹ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tifinagh.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tifinagh.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tifinagh.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tifinagh.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tifinagh.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tifinagh.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tifinagh.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tifinagh.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tifinagh.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tifinagh.png"
+        }
     },
     "Coto Sans Ol Chiki": {
         "full_name": "Coto Sans Ol Chiki",
@@ -890,11 +1000,13 @@
             "Ol Chiki"
         ],
         "sample_text": "ᱦᱫᱳᱰᱽᱜ ᱮᱧᱢᱝᱛᱶ ᱡᱯᱞᱹᱴᱣ ᱥᱱᱵᱷᱠᱭ ᱸᱬᱺᱲᱤᱪ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olchiki.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olchiki.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olchiki.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olchiki.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olchiki.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olchiki.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olchiki.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olchiki.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olchiki.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olchiki.png"
+        }
     },
     "Coto Sans Runic": {
         "full_name": "Coto Sans Runic",
@@ -906,11 +1018,13 @@
             "Runic"
         ],
         "sample_text": "ᛗᛠᛌᚴᚠᛊ ᛢᛍᛅᛐᚵᛦ ᚪᛡᚽᛣᚲᛉ ᛤᚥᛖᚢᛘᚧ ᛥᚾᛔᛏᚿᚷ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-runic.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-runic.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-runic.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-runic.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-runic.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-runic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-runic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-runic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-runic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-runic.png"
+        }
     },
     "Coto Sans Glagolitic": {
         "full_name": "Coto Sans Glagolitic",
@@ -922,11 +1036,13 @@
             "Glagolitic"
         ],
         "sample_text": "ⰋⰤⰗⰁⰇⰏ ⰆⰥⰃⰒⰛⰍ ⰵⱍⰴⱑⰰⱎ ⱐⱏⱀⱗⱚⱑ ⰺⰽⱆⱊⱇⱌ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-glagolitic.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-glagolitic.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-glagolitic.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-glagolitic.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-glagolitic.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-glagolitic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-glagolitic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-glagolitic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-glagolitic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-glagolitic.png"
+        }
     },
     "Coto Sans Syloti Nagri": {
         "full_name": "Coto Sans Syloti Nagri",
@@ -938,11 +1054,13 @@
             "Syloti Nagri"
         ],
         "sample_text": "ꠅꠏꠙꠒꠍꠡ ꠠꠑꠢꠘꠉꠇ ꠔꠚꠓꠐꠈꠕ ꠖꠌꠀꠁꠊꠎ ꠛꠄꠃꠝꠗꠟ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sylotinagri.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sylotinagri.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sylotinagri.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sylotinagri.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sylotinagri.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sylotinagri.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sylotinagri.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sylotinagri.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sylotinagri.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sylotinagri.png"
+        }
     },
     "Coto Sans Avestan": {
         "full_name": "Coto Sans Avestan",
@@ -954,11 +1072,13 @@
             "Avestan"
         ],
         "sample_text": "𐬑𐬂𐬜𐬴𐬢𐬄 𐬖𐬁𐬱𐬭𐬆𐬍 𐬛𐬔𐬡𐬫𐬗𐬵 𐬒𐬦𐬥𐬬𐬊𐬲 𐬘𐬣𐬰𐬏𐬅𐬨",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-avestan.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-avestan.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-avestan.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-avestan.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-avestan.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-avestan.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-avestan.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-avestan.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-avestan.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-avestan.png"
+        }
     },
     "Coto Sans Sundanese": {
         "full_name": "Coto Sans Sundanese",
@@ -970,11 +1090,13 @@
             "Sundanese"
         ],
         "sample_text": "ᮙᮍᮮᮜᮠᮗ ᮅᮞᮚᮒᮑᮯ ᮌᮻᮘᮛᮃᮽ ᮇᮟᮎᮕᮏᮊ ᮓᮺᮝᮄᮆᮋ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sundanese.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sundanese.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sundanese.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sundanese.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sundanese.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sundanese.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sundanese.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sundanese.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sundanese.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sundanese.png"
+        }
     },
     "Coto Sans Vai": {
         "full_name": "Coto Sans Vai",
@@ -986,11 +1108,13 @@
             "Vai"
         ],
         "sample_text": "ꗌꕥꗍꕟꔆꕭ ꖡꔈꗚꗝꔴꖒ ꗦꔚꖏꕣꔼꕀ ꔋꕷꖢꕽꕑꗛ ꔳꘁꗮꖱꗫꖫ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-vai.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-vai.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-vai.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-vai.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-vai.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-vai.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-vai.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-vai.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-vai.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-vai.png"
+        }
     },
     "Coto Sans Khmer": {
         "full_name": "Coto Sans Khmer",
@@ -1002,11 +1126,13 @@
             "Khmer"
         ],
         "sample_text": "យខឍឡឣឳ ឱផងទណឥ ឃពកឨឰគ ឮៗជសឲឫ ឌលថឋឧឝ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-khmer.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-khmer.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-khmer.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-khmer.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-khmer.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-khmer.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-khmer.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-khmer.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-khmer.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-khmer.png"
+        }
     },
     "Coto Sans Buginese": {
         "full_name": "Coto Sans Buginese",
@@ -1018,11 +1144,13 @@
             "Buginese"
         ],
         "sample_text": "ᨐᨁᨖᨆᨋᨍ ᨕᨇᨑᨂᨌᨏ ᨃᨉᨓᨈᨒᨅ ᨎᨀᨊᨄᨔ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buginese.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buginese.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buginese.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buginese.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buginese.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buginese.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buginese.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buginese.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buginese.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buginese.png"
+        }
     },
     "Coto Sans Gothic": {
         "full_name": "Coto Sans Gothic",
@@ -1034,11 +1162,13 @@
             "Gothic"
         ],
         "sample_text": "𐍉𐍆𐌱𐌿𐍀𐌾 𐌹𐌶𐍃𐌼𐍈𐍇 𐍂𐌷𐌳𐍄𐌰𐌲 𐌺𐌸𐍅𐌵𐌽𐌻 𐌴",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gothic.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gothic.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gothic.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gothic.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gothic.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gothic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gothic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gothic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gothic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gothic.png"
+        }
     },
     "Coto Sans Lydian": {
         "full_name": "Coto Sans Lydian",
@@ -1050,11 +1180,13 @@
             "Lydian"
         ],
         "sample_text": "𐤡𐤠𐤶𐤰𐤫𐤥 𐤣𐤮𐤸𐤬𐤲𐤯 𐤤𐤦𐤪𐤢𐤷𐤴 𐤩𐤧𐤨𐤹𐤱𐤭 𐤵𐤳",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lydian.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lydian.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lydian.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lydian.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lydian.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lydian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lydian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lydian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lydian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lydian.png"
+        }
     },
     "Coto Sans Armenian": {
         "full_name": "Coto Sans Armenian",
@@ -1066,11 +1198,13 @@
             "Armenian"
         ],
         "sample_text": "ԼՃԻԶԹՆ ՑԻՖՐՂՌ ւզթսգղ ժյﬔվմն փկդխկց",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-armenian.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-armenian.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-armenian.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-armenian.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-armenian.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-armenian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-armenian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-armenian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-armenian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-armenian.png"
+        }
     },
     "Coto Sans Linear B": {
         "full_name": "Coto Sans Linear B",
@@ -1082,11 +1216,13 @@
             "Linear B"
         ],
         "sample_text": "𐁃𐃁𐂬𐂼𐂗𐀫 𐀔𐃀𐂌𐂹𐁉𐂳 𐀺𐃍𐃑𐀁𐂘𐃰 𐀦𐃪𐁍𐁆𐁐𐂵 𐂢𐃵𐃣𐃃𐂨𐂫",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-linearb.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-linearb.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-linearb.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-linearb.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-linearb.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-linearb.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-linearb.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-linearb.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-linearb.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-linearb.png"
+        }
     },
     "Coto Sans Cuneiform": {
         "full_name": "Coto Sans Cuneiform",
@@ -1098,11 +1234,13 @@
             "Cuneiform"
         ],
         "sample_text": "𒆀𒀵𒈏𒁼𒃠𒂚 𒁱𒄊𒋍𒃈𒅊𒈤 𒆿𒌓𒌥𒌭𒋗𒄵 𒀴𒋬𒅤𒁋𒀕𒍃 𒈿𒅸𒈙𒋊𒄸𒊻",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cuneiform.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cuneiform.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cuneiform.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cuneiform.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cuneiform.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cuneiform.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cuneiform.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cuneiform.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cuneiform.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cuneiform.png"
+        }
     },
     "Coto Sans Inscriptional Pahlavi": {
         "full_name": "Coto Sans Inscriptional Pahlavi",
@@ -1114,11 +1252,13 @@
             "Inscriptional Pahlavi"
         ],
         "sample_text": "𐭰𐭠𐭫𐭨𐭬𐭩 𐭢𐭧𐭯𐭦𐭣𐭤 𐭡𐭱𐭪𐭲𐭭𐭮 𐭥",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalpahlavi.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalpahlavi.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalpahlavi.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalpahlavi.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalpahlavi.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalpahlavi.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalpahlavi.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalpahlavi.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalpahlavi.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalpahlavi.png"
+        }
     },
     "Coto Sans Tai Le": {
         "full_name": "Coto Sans Tai Le",
@@ -1130,11 +1270,13 @@
             "Tai Le"
         ],
         "sample_text": "ᥑᥪᥗᥢᥤᥡ ᥘᥥᥱᥩᥝᥔ ᥜᥣᥟᥬᥲᥙ ᥒᥴᥠᥖᥭᥕ ᥞᥳᥫᥨᥧᥚ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taile.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taile.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taile.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taile.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taile.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taile.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taile.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taile.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taile.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taile.png"
+        }
     },
     "Coto Sans Imperial Aramaic": {
         "full_name": "Coto Sans Imperial Aramaic",
@@ -1146,11 +1288,13 @@
             "Imperial Aramaic"
         ],
         "sample_text": "𐡑𐡀𐡈𐡉𐡄𐡁 𐡕𐡇𐡋𐡍𐡔𐡓 𐡆𐡎𐡅𐡏𐡒𐡂 𐡌𐡊𐡐𐡃",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-imperialaramaic.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-imperialaramaic.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-imperialaramaic.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-imperialaramaic.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-imperialaramaic.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-imperialaramaic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-imperialaramaic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-imperialaramaic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-imperialaramaic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-imperialaramaic.png"
+        }
     },
     "Coto Sans Old Persian": {
         "full_name": "Coto Sans Old Persian",
@@ -1162,11 +1306,13 @@
             "Old Persian"
         ],
         "sample_text": "𐎣𐏈𐎽𐎸𐎢𐎻 𐎷𐏊𐎳𐎱𐎵𐎩 𐎨𐏌𐎶𐎬𐎰𐏋 𐎾𐎠𐏀𐎺𐎿𐎦 𐏍𐏉𐎡𐎴𐎼𐎹",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldpersian.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldpersian.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldpersian.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldpersian.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldpersian.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldpersian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldpersian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldpersian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldpersian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldpersian.png"
+        }
     },
     "Coto Sans Yi": {
         "full_name": "Coto Sans Yi",
@@ -1178,11 +1324,13 @@
             "Yi"
         ],
         "sample_text": "ꋅꁪꁳꃬꂘꏦ ꅫꐕꌉꆂꉨꆌ ꆣꆋꋆꅐꆿꅠ ꎫꄇꅙꌤꋻꅱ ꉀꎲꇵꂭꋸꅝ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-yi.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-yi.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-yi.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-yi.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-yi.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-yi.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-yi.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-yi.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-yi.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-yi.png"
+        }
     },
     "Coto Sans Brahmi": {
         "full_name": "Coto Sans Brahmi",
@@ -1194,11 +1342,13 @@
             "Brahmi"
         ],
         "sample_text": "𑀤𑀭𑀬𑀥𑀰𑀉 𑀐𑀨𑀘𑀟𑀫𑀕 𑀗𑀓𑀷𑀣𑀲𑀳 𑀃𑀎𑀒𑀍𑀌𑀦 𑀡𑀋𑀚𑀑𑀊𑀇",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-brahmi.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-brahmi.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-brahmi.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-brahmi.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-brahmi.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-brahmi.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-brahmi.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-brahmi.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-brahmi.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-brahmi.png"
+        }
     },
     "Coto Sans Lisu": {
         "full_name": "Coto Sans Lisu",
@@ -1210,11 +1360,13 @@
             "Lisu"
         ],
         "sample_text": "ꓞꓣꓓꓩꓑꓶ ꓵꓛꓦꓤꓺꓰ ꓲꓹꓢꓳꓽꓫ ꓱꓐꓝꓚꓒꓧ ꓡꓼꓗꓠꓭꓴ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lisu.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lisu.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lisu.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lisu.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lisu.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lisu.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lisu.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lisu.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lisu.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lisu.png"
+        }
     },
     "Coto Sans NKo": {
         "full_name": "Coto Sans NKo",
@@ -1226,11 +1378,13 @@
             "Nko"
         ],
         "sample_text": "ߓߪߣߍߑߞ ߕߛߧߘߖߤ ߟߏߵߨߒߠ ߢߎߥߡߴߝ ߔߩߌߙߊߦ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-nko.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-nko.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-nko.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-nko.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-nko.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-nko.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-nko.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-nko.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-nko.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-nko.png"
+        }
     },
     "Coto Sans Carian": {
         "full_name": "Coto Sans Carian",
@@ -1242,11 +1396,13 @@
             "Carian"
         ],
         "sample_text": "𐊨𐋁𐊭𐊦𐊳𐊤 𐊱𐋋𐋅𐋎𐋂𐊿 𐋏𐊾𐊢𐊵𐋆𐊠 𐋇𐊡𐊽𐋃𐊣𐊹 𐊬𐊸𐊫𐊷𐊩𐊻",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-carian.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-carian.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-carian.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-carian.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-carian.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-carian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-carian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-carian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-carian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-carian.png"
+        }
     },
     "Coto Sans Meetei Mayek": {
         "full_name": "Coto Sans Meetei Mayek",
@@ -1258,11 +1414,13 @@
             "Meetei Mayek"
         ],
         "sample_text": "ꫢꯐꫧꯝꯂꫡ ꯒꫠꯇꯙꯎꯋ ꯡꯍꫲꯈꫦꯏ ꯔꯕꫩꯜꯛꯖ ꯅꫥꯠꯢꯄꯗ",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-meeteimayek.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-meeteimayek.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-meeteimayek.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-meeteimayek.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-meeteimayek.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-meeteimayek.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-meeteimayek.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-meeteimayek.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-meeteimayek.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-meeteimayek.png"
+        }
     },
     "Coto Emoji": {
         "full_name": "Coto Emoji",
@@ -1272,11 +1430,13 @@
         "description": "Font",
         "scripts": [],
         "sample_text": "🎡💄🀄🈴😱🐞 🇰🈚👺🍉2🍃 🔨🐣👠🌟🎯✈ 🍪😁 🎈🍸🌼 🍷📧🐔󾓩🏄👶",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoemoji/coto-emoji.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoemoji/coto-emoji.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoemoji/coto-emoji.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoemoji/coto-emoji.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoemoji/coto-emoji.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoemoji/coto-emoji.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoemoji/coto-emoji.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoemoji/coto-emoji.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoemoji/coto-emoji.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoemoji/coto-emoji.png"
+        }
     },
     "GetGo Pixa Regular": {
         "full_name": "GetGo Pixa Regular",
@@ -1315,11 +1475,13 @@
             "Malayalam"
         ],
         "sample_text": "半咻修喗仯乶 诩嘄甸望庮达 奠奆盘帡眼帰 侠斝锁匵黽岈 弩狶凋儥竼嘌",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.png"
+        }
     },
     "GetGo Veni Regular": {
         "full_name": "GetGo Veni Regular",
@@ -1331,11 +1493,13 @@
             "Latin"
         ],
         "sample_text": "ÂÌDÓŸM IXẂÛÀÔ éẁfwïi åúíkóö ùämõœl",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.png"
+        }
     },
     "GetGo Baar Regular": {
         "full_name": "GetGo Baar Regular",
@@ -1347,11 +1511,13 @@
             "Latin"
         ],
         "sample_text": "CMKSRJ ITSLBZ xhedha pqnnfv gprktw",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.png"
+        }
     },
     "GG Plum Regular": {
         "full_name": "GG Plum Regular",
@@ -1363,11 +1529,13 @@
             "Latin"
         ],
         "sample_text": "CĞBJÌĂ ŒÃÑDPẂ ŷèãaâò ẅoîẁĳœ effvgý",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].png"
+        }
     },
     "GetGo Deco ExtraLight": {
         "full_name": "GetGo Deco ExtraLight",
@@ -1379,11 +1547,13 @@
             "Latin"
         ],
         "sample_text": "RIDSNC QUAMJV zifwlz matknh bopfxc",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.png"
+        }
     },
     "GetGo Star Regular": {
         "full_name": "GetGo Star Regular",
@@ -1396,11 +1566,13 @@
             "Latin"
         ],
         "sample_text": "СЪРГУЮ ЮДЁЯЭФ зфоляч хшйёцш ицщиач",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/star/star.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/star/star.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/star/star.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/star/star.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/star/star.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/star/star.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/star/star.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/star/star.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/star/star.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/star/star.png"
+        }
     },
     "GetGo Medi Regular": {
         "full_name": "GetGo Medi Regular",
@@ -1412,11 +1584,13 @@
             "Latin"
         ],
         "sample_text": "XLJWDB XAPQJK oilmfd eurnco evsywc",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.png"
+        }
     },
     "GetGo Ocra Regular": {
         "full_name": "GetGo Ocra Regular",
@@ -1429,11 +1603,13 @@
             "Katakana"
         ],
         "sample_text": "KYXIZW PÜKOJG bpxhzb sqwvåm vlegms",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.png"
+        }
     },
     "GetGo Cosm Italic": {
         "full_name": "GetGo Cosm Italic",
@@ -1445,11 +1621,13 @@
             "Latin"
         ],
         "sample_text": "ĽÕFIĶŸÊ ŊŲĦŊŤĮ ýäġţťț yșœśôá vûūâŧô",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].png"
+        }
     },
     "GetGo Cosm Regular": {
         "full_name": "GetGo Cosm Regular",
@@ -1461,11 +1639,13 @@
             "Latin"
         ],
         "sample_text": "ŪỲÆÑŪŔ ĖÈØŎXĴ nękćzę hŷěìăĥ oșőűng",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].png"
+        }
     },
     "GetGo Vize Regular": {
         "full_name": "GetGo Vize Regular",
@@ -1477,10 +1657,12 @@
             "Latin"
         ],
         "sample_text": "AMXRZY CPLZLI eghxfj usaivo yqbpwn",
-        "vfj_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.vfj",
-        "ttf_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.ttf",
-        "md_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.md",
-        "svg_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.svg",
-        "png_url": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.png"
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.png"
+        }
     }
 }

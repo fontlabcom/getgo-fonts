@@ -23,9 +23,9 @@ class GetGoDocs(object):
         self.redo_yaml = False
         self.root_folder = Path(Path(__file__).parent, '..').resolve()
         self.font_folder = Path(self.root_folder, 'getgo-fonts').resolve()
-        self.download_base = 'https://github.com/fontlabcom/getgo-fonts/raw/main/'
-        self.github_base = 'https://github.com/fontlabcom/getgo-fonts/blob/main/'
-        self.gitdownload_base = 'https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/'
+        self.download_base = 'https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts'
+        self.github_base = 'https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts'
+        self.gitdownload_base = 'https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts'
         self.data = OrderedDict()
 
     def make_paths(self):
@@ -33,7 +33,7 @@ class GetGoDocs(object):
         docs_folder = Path(self.root_folder, 'docs').resolve()
         woff_folder = Path(self.root_folder, 'docs', 'fonts').resolve()
 
-        for font_path in font_folder.glob('**/*.?tf'):
+        for font_path in self.font_folder.glob('**/*.?tf'):
             font_path = font_path.resolve()
             self.paths[font_path] = {}
             frec = self.paths[font_path]
@@ -46,6 +46,9 @@ class GetGoDocs(object):
             frec['vfj'] = Path(
                 font_path.parent, str(font_path.stem) + '.vfj'
                 ).resolve()
+            frec['ttf'] = Path(
+                font_path.parent, str(font_path.stem) + '.ttf'
+            ).resolve()
             frec['woff'] = Path(
                 woff_folder, font_path.stem + '.woff2'
                 ).resolve()
@@ -148,13 +151,21 @@ class GetGoDocs(object):
         metadata = self.process_metadata(font, frec)
         return metadata
 
+    def get_download_url(self, path):
+        return str(path).replace(
+            str(self.font_folder),
+            str(self.download_base)
+            )
+
     def process_fonts(self):
         for path, frec in self.paths.items():
             metadata = self.process_font(path, frec)
             self.data[metadata['full_name']] = OrderedDict()
             drec = self.data[metadata['full_name']]
             drec.update(metadata)
-            drec['vfj_url'] = str(frec['vfj']).replace()
+            drec['vfj_url'] = self.get_download_url(frec['vfj'])
+            drec['ttf_url'] = self.get_download_url(frec['ttf'])
+            drec['md_url'] = self.get_download_url(frec['md'])
         print(json.dumps(self.data, ensure_ascii=False, indent=2))
 
     def make(self):

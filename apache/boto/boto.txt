@@ -1,1 +1,0 @@
-GetGo Boto: grotesque sanserif, width, weight and italic axis. Over 3,000 Latin, Cyrillic and Greek glyphs. Apache-licensed.

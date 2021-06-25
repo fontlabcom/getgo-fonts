@@ -1,6 +1,8 @@
 *.backup
-.dccache
 _temp/
+.idea/
+.dccache
+.vscode/
 
 
 # Byte-compiled / optimized / DLL files

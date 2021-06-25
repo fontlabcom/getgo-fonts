@@ -3,7 +3,7 @@
         "full_name": "GG Stroke Grot OFL Regular",
         "family_name": "GG Stroke Grot OFL",
         "copyright": "Copyright © 2015 by Wei Huang.  All rights reserved.",
-        "license": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license": "ofl",
         "description": "Font",
         "scripts": [
             "Latin"
@@ -21,7 +21,7 @@
         "full_name": "GG Stroke Chan OFL Italic",
         "family_name": "GG Stroke Chan OFL",
         "copyright": "Copyright 2013 The Alegreya Sans Project Authors (https://github.com/huertatipografica/Alegreya-Sans)",
-        "license": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "license": "ofl",
         "description": "Font",
         "scripts": [
             "Latin"
@@ -39,7 +39,7 @@
         "full_name": "GG Boto Regular",
         "family_name": "GG Boto",
         "copyright": "Copyright 2011 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Latin",
@@ -59,7 +59,7 @@
         "full_name": "Coto Serif Armenian",
         "family_name": "Coto Serif Armenian",
         "copyright": "Copyright 2014 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Armenian"
@@ -77,7 +77,7 @@
         "full_name": "Coto Serif Georgian",
         "family_name": "Coto Serif Georgian",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Georgian"
@@ -95,7 +95,7 @@
         "full_name": "Coto Serif Lao",
         "family_name": "Coto Serif Lao",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Lao"
@@ -113,7 +113,7 @@
         "full_name": "Coto Serif Khmer",
         "family_name": "Coto Serif Khmer",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Khmer"
@@ -131,7 +131,7 @@
         "full_name": "Coto Sans Tai Viet",
         "family_name": "Coto Sans Tai Viet",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Tai Viet"
@@ -149,7 +149,7 @@
         "full_name": "Coto Sans Ugaritic",
         "family_name": "Coto Sans Ugaritic",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Ugaritic"
@@ -167,7 +167,7 @@
         "full_name": "Coto Sans Tai Tham",
         "family_name": "Coto Sans Tai Tham",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Tai Tham"
@@ -185,7 +185,7 @@
         "full_name": "Coto Sans Coptic",
         "family_name": "Coto Sans Coptic",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Coptic"
@@ -203,7 +203,7 @@
         "full_name": "Coto Sans Cypriot",
         "family_name": "Coto Sans Cypriot",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Cypriot"
@@ -221,7 +221,7 @@
         "full_name": "Coto Sans Kayah Li",
         "family_name": "Coto Sans Kayah Li",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Kayah Li"
@@ -239,7 +239,7 @@
         "full_name": "Coto Sans Lycian",
         "family_name": "Coto Sans Lycian",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Lycian"
@@ -257,7 +257,7 @@
         "full_name": "Coto Sans Osmanya",
         "family_name": "Coto Sans Osmanya",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Osmanya"
@@ -275,7 +275,7 @@
         "full_name": "Coto Sans Rejang",
         "family_name": "Coto Sans Rejang",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Rejang"
@@ -293,7 +293,7 @@
         "full_name": "Coto Sans Old Turkic",
         "family_name": "Coto Sans Old Turkic",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Old Turkic"
@@ -311,7 +311,7 @@
         "full_name": "Coto Sans Old Italic",
         "family_name": "Coto Sans Old Italic",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Old Italic"
@@ -329,7 +329,7 @@
         "full_name": "Coto Sans Kharoshthi",
         "family_name": "Coto Sans Kharoshthi",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Kharoshthi"
@@ -347,7 +347,7 @@
         "full_name": "Coto Sans Hebrew",
         "family_name": "Coto Sans Hebrew",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Hebrew"
@@ -365,7 +365,7 @@
         "full_name": "Coto Kufi Arabic",
         "family_name": "Coto Kufi Arabic",
         "copyright": "Copyright 2010 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Arabic"
@@ -383,7 +383,7 @@
         "full_name": "Coto Sans Tagalog",
         "family_name": "Coto Sans Tagalog",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Tagalog"
@@ -401,7 +401,7 @@
         "full_name": "Coto Sans Cherokee",
         "family_name": "Coto Sans Cherokee",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Cherokee"
@@ -419,7 +419,7 @@
         "full_name": "Coto Sans Mandaic",
         "family_name": "Coto Sans Mandaic",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Mandaic"
@@ -437,7 +437,7 @@
         "full_name": "Coto Sans Symbols",
         "family_name": "Coto Sans Symbols",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [],
         "sample_text": "⛈꜐➊𝐛ℐ𝛶 ⎶𝜷➇⠭𝈷⩛ 🁁𝒱⍹𝞝𝛍⓾ ⎠ℼ🂧⤖⦖⏕ ⍃𝛕⪃𝑬𝜀⥆",
@@ -453,7 +453,7 @@
         "full_name": "Coto Sans New Tai Lue",
         "family_name": "Coto Sans New Tai Lue",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "New Tai Lue"
@@ -471,7 +471,7 @@
         "full_name": "Coto Sans Buhid",
         "family_name": "Coto Sans Buhid",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Buhid"
@@ -489,7 +489,7 @@
         "full_name": "Coto Sans Deseret",
         "family_name": "Coto Sans Deseret",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Deseret"
@@ -507,7 +507,7 @@
         "full_name": "Coto Sans Phoenician",
         "family_name": "Coto Sans Phoenician",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Phoenician"
@@ -525,7 +525,7 @@
         "full_name": "Coto Sans Hanunoo",
         "family_name": "Coto Sans Hanunoo",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Hanunoo"
@@ -543,7 +543,7 @@
         "full_name": "Coto Sans Tagbanwa",
         "family_name": "Coto Sans Tagbanwa",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Tagbanwa"
@@ -561,7 +561,7 @@
         "full_name": "Coto Sans Bamum",
         "family_name": "Coto Sans Bamum",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Bamum"
@@ -579,7 +579,7 @@
         "full_name": "Coto Sans Batak",
         "family_name": "Coto Sans Batak",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Batak"
@@ -597,7 +597,7 @@
         "full_name": "Coto Sans Gurmukhi",
         "family_name": "Coto Sans Gurmukhi",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Gurmukhi"
@@ -615,7 +615,7 @@
         "full_name": "Coto Sans Inscriptional Parthian",
         "family_name": "Coto Sans Inscriptional Parthian",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Inscriptional Parthian"
@@ -633,7 +633,7 @@
         "full_name": "Coto Sans Javanese",
         "family_name": "Coto Sans Javanese",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Javanese"
@@ -651,7 +651,7 @@
         "full_name": "Coto Sans Canadian Aboriginal",
         "family_name": "Coto Sans Canadian Aboriginal",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Canadian Aboriginal"
@@ -669,7 +669,7 @@
         "full_name": "Coto Sans Thaana",
         "family_name": "Coto Sans Thaana",
         "copyright": "Copyright 2014 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Thaana"
@@ -687,7 +687,7 @@
         "full_name": "Coto Sans Balinese",
         "family_name": "Coto Sans Balinese",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Balinese"
@@ -705,7 +705,7 @@
         "full_name": "Coto Sans Cham",
         "family_name": "Coto Sans Cham",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Cham"
@@ -723,7 +723,7 @@
         "full_name": "Coto Sans Ogham",
         "family_name": "Coto Sans Ogham",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Ogham"
@@ -741,7 +741,7 @@
         "full_name": "Coto Sans Shavian",
         "family_name": "Coto Sans Shavian",
         "copyright": "Copyright 2011 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Shavian"
@@ -759,7 +759,7 @@
         "full_name": "Coto Sans Limbu",
         "family_name": "Coto Sans Limbu",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Limbu"
@@ -777,7 +777,7 @@
         "full_name": "Coto Sans Ethiopic",
         "family_name": "Coto Sans Ethiopic",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Ethiopic"
@@ -795,7 +795,7 @@
         "full_name": "Coto Sans Georgian",
         "family_name": "Coto Sans Georgian",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Georgian"
@@ -813,7 +813,7 @@
         "full_name": "Coto Sans Phags Pa",
         "family_name": "Coto Sans Phags Pa",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Phags Pa"
@@ -831,7 +831,7 @@
         "full_name": "Coto Sans Egyptian Hieroglyphs",
         "family_name": "Coto Sans Egyptian Hieroglyphs",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Egyptian Hieroglyphs"
@@ -849,7 +849,7 @@
         "full_name": "Coto Sans Lao",
         "family_name": "Coto Sans Lao",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Lao"
@@ -867,7 +867,7 @@
         "full_name": "Coto Sans Samaritan",
         "family_name": "Coto Sans Samaritan",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Samaritan"
@@ -885,7 +885,7 @@
         "full_name": "Coto Sans Saurashtra",
         "family_name": "Coto Sans Saurashtra",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Saurashtra"
@@ -903,7 +903,7 @@
         "full_name": "Coto Sans Historic",
         "family_name": "Coto Sans Historic",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Egyptian Hieroglyphs",
@@ -922,7 +922,7 @@
         "full_name": "Coto Sans Mongolian",
         "family_name": "Coto Sans Mongolian",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Mongolian"
@@ -940,7 +940,7 @@
         "full_name": "Coto Sans Tamil",
         "family_name": "Coto Sans Tamil",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Tamil"
@@ -958,7 +958,7 @@
         "full_name": "Coto Sans Old South Arabian",
         "family_name": "Coto Sans Old South Arabian",
         "copyright": "Copyright 2011 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Old South Arabian"
@@ -976,7 +976,7 @@
         "full_name": "Coto Sans Tifinagh",
         "family_name": "Coto Sans Tifinagh",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Tifinagh"
@@ -994,7 +994,7 @@
         "full_name": "Coto Sans Ol Chiki",
         "family_name": "Coto Sans Ol Chiki",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Ol Chiki"
@@ -1012,7 +1012,7 @@
         "full_name": "Coto Sans Runic",
         "family_name": "Coto Sans Runic",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Runic"
@@ -1030,7 +1030,7 @@
         "full_name": "Coto Sans Glagolitic",
         "family_name": "Coto Sans Glagolitic",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Glagolitic"
@@ -1048,7 +1048,7 @@
         "full_name": "Coto Sans Syloti Nagri",
         "family_name": "Coto Sans Syloti Nagri",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Syloti Nagri"
@@ -1066,7 +1066,7 @@
         "full_name": "Coto Sans Avestan",
         "family_name": "Coto Sans Avestan",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Avestan"
@@ -1084,7 +1084,7 @@
         "full_name": "Coto Sans Sundanese",
         "family_name": "Coto Sans Sundanese",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Sundanese"
@@ -1102,7 +1102,7 @@
         "full_name": "Coto Sans Vai",
         "family_name": "Coto Sans Vai",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Vai"
@@ -1120,7 +1120,7 @@
         "full_name": "Coto Sans Khmer",
         "family_name": "Coto Sans Khmer",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Khmer"
@@ -1138,7 +1138,7 @@
         "full_name": "Coto Sans Buginese",
         "family_name": "Coto Sans Buginese",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Buginese"
@@ -1156,7 +1156,7 @@
         "full_name": "Coto Sans Gothic",
         "family_name": "Coto Sans Gothic",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Gothic"
@@ -1174,7 +1174,7 @@
         "full_name": "Coto Sans Lydian",
         "family_name": "Coto Sans Lydian",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Lydian"
@@ -1192,7 +1192,7 @@
         "full_name": "Coto Sans Armenian",
         "family_name": "Coto Sans Armenian",
         "copyright": "Copyright 2014 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Armenian"
@@ -1210,7 +1210,7 @@
         "full_name": "Coto Sans Linear B",
         "family_name": "Coto Sans Linear B",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Linear B"
@@ -1228,7 +1228,7 @@
         "full_name": "Coto Sans Cuneiform",
         "family_name": "Coto Sans Cuneiform",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Cuneiform"
@@ -1246,7 +1246,7 @@
         "full_name": "Coto Sans Inscriptional Pahlavi",
         "family_name": "Coto Sans Inscriptional Pahlavi",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Inscriptional Pahlavi"
@@ -1264,7 +1264,7 @@
         "full_name": "Coto Sans Tai Le",
         "family_name": "Coto Sans Tai Le",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Tai Le"
@@ -1282,7 +1282,7 @@
         "full_name": "Coto Sans Imperial Aramaic",
         "family_name": "Coto Sans Imperial Aramaic",
         "copyright": "Copyright 2011 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Imperial Aramaic"
@@ -1300,7 +1300,7 @@
         "full_name": "Coto Sans Old Persian",
         "family_name": "Coto Sans Old Persian",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Old Persian"
@@ -1318,7 +1318,7 @@
         "full_name": "Coto Sans Yi",
         "family_name": "Coto Sans Yi",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Yi"
@@ -1336,7 +1336,7 @@
         "full_name": "Coto Sans Brahmi",
         "family_name": "Coto Sans Brahmi",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Brahmi"
@@ -1354,7 +1354,7 @@
         "full_name": "Coto Sans Lisu",
         "family_name": "Coto Sans Lisu",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Lisu"
@@ -1372,7 +1372,7 @@
         "full_name": "Coto Sans NKo",
         "family_name": "Coto Sans NKo",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Nko"
@@ -1390,7 +1390,7 @@
         "full_name": "Coto Sans Carian",
         "family_name": "Coto Sans Carian",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Carian"
@@ -1408,7 +1408,7 @@
         "full_name": "Coto Sans Meetei Mayek",
         "family_name": "Coto Sans Meetei Mayek",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [
             "Meetei Mayek"
@@ -1426,7 +1426,7 @@
         "full_name": "Coto Emoji",
         "family_name": "Coto Emoji",
         "copyright": "Digitized data copyright © 2011, Google Corporation.",
-        "license": "Licensed under the Apache License, Version 2.0",
+        "license": "apache",
         "description": "Font",
         "scripts": [],
         "sample_text": "🎡💄🀄🈴😱🐞 🇰🈚👺🍉2🍃 🔨🐣👠🌟🎯✈ 🍪😁 🎈🍸🌼 🍷📧🐔󾓩🏄👶",
@@ -1442,7 +1442,7 @@
         "full_name": "GetGo Pixa Regular",
         "family_name": "GetGo Pixa",
         "copyright": "Copyright Khalfani 2017",
-        "license": "Creative Commons CC0 Public Domain Dedication",
+        "license": "cc0",
         "description": "Font",
         "scripts": [
             "Han",
@@ -1487,7 +1487,7 @@
         "full_name": "GetGo Veni Regular",
         "family_name": "GetGo Veni",
         "copyright": "No Rights Reserved.",
-        "license": "",
+        "license": "cc0",
         "description": "Font",
         "scripts": [
             "Latin"
@@ -1505,7 +1505,7 @@
         "full_name": "GetGo Baar Regular",
         "family_name": "GetGo Baar",
         "copyright": "Copyright Echo Heo 2021",
-        "license": "CC-0",
+        "license": "cc0",
         "description": "Modular narrow display font",
         "scripts": [
             "Latin"
@@ -1523,7 +1523,7 @@
         "full_name": "GG Plum Regular",
         "family_name": "GG Plum",
         "copyright": "",
-        "license": "",
+        "license": "cc0",
         "description": "Font",
         "scripts": [
             "Latin"
@@ -1541,7 +1541,7 @@
         "full_name": "GetGo Deco ExtraLight",
         "family_name": "GetGo Deco",
         "copyright": "No Rights Reserved.",
-        "license": "CC0",
+        "license": "cc0",
         "description": "Font",
         "scripts": [
             "Latin"
@@ -1559,7 +1559,7 @@
         "full_name": "GetGo Star Regular",
         "family_name": "GetGo Star",
         "copyright": "Copyright Dmitriy Sychiov 2021\n“Daily Double” by “Quinn Davis” (https://fontstruct.com/fontstructors/show/1507185/sonicfontshd)",
-        "license": "Creative Commons CC0 Public Domain Dedication",
+        "license": "cc0",
         "description": "Font",
         "scripts": [
             "Cyrillic",
@@ -1578,7 +1578,7 @@
         "full_name": "GetGo Medi Regular",
         "family_name": "GetGo Medi",
         "copyright": "No Rights Reserved.",
-        "license": "CC0",
+        "license": "cc0",
         "description": "Font",
         "scripts": [
             "Latin"
@@ -1596,7 +1596,7 @@
         "full_name": "GetGo Ocra Regular",
         "family_name": "GetGo Ocra",
         "copyright": "OCR-AK, 2018 Retorillo (CC0)\nOCR-A, 2018 Jonh Sauter (CC0)\nOCR-BKxStd, 2010 force4u (CC0)",
-        "license": "",
+        "license": "cc0",
         "description": "Font",
         "scripts": [
             "Latin",
@@ -1615,7 +1615,7 @@
         "full_name": "GetGo Cosm Italic",
         "family_name": "GetGo Cosm",
         "copyright": "No Rights Reserved.",
-        "license": "",
+        "license": "cc0",
         "description": "Font",
         "scripts": [
             "Latin"
@@ -1633,7 +1633,7 @@
         "full_name": "GetGo Cosm Regular",
         "family_name": "GetGo Cosm",
         "copyright": "No Rights Reserved.",
-        "license": "",
+        "license": "cc0",
         "description": "Font",
         "scripts": [
             "Latin"
@@ -1651,7 +1651,7 @@
         "full_name": "GetGo Vize Regular",
         "family_name": "GetGo Vize",
         "copyright": "No Rights Reserved.",
-        "license": "CC0",
+        "license": "cc0",
         "description": "Font",
         "scripts": [
             "Latin"

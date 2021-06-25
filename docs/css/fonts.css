@@ -1,0 +1,729 @@
+
+
+@font-face {
+  font-family: 'GG Stroke Grot OFL';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/stroke-grot.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GG Stroke Chan OFL';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/stroke-chan.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GG Boto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/boto.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Serif Armenian';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotoserif-armenian.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Serif Georgian';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotoserif-georgian.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Serif Lao';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotoserif-lao.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Serif Khmer';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotoserif-khmer.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Tai Viet';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-taiviet.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Ugaritic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-ugaritic.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Tai Tham';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-taitham.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Coptic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-coptic.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Cypriot';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-cypriot.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Kayah Li';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-kayahli.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Lycian';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-lycian.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Osmanya';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-osmanya.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Rejang';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-rejang.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Old Turkic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-oldturkic.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Old Italic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-olditalic.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Kharoshthi';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-kharoshthi.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Hebrew';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-hebrew.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Kufi Arabic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/coto-kufiarabic.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Tagalog';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-tagalog.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Cherokee';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-cherokee.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Mandaic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-mandaic.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Symbols';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-symbols.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans New Tai Lue';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-newtailue.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Buhid';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-buhid.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Deseret';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-deseret.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Phoenician';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-phoenician.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Hanunoo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-hanunoo.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Tagbanwa';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-tagbanwa.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Bamum';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-bamum.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Batak';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-batak.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Gurmukhi';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-gurmukhi.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Inscriptional Parthian';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-inscriptionalparthian.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Javanese';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-javanese.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Canadian Aboriginal';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-canadianaboriginal.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Thaana';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-thaana.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Balinese';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-balinese.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Cham';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-cham.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Ogham';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-ogham.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Shavian';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-shavian.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Limbu';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-limbu.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Ethiopic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-ethiopic.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Georgian';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-georgian.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Phags Pa';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-phagspa.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Egyptian Hieroglyphs';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-egyptianhieroglyphs.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Lao';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-lao.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Samaritan';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-samaritan.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Saurashtra';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-saurashtra.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Historic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-historic.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Mongolian';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-mongolian.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Tamil';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-tamil.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Old South Arabian';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-oldsoutharabian.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Tifinagh';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-tifinagh.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Ol Chiki';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-olchiki.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Runic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-runic.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Glagolitic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-glagolitic.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Syloti Nagri';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-sylotinagri.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Avestan';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-avestan.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Sundanese';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-sundanese.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Vai';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-vai.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Khmer';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-khmer.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Buginese';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-buginese.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Gothic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-gothic.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Lydian';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-lydian.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Armenian';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-armenian.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Linear B';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-linearb.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Cuneiform';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-cuneiform.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Inscriptional Pahlavi';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-inscriptionalpahlavi.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Tai Le';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-taile.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Imperial Aramaic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-imperialaramaic.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Old Persian';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-oldpersian.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Yi';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-yi.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Brahmi';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-brahmi.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Lisu';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-lisu.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans NKo';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-nko.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Carian';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-carian.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Sans Meetei Mayek';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cotosans-meeteimayek.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Coto Emoji';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/coto-emoji.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GetGo Pixa';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/pixa.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GetGo Veni';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/veni.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GetGo Baar';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/baar.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GG Plum';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/plum[wght].woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GetGo Deco';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/deco.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GetGo Star';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/star.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GetGo Medi';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/medi.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GetGo Ocra';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/ocra.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GetGo Cosm';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cosm-italic[wght].woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GetGo Cosm';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/cosm[wght].woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GetGo Vize';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/vize.woff2) format('woff2');
+}

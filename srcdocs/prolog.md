@@ -3,9 +3,10 @@
 
 The GetGo fonts are suitable for starting your own font project in FontLab.
 
-## Download 
+## Download
 
-<button>Download</button>
+[Download](https://github.com/fontlabcom/getgo-fonts/archive/refs/heads/main.zip){.uk-button .uk-button-default}
+
 
 ## Licenses
 
@@ -17,7 +18,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ### Apache
 
-If the font is licensed under the [Apache License v2.0](https://www.apache.org/licenses/LICENSE-2.0.txt): 
+If the font is licensed under the [Apache License v2.0](https://www.apache.org/licenses/LICENSE-2.0.txt):
 
 You may create your own fonts based on this font, and you may incorporate portions of this font into your own font. You may publish your own font under any license, including a commercial license, but you must:
 

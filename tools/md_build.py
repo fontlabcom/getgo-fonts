@@ -63,6 +63,7 @@ class GetGoFont(object):
         self.copyright = self.get_copyright()
         self.license = self.get_license()
         self.unicodes = sorted(list(self.font.getBestCmap().keys()))
+        self.glyphs_count = len(self.font.getGlyphSet().keys())
         self.scripts = OrderedDict()
         self.script_names = OrderedDict()
         self.metadata = OrderedDict()
@@ -243,10 +244,17 @@ class GetGoFont(object):
         md += f"""
 
 ### {self.full_name}
+"""
+        md_font_description = f"""
+- {self.metadata["description"]} \| {self.glyphs_count} glyphs
+- scripts: {", ".join(self.script_names)}
+"""
+        md_font_summary = f"""
 
 ![{self.metadata["sample_text"]}]({svg_link})
 
-{self.metadata["description"]} \| [Download font]({download_url}){{: target="_blank" }}
+{md_font_description}
+- [Download font]({download_url}){{: target="_blank" }}
 
 ---
 """
@@ -312,7 +320,7 @@ class GetGoDocs(object):
             drec['url'] = OrderedDict()
             drec['url']['vfj'] = fo.get_download_url(fo.vfj_path)
             drec['url']['ttf'] = fo.get_download_url(fo.ttf_path)
-            drec['url']['md'] = fo.get_download_url(fo.md_path)
+            drec['url']['md']  = fo.get_download_url(fo.md_path)
             drec['url']['svg'] = fo.get_download_url(fo.svg_path)
             drec['url']['png'] = fo.get_download_url(fo.png_path)
             self.font_css += fo.get_font_css()
@@ -331,7 +339,10 @@ class GetGoDocs(object):
 
 def main():
     ggd = GetGoDocs()
-    ggd.redo['sample'] = True
+    ggd.redo['woff'] = False
+    ggd.redo['yaml'] = False
+    ggd.redo['sample_text'] = False
+    ggd.redo['sample'] = False
     ggd.make()
 
 if __name__ == '__main__':

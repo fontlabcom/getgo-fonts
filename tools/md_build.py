@@ -205,6 +205,9 @@ class GetGoFont(object):
         return " ".join(newwords)
 
     def render_sample_text(self, text=None):
+        if not self.redo['sample']:
+            return
+
         if not text:
             text = self.metadata['sample_text']
         v = vharfbuzz.Vharfbuzz(self.path)
@@ -231,8 +234,18 @@ class GetGoFont(object):
 
     def get_md(self):
         md = ''
+        md += f"""
 
-        return '\n- ' + repr(self.metadata)
+### {self.full_name}
+
+<p style="font-family:'{self.full_name}'">{self.metadata["sample_text"]}</p>
+
+{self.metadata["description"]}
+
+---
+"""
+
+        return md
 
     def process(self):
         self.build_scripts()
@@ -249,6 +262,7 @@ class GetGoDocs(object):
         self.redo['woff'] = False
         self.redo['yaml'] = False
         self.redo['sample_text'] = False
+        self.redo['sample'] = False
         self.folders = {}
         self.folders['root'] = Path(Path(__file__).parent, '..').resolve()
         self.folders['font'] = Path(self.folders['root'], 'getgo-fonts').resolve()
@@ -299,7 +313,7 @@ class GetGoDocs(object):
             f.write(self.font_css)
         with open(Path(self.folders['root'], 'fonts.json'), 'w', encoding='utf-8') as f:
             ojson.json_dump(self.data, f)
-        with open(Path(self.folders['md'], 'index.md'), 'w', encoding='utf-8') as f:
+        with open(Path(self.folders['docs'], 'index.md'), 'w', encoding='utf-8') as f:
             f.write(self.md)
 
     def make(self):

@@ -5,4 +5,5 @@ license: Apache
 description: Font
 scripts:
 - Georgian
-sample_text: ᲣႣჀᲶႽჂ ႭᲠႸႺႱᲒ ⴇზⴂⴄჺⴊ ⴊფაⴥⴡⴌ ⴤჟღⴄსⴇ
+- Armenian
+sample_text: ႣჀႽჂ ႭႸႺႱ ⴇზⴂⴄჺⴊ ⴊფაⴥⴡⴌ ⴤჟღⴄსⴇ

@@ -3,9 +3,10 @@
 """
 """
 
-__version__ = '0.0.1'
+__version__ = '1.0.0'
 
 import io
+import logging
 import random
 import re
 from collections import OrderedDict
@@ -16,8 +17,16 @@ import fontTools.ttLib
 import fontTools.unicodedata as ucd
 import vharfbuzz
 from PIL import Image
-from yaplon import oyaml, ojson
+from yaplon import ojson, oyaml
 
+logging.basicConfig(level=logging.WARNING)
+
+is_usvg = False
+try:
+    from sh import usvg
+    is_usvg = True
+except ImportError:
+    logging.warn('Install Rust, then usvg via: cargo install usvg')
 
 class GetGoFont(object):
 
@@ -82,24 +91,40 @@ class GetGoFont(object):
         return copyright.toUnicode() if copyright else ''
 
     def get_license(self):
-        license = self.name_table.getName(13, 3, 1)
-        return license.toUnicode() if license else ''
+        licenses = {
+            'apache': 'Apache',
+            'cc0': 'CC-0',
+            'ofl': 'OFL'
+        }
+        license = str(self.path).replace(
+            str(self.folders['font']) + '/', ''
+            ).split('/')[0]
+        license = licenses.get(license, license)
+        return license
 
     def build_scripts(self):
         scripts = OrderedDict()
+        scripts_coverage = OrderedDict()
         for u in self.unicodes:
             if ucd.category(chr(u))[0] not in ('N', 'C'):
                 script = ucd.script(chr(u))
                 scripts[script] = scripts.get(script, 0) + 1
+                scripts_coverage[script] = scripts_coverage.get(script, []) + [u]
         scripts = OrderedDict(sorted(
             scripts.items(), key=lambda t: t[1], reverse=True
         ))
+        script_sample = ''
+        for k, v in scripts_coverage.items():
+            if len(v) > 2:
+                script_sample += chr(v[0]) + chr(v[1])
+        print(self.path)
+        print(script_sample)
         for k in ('Zyyy', 'Zinh', 'Zzzz'):
             if k in scripts.keys():
                 del scripts[k]
         if len(self.unicodes) < 10000:
             for k in list(scripts.keys()):
-                if scripts[k] / len(self.unicodes) < 0.11:
+                if scripts[k] / len(self.unicodes) < 0.001:
                     del scripts[k]
         self.scripts = list(scripts.keys()) if len(scripts.keys()) else ['Zsym']
         self.script_names = [
@@ -136,11 +161,10 @@ class GetGoFont(object):
             'full_name', self.get_full_name())
         metadata['family_name'] = metadata.get(
             'family_name', self.get_family_name())
-        metadata['copyright'] = metadata.get(
-            'copyright', self.get_copyright())
+        metadata['copyright'] = self.get_copyright()
         metadata['license'] = metadata.get('license', self.get_license())
         metadata['description'] = metadata.get('description', 'Font')
-        metadata['scripts'] = metadata.get('scripts', self.scripts)
+        metadata['scripts'] = self.script_names
         if self.redo['sample_text']:
             metadata['sample_text'] = self.get_sample_text()
         else:
@@ -194,6 +218,8 @@ class GetGoFont(object):
         png = io.BytesIO()
         with open(self.svg_path, 'w') as f:
             f.write(svg)
+        if is_usvg:
+            usvg(self.svg_path, self.svg_path)
         cairosvg.svg2png(
             bytestring=svg,
             write_to=png,
@@ -204,6 +230,8 @@ class GetGoFont(object):
         im.save(self.png_path, 'PNG')
 
     def get_md(self):
+        md = ''
+
         return '\n- ' + repr(self.metadata)
 
     def process(self):
@@ -266,7 +294,6 @@ class GetGoDocs(object):
             drec['url']['png'] = fo.get_download_url(fo.png_path)
             self.font_css += fo.get_font_css()
             self.md += fo.get_md()
-
 
         with open(Path(self.folders['css'], 'fonts.css'), 'w', encoding='utf-8') as f:
             f.write(self.font_css)

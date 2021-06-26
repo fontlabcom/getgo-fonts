@@ -6,4 +6,22 @@ description: Font
 scripts:
 - Egyptian Hieroglyphs
 - Cuneiform
-sample_text: 𓊺𓆼𓍚𓉆𓌅𓁐 𓍉𓎯𓍽𓇷𓏨𓁻 𓁧𓃹𓃨𓋞𓀦𓆤 𓁑𓌉𓃂𓋤𓐜𓇲 𓃘𓁱𓄫𓎀𓋘𓁮
+- Linear B
+- Latin
+- Old Turkic
+- Samaritan
+- Avestan
+- Phags Pa
+- Carian
+- Old Persian
+- Ugaritic
+- Osmanya
+- Old South Arabian
+- Mandaic
+- Lycian
+- Lydian
+- Imperial Aramaic
+- Phoenician
+- Inscriptional Parthian
+- Inscriptional Pahlavi
+sample_text: ࠀࠁࡀࡁꡀ ꡁ𐀀𐀁𐊀𐊁 𐎀𐎁𐎠𐎡𐒀 𐒁𐡀𐡁𐤀𐤁 𐤠𐤡𐩠𐩡𐬀 𐬁𐭀𐭁𐭠𐭡𐰀𐰁𒀀𒀁𓀀𓀁

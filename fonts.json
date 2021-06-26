@@ -46,7 +46,7 @@
             "Cyrillic",
             "Greek"
         ],
-        "sample_text": "ᴃꝪẐḔĨꝠ ƸḆŶȪĪᶃ ấǽṁꟸⅎế tɋɣẹǌễ ṅẖᶚᴀꭃʫ",
+        "sample_text": "Vältože бомуще θρώπον çavatečkul",
         "url": {
             "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto.vfj",
             "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto.ttf",
@@ -80,9 +80,10 @@
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Georgian"
+            "Georgian",
+            "Armenian"
         ],
-        "sample_text": "ჁჼჅᲦႧႶ ႴᲴᲘᲠᲐႲ ⴟშვⴌⴔⴠ ⴤⴆჰⴀⴈⴎ ⴟჶⴊⴚლგ",
+        "sample_text": "ჁჼჅႧႶႴႲ ⴟშვⴌⴔⴠ ⴤⴆჰⴀⴈⴎ ⴟჶⴊⴚლგⴌ",
         "url": {
             "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-georgian.vfj",
             "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-georgian.ttf",
@@ -134,7 +135,8 @@
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Tai Viet"
+            "Tai Viet",
+            "Latin"
         ],
         "sample_text": "ꪕꪮꪃꪺꪄꪪ ꪅꪻꪍꪢꪠꪩ ꪔꪆꪶꪭꪯꪋ ꪇꪽꫛꪟꪛꫝ ꪒꪘꪚꪉꪌꪊ",
         "url": {
@@ -188,7 +190,8 @@
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Coptic"
+            "Coptic",
+            "Latin"
         ],
         "sample_text": "ⲰⲮⲄⳜⲜⳄ ⲦⲤⲢϮⲶⳠ ⲽⲫⲭⳗⲿⳳ ⲃⳇⲃⲏⳃⳗ ϫⳁⲅⲽⲉⲩ",
         "url": {
@@ -406,7 +409,7 @@
         "scripts": [
             "Cherokee"
         ],
-        "sample_text": "ᏓᎲᎮᎻᏛᏱ ᏌᎼᎳᏦᏊᎹ ꮈꮠꮢꮽꮷꮒ ꮏꮟꭰꭳꮪꮇ ꮴᏸꮆꮼꮤꭸ",
+        "sample_text": "ᏓᎲᎮᎻᏛᏱ ᏌᎼᎳᏦᏊᎹ ᎸᏐᏒᏭᏧᏂ ᎿᏏᎠᎣᏚᎷ ᏤᏰᎶᏬᏔᎨ",
         "url": {
             "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cherokee.vfj",
             "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cherokee.ttf",
@@ -439,7 +442,10 @@
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
         "description": "Font",
-        "scripts": [],
+        "scripts": [
+            "Braille",
+            "Greek"
+        ],
         "sample_text": "⛈꜐➊𝐛ℐ𝛶 ⎶𝜷➇⠭𝈷⩛ 🁁𝒱⍹𝞝𝛍⓾ ⎠ℼ🂧⤖⦖⏕ ⍃𝛕⪃𝑬𝜀⥆",
         "url": {
             "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-symbols.vfj",
@@ -654,7 +660,8 @@
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Canadian Aboriginal"
+            "Canadian Aboriginal",
+            "Latin"
         ],
         "sample_text": "ᓿᒩᗰᒺᓙᘈ ᐳᗛᙸᔣᗊᐴ ᐨᕸᕂᒮᘂᔴ ᗝᒝᗿᘗᐧᖵ ᖀᖴᗄᐸᒌᑾ",
         "url": {
@@ -672,7 +679,8 @@
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Thaana"
+            "Thaana",
+            "Arabic"
         ],
         "sample_text": "ޘޢޚޝމޕ ލޱފވޔޖ ޣސބށޙޥ ޠޅޓޏޗޤ ކތހޛޡރ",
         "url": {
@@ -798,9 +806,10 @@
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Georgian"
+            "Georgian",
+            "Armenian"
         ],
-        "sample_text": "ᲣႣჀᲶႽჂ ႭᲠႸႺႱᲒ ⴇზⴂⴄჺⴊ ⴊფაⴥⴡⴌ ⴤჟღⴄსⴇ",
+        "sample_text": "ႣჀႽჂ ႭႸႺႱ ⴇზⴂⴄჺⴊ ⴊფაⴥⴡⴌ ⴤჟღⴄსⴇ",
         "url": {
             "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-georgian.vfj",
             "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-georgian.ttf",
@@ -816,7 +825,8 @@
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Phags Pa"
+            "Phags Pa",
+            "Mongolian"
         ],
         "sample_text": "ꡜꡤꡩꡕꡏꡂ ꡐꡗꡡꡯꡭꡓ ꡖꡘꡑꡉꡧꡟ ꡇꡁꡰꡄꡲꡥ ꡀꡆꡌꡙꡪꡠ",
         "url": {
@@ -907,9 +917,27 @@
         "description": "Font",
         "scripts": [
             "Egyptian Hieroglyphs",
-            "Cuneiform"
+            "Cuneiform",
+            "Linear B",
+            "Latin",
+            "Old Turkic",
+            "Samaritan",
+            "Avestan",
+            "Phags Pa",
+            "Carian",
+            "Old Persian",
+            "Ugaritic",
+            "Osmanya",
+            "Old South Arabian",
+            "Mandaic",
+            "Lycian",
+            "Lydian",
+            "Imperial Aramaic",
+            "Phoenician",
+            "Inscriptional Parthian",
+            "Inscriptional Pahlavi"
         ],
-        "sample_text": "𓊺𓆼𓍚𓉆𓌅𓁐 𓍉𓎯𓍽𓇷𓏨𓁻 𓁧𓃹𓃨𓋞𓀦𓆤 𓁑𓌉𓃂𓋤𓐜𓇲 𓃘𓁱𓄫𓎀𓋘𓁮",
+        "sample_text": "ࠀࠁࡀࡁꡀ ꡁ𐀀𐀁𐊀𐊁 𐎀𐎁𐎠𐎡𐒀 𐒁𐡀𐡁𐤀𐤁 𐤠𐤡𐩠𐩡𐬀 𐬁𐭀𐭁𐭠𐭡𐰀𐰁𒀀𒀁𓀀𓀁",
         "url": {
             "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-historic.vfj",
             "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-historic.ttf",
@@ -1375,7 +1403,8 @@
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Nko"
+            "Nko",
+            "Arabic"
         ],
         "sample_text": "ߓߪߣߍߑߞ ߕߛߧߘߖߤ ߟߏߵߨߒߠ ߢߎߥߡߴߝ ߔߩߌߙߊߦ",
         "url": {
@@ -1474,7 +1503,7 @@
             "Bopomofo",
             "Malayalam"
         ],
-        "sample_text": "半咻修喗仯乶 诩嘄甸望庮达 奠奆盘帡眼帰 侠斝锁匵黽岈 弩狶凋儥竼嘌",
+        "sample_text": "A˪̀ͰϢЀ Ա֑؆܀ހߊऀ ঀஂഀกༀကᄀ Ꭰ᐀ ᚠ⠀ ⴰ⺔ぁァ",
         "url": {
             "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.vfj",
             "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.ttf",
@@ -1602,7 +1631,7 @@
             "Latin",
             "Katakana"
         ],
-        "sample_text": "KYXIZW PÜKOJG bpxhzb sqwvåm vlegms",
+        "sample_text": "KYXIZW PKOJG bpxhzb ｳｴｵｶｷ vlegms",
         "url": {
             "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.vfj",
             "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.ttf",

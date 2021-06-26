@@ -9,7 +9,7 @@ title: "Zoto Sans Lao"
 ບໃຜລາອ ຫຽຟະຂຄ ຍຣມຳສຈ ໟໆເປຕໝ ພຢງທໜກ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-lao.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-lao.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 166 \| scripts: Lao
 

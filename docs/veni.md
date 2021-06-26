@@ -9,7 +9,7 @@ title: "GG Veni"
 ÂÌDÓŸM IXẂÛÀÔ éẁfwïi åúíkóö ùämõœl
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/veni/veni.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/veni/veni.vfj){: .btn .btn-purple target="_blank" }
 
 license: CC-0 \| Font \| glyphs: 199 \| scripts: Latin
 

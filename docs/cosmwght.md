@@ -9,7 +9,7 @@ title: "GG Cosm"
 ŪỲÆÑŪŔ ĖÈØŎXĴ nękćzę hŷěìăĥ oșőűng
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm[wght].ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm[wght].vfj){: .btn .btn-purple target="_blank" }
 
 license: CC-0 \| Font \| glyphs: 359 \| scripts: Latin
 

@@ -9,7 +9,7 @@ title: "Zoto Sans Tifinagh"
 ⴲⵢⵑⴿⴺⵉ ⵆⵅⵤⵕⴸⵞ ⴼⴵⴻⵍⵃⵄ ⵈⵐⴳⵛⵌⵖ ⵣⴴⵧⵓⵏⴹ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tifinagh.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tifinagh.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 101 \| scripts: Tifinagh
 

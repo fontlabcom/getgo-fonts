@@ -9,7 +9,7 @@ title: "Zoto Serif Armenian"
 ԽՉՒԿՂՅ ՏՂԸՄԵԻ էէզըքգ նբյթփպ թցզՙձծ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-armenian.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-armenian.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 98 \| scripts: Armenian
 

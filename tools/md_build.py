@@ -240,7 +240,7 @@ class GetGoFont(object):
             im.save(self.png_path, 'PNG')
 
     def build_md(self):
-        download_url = str(self.path).replace(
+        download_url = str(self.vfj_path).replace(
             str(self.folders['font']), self.url_bases['git_download']
             )
         svg_link = str(self.svg_path).replace(

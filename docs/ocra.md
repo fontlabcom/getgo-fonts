@@ -9,7 +9,7 @@ title: "GG Ocra"
 KYXIZW PKOJG bpxhzb ｳｴｵｶｷ vlegms
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/ocra/ocra.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/ocra/ocra.vfj){: .btn .btn-purple target="_blank" }
 
 license: CC-0 \| Font \| glyphs: 177 \| scripts: Latin, Katakana
 

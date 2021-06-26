@@ -9,7 +9,7 @@ title: "Zoto Sans Tagbanwa"
 ᝰᝣᝯᝪᝨᝤ ᝦᝠᝡᝥᝢᝧ ᝫᝮᝬᝩ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tagbanwa.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tagbanwa.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 24 \| scripts: Tagbanwa
 

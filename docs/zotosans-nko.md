@@ -9,7 +9,7 @@ title: "Zoto Sans NKo"
 ߓߪߣߍߑߞ ߕߛߧߘߖߤ ߟߏߵߨߒߠ ߢߎߥߡߴߝ ߔߩߌߙߊߦ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-nko.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-nko.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 174 \| scripts: Nko, Arabic
 

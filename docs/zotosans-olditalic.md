@@ -9,7 +9,7 @@ title: "Zoto Sans Old Italic"
 𐌏𐌉𐌆𐌊𐌙𐌜 𐌇𐌞𐌕𐌎𐌀𐌚 𐌃𐌁𐌓𐌅𐌋𐌔 𐌘𐌌𐌛𐌖𐌍𐌈 𐌄𐌝𐌐𐌂𐌗𐌑
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-olditalic.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-olditalic.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 39 \| scripts: Old Italic
 

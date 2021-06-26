@@ -9,7 +9,7 @@ title: "Zoto Sans Egyptian Hieroglyphs"
 𓁫𓋾𓅷𓆢𓋁𓁗 𓇶𓈓𓋉𓄌𓅞𓈥 𓍪𓅵𓂥𓎮𓎇𓅺 𓋘𓐦𓀮𓅶𓎐𓍼 𓈭𓍙𓐣𓐘𓁳𓅅
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-egyptianhieroglyphs.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-egyptianhieroglyphs.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 1075 \| scripts: Egyptian Hieroglyphs
 

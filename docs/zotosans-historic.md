@@ -9,7 +9,7 @@ title: "Zoto Sans Historic"
 ࠀࠁࡀࡁꡀ ꡁ𐀀𐀁𐊀𐊁 𐎀𐎁𐎠𐎡𐒀 𐒁𐡀𐡁𐤀𐤁 𐤠𐤡𐩠𐩡𐬀 𐬁𐭀𐭁𐭠𐭡𐰀𐰁𒀀𒀁𓀀𓀁
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-historic.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-historic.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 3638 \| scripts: Egyptian Hieroglyphs, Cuneiform, Linear B, Latin, Old Turkic, Samaritan, Avestan, Phags Pa, Carian, Old Persian, Ugaritic, Osmanya, Old South Arabian, Mandaic, Lycian, Lydian, Imperial Aramaic, Phoenician, Inscriptional Parthian, Inscriptional Pahlavi
 

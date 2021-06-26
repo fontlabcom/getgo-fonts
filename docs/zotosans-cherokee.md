@@ -9,7 +9,7 @@ title: "Zoto Sans Cherokee"
 ᏓᎲᎮᎻᏛᏱ ᏌᎼᎳᏦᏊᎹ ᎸᏐᏒᏭᏧᏂ ᎿᏏᎠᎣᏚᎷ ᏤᏰᎶᏬᏔᎨ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cherokee.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cherokee.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 89 \| scripts: Cherokee
 

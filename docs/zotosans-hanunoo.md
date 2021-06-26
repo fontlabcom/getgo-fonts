@@ -9,7 +9,7 @@ title: "Zoto Sans Hanunoo"
 ᜣᜢᜬᜮᜡᜥ ᜦᜩᜱᜫᜤᜰ ᜠᜪᜨᜧᜯᜭ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-hanunoo.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-hanunoo.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 43 \| scripts: Hanunoo
 

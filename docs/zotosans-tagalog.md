@@ -9,7 +9,7 @@ title: "Zoto Sans Tagalog"
 ᜋᜐᜂᜊᜏᜈ ᜁᜃᜀᜑᜄᜇ ᜅᜎᜉᜌᜆ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tagalog.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tagalog.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 26 \| scripts: Tagalog
 

@@ -9,7 +9,7 @@ title: "Zoto Sans Mandaic"
 ࡗࡆࡌࡒࡁࡇ ࡊࡉࡋࡎࡖࡈ ࡏࡔࡍࡂࡄࡑ ࡓࡀࡅࡐࡃࡘ ࡕ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-mandaic.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-mandaic.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 128 \| scripts: Mandaic
 

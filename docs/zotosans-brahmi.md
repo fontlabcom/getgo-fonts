@@ -9,7 +9,7 @@ title: "Zoto Sans Brahmi"
 𑀤𑀭𑀬𑀥𑀰𑀉 𑀐𑀨𑀘𑀟𑀫𑀕 𑀗𑀓𑀷𑀣𑀲𑀳 𑀃𑀎𑀒𑀍𑀌𑀦 𑀡𑀋𑀚𑀑𑀊𑀇
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-brahmi.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-brahmi.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 182 \| scripts: Brahmi
 

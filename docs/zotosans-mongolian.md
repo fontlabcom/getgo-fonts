@@ -9,7 +9,7 @@ title: "Zoto Sans Mongolian"
 ᡙᡇᠷᡬᢃᠠ ᢖᠱᠽᠩᡞᡏ ᢢᠬᢙᡮᠫᠥ ᠼᢨᠾᠰᢎᡲ ᢉᢛᢝᢋᠮᡓ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-mongolian.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-mongolian.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 1511 \| scripts: Mongolian
 

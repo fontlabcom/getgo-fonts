@@ -9,7 +9,7 @@ title: "GG Pixa"
 A˪̀ͰϢЀ Ա֑؆܀ހߊऀ ঀஂഀกༀကᄀ Ꭰ᐀ ᚠ⠀ ⴰ⺔ぁァ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/pixa/pixa.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/pixa/pixa.vfj){: .btn .btn-purple target="_blank" }
 
 license: CC-0 \| Font \| glyphs: 14769 \| scripts: Han, Hangul, Latin, Canadian Aboriginal, Greek, Cyrillic, Arabic, Katakana, Myanmar, Coptic, Devanagari, Cherokee, Armenian, Hiragana, Hebrew, Runic, Bengali, Syriac, Thai, Braille, Tamil, Tifinagh, Nko, Thaana, Tibetan, Ogham, Bopomofo, Malayalam
 

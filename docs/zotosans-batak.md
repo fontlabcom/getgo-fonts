@@ -9,7 +9,7 @@ title: "Zoto Sans Batak"
 ᯓᯇᯆᯂᯠᯑ ᯗᯍᯝᯣᯖᯛ ᯅᯈᯎᯡᯃᯜ ᯀᯊᯄᯘᯤᯙ ᯔᯉᯥᯚᯁᯏ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-batak.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-batak.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 61 \| scripts: Batak
 

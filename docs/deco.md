@@ -9,7 +9,7 @@ title: "GG Deco"
 RIDSNC QUAMJV zifwlz matknh bopfxc
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/deco/deco.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/deco/deco.vfj){: .btn .btn-purple target="_blank" }
 
 license: CC-0 \| Font \| glyphs: 104 \| scripts: Latin
 

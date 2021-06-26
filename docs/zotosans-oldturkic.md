@@ -9,7 +9,7 @@ title: "Zoto Sans Old Turkic"
 𐰥𐱁𐰶𐰢𐰯𐰐 𐰋𐰪𐰚𐰈𐰛𐰗 𐰳𐰝𐰖𐰊𐱆𐰽 𐰬𐰺𐰨𐰘𐰟𐰦 𐱅𐰼𐰁𐰹𐰙𐱀
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-oldturkic.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-oldturkic.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 77 \| scripts: Old Turkic
 

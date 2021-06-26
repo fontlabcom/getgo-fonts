@@ -9,7 +9,7 @@ title: "Zoto Sans Imperial Aramaic"
 𐡑𐡀𐡈𐡉𐡄𐡁 𐡕𐡇𐡋𐡍𐡔𐡓 𐡆𐡎𐡅𐡏𐡒𐡂 𐡌𐡊𐡐𐡃
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-imperialaramaic.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-imperialaramaic.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 35 \| scripts: Imperial Aramaic
 

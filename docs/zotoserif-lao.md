@@ -9,7 +9,7 @@ title: "Zoto Serif Lao"
 ໃຣຯສຕດ ຊຢມໝເຫ ໂນໄຝວແ ໞບຈພະລ ຟກໜຳຮໟ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-lao.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-lao.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 166 \| scripts: Lao
 

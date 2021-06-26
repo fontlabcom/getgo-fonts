@@ -9,7 +9,7 @@ title: "Zoto Sans Kharoshthi"
 𐨙𐨥𐨣𐨦𐨮𐨤 𐨀𐨬𐨐𐨞𐨖𐨠 𐨡𐨟𐨳𐨛𐨰𐨲 𐨯𐨜𐨭𐨒𐨫𐨱 𐨨𐨗𐨢𐨑𐨪𐨧
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-kharoshthi.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-kharoshthi.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 133 \| scripts: Kharoshthi
 

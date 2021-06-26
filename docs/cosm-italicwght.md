@@ -9,7 +9,7 @@ title: "GG Cosm Italic"
 ĽÕFIĶŸÊ ŊŲĦŊŤĮ ýäġţťț yșœśôá vûūâŧô
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm-italic[wght].ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm-italic[wght].vfj){: .btn .btn-purple target="_blank" }
 
 license: CC-0 \| Font \| glyphs: 340 \| scripts: Latin
 

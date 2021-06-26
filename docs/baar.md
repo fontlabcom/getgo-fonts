@@ -9,7 +9,7 @@ title: "GG Baar"
 CMKSRJ ITSLBZ xhedha pqnnfv gprktw
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/baar/baar.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/baar/baar.vfj){: .btn .btn-purple target="_blank" }
 
 license: CC-0 \| Modular narrow display font \| glyphs: 98 \| scripts: Latin
 

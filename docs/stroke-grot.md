@@ -9,7 +9,7 @@ title: "GG Stroke Grot OFL"
 PJVNNX TQFBHI wuufªk ldmzea prxhºy
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/stroke-grot/stroke-grot.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/stroke-grot/stroke-grot.vfj){: .btn .btn-purple target="_blank" }
 
 license: OFL \| Font \| glyphs: 132 \| scripts: Latin
 

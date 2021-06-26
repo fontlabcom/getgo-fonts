@@ -9,7 +9,7 @@ title: "Zoto Sans Avestan"
 𐬑𐬂𐬜𐬴𐬢𐬄 𐬖𐬁𐬱𐬭𐬆𐬍 𐬛𐬔𐬡𐬫𐬗𐬵 𐬒𐬦𐬥𐬬𐬊𐬲 𐬘𐬣𐬰𐬏𐬅𐬨
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-avestan.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-avestan.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 73 \| scripts: Avestan
 

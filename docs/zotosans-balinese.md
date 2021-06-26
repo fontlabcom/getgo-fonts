@@ -9,7 +9,7 @@ title: "Zoto Sans Balinese"
 ᬰᬋᬘᬎᬓᬮ ᭊᬉᬥᬫᬌᬯ ᬪᬠᬲᭋᭅᬡ ᬑᬊᬭᬒᬨᬅ ᬧᬇᬗᬍᬩᭆ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-balinese.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-balinese.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 182 \| scripts: Balinese
 

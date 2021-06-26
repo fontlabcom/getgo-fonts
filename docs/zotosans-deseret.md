@@ -9,7 +9,7 @@ title: "Zoto Sans Deseret"
 𐐈𐐔𐐟𐐚𐐢𐐌 𐐜𐐀𐐒𐐖𐐈𐐇 𐐹𐐷𐐮𐑅𐐫𐐵 𐐬𐐩𐐵𐐾𐑌𐐯 𐑏𐐸𐐬𐐽𐐱𐑏
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-deseret.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-deseret.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 84 \| scripts: Deseret
 

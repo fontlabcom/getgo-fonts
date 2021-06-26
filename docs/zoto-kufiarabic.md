@@ -9,7 +9,7 @@ title: "Zoto Kufi Arabic"
 ﻹݬݣڙﺯﭘ ﹾﺂښێﹲۯ ۮڦﭖﺤﮌظ ڰګﺊذﮭڢ ۉﺠحﭧﭭﭽ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zoto-kufiarabic.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zoto-kufiarabic.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 762 \| scripts: Arabic
 

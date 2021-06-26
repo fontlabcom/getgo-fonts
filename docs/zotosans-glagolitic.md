@@ -9,7 +9,7 @@ title: "Zoto Sans Glagolitic"
 ⰋⰤⰗⰁⰇⰏ ⰆⰥⰃⰒⰛⰍ ⰵⱍⰴⱑⰰⱎ ⱐⱏⱀⱗⱚⱑ ⰺⰽⱆⱊⱇⱌ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-glagolitic.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-glagolitic.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 98 \| scripts: Glagolitic
 

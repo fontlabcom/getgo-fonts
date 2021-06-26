@@ -9,7 +9,7 @@ title: "Zoto Sans Yi"
 ꋅꁪꁳꃬꂘꏦ ꅫꐕꌉꆂꉨꆌ ꆣꆋꋆꅐꆿꅠ ꎫꄇꅙꌤꋻꅱ ꉀꎲꇵꂭꋸꅝ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-yi.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-yi.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 1251 \| scripts: Yi
 

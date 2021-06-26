@@ -9,7 +9,7 @@ title: "Zoto Sans Gothic"
 𐍉𐍆𐌱𐌿𐍀𐌾 𐌹𐌶𐍃𐌼𐍈𐍇 𐍂𐌷𐌳𐍄𐌰𐌲 𐌺𐌸𐍅𐌵𐌽𐌻 𐌴
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-gothic.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-gothic.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 43 \| scripts: Gothic
 

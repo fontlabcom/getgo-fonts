@@ -9,7 +9,7 @@ title: "Zoto Sans Inscriptional Pahlavi"
 𐭰𐭠𐭫𐭨𐭬𐭩 𐭢𐭧𐭯𐭦𐭣𐭤 𐭡𐭱𐭪𐭲𐭭𐭮 𐭥
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalpahlavi.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalpahlavi.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 34 \| scripts: Inscriptional Pahlavi
 

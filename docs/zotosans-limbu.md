@@ -9,7 +9,7 @@ title: "Zoto Sans Limbu"
 ᤌᤖᤓᤁᤕᤃ ᤐᤒᤚᤏᤛᤗ ᤑᤈᤎᤄᤅᤀ ᤜᤍᤆᤂᤔᤘ ᤊᤇᤋᤙᤉ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-limbu.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-limbu.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 73 \| scripts: Limbu
 

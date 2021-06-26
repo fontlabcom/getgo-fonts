@@ -9,7 +9,7 @@ title: "Zoto Sans Linear B"
 𐁃𐃁𐂬𐂼𐂗𐀫 𐀔𐃀𐂌𐂹𐁉𐂳 𐀺𐃍𐃑𐀁𐂘𐃰 𐀦𐃪𐁍𐁆𐁐𐂵 𐂢𐃵𐃣𐃃𐂨𐂫
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-linearb.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-linearb.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 272 \| scripts: Linear B
 

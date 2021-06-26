@@ -9,7 +9,7 @@ title: "Zoto Serif Khmer"
 ឲយរឦញណ ឫខឥហសឭ ឳគងបឌឍ ថឧឈៗនធ ឡឆឯជឬឞ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-khmer.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-khmer.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 378 \| scripts: Khmer
 

@@ -9,7 +9,7 @@ title: "Zoto Sans Tai Le"
 ᥑᥪᥗᥢᥤᥡ ᥘᥥᥱᥩᥝᥔ ᥜᥣᥟᥬᥲᥙ ᥒᥴᥠᥖᥭᥕ ᥞᥳᥫᥨᥧᥚ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-taile.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-taile.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 55 \| scripts: Tai Le
 

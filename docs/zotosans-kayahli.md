@@ -9,7 +9,7 @@ title: "Zoto Sans Kayah Li"
 ꤢꤜꤊꤍꤠꤝ ꤒꤥꤟꤖꤐꤛ ꤋꤡꤌꤑꤞꤔ ꤚꤙꤎꤕꤏꤤ ꤘꤣꤓꤗ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-kayahli.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-kayahli.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 54 \| scripts: Kayah Li
 

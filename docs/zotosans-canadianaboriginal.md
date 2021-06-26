@@ -9,7 +9,7 @@ title: "Zoto Sans Canadian Aboriginal"
 ᓿᒩᗰᒺᓙᘈ ᐳᗛᙸᔣᗊᐴ ᐨᕸᕂᒮᘂᔴ ᗝᒝᗿᘗᐧᖵ ᖀᖴᗄᐸᒌᑾ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-canadianaboriginal.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-canadianaboriginal.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 744 \| scripts: Canadian Aboriginal, Latin
 

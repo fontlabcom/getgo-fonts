@@ -9,7 +9,7 @@ title: "Zoto Sans Lisu"
 ꓞꓣꓓꓩꓑꓶ ꓵꓛꓦꓤꓺꓰ ꓲꓹꓢꓳꓽꓫ ꓱꓐꓝꓚꓒꓧ ꓡꓼꓗꓠꓭꓴ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-lisu.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-lisu.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 54 \| scripts: Lisu
 

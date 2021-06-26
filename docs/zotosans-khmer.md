@@ -9,7 +9,7 @@ title: "Zoto Sans Khmer"
 យខឍឡឣឳ ឱផងទណឥ ឃពកឨឰគ ឮៗជសឲឫ ឌលថឋឧឝ
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-khmer.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-khmer.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 265 \| scripts: Khmer
 

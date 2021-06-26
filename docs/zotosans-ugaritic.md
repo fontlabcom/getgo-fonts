@@ -9,7 +9,7 @@ title: "Zoto Sans Ugaritic"
 𐎍𐎒𐎁𐎓𐎔𐎋 𐎄𐎌𐎅𐎛𐎆𐎑 𐎊𐎐𐎜𐎝𐎏𐎘 𐎉𐎈𐎚𐎃𐎖𐎗 𐎇𐎕𐎙𐎀𐎂𐎎
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-ugaritic.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-ugaritic.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 35 \| scripts: Ugaritic
 

@@ -9,7 +9,7 @@ title: "Zoto Sans Phoenician"
 𐤏𐤋𐤕𐤑𐤐𐤆 𐤉𐤔𐤍𐤅𐤒𐤄 𐤂𐤇𐤃𐤓𐤀𐤈 𐤁𐤊𐤎𐤌
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-phoenician.ttf){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-phoenician.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Font \| glyphs: 33 \| scripts: Phoenician
 

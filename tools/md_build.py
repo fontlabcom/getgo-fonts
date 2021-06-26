@@ -246,7 +246,7 @@ class GetGoFont(object):
 
 ![{self.metadata["sample_text"]}]({svg_link})
 
-{self.metadata["description"]} \| [Download font]({download_url})
+{self.metadata["description"]} \| [Download font]({download_url}){{: target="_blank" }}
 
 ---
 """

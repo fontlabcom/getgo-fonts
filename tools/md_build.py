@@ -246,16 +246,13 @@ class GetGoFont(object):
 
 ### {self.full_name}
 """
-        md_font_description = f"""
-- {self.metadata["description"]} \| {self.glyphs_count} glyphs \| license: {self.license}
-- scripts: {", ".join(self.script_names)}
-"""
+        md_font_description = f"""license: {self.license} | {self.metadata["description"]} \| glyphs: {self.glyphs_count} \| scripts: {", ".join(self.script_names)}"""
+
         md_font_summary = f"""
 
 ![{self.metadata["sample_text"]}]({svg_link})
 
-{md_font_description}
-- [Download font]({download_url}){{: target="_blank" }}
+[Download]({download_url}){{: .btn target="_blank" }} |\ {md_font_description}
 
 ---
 """

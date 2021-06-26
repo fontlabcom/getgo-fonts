@@ -1,7 +1,7 @@
 
-# GetGo Fonts
+# GetGo Fonts for FontLab
 
-The GetGo fonts are suitable for starting your own font project in FontLab.
+The GetGo fonts are suitable for starting your own font project in FontLab 7.
 
 ## Download
 

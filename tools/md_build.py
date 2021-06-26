@@ -44,11 +44,14 @@ class GetGoFont(object):
         self.md_path = Path(
             self.path.parent, str(self.path.stem) + '.md'
         ).resolve()
+        self.md_outpath = Path(
+            self.folders['docs'], str(self.path.stem) + '.md'
+        ).resolve()
         self.svg_path = Path(
-            self.folders['svg'], str(self.path.stem) + '.svg'
+            self.folders['images'], str(self.path.stem) + '.svg'
         ).resolve()
         self.png_path = Path(
-            self.path.parent, str(self.path.stem) + '.png'
+            self.folders['images'], str(self.path.stem) + '.png'
         ).resolve()
         self.woff_path = Path(
             self.folders['woff'], str(self.path.stem) + '.woff2'
@@ -67,6 +70,8 @@ class GetGoFont(object):
         self.scripts = OrderedDict()
         self.script_names = OrderedDict()
         self.metadata = OrderedDict()
+        self.index_md = ''
+        self.font_md = ''
         self.process()
 
 
@@ -234,32 +239,52 @@ class GetGoFont(object):
         im.save(self.png_path, 'PNG')
 
     def build_md(self):
-        self.index_md = ''
-        self.font_md = ''
         download_url = str(self.path).replace(
             str(self.folders['font']), self.url_bases['git_download']
             )
         svg_link = str(self.svg_path).replace(
             str(self.folders['docs']) + '/', ''
         )
+        md_font_description = f"""license: {self.license} \| {self.metadata["description"]} \| glyphs: {self.glyphs_count} \| scripts: {", ".join(self.script_names)}"""
+        #
+        with open(self.md_path, 'r', encoding='utf-8') as f:
+            md_article = f.read()
+
         self.index_md += f"""
 
 ### {self.full_name}
-"""
-        md_font_description = f"""license: {self.license} \| {self.metadata["description"]} \| glyphs: {self.glyphs_count} \| scripts: {", ".join(self.script_names)}"""
-
-        md_font_summary = f"""
 
 ![{self.metadata["sample_text"]}]({svg_link})
 
-[Download]({download_url}){{: .btn target="_blank" }}
+[Download FontLab VFJ]({download_url}){{: .btn target="_blank" }}
 
 {md_font_description}
 
 ---
 """
 
-        self.index_md += md_font_summary
+        self.font_md += f"""
+
+# {self.full_name}
+
+![{self.metadata["sample_text"]}]({svg_link})
+
+[Download FontLab VFJ]({download_url}){{: .btn .btn-purple target="_blank" }}
+
+{md_font_description}
+
+---
+
+{md_article}
+
+---
+
+<div style="font-family: {self.full_name}; font-size: 2em;">
+{" ".join([chr(u) for u in self.unicodes])}
+</div>
+
+"""
+
 
 
     def process(self):
@@ -284,7 +309,7 @@ class GetGoDocs(object):
         self.folders['md'] = Path(self.folders['root'], 'srcdocs').resolve()
         self.folders['docs'] = Path(self.folders['root'], 'docs').resolve()
         self.folders['woff'] = Path(self.folders['docs'], 'fonts').resolve()
-        self.folders['svg'] = Path(self.folders['docs'], 'images').resolve()
+        self.folders['images'] = Path(self.folders['docs'], 'images').resolve()
         self.folders['css'] = Path(self.folders['docs'], '_sass', 'custom').resolve()
 
         self.url_bases = {}
@@ -295,7 +320,7 @@ class GetGoDocs(object):
         self.url_bases['git_download'] = 'https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts'
         self.data = OrderedDict()
         self.font_css = ''
-        self.md = ''
+        self.index_md = ''
 
     def find_fonts(self):
         for self.path in self.folders['font'].glob('**/*.?tf'):
@@ -306,7 +331,7 @@ class GetGoDocs(object):
 
     def process(self):
         with open(Path(self.folders['md'], 'prolog.md'), 'r', encoding='utf-8') as f:
-            self.md += f.read() + """
+            self.index_md += f.read() + """
 
 ## Fonts
 
@@ -326,14 +351,16 @@ class GetGoDocs(object):
             drec['url']['png'] = fo.get_download_url(fo.png_path)
             self.font_css += fo.get_font_css()
             fo.build_md()
-            self.md += fo.index_md
+            self.index_md += fo.index_md
+            with open(fo.md_outpath, 'w', encoding='utf-8') as f:
+                f.write(fo.font_md)
 
         with open(Path(self.folders['css'], 'fonts.scss'), 'w', encoding='utf-8') as f:
             f.write(self.font_css)
         with open(Path(self.folders['root'], 'fonts.json'), 'w', encoding='utf-8') as f:
             ojson.json_dump(self.data, f)
         with open(Path(self.folders['docs'], 'index.md'), 'w', encoding='utf-8') as f:
-            f.write(self.md)
+            f.write(self.index_md)
 
     def make(self):
         self.find_fonts()
@@ -344,7 +371,7 @@ def main():
     ggd.redo['woff'] = False
     ggd.redo['yaml'] = False
     ggd.redo['sample_text'] = False
-    ggd.redo['sample'] = False
+    ggd.redo['sample'] = True
     ggd.make()
 
 if __name__ == '__main__':

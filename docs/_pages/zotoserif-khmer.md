@@ -1,5 +1,8 @@
 
-
+---
+layout: page
+title: "Zoto Serif Khmer — GetGo Fonts for FontLab"
+---
 # Zoto Serif Khmer
 
 ![ឲយរឦញណ ឫខឥហសឭ ឳគងបឌឍ ថឧឈៗនធ ឡឆឯជឬឞ](images/zotoserif-khmer.svg)

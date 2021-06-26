@@ -1,5 +1,8 @@
 
-
+---
+layout: page
+title: "Zoto Serif Lao — GetGo Fonts for FontLab"
+---
 # Zoto Serif Lao
 
 ![ໃຣຯສຕດ ຊຢມໝເຫ ໂນໄຝວແ ໞບຈພະລ ຟກໜຳຮໟ](images/zotoserif-lao.svg)

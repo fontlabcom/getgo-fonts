@@ -1,8 +1,11 @@
 
-
+---
+layout: page
+title: "GG Cosm — GetGo Fonts for FontLab"
+---
 # GG Cosm
 
-![ŪỲÆÑŪŔ ĖÈØŎXĴ nękćzę hŷěìăĥ oșőűng](images/cosm[wght].svg)
+![ŪỲÆÑŪŔ ĖÈØŎXĴ nękćzę hŷěìăĥ oșőűng](images/cosm-wght-.svg)
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm[wght].ttf){: .btn .btn-purple target="_blank" }
 

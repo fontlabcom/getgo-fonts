@@ -1,5 +1,8 @@
 
-
+---
+layout: page
+title: "Zoto Emoji — GetGo Fonts for FontLab"
+---
 # Zoto Emoji
 
 ![🎡💄🀄🈴😱🐞 🇰🈚👺🍉2🍃 🔨🐣👠🌟🎯✈ 🍪😁 🎈🍸🌼 🍷📧🐔󾓩🏄👶](images/zoto-emoji.svg)

@@ -1,8 +1,11 @@
 
-
+---
+layout: page
+title: "GG Cosm Italic — GetGo Fonts for FontLab"
+---
 # GG Cosm Italic
 
-![ĽÕFIĶŸÊ ŊŲĦŊŤĮ ýäġţťț yșœśôá vûūâŧô](images/cosm-italic[wght].svg)
+![ĽÕFIĶŸÊ ŊŲĦŊŤĮ ýäġţťț yșœśôá vûūâŧô](images/cosm-italic-wght-.svg)
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm-italic[wght].ttf){: .btn .btn-purple target="_blank" }
 

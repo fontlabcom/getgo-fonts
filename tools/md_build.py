@@ -45,16 +45,20 @@ class GetGoFont(object):
             self.path.parent, str(self.path.stem) + '.md'
         ).resolve()
         self.md_outpath = Path(
-            self.folders['docs'], str(self.path.stem) + '.md'
+            self.folders['docs'], '_pages', str(self.path.stem).replace(
+                '[', '-').replace(']', '-') + '.md'
         ).resolve()
         self.svg_path = Path(
-            self.folders['images'], str(self.path.stem) + '.svg'
+            self.folders['images'], str(self.path.stem).replace(
+                '[','-').replace(']','-') + '.svg'
         ).resolve()
         self.png_path = Path(
-            self.folders['images'], str(self.path.stem) + '.png'
+            self.folders['images'], str(self.path.stem).replace(
+                '[', '-').replace(']', '-') + '.png'
         ).resolve()
         self.woff_path = Path(
-            self.folders['woff'], str(self.path.stem) + '.woff2'
+            self.folders['woff'], str(self.path.stem).replace(
+                '[', '-').replace(']', '-') + '.woff2'
         ).resolve()
         self.yaml_path = Path(
             self.path.parent, str(self.path.stem) + '.yaml'
@@ -264,7 +268,10 @@ class GetGoFont(object):
 """
 
         self.font_md += f"""
-
+---
+layout: page
+title: "{self.full_name} — GetGo Fonts for FontLab"
+---
 # {self.full_name}
 
 ![{self.metadata["sample_text"]}]({svg_link})
@@ -371,7 +378,7 @@ def main():
     ggd.redo['woff'] = False
     ggd.redo['yaml'] = False
     ggd.redo['sample_text'] = False
-    ggd.redo['sample'] = True
+    ggd.redo['sample'] = False
     ggd.make()
 
 if __name__ == '__main__':

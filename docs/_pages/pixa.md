@@ -1,5 +1,8 @@
 
-
+---
+layout: page
+title: "GG Pixa — GetGo Fonts for FontLab"
+---
 # GG Pixa
 
 ![A˪̀ͰϢЀ Ա֑؆܀ހߊऀ ঀஂഀกༀကᄀ Ꭰ᐀ ᚠ⠀ ⴰ⺔ぁァ](images/pixa.svg)

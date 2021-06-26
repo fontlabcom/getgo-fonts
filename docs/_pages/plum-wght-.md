@@ -1,8 +1,11 @@
 
-
+---
+layout: page
+title: "GG Plum — GetGo Fonts for FontLab"
+---
 # GG Plum
 
-![CĞBJÌĂ ŒÃÑDPẂ ŷèãaâò ẅoîẁĳœ effvgý](images/plum[wght].svg)
+![CĞBJÌĂ ŒÃÑDPẂ ŷèãaâò ẅoîẁĳœ effvgý](images/plum-wght-.svg)
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/plum/plum[wght].ttf){: .btn .btn-purple target="_blank" }
 

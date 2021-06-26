@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: "GetGo Fonts for FontLab"
+---
 # GetGo Fonts for FontLab
 
 The GetGo fonts are suitable for starting your own font project in FontLab 7.
@@ -53,7 +56,7 @@ license: CC-0 \| Modular narrow display font \| glyphs: 98 \| scripts: Latin
 
 ### GG Boto
 
-![Vältože бомуще θρώπον çavatečkul](images/boto[wght,wdth,ital].svg)
+![Vältože бомуще θρώπον çavatečkul](images/boto-wght,wdth,ital-.svg)
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/boto/boto[wght,wdth,ital].ttf){: .btn target="_blank" }
 
@@ -64,7 +67,7 @@ license: Apache \| Font \| glyphs: 3387 \| scripts: Latin, Cyrillic, Greek
 
 ### GG Cosm Italic
 
-![ĽÕFIĶŸÊ ŊŲĦŊŤĮ ýäġţťț yșœśôá vûūâŧô](images/cosm-italic[wght].svg)
+![ĽÕFIĶŸÊ ŊŲĦŊŤĮ ýäġţťț yșœśôá vûūâŧô](images/cosm-italic-wght-.svg)
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm-italic[wght].ttf){: .btn target="_blank" }
 
@@ -75,7 +78,7 @@ license: CC-0 \| Font \| glyphs: 340 \| scripts: Latin
 
 ### GG Cosm
 
-![ŪỲÆÑŪŔ ĖÈØŎXĴ nękćzę hŷěìăĥ oșőűng](images/cosm[wght].svg)
+![ŪỲÆÑŪŔ ĖÈØŎXĴ nękćzę hŷěìăĥ oșőűng](images/cosm-wght-.svg)
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm[wght].ttf){: .btn target="_blank" }
 
@@ -130,7 +133,7 @@ license: CC-0 \| Font \| glyphs: 14769 \| scripts: Han, Hangul, Latin, Canadian 
 
 ### GG Plum
 
-![CĞBJÌĂ ŒÃÑDPẂ ŷèãaâò ẅoîẁĳœ effvgý](images/plum[wght].svg)
+![CĞBJÌĂ ŒÃÑDPẂ ŷèãaâò ẅoîẁĳœ effvgý](images/plum-wght-.svg)
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/plum/plum[wght].ttf){: .btn target="_blank" }
 

@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: "GetGo Fonts for FontLab"
+---
 # GetGo Fonts for FontLab
 
 The GetGo fonts are suitable for starting your own font project in FontLab 7.

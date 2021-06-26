@@ -1,5 +1,8 @@
 
-
+---
+layout: page
+title: "GG Ocra — GetGo Fonts for FontLab"
+---
 # GG Ocra
 
 ![KYXIZW PKOJG bpxhzb ｳｴｵｶｷ vlegms](images/ocra.svg)

@@ -1,5 +1,8 @@
 
-
+---
+layout: page
+title: "Zoto Sans Cham — GetGo Fonts for FontLab"
+---
 # Zoto Sans Cham
 
 ![ꨌꨝꨨꨘꩈꨢ ꨑꨤꨙꩀꨡꩇ ꨕꨅꨠꨍꨦꨒ ꨋꨏꩄꨃꨈꩆ ꨐꨚꨎꨁꨖꨆ](images/zotosans-cham.svg)

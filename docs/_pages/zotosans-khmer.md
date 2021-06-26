@@ -1,5 +1,8 @@
 
-
+---
+layout: page
+title: "Zoto Sans Khmer — GetGo Fonts for FontLab"
+---
 # Zoto Sans Khmer
 
 ![យខឍឡឣឳ ឱផងទណឥ ឃពកឨឰគ ឮៗជសឲឫ ឌលថឋឧឝ](images/zotosans-khmer.svg)

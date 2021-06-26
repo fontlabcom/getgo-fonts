@@ -1,5 +1,8 @@
 
-
+---
+layout: page
+title: "Zoto Sans Lao — GetGo Fonts for FontLab"
+---
 # Zoto Sans Lao
 
 ![ບໃຜລາອ ຫຽຟະຂຄ ຍຣມຳສຈ ໟໆເປຕໝ ພຢງທໜກ](images/zotosans-lao.svg)

@@ -3,6 +3,10 @@
 
 The GetGo fonts are suitable for starting your own font project in FontLab.
 
+## Download 
+
+<button>Download</button>
+
 ## Licenses
 
 ### CC-0

@@ -1,40 +1,4 @@
 {
-    "GG Stroke Grot OFL Regular": {
-        "full_name": "GG Stroke Grot OFL Regular",
-        "family_name": "GG Stroke Grot OFL",
-        "copyright": "Copyright © 2015 by Wei Huang.  All rights reserved.",
-        "license": "OFL",
-        "description": "Font",
-        "scripts": [
-            "Latin"
-        ],
-        "sample_text": "PJVNNX TQFBHI wuufªk ldmzea prxhºy",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/stroke-grot.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.png"
-        }
-    },
-    "GG Stroke Chan OFL Italic": {
-        "full_name": "GG Stroke Chan OFL Italic",
-        "family_name": "GG Stroke Chan OFL",
-        "copyright": "Copyright 2013 The Alegreya Sans Project Authors (https://github.com/huertatipografica/Alegreya-Sans)",
-        "license": "OFL",
-        "description": "Font",
-        "scripts": [
-            "Latin"
-        ],
-        "sample_text": "TLVUBG YKMMIP txnckj qixarh zpyegj",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/stroke-chan.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.png"
-        }
-    },
     "GG Boto Regular": {
         "full_name": "GG Boto Regular",
         "family_name": "GG Boto",
@@ -55,313 +19,20 @@
             "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto.png"
         }
     },
-    "Coto Serif Armenian": {
-        "full_name": "Coto Serif Armenian",
-        "family_name": "Coto Serif Armenian",
-        "copyright": "Copyright 2014 Google Inc. All Rights Reserved.",
+    "Coto Emoji": {
+        "full_name": "Coto Emoji",
+        "family_name": "Coto Emoji",
+        "copyright": "Digitized data copyright © 2011, Google Corporation.",
         "license": "Apache",
         "description": "Font",
-        "scripts": [
-            "Armenian"
-        ],
-        "sample_text": "ԽՉՒԿՂՅ ՏՂԸՄԵԻ էէզըքգ նբյթփպ թցզՙձծ",
+        "scripts": [],
+        "sample_text": "🎡💄🀄🈴😱🐞 🇰🈚👺🍉2🍃 🔨🐣👠🌟🎯✈ 🍪😁 🎈🍸🌼 🍷📧🐔󾓩🏄👶",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-armenian.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-armenian.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-armenian.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotoserif-armenian.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-armenian.png"
-        }
-    },
-    "Coto Serif Georgian": {
-        "full_name": "Coto Serif Georgian",
-        "family_name": "Coto Serif Georgian",
-        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Georgian",
-            "Armenian"
-        ],
-        "sample_text": "ჁჼჅႧႶႴႲ ⴟშვⴌⴔⴠ ⴤⴆჰⴀⴈⴎ ⴟჶⴊⴚლგⴌ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-georgian.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-georgian.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-georgian.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotoserif-georgian.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-georgian.png"
-        }
-    },
-    "Coto Serif Lao": {
-        "full_name": "Coto Serif Lao",
-        "family_name": "Coto Serif Lao",
-        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Lao"
-        ],
-        "sample_text": "ໃຣຯສຕດ ຊຢມໝເຫ ໂນໄຝວແ ໞບຈພະລ ຟກໜຳຮໟ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-lao.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-lao.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-lao.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotoserif-lao.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-lao.png"
-        }
-    },
-    "Coto Serif Khmer": {
-        "full_name": "Coto Serif Khmer",
-        "family_name": "Coto Serif Khmer",
-        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Khmer"
-        ],
-        "sample_text": "ឲយរឦញណ ឫខឥហសឭ ឳគងបឌឍ ថឧឈៗនធ ឡឆឯជឬឞ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-khmer.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-khmer.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-khmer.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotoserif-khmer.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoserif/cotoserif-khmer.png"
-        }
-    },
-    "Coto Sans Tai Viet": {
-        "full_name": "Coto Sans Tai Viet",
-        "family_name": "Coto Sans Tai Viet",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Tai Viet",
-            "Latin"
-        ],
-        "sample_text": "ꪕꪮꪃꪺꪄꪪ ꪅꪻꪍꪢꪠꪩ ꪔꪆꪶꪭꪯꪋ ꪇꪽꫛꪟꪛꫝ ꪒꪘꪚꪉꪌꪊ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taiviet.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taiviet.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taiviet.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-taiviet.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taiviet.png"
-        }
-    },
-    "Coto Sans Ugaritic": {
-        "full_name": "Coto Sans Ugaritic",
-        "family_name": "Coto Sans Ugaritic",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Ugaritic"
-        ],
-        "sample_text": "𐎍𐎒𐎁𐎓𐎔𐎋 𐎄𐎌𐎅𐎛𐎆𐎑 𐎊𐎐𐎜𐎝𐎏𐎘 𐎉𐎈𐎚𐎃𐎖𐎗 𐎇𐎕𐎙𐎀𐎂𐎎",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ugaritic.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ugaritic.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ugaritic.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-ugaritic.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ugaritic.png"
-        }
-    },
-    "Coto Sans Tai Tham": {
-        "full_name": "Coto Sans Tai Tham",
-        "family_name": "Coto Sans Tai Tham",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Tai Tham"
-        ],
-        "sample_text": "ᨻᩈᨾᩁᨫᩓ ᨿᩃᩊᨯᩒᨹ ᨤᩏᨭᩀᨳᨢ ᨡᨧᨲᨺᨵᩌ ᨸᩎᨩᨶᩅᨨ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taitham.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taitham.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taitham.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-taitham.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taitham.png"
-        }
-    },
-    "Coto Sans Coptic": {
-        "full_name": "Coto Sans Coptic",
-        "family_name": "Coto Sans Coptic",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Coptic",
-            "Latin"
-        ],
-        "sample_text": "ⲰⲮⲄⳜⲜⳄ ⲦⲤⲢϮⲶⳠ ⲽⲫⲭⳗⲿⳳ ⲃⳇⲃⲏⳃⳗ ϫⳁⲅⲽⲉⲩ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-coptic.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-coptic.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-coptic.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-coptic.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-coptic.png"
-        }
-    },
-    "Coto Sans Cypriot": {
-        "full_name": "Coto Sans Cypriot",
-        "family_name": "Coto Sans Cypriot",
-        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Cypriot"
-        ],
-        "sample_text": "𐠼𐠐𐠣𐠅𐠎𐠱 𐠩𐠍𐠪𐠢𐠦𐠮 𐠤𐠬𐠲𐠌𐠔𐠰 𐠕𐠞𐠡𐠝𐠖𐠊 𐠒𐠠𐠀𐠨𐠭𐠟",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cypriot.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cypriot.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cypriot.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-cypriot.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cypriot.png"
-        }
-    },
-    "Coto Sans Kayah Li": {
-        "full_name": "Coto Sans Kayah Li",
-        "family_name": "Coto Sans Kayah Li",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Kayah Li"
-        ],
-        "sample_text": "ꤢꤜꤊꤍꤠꤝ ꤒꤥꤟꤖꤐꤛ ꤋꤡꤌꤑꤞꤔ ꤚꤙꤎꤕꤏꤤ ꤘꤣꤓꤗ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kayahli.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kayahli.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kayahli.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-kayahli.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kayahli.png"
-        }
-    },
-    "Coto Sans Lycian": {
-        "full_name": "Coto Sans Lycian",
-        "family_name": "Coto Sans Lycian",
-        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Lycian"
-        ],
-        "sample_text": "𐊜𐊀𐊖𐊙𐊋𐊊 𐊂𐊐𐊛𐊓𐊆𐊑 𐊔𐊗𐊄𐊍𐊘𐊃 𐊕𐊌𐊒𐊉𐊁𐊚 𐊈𐊅𐊎𐊏𐊇",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lycian.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lycian.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lycian.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-lycian.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lycian.png"
-        }
-    },
-    "Coto Sans Osmanya": {
-        "full_name": "Coto Sans Osmanya",
-        "family_name": "Coto Sans Osmanya",
-        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Osmanya"
-        ],
-        "sample_text": "𐒌𐒆𐒓𐒈𐒊𐒚 𐒒𐒉𐒙𐒀𐒑𐒘 𐒖𐒅𐒃𐒄𐒕𐒝 𐒇𐒍𐒏𐒋𐒗𐒜 𐒛𐒐𐒔𐒁𐒂𐒎",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-osmanya.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-osmanya.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-osmanya.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-osmanya.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-osmanya.png"
-        }
-    },
-    "Coto Sans Rejang": {
-        "full_name": "Coto Sans Rejang",
-        "family_name": "Coto Sans Rejang",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Rejang"
-        ],
-        "sample_text": "ꤶꥀꤱꤺꤻꤵ ꤳꥂꥁꤴꥃꤸ ꤼꥄꥅꤾꤹꤿ ꤽꤲꤰꥆꤷ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-rejang.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-rejang.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-rejang.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-rejang.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-rejang.png"
-        }
-    },
-    "Coto Sans Old Turkic": {
-        "full_name": "Coto Sans Old Turkic",
-        "family_name": "Coto Sans Old Turkic",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Old Turkic"
-        ],
-        "sample_text": "𐰥𐱁𐰶𐰢𐰯𐰐 𐰋𐰪𐰚𐰈𐰛𐰗 𐰳𐰝𐰖𐰊𐱆𐰽 𐰬𐰺𐰨𐰘𐰟𐰦 𐱅𐰼𐰁𐰹𐰙𐱀",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldturkic.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldturkic.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldturkic.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-oldturkic.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldturkic.png"
-        }
-    },
-    "Coto Sans Old Italic": {
-        "full_name": "Coto Sans Old Italic",
-        "family_name": "Coto Sans Old Italic",
-        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Old Italic"
-        ],
-        "sample_text": "𐌏𐌉𐌆𐌊𐌙𐌜 𐌇𐌞𐌕𐌎𐌀𐌚 𐌃𐌁𐌓𐌅𐌋𐌔 𐌘𐌌𐌛𐌖𐌍𐌈 𐌄𐌝𐌐𐌂𐌗𐌑",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olditalic.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olditalic.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olditalic.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-olditalic.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olditalic.png"
-        }
-    },
-    "Coto Sans Kharoshthi": {
-        "full_name": "Coto Sans Kharoshthi",
-        "family_name": "Coto Sans Kharoshthi",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Kharoshthi"
-        ],
-        "sample_text": "𐨙𐨥𐨣𐨦𐨮𐨤 𐨀𐨬𐨐𐨞𐨖𐨠 𐨡𐨟𐨳𐨛𐨰𐨲 𐨯𐨜𐨭𐨒𐨫𐨱 𐨨𐨗𐨢𐨑𐨪𐨧",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kharoshthi.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kharoshthi.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kharoshthi.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-kharoshthi.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-kharoshthi.png"
-        }
-    },
-    "Coto Sans Hebrew": {
-        "full_name": "Coto Sans Hebrew",
-        "family_name": "Coto Sans Hebrew",
-        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Hebrew"
-        ],
-        "sample_text": "ןפרטּזּשׂ לּאָקמּיּשּׂ זףתעהּךּ אﬠךהװתּ כּײַﭏﬦוּבֿ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hebrew.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hebrew.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hebrew.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-hebrew.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hebrew.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoemoji/zoto-emoji.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoemoji/zoto-emoji.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoemoji/zoto-emoji.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zoto-emoji.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoemoji/zoto-emoji.png"
         }
     },
     "Coto Kufi Arabic": {
@@ -375,192 +46,65 @@
         ],
         "sample_text": "ﻹݬݣڙﺯﭘ ﹾﺂښێﹲۯ ۮڦﭖﺤﮌظ ڰګﺊذﮭڢ ۉﺠحﭧﭭﭽ",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/coto-kufiarabic.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/coto-kufiarabic.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/coto-kufiarabic.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/coto-kufiarabic.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/coto-kufiarabic.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zoto-kufiarabic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zoto-kufiarabic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zoto-kufiarabic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zoto-kufiarabic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zoto-kufiarabic.png"
         }
     },
-    "Coto Sans Tagalog": {
-        "full_name": "Coto Sans Tagalog",
-        "family_name": "Coto Sans Tagalog",
+    "Coto Sans Armenian": {
+        "full_name": "Coto Sans Armenian",
+        "family_name": "Coto Sans Armenian",
+        "copyright": "Copyright 2014 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Armenian"
+        ],
+        "sample_text": "ԼՃԻԶԹՆ ՑԻՖՐՂՌ ւզթսգղ ժյﬔվմն փկդխկց",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-armenian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-armenian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-armenian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-armenian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-armenian.png"
+        }
+    },
+    "Coto Sans Avestan": {
+        "full_name": "Coto Sans Avestan",
+        "family_name": "Coto Sans Avestan",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Tagalog"
+            "Avestan"
         ],
-        "sample_text": "ᜋᜐᜂᜊᜏᜈ ᜁᜃᜀᜑᜄᜇ ᜅᜎᜉᜌᜆ",
+        "sample_text": "𐬑𐬂𐬜𐬴𐬢𐬄 𐬖𐬁𐬱𐬭𐬆𐬍 𐬛𐬔𐬡𐬫𐬗𐬵 𐬒𐬦𐬥𐬬𐬊𐬲 𐬘𐬣𐬰𐬏𐬅𐬨",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagalog.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagalog.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagalog.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-tagalog.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagalog.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-avestan.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-avestan.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-avestan.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-avestan.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-avestan.png"
         }
     },
-    "Coto Sans Cherokee": {
-        "full_name": "Coto Sans Cherokee",
-        "family_name": "Coto Sans Cherokee",
+    "Coto Sans Balinese": {
+        "full_name": "Coto Sans Balinese",
+        "family_name": "Coto Sans Balinese",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Cherokee"
+            "Balinese"
         ],
-        "sample_text": "ᏓᎲᎮᎻᏛᏱ ᏌᎼᎳᏦᏊᎹ ᎸᏐᏒᏭᏧᏂ ᎿᏏᎠᎣᏚᎷ ᏤᏰᎶᏬᏔᎨ",
+        "sample_text": "ᬰᬋᬘᬎᬓᬮ ᭊᬉᬥᬫᬌᬯ ᬪᬠᬲᭋᭅᬡ ᬑᬊᬭᬒᬨᬅ ᬧᬇᬗᬍᬩᭆ",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cherokee.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cherokee.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cherokee.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-cherokee.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cherokee.png"
-        }
-    },
-    "Coto Sans Mandaic": {
-        "full_name": "Coto Sans Mandaic",
-        "family_name": "Coto Sans Mandaic",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Mandaic"
-        ],
-        "sample_text": "ࡗࡆࡌࡒࡁࡇ ࡊࡉࡋࡎࡖࡈ ࡏࡔࡍࡂࡄࡑ ࡓࡀࡅࡐࡃࡘ ࡕ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mandaic.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mandaic.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mandaic.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-mandaic.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mandaic.png"
-        }
-    },
-    "Coto Sans Symbols": {
-        "full_name": "Coto Sans Symbols",
-        "family_name": "Coto Sans Symbols",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Braille",
-            "Greek"
-        ],
-        "sample_text": "⛈꜐➊𝐛ℐ𝛶 ⎶𝜷➇⠭𝈷⩛ 🁁𝒱⍹𝞝𝛍⓾ ⎠ℼ🂧⤖⦖⏕ ⍃𝛕⪃𝑬𝜀⥆",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-symbols.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-symbols.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-symbols.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-symbols.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-symbols.png"
-        }
-    },
-    "Coto Sans New Tai Lue": {
-        "full_name": "Coto Sans New Tai Lue",
-        "family_name": "Coto Sans New Tai Lue",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "New Tai Lue"
-        ],
-        "sample_text": "ᦝᧀᧄᦈᦒᦕ ᧂᦁᧃᦱᦆᧉ ᦙᦗᦉᦵᦡᦇ ᦄᦞᦰᦴᦪᦎ ᧅᦑᦸᦌᦏᦘ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-newtailue.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-newtailue.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-newtailue.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-newtailue.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-newtailue.png"
-        }
-    },
-    "Coto Sans Buhid": {
-        "full_name": "Coto Sans Buhid",
-        "family_name": "Coto Sans Buhid",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Buhid"
-        ],
-        "sample_text": "ᝌᝃᝑᝏᝊᝄ ᝎᝍᝇᝀᝂᝉ ᝆᝈᝋᝅᝐᝁ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buhid.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buhid.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buhid.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-buhid.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buhid.png"
-        }
-    },
-    "Coto Sans Deseret": {
-        "full_name": "Coto Sans Deseret",
-        "family_name": "Coto Sans Deseret",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Deseret"
-        ],
-        "sample_text": "𐐈𐐔𐐟𐐚𐐢𐐌 𐐜𐐀𐐒𐐖𐐈𐐇 𐐹𐐷𐐮𐑅𐐫𐐵 𐐬𐐩𐐵𐐾𐑌𐐯 𐑏𐐸𐐬𐐽𐐱𐑏",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-deseret.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-deseret.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-deseret.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-deseret.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-deseret.png"
-        }
-    },
-    "Coto Sans Phoenician": {
-        "full_name": "Coto Sans Phoenician",
-        "family_name": "Coto Sans Phoenician",
-        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Phoenician"
-        ],
-        "sample_text": "𐤏𐤋𐤕𐤑𐤐𐤆 𐤉𐤔𐤍𐤅𐤒𐤄 𐤂𐤇𐤃𐤓𐤀𐤈 𐤁𐤊𐤎𐤌",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phoenician.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phoenician.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phoenician.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-phoenician.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phoenician.png"
-        }
-    },
-    "Coto Sans Hanunoo": {
-        "full_name": "Coto Sans Hanunoo",
-        "family_name": "Coto Sans Hanunoo",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Hanunoo"
-        ],
-        "sample_text": "ᜣᜢᜬᜮᜡᜥ ᜦᜩᜱᜫᜤᜰ ᜠᜪᜨᜧᜯᜭ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hanunoo.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hanunoo.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hanunoo.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-hanunoo.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-hanunoo.png"
-        }
-    },
-    "Coto Sans Tagbanwa": {
-        "full_name": "Coto Sans Tagbanwa",
-        "family_name": "Coto Sans Tagbanwa",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Tagbanwa"
-        ],
-        "sample_text": "ᝰᝣᝯᝪᝨᝤ ᝦᝠᝡᝥᝢᝧ ᝫᝮᝬᝩ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagbanwa.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagbanwa.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagbanwa.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-tagbanwa.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tagbanwa.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-balinese.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-balinese.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-balinese.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-balinese.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-balinese.png"
         }
     },
     "Coto Sans Bamum": {
@@ -574,11 +118,11 @@
         ],
         "sample_text": "𖦺ꚯꛀꛂ𖡖𖠟 𖢇𖧶𖤣𖡎𖢯𖧷 𖦢𖣙ꛚ𖥌ꚴ𖢏 𖣮𖨅𖦿𖧀𖥵𖢱 𖠓ꛆ𖢴ꛎ𖣯𖦊",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-bamum.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-bamum.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-bamum.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-bamum.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-bamum.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-bamum.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-bamum.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-bamum.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-bamum.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-bamum.png"
         }
     },
     "Coto Sans Batak": {
@@ -592,65 +136,65 @@
         ],
         "sample_text": "ᯓᯇᯆᯂᯠᯑ ᯗᯍᯝᯣᯖᯛ ᯅᯈᯎᯡᯃᯜ ᯀᯊᯄᯘᯤᯙ ᯔᯉᯥᯚᯁᯏ",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-batak.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-batak.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-batak.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-batak.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-batak.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-batak.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-batak.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-batak.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-batak.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-batak.png"
         }
     },
-    "Coto Sans Gurmukhi": {
-        "full_name": "Coto Sans Gurmukhi",
-        "family_name": "Coto Sans Gurmukhi",
+    "Coto Sans Brahmi": {
+        "full_name": "Coto Sans Brahmi",
+        "family_name": "Coto Sans Brahmi",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Gurmukhi"
+            "Brahmi"
         ],
-        "sample_text": "ਔਅਗ਼ਘਇਪ ਣੴਆਙਜਥ ਯਡਫ਼ਖ਼ਹਦ ਨਲ਼ਈਞਲਛ ਬਏਕੲਗਭ",
+        "sample_text": "𑀤𑀭𑀬𑀥𑀰𑀉 𑀐𑀨𑀘𑀟𑀫𑀕 𑀗𑀓𑀷𑀣𑀲𑀳 𑀃𑀎𑀒𑀍𑀌𑀦 𑀡𑀋𑀚𑀑𑀊𑀇",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gurmukhi.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gurmukhi.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gurmukhi.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-gurmukhi.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gurmukhi.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-brahmi.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-brahmi.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-brahmi.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-brahmi.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-brahmi.png"
         }
     },
-    "Coto Sans Inscriptional Parthian": {
-        "full_name": "Coto Sans Inscriptional Parthian",
-        "family_name": "Coto Sans Inscriptional Parthian",
-        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Inscriptional Parthian"
-        ],
-        "sample_text": "𐭊𐭕𐭈𐭃𐭔𐭍 𐭏𐭋𐭆𐭁𐭐𐭂 𐭀𐭄𐭒𐭌𐭎𐭅 𐭓𐭇𐭉𐭑",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalparthian.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalparthian.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalparthian.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-inscriptionalparthian.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalparthian.png"
-        }
-    },
-    "Coto Sans Javanese": {
-        "full_name": "Coto Sans Javanese",
-        "family_name": "Coto Sans Javanese",
+    "Coto Sans Buginese": {
+        "full_name": "Coto Sans Buginese",
+        "family_name": "Coto Sans Buginese",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Javanese"
+            "Buginese"
         ],
-        "sample_text": "ꦅꦲꦈꦠꦞꦕ ꦪꦉꦚꦜꦣꦯ ꦧꦋꦇꦙꦥꦛ ꦆꦦꦡꦔꦫꦭ ꦩꦬꦖꦏꦝꦢ",
+        "sample_text": "ᨐᨁᨖᨆᨋᨍ ᨕᨇᨑᨂᨌᨏ ᨃᨉᨓᨈᨒᨅ ᨎᨀᨊᨄᨔ",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-javanese.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-javanese.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-javanese.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-javanese.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-javanese.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-buginese.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-buginese.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-buginese.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-buginese.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-buginese.png"
+        }
+    },
+    "Coto Sans Buhid": {
+        "full_name": "Coto Sans Buhid",
+        "family_name": "Coto Sans Buhid",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Buhid"
+        ],
+        "sample_text": "ᝌᝃᝑᝏᝊᝄ ᝎᝍᝇᝀᝂᝉ ᝆᝈᝋᝅᝐᝁ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-buhid.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-buhid.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-buhid.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-buhid.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-buhid.png"
         }
     },
     "Coto Sans Canadian Aboriginal": {
@@ -665,48 +209,29 @@
         ],
         "sample_text": "ᓿᒩᗰᒺᓙᘈ ᐳᗛᙸᔣᗊᐴ ᐨᕸᕂᒮᘂᔴ ᗝᒝᗿᘗᐧᖵ ᖀᖴᗄᐸᒌᑾ",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-canadianaboriginal.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-canadianaboriginal.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-canadianaboriginal.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-canadianaboriginal.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-canadianaboriginal.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-canadianaboriginal.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-canadianaboriginal.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-canadianaboriginal.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-canadianaboriginal.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-canadianaboriginal.png"
         }
     },
-    "Coto Sans Thaana": {
-        "full_name": "Coto Sans Thaana",
-        "family_name": "Coto Sans Thaana",
-        "copyright": "Copyright 2014 Google Inc. All Rights Reserved.",
+    "Coto Sans Carian": {
+        "full_name": "Coto Sans Carian",
+        "family_name": "Coto Sans Carian",
+        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Thaana",
-            "Arabic"
+            "Carian"
         ],
-        "sample_text": "ޘޢޚޝމޕ ލޱފވޔޖ ޣސބށޙޥ ޠޅޓޏޗޤ ކތހޛޡރ",
+        "sample_text": "𐊨𐋁𐊭𐊦𐊳𐊤 𐊱𐋋𐋅𐋎𐋂𐊿 𐋏𐊾𐊢𐊵𐋆𐊠 𐋇𐊡𐊽𐋃𐊣𐊹 𐊬𐊸𐊫𐊷𐊩𐊻",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-thaana.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-thaana.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-thaana.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-thaana.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-thaana.png"
-        }
-    },
-    "Coto Sans Balinese": {
-        "full_name": "Coto Sans Balinese",
-        "family_name": "Coto Sans Balinese",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Balinese"
-        ],
-        "sample_text": "ᬰᬋᬘᬎᬓᬮ ᭊᬉᬥᬫᬌᬯ ᬪᬠᬲᭋᭅᬡ ᬑᬊᬭᬒᬨᬅ ᬧᬇᬗᬍᬩᭆ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-balinese.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-balinese.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-balinese.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-balinese.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-balinese.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-carian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-carian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-carian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-carian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-carian.png"
         }
     },
     "Coto Sans Cham": {
@@ -720,65 +245,120 @@
         ],
         "sample_text": "ꨌꨝꨨꨘꩈꨢ ꨑꨤꨙꩀꨡꩇ ꨕꨅꨠꨍꨦꨒ ꨋꨏꩄꨃꨈꩆ ꨐꨚꨎꨁꨖꨆ",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cham.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cham.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cham.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-cham.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cham.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-cham.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-cham.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-cham.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-cham.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-cham.png"
         }
     },
-    "Coto Sans Ogham": {
-        "full_name": "Coto Sans Ogham",
-        "family_name": "Coto Sans Ogham",
-        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Ogham"
-        ],
-        "sample_text": "ᚔᚚᚍᚋᚈᚐ ᚉᚏᚕᚅᚆᚂ ᚖᚑᚎᚗᚘᚊ ᚁᚇᚓᚄᚌᚒ ᚙᚃ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ogham.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ogham.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ogham.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-ogham.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ogham.png"
-        }
-    },
-    "Coto Sans Shavian": {
-        "full_name": "Coto Sans Shavian",
-        "family_name": "Coto Sans Shavian",
-        "copyright": "Copyright 2011 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Shavian"
-        ],
-        "sample_text": "𐑙𐑷𐑺𐑚𐑶𐑲 𐑳𐑴𐑮𐑤𐑜𐑬 𐑟𐑞𐑥𐑼𐑣𐑭 𐑔𐑵𐑰𐑸𐑻𐑖 𐑢𐑹𐑾𐑿𐑗𐑑",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-shavian.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-shavian.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-shavian.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-shavian.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-shavian.png"
-        }
-    },
-    "Coto Sans Limbu": {
-        "full_name": "Coto Sans Limbu",
-        "family_name": "Coto Sans Limbu",
+    "Coto Sans Cherokee": {
+        "full_name": "Coto Sans Cherokee",
+        "family_name": "Coto Sans Cherokee",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Limbu"
+            "Cherokee"
         ],
-        "sample_text": "ᤌᤖᤓᤁᤕᤃ ᤐᤒᤚᤏᤛᤗ ᤑᤈᤎᤄᤅᤀ ᤜᤍᤆᤂᤔᤘ ᤊᤇᤋᤙᤉ",
+        "sample_text": "ᏓᎲᎮᎻᏛᏱ ᏌᎼᎳᏦᏊᎹ ᎸᏐᏒᏭᏧᏂ ᎿᏏᎠᎣᏚᎷ ᏤᏰᎶᏬᏔᎨ",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-limbu.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-limbu.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-limbu.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-limbu.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-limbu.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-cherokee.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-cherokee.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-cherokee.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-cherokee.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-cherokee.png"
+        }
+    },
+    "Coto Sans Coptic": {
+        "full_name": "Coto Sans Coptic",
+        "family_name": "Coto Sans Coptic",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Coptic",
+            "Latin"
+        ],
+        "sample_text": "ⲰⲮⲄⳜⲜⳄ ⲦⲤⲢϮⲶⳠ ⲽⲫⲭⳗⲿⳳ ⲃⳇⲃⲏⳃⳗ ϫⳁⲅⲽⲉⲩ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-coptic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-coptic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-coptic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-coptic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-coptic.png"
+        }
+    },
+    "Coto Sans Cuneiform": {
+        "full_name": "Coto Sans Cuneiform",
+        "family_name": "Coto Sans Cuneiform",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Cuneiform"
+        ],
+        "sample_text": "𒆀𒀵𒈏𒁼𒃠𒂚 𒁱𒄊𒋍𒃈𒅊𒈤 𒆿𒌓𒌥𒌭𒋗𒄵 𒀴𒋬𒅤𒁋𒀕𒍃 𒈿𒅸𒈙𒋊𒄸𒊻",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-cuneiform.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-cuneiform.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-cuneiform.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-cuneiform.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-cuneiform.png"
+        }
+    },
+    "Coto Sans Cypriot": {
+        "full_name": "Coto Sans Cypriot",
+        "family_name": "Coto Sans Cypriot",
+        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Cypriot"
+        ],
+        "sample_text": "𐠼𐠐𐠣𐠅𐠎𐠱 𐠩𐠍𐠪𐠢𐠦𐠮 𐠤𐠬𐠲𐠌𐠔𐠰 𐠕𐠞𐠡𐠝𐠖𐠊 𐠒𐠠𐠀𐠨𐠭𐠟",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-cypriot.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-cypriot.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-cypriot.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-cypriot.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-cypriot.png"
+        }
+    },
+    "Coto Sans Deseret": {
+        "full_name": "Coto Sans Deseret",
+        "family_name": "Coto Sans Deseret",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Deseret"
+        ],
+        "sample_text": "𐐈𐐔𐐟𐐚𐐢𐐌 𐐜𐐀𐐒𐐖𐐈𐐇 𐐹𐐷𐐮𐑅𐐫𐐵 𐐬𐐩𐐵𐐾𐑌𐐯 𐑏𐐸𐐬𐐽𐐱𐑏",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-deseret.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-deseret.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-deseret.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-deseret.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-deseret.png"
+        }
+    },
+    "Coto Sans Egyptian Hieroglyphs": {
+        "full_name": "Coto Sans Egyptian Hieroglyphs",
+        "family_name": "Coto Sans Egyptian Hieroglyphs",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Egyptian Hieroglyphs"
+        ],
+        "sample_text": "𓁫𓋾𓅷𓆢𓋁𓁗 𓇶𓈓𓋉𓄌𓅞𓈥 𓍪𓅵𓂥𓎮𓎇𓅺 𓋘𓐦𓀮𓅶𓎐𓍼 𓈭𓍙𓐣𓐘𓁳𓅅",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-egyptianhieroglyphs.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-egyptianhieroglyphs.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-egyptianhieroglyphs.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-egyptianhieroglyphs.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-egyptianhieroglyphs.png"
         }
     },
     "Coto Sans Ethiopic": {
@@ -792,11 +372,11 @@
         ],
         "sample_text": "ⷞⶌኻዝጼዬ ዑቿⷀጴሠሂ ᎍቊዃቾዔሃ ፑጆⷙቶⶉⶳ ጜየቀꬥጽቱ",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ethiopic.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ethiopic.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ethiopic.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-ethiopic.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-ethiopic.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-ethiopic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-ethiopic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-ethiopic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-ethiopic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-ethiopic.png"
         }
     },
     "Coto Sans Georgian": {
@@ -811,102 +391,101 @@
         ],
         "sample_text": "ႣჀႽჂ ႭႸႺႱ ⴇზⴂⴄჺⴊ ⴊფაⴥⴡⴌ ⴤჟღⴄსⴇ",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-georgian.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-georgian.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-georgian.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-georgian.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-georgian.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-georgian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-georgian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-georgian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-georgian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-georgian.png"
         }
     },
-    "Coto Sans Phags Pa": {
-        "full_name": "Coto Sans Phags Pa",
-        "family_name": "Coto Sans Phags Pa",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Phags Pa",
-            "Mongolian"
-        ],
-        "sample_text": "ꡜꡤꡩꡕꡏꡂ ꡐꡗꡡꡯꡭꡓ ꡖꡘꡑꡉꡧꡟ ꡇꡁꡰꡄꡲꡥ ꡀꡆꡌꡙꡪꡠ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phagspa.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phagspa.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phagspa.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-phagspa.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-phagspa.png"
-        }
-    },
-    "Coto Sans Egyptian Hieroglyphs": {
-        "full_name": "Coto Sans Egyptian Hieroglyphs",
-        "family_name": "Coto Sans Egyptian Hieroglyphs",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Egyptian Hieroglyphs"
-        ],
-        "sample_text": "𓁫𓋾𓅷𓆢𓋁𓁗 𓇶𓈓𓋉𓄌𓅞𓈥 𓍪𓅵𓂥𓎮𓎇𓅺 𓋘𓐦𓀮𓅶𓎐𓍼 𓈭𓍙𓐣𓐘𓁳𓅅",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-egyptianhieroglyphs.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-egyptianhieroglyphs.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-egyptianhieroglyphs.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-egyptianhieroglyphs.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-egyptianhieroglyphs.png"
-        }
-    },
-    "Coto Sans Lao": {
-        "full_name": "Coto Sans Lao",
-        "family_name": "Coto Sans Lao",
+    "Coto Sans Glagolitic": {
+        "full_name": "Coto Sans Glagolitic",
+        "family_name": "Coto Sans Glagolitic",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Lao"
+            "Glagolitic"
         ],
-        "sample_text": "ບໃຜລາອ ຫຽຟະຂຄ ຍຣມຳສຈ ໟໆເປຕໝ ພຢງທໜກ",
+        "sample_text": "ⰋⰤⰗⰁⰇⰏ ⰆⰥⰃⰒⰛⰍ ⰵⱍⰴⱑⰰⱎ ⱐⱏⱀⱗⱚⱑ ⰺⰽⱆⱊⱇⱌ",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lao.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lao.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lao.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-lao.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lao.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-glagolitic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-glagolitic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-glagolitic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-glagolitic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-glagolitic.png"
         }
     },
-    "Coto Sans Samaritan": {
-        "full_name": "Coto Sans Samaritan",
-        "family_name": "Coto Sans Samaritan",
+    "Coto Sans Gothic": {
+        "full_name": "Coto Sans Gothic",
+        "family_name": "Coto Sans Gothic",
+        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Gothic"
+        ],
+        "sample_text": "𐍉𐍆𐌱𐌿𐍀𐌾 𐌹𐌶𐍃𐌼𐍈𐍇 𐍂𐌷𐌳𐍄𐌰𐌲 𐌺𐌸𐍅𐌵𐌽𐌻 𐌴",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-gothic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-gothic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-gothic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-gothic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-gothic.png"
+        }
+    },
+    "Coto Sans Gurmukhi": {
+        "full_name": "Coto Sans Gurmukhi",
+        "family_name": "Coto Sans Gurmukhi",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Samaritan"
+            "Gurmukhi"
         ],
-        "sample_text": "ࠎࠑࠃࠔࠕࠁ ࠚࠇࠐࠤࠆࠓ ࠄࠌࠍࠅࠋࠂ ࠏࠈࠉࠒࠨࠀ ࠊ",
+        "sample_text": "ਔਅਗ਼ਘਇਪ ਣੴਆਙਜਥ ਯਡਫ਼ਖ਼ਹਦ ਨਲ਼ਈਞਲਛ ਬਏਕੲਗਭ",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-samaritan.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-samaritan.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-samaritan.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-samaritan.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-samaritan.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-gurmukhi.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-gurmukhi.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-gurmukhi.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-gurmukhi.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-gurmukhi.png"
         }
     },
-    "Coto Sans Saurashtra": {
-        "full_name": "Coto Sans Saurashtra",
-        "family_name": "Coto Sans Saurashtra",
+    "Coto Sans Hanunoo": {
+        "full_name": "Coto Sans Hanunoo",
+        "family_name": "Coto Sans Hanunoo",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Saurashtra"
+            "Hanunoo"
         ],
-        "sample_text": "ꢘꢉꢓꢛꢤꢔ ꢧꢰꢕꢋꢙꢩ ꢮꢬꢊꢑꢡꢨ ꢃꢂꢫꢖꢞꢣ ꢲꢦꢯꢌꢠꢱ",
+        "sample_text": "ᜣᜢᜬᜮᜡᜥ ᜦᜩᜱᜫᜤᜰ ᜠᜪᜨᜧᜯᜭ",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-saurashtra.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-saurashtra.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-saurashtra.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-saurashtra.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-saurashtra.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-hanunoo.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-hanunoo.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-hanunoo.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-hanunoo.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-hanunoo.png"
+        }
+    },
+    "Coto Sans Hebrew": {
+        "full_name": "Coto Sans Hebrew",
+        "family_name": "Coto Sans Hebrew",
+        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Hebrew"
+        ],
+        "sample_text": "ןפרטּזּשׂ לּאָקמּיּשּׂ זףתעהּךּ אﬠךהװתּ כּײַﭏﬦוּבֿ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-hebrew.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-hebrew.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-hebrew.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-hebrew.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-hebrew.png"
         }
     },
     "Coto Sans Historic": {
@@ -939,371 +518,11 @@
         ],
         "sample_text": "ࠀࠁࡀࡁꡀ ꡁ𐀀𐀁𐊀𐊁 𐎀𐎁𐎠𐎡𐒀 𐒁𐡀𐡁𐤀𐤁 𐤠𐤡𐩠𐩡𐬀 𐬁𐭀𐭁𐭠𐭡𐰀𐰁𒀀𒀁𓀀𓀁",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-historic.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-historic.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-historic.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-historic.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-historic.png"
-        }
-    },
-    "Coto Sans Mongolian": {
-        "full_name": "Coto Sans Mongolian",
-        "family_name": "Coto Sans Mongolian",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Mongolian"
-        ],
-        "sample_text": "ᡙᡇᠷᡬᢃᠠ ᢖᠱᠽᠩᡞᡏ ᢢᠬᢙᡮᠫᠥ ᠼᢨᠾᠰᢎᡲ ᢉᢛᢝᢋᠮᡓ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mongolian.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mongolian.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mongolian.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-mongolian.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-mongolian.png"
-        }
-    },
-    "Coto Sans Tamil": {
-        "full_name": "Coto Sans Tamil",
-        "family_name": "Coto Sans Tamil",
-        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Tamil"
-        ],
-        "sample_text": "ஶஹௐஈஞட ஓணஎஙளய தஊஔஉஆற மசஒநவஸ ஏஐகழஜஷ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tamil.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tamil.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tamil.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-tamil.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tamil.png"
-        }
-    },
-    "Coto Sans Old South Arabian": {
-        "full_name": "Coto Sans Old South Arabian",
-        "family_name": "Coto Sans Old South Arabian",
-        "copyright": "Copyright 2011 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Old South Arabian"
-        ],
-        "sample_text": "𐩧𐩣𐩳𐩡𐩺𐩻 𐩷𐩰𐩫𐩸𐩶𐩮 𐩴𐩱𐩥𐩢𐩭𐩵 𐩪𐩬𐩨𐩩𐩼𐩦 𐩹𐩯𐩠𐩲𐩤",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldsoutharabian.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldsoutharabian.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldsoutharabian.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-oldsoutharabian.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldsoutharabian.png"
-        }
-    },
-    "Coto Sans Tifinagh": {
-        "full_name": "Coto Sans Tifinagh",
-        "family_name": "Coto Sans Tifinagh",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Tifinagh"
-        ],
-        "sample_text": "ⴲⵢⵑⴿⴺⵉ ⵆⵅⵤⵕⴸⵞ ⴼⴵⴻⵍⵃⵄ ⵈⵐⴳⵛⵌⵖ ⵣⴴⵧⵓⵏⴹ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tifinagh.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tifinagh.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tifinagh.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-tifinagh.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-tifinagh.png"
-        }
-    },
-    "Coto Sans Ol Chiki": {
-        "full_name": "Coto Sans Ol Chiki",
-        "family_name": "Coto Sans Ol Chiki",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Ol Chiki"
-        ],
-        "sample_text": "ᱦᱫᱳᱰᱽᱜ ᱮᱧᱢᱝᱛᱶ ᱡᱯᱞᱹᱴᱣ ᱥᱱᱵᱷᱠᱭ ᱸᱬᱺᱲᱤᱪ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olchiki.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olchiki.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olchiki.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-olchiki.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-olchiki.png"
-        }
-    },
-    "Coto Sans Runic": {
-        "full_name": "Coto Sans Runic",
-        "family_name": "Coto Sans Runic",
-        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Runic"
-        ],
-        "sample_text": "ᛗᛠᛌᚴᚠᛊ ᛢᛍᛅᛐᚵᛦ ᚪᛡᚽᛣᚲᛉ ᛤᚥᛖᚢᛘᚧ ᛥᚾᛔᛏᚿᚷ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-runic.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-runic.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-runic.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-runic.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-runic.png"
-        }
-    },
-    "Coto Sans Glagolitic": {
-        "full_name": "Coto Sans Glagolitic",
-        "family_name": "Coto Sans Glagolitic",
-        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Glagolitic"
-        ],
-        "sample_text": "ⰋⰤⰗⰁⰇⰏ ⰆⰥⰃⰒⰛⰍ ⰵⱍⰴⱑⰰⱎ ⱐⱏⱀⱗⱚⱑ ⰺⰽⱆⱊⱇⱌ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-glagolitic.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-glagolitic.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-glagolitic.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-glagolitic.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-glagolitic.png"
-        }
-    },
-    "Coto Sans Syloti Nagri": {
-        "full_name": "Coto Sans Syloti Nagri",
-        "family_name": "Coto Sans Syloti Nagri",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Syloti Nagri"
-        ],
-        "sample_text": "ꠅꠏꠙꠒꠍꠡ ꠠꠑꠢꠘꠉꠇ ꠔꠚꠓꠐꠈꠕ ꠖꠌꠀꠁꠊꠎ ꠛꠄꠃꠝꠗꠟ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sylotinagri.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sylotinagri.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sylotinagri.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-sylotinagri.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sylotinagri.png"
-        }
-    },
-    "Coto Sans Avestan": {
-        "full_name": "Coto Sans Avestan",
-        "family_name": "Coto Sans Avestan",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Avestan"
-        ],
-        "sample_text": "𐬑𐬂𐬜𐬴𐬢𐬄 𐬖𐬁𐬱𐬭𐬆𐬍 𐬛𐬔𐬡𐬫𐬗𐬵 𐬒𐬦𐬥𐬬𐬊𐬲 𐬘𐬣𐬰𐬏𐬅𐬨",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-avestan.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-avestan.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-avestan.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-avestan.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-avestan.png"
-        }
-    },
-    "Coto Sans Sundanese": {
-        "full_name": "Coto Sans Sundanese",
-        "family_name": "Coto Sans Sundanese",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Sundanese"
-        ],
-        "sample_text": "ᮙᮍᮮᮜᮠᮗ ᮅᮞᮚᮒᮑᮯ ᮌᮻᮘᮛᮃᮽ ᮇᮟᮎᮕᮏᮊ ᮓᮺᮝᮄᮆᮋ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sundanese.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sundanese.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sundanese.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-sundanese.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-sundanese.png"
-        }
-    },
-    "Coto Sans Vai": {
-        "full_name": "Coto Sans Vai",
-        "family_name": "Coto Sans Vai",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Vai"
-        ],
-        "sample_text": "ꗌꕥꗍꕟꔆꕭ ꖡꔈꗚꗝꔴꖒ ꗦꔚꖏꕣꔼꕀ ꔋꕷꖢꕽꕑꗛ ꔳꘁꗮꖱꗫꖫ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-vai.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-vai.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-vai.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-vai.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-vai.png"
-        }
-    },
-    "Coto Sans Khmer": {
-        "full_name": "Coto Sans Khmer",
-        "family_name": "Coto Sans Khmer",
-        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Khmer"
-        ],
-        "sample_text": "យខឍឡឣឳ ឱផងទណឥ ឃពកឨឰគ ឮៗជសឲឫ ឌលថឋឧឝ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-khmer.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-khmer.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-khmer.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-khmer.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-khmer.png"
-        }
-    },
-    "Coto Sans Buginese": {
-        "full_name": "Coto Sans Buginese",
-        "family_name": "Coto Sans Buginese",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Buginese"
-        ],
-        "sample_text": "ᨐᨁᨖᨆᨋᨍ ᨕᨇᨑᨂᨌᨏ ᨃᨉᨓᨈᨒᨅ ᨎᨀᨊᨄᨔ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buginese.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buginese.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buginese.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-buginese.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-buginese.png"
-        }
-    },
-    "Coto Sans Gothic": {
-        "full_name": "Coto Sans Gothic",
-        "family_name": "Coto Sans Gothic",
-        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Gothic"
-        ],
-        "sample_text": "𐍉𐍆𐌱𐌿𐍀𐌾 𐌹𐌶𐍃𐌼𐍈𐍇 𐍂𐌷𐌳𐍄𐌰𐌲 𐌺𐌸𐍅𐌵𐌽𐌻 𐌴",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gothic.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gothic.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gothic.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-gothic.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-gothic.png"
-        }
-    },
-    "Coto Sans Lydian": {
-        "full_name": "Coto Sans Lydian",
-        "family_name": "Coto Sans Lydian",
-        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Lydian"
-        ],
-        "sample_text": "𐤡𐤠𐤶𐤰𐤫𐤥 𐤣𐤮𐤸𐤬𐤲𐤯 𐤤𐤦𐤪𐤢𐤷𐤴 𐤩𐤧𐤨𐤹𐤱𐤭 𐤵𐤳",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lydian.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lydian.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lydian.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-lydian.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lydian.png"
-        }
-    },
-    "Coto Sans Armenian": {
-        "full_name": "Coto Sans Armenian",
-        "family_name": "Coto Sans Armenian",
-        "copyright": "Copyright 2014 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Armenian"
-        ],
-        "sample_text": "ԼՃԻԶԹՆ ՑԻՖՐՂՌ ւզթսգղ ժյﬔվմն փկդխկց",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-armenian.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-armenian.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-armenian.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-armenian.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-armenian.png"
-        }
-    },
-    "Coto Sans Linear B": {
-        "full_name": "Coto Sans Linear B",
-        "family_name": "Coto Sans Linear B",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Linear B"
-        ],
-        "sample_text": "𐁃𐃁𐂬𐂼𐂗𐀫 𐀔𐃀𐂌𐂹𐁉𐂳 𐀺𐃍𐃑𐀁𐂘𐃰 𐀦𐃪𐁍𐁆𐁐𐂵 𐂢𐃵𐃣𐃃𐂨𐂫",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-linearb.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-linearb.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-linearb.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-linearb.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-linearb.png"
-        }
-    },
-    "Coto Sans Cuneiform": {
-        "full_name": "Coto Sans Cuneiform",
-        "family_name": "Coto Sans Cuneiform",
-        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Cuneiform"
-        ],
-        "sample_text": "𒆀𒀵𒈏𒁼𒃠𒂚 𒁱𒄊𒋍𒃈𒅊𒈤 𒆿𒌓𒌥𒌭𒋗𒄵 𒀴𒋬𒅤𒁋𒀕𒍃 𒈿𒅸𒈙𒋊𒄸𒊻",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cuneiform.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cuneiform.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cuneiform.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-cuneiform.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-cuneiform.png"
-        }
-    },
-    "Coto Sans Inscriptional Pahlavi": {
-        "full_name": "Coto Sans Inscriptional Pahlavi",
-        "family_name": "Coto Sans Inscriptional Pahlavi",
-        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Inscriptional Pahlavi"
-        ],
-        "sample_text": "𐭰𐭠𐭫𐭨𐭬𐭩 𐭢𐭧𐭯𐭦𐭣𐭤 𐭡𐭱𐭪𐭲𐭭𐭮 𐭥",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalpahlavi.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalpahlavi.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalpahlavi.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-inscriptionalpahlavi.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalpahlavi.png"
-        }
-    },
-    "Coto Sans Tai Le": {
-        "full_name": "Coto Sans Tai Le",
-        "family_name": "Coto Sans Tai Le",
-        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
-        "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Tai Le"
-        ],
-        "sample_text": "ᥑᥪᥗᥢᥤᥡ ᥘᥥᥱᥩᥝᥔ ᥜᥣᥟᥬᥲᥙ ᥒᥴᥠᥖᥭᥕ ᥞᥳᥫᥨᥧᥚ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taile.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taile.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taile.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-taile.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-taile.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-historic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-historic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-historic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-historic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-historic.png"
         }
     },
     "Coto Sans Imperial Aramaic": {
@@ -1317,65 +536,173 @@
         ],
         "sample_text": "𐡑𐡀𐡈𐡉𐡄𐡁 𐡕𐡇𐡋𐡍𐡔𐡓 𐡆𐡎𐡅𐡏𐡒𐡂 𐡌𐡊𐡐𐡃",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-imperialaramaic.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-imperialaramaic.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-imperialaramaic.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-imperialaramaic.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-imperialaramaic.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-imperialaramaic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-imperialaramaic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-imperialaramaic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-imperialaramaic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-imperialaramaic.png"
         }
     },
-    "Coto Sans Old Persian": {
-        "full_name": "Coto Sans Old Persian",
-        "family_name": "Coto Sans Old Persian",
+    "Coto Sans Inscriptional Pahlavi": {
+        "full_name": "Coto Sans Inscriptional Pahlavi",
+        "family_name": "Coto Sans Inscriptional Pahlavi",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Old Persian"
+            "Inscriptional Pahlavi"
         ],
-        "sample_text": "𐎣𐏈𐎽𐎸𐎢𐎻 𐎷𐏊𐎳𐎱𐎵𐎩 𐎨𐏌𐎶𐎬𐎰𐏋 𐎾𐎠𐏀𐎺𐎿𐎦 𐏍𐏉𐎡𐎴𐎼𐎹",
+        "sample_text": "𐭰𐭠𐭫𐭨𐭬𐭩 𐭢𐭧𐭯𐭦𐭣𐭤 𐭡𐭱𐭪𐭲𐭭𐭮 𐭥",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldpersian.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldpersian.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldpersian.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-oldpersian.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-oldpersian.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalpahlavi.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalpahlavi.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalpahlavi.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-inscriptionalpahlavi.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalpahlavi.png"
         }
     },
-    "Coto Sans Yi": {
-        "full_name": "Coto Sans Yi",
-        "family_name": "Coto Sans Yi",
+    "Coto Sans Inscriptional Parthian": {
+        "full_name": "Coto Sans Inscriptional Parthian",
+        "family_name": "Coto Sans Inscriptional Parthian",
+        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Inscriptional Parthian"
+        ],
+        "sample_text": "𐭊𐭕𐭈𐭃𐭔𐭍 𐭏𐭋𐭆𐭁𐭐𐭂 𐭀𐭄𐭒𐭌𐭎𐭅 𐭓𐭇𐭉𐭑",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalparthian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalparthian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalparthian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-inscriptionalparthian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalparthian.png"
+        }
+    },
+    "Coto Sans Javanese": {
+        "full_name": "Coto Sans Javanese",
+        "family_name": "Coto Sans Javanese",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Yi"
+            "Javanese"
         ],
-        "sample_text": "ꋅꁪꁳꃬꂘꏦ ꅫꐕꌉꆂꉨꆌ ꆣꆋꋆꅐꆿꅠ ꎫꄇꅙꌤꋻꅱ ꉀꎲꇵꂭꋸꅝ",
+        "sample_text": "ꦅꦲꦈꦠꦞꦕ ꦪꦉꦚꦜꦣꦯ ꦧꦋꦇꦙꦥꦛ ꦆꦦꦡꦔꦫꦭ ꦩꦬꦖꦏꦝꦢ",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-yi.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-yi.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-yi.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-yi.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-yi.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-javanese.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-javanese.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-javanese.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-javanese.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-javanese.png"
         }
     },
-    "Coto Sans Brahmi": {
-        "full_name": "Coto Sans Brahmi",
-        "family_name": "Coto Sans Brahmi",
+    "Coto Sans Kayah Li": {
+        "full_name": "Coto Sans Kayah Li",
+        "family_name": "Coto Sans Kayah Li",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Brahmi"
+            "Kayah Li"
         ],
-        "sample_text": "𑀤𑀭𑀬𑀥𑀰𑀉 𑀐𑀨𑀘𑀟𑀫𑀕 𑀗𑀓𑀷𑀣𑀲𑀳 𑀃𑀎𑀒𑀍𑀌𑀦 𑀡𑀋𑀚𑀑𑀊𑀇",
+        "sample_text": "ꤢꤜꤊꤍꤠꤝ ꤒꤥꤟꤖꤐꤛ ꤋꤡꤌꤑꤞꤔ ꤚꤙꤎꤕꤏꤤ ꤘꤣꤓꤗ",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-brahmi.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-brahmi.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-brahmi.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-brahmi.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-brahmi.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-kayahli.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-kayahli.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-kayahli.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-kayahli.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-kayahli.png"
+        }
+    },
+    "Coto Sans Kharoshthi": {
+        "full_name": "Coto Sans Kharoshthi",
+        "family_name": "Coto Sans Kharoshthi",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Kharoshthi"
+        ],
+        "sample_text": "𐨙𐨥𐨣𐨦𐨮𐨤 𐨀𐨬𐨐𐨞𐨖𐨠 𐨡𐨟𐨳𐨛𐨰𐨲 𐨯𐨜𐨭𐨒𐨫𐨱 𐨨𐨗𐨢𐨑𐨪𐨧",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-kharoshthi.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-kharoshthi.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-kharoshthi.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-kharoshthi.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-kharoshthi.png"
+        }
+    },
+    "Coto Sans Khmer": {
+        "full_name": "Coto Sans Khmer",
+        "family_name": "Coto Sans Khmer",
+        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Khmer"
+        ],
+        "sample_text": "យខឍឡឣឳ ឱផងទណឥ ឃពកឨឰគ ឮៗជសឲឫ ឌលថឋឧឝ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-khmer.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-khmer.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-khmer.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-khmer.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-khmer.png"
+        }
+    },
+    "Coto Sans Lao": {
+        "full_name": "Coto Sans Lao",
+        "family_name": "Coto Sans Lao",
+        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Lao"
+        ],
+        "sample_text": "ບໃຜລາອ ຫຽຟະຂຄ ຍຣມຳສຈ ໟໆເປຕໝ ພຢງທໜກ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-lao.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-lao.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-lao.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-lao.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-lao.png"
+        }
+    },
+    "Coto Sans Limbu": {
+        "full_name": "Coto Sans Limbu",
+        "family_name": "Coto Sans Limbu",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Limbu"
+        ],
+        "sample_text": "ᤌᤖᤓᤁᤕᤃ ᤐᤒᤚᤏᤛᤗ ᤑᤈᤎᤄᤅᤀ ᤜᤍᤆᤂᤔᤘ ᤊᤇᤋᤙᤉ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-limbu.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-limbu.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-limbu.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-limbu.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-limbu.png"
+        }
+    },
+    "Coto Sans Linear B": {
+        "full_name": "Coto Sans Linear B",
+        "family_name": "Coto Sans Linear B",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Linear B"
+        ],
+        "sample_text": "𐁃𐃁𐂬𐂼𐂗𐀫 𐀔𐃀𐂌𐂹𐁉𐂳 𐀺𐃍𐃑𐀁𐂘𐃰 𐀦𐃪𐁍𐁆𐁐𐂵 𐂢𐃵𐃣𐃃𐂨𐂫",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-linearb.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-linearb.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-linearb.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-linearb.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-linearb.png"
         }
     },
     "Coto Sans Lisu": {
@@ -1389,11 +716,119 @@
         ],
         "sample_text": "ꓞꓣꓓꓩꓑꓶ ꓵꓛꓦꓤꓺꓰ ꓲꓹꓢꓳꓽꓫ ꓱꓐꓝꓚꓒꓧ ꓡꓼꓗꓠꓭꓴ",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lisu.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lisu.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lisu.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-lisu.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-lisu.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-lisu.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-lisu.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-lisu.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-lisu.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-lisu.png"
+        }
+    },
+    "Coto Sans Lycian": {
+        "full_name": "Coto Sans Lycian",
+        "family_name": "Coto Sans Lycian",
+        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Lycian"
+        ],
+        "sample_text": "𐊜𐊀𐊖𐊙𐊋𐊊 𐊂𐊐𐊛𐊓𐊆𐊑 𐊔𐊗𐊄𐊍𐊘𐊃 𐊕𐊌𐊒𐊉𐊁𐊚 𐊈𐊅𐊎𐊏𐊇",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-lycian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-lycian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-lycian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-lycian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-lycian.png"
+        }
+    },
+    "Coto Sans Lydian": {
+        "full_name": "Coto Sans Lydian",
+        "family_name": "Coto Sans Lydian",
+        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Lydian"
+        ],
+        "sample_text": "𐤡𐤠𐤶𐤰𐤫𐤥 𐤣𐤮𐤸𐤬𐤲𐤯 𐤤𐤦𐤪𐤢𐤷𐤴 𐤩𐤧𐤨𐤹𐤱𐤭 𐤵𐤳",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-lydian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-lydian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-lydian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-lydian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-lydian.png"
+        }
+    },
+    "Coto Sans Mandaic": {
+        "full_name": "Coto Sans Mandaic",
+        "family_name": "Coto Sans Mandaic",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Mandaic"
+        ],
+        "sample_text": "ࡗࡆࡌࡒࡁࡇ ࡊࡉࡋࡎࡖࡈ ࡏࡔࡍࡂࡄࡑ ࡓࡀࡅࡐࡃࡘ ࡕ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-mandaic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-mandaic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-mandaic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-mandaic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-mandaic.png"
+        }
+    },
+    "Coto Sans Meetei Mayek": {
+        "full_name": "Coto Sans Meetei Mayek",
+        "family_name": "Coto Sans Meetei Mayek",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Meetei Mayek"
+        ],
+        "sample_text": "ꫢꯐꫧꯝꯂꫡ ꯒꫠꯇꯙꯎꯋ ꯡꯍꫲꯈꫦꯏ ꯔꯕꫩꯜꯛꯖ ꯅꫥꯠꯢꯄꯗ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-meeteimayek.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-meeteimayek.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-meeteimayek.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-meeteimayek.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-meeteimayek.png"
+        }
+    },
+    "Coto Sans Mongolian": {
+        "full_name": "Coto Sans Mongolian",
+        "family_name": "Coto Sans Mongolian",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Mongolian"
+        ],
+        "sample_text": "ᡙᡇᠷᡬᢃᠠ ᢖᠱᠽᠩᡞᡏ ᢢᠬᢙᡮᠫᠥ ᠼᢨᠾᠰᢎᡲ ᢉᢛᢝᢋᠮᡓ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-mongolian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-mongolian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-mongolian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-mongolian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-mongolian.png"
+        }
+    },
+    "Coto Sans New Tai Lue": {
+        "full_name": "Coto Sans New Tai Lue",
+        "family_name": "Coto Sans New Tai Lue",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "New Tai Lue"
+        ],
+        "sample_text": "ᦝᧀᧄᦈᦒᦕ ᧂᦁᧃᦱᦆᧉ ᦙᦗᦉᦵᦡᦇ ᦄᦞᦰᦴᦪᦎ ᧅᦑᦸᦌᦏᦘ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-newtailue.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-newtailue.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-newtailue.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-newtailue.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-newtailue.png"
         }
     },
     "Coto Sans NKo": {
@@ -1408,63 +843,701 @@
         ],
         "sample_text": "ߓߪߣߍߑߞ ߕߛߧߘߖߤ ߟߏߵߨߒߠ ߢߎߥߡߴߝ ߔߩߌߙߊߦ",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-nko.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-nko.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-nko.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-nko.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-nko.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-nko.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-nko.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-nko.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-nko.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-nko.png"
         }
     },
-    "Coto Sans Carian": {
-        "full_name": "Coto Sans Carian",
-        "family_name": "Coto Sans Carian",
+    "Coto Sans Ogham": {
+        "full_name": "Coto Sans Ogham",
+        "family_name": "Coto Sans Ogham",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Carian"
+            "Ogham"
         ],
-        "sample_text": "𐊨𐋁𐊭𐊦𐊳𐊤 𐊱𐋋𐋅𐋎𐋂𐊿 𐋏𐊾𐊢𐊵𐋆𐊠 𐋇𐊡𐊽𐋃𐊣𐊹 𐊬𐊸𐊫𐊷𐊩𐊻",
+        "sample_text": "ᚔᚚᚍᚋᚈᚐ ᚉᚏᚕᚅᚆᚂ ᚖᚑᚎᚗᚘᚊ ᚁᚇᚓᚄᚌᚒ ᚙᚃ",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-carian.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-carian.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-carian.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-carian.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-carian.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-ogham.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-ogham.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-ogham.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-ogham.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-ogham.png"
         }
     },
-    "Coto Sans Meetei Mayek": {
-        "full_name": "Coto Sans Meetei Mayek",
-        "family_name": "Coto Sans Meetei Mayek",
+    "Coto Sans Ol Chiki": {
+        "full_name": "Coto Sans Ol Chiki",
+        "family_name": "Coto Sans Ol Chiki",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
         "description": "Font",
         "scripts": [
-            "Meetei Mayek"
+            "Ol Chiki"
         ],
-        "sample_text": "ꫢꯐꫧꯝꯂꫡ ꯒꫠꯇꯙꯎꯋ ꯡꯍꫲꯈꫦꯏ ꯔꯕꫩꯜꯛꯖ ꯅꫥꯠꯢꯄꯗ",
+        "sample_text": "ᱦᱫᱳᱰᱽᱜ ᱮᱧᱢᱝᱛᱶ ᱡᱯᱞᱹᱴᱣ ᱥᱱᱵᱷᱠᱭ ᱸᱬᱺᱲᱤᱪ",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-meeteimayek.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-meeteimayek.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-meeteimayek.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cotosans-meeteimayek.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotosans/cotosans-meeteimayek.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-olchiki.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-olchiki.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-olchiki.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-olchiki.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-olchiki.png"
         }
     },
-    "Coto Emoji": {
-        "full_name": "Coto Emoji",
-        "family_name": "Coto Emoji",
-        "copyright": "Digitized data copyright © 2011, Google Corporation.",
+    "Coto Sans Old Italic": {
+        "full_name": "Coto Sans Old Italic",
+        "family_name": "Coto Sans Old Italic",
+        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
         "description": "Font",
-        "scripts": [],
-        "sample_text": "🎡💄🀄🈴😱🐞 🇰🈚👺🍉2🍃 🔨🐣👠🌟🎯✈ 🍪😁 🎈🍸🌼 🍷📧🐔󾓩🏄👶",
+        "scripts": [
+            "Old Italic"
+        ],
+        "sample_text": "𐌏𐌉𐌆𐌊𐌙𐌜 𐌇𐌞𐌕𐌎𐌀𐌚 𐌃𐌁𐌓𐌅𐌋𐌔 𐌘𐌌𐌛𐌖𐌍𐌈 𐌄𐌝𐌐𐌂𐌗𐌑",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoemoji/coto-emoji.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoemoji/coto-emoji.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoemoji/coto-emoji.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/coto-emoji.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cotoemoji/coto-emoji.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-olditalic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-olditalic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-olditalic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-olditalic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-olditalic.png"
+        }
+    },
+    "Coto Sans Old Persian": {
+        "full_name": "Coto Sans Old Persian",
+        "family_name": "Coto Sans Old Persian",
+        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Old Persian"
+        ],
+        "sample_text": "𐎣𐏈𐎽𐎸𐎢𐎻 𐎷𐏊𐎳𐎱𐎵𐎩 𐎨𐏌𐎶𐎬𐎰𐏋 𐎾𐎠𐏀𐎺𐎿𐎦 𐏍𐏉𐎡𐎴𐎼𐎹",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-oldpersian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-oldpersian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-oldpersian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-oldpersian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-oldpersian.png"
+        }
+    },
+    "Coto Sans Old South Arabian": {
+        "full_name": "Coto Sans Old South Arabian",
+        "family_name": "Coto Sans Old South Arabian",
+        "copyright": "Copyright 2011 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Old South Arabian"
+        ],
+        "sample_text": "𐩧𐩣𐩳𐩡𐩺𐩻 𐩷𐩰𐩫𐩸𐩶𐩮 𐩴𐩱𐩥𐩢𐩭𐩵 𐩪𐩬𐩨𐩩𐩼𐩦 𐩹𐩯𐩠𐩲𐩤",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-oldsoutharabian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-oldsoutharabian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-oldsoutharabian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-oldsoutharabian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-oldsoutharabian.png"
+        }
+    },
+    "Coto Sans Old Turkic": {
+        "full_name": "Coto Sans Old Turkic",
+        "family_name": "Coto Sans Old Turkic",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Old Turkic"
+        ],
+        "sample_text": "𐰥𐱁𐰶𐰢𐰯𐰐 𐰋𐰪𐰚𐰈𐰛𐰗 𐰳𐰝𐰖𐰊𐱆𐰽 𐰬𐰺𐰨𐰘𐰟𐰦 𐱅𐰼𐰁𐰹𐰙𐱀",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-oldturkic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-oldturkic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-oldturkic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-oldturkic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-oldturkic.png"
+        }
+    },
+    "Coto Sans Osmanya": {
+        "full_name": "Coto Sans Osmanya",
+        "family_name": "Coto Sans Osmanya",
+        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Osmanya"
+        ],
+        "sample_text": "𐒌𐒆𐒓𐒈𐒊𐒚 𐒒𐒉𐒙𐒀𐒑𐒘 𐒖𐒅𐒃𐒄𐒕𐒝 𐒇𐒍𐒏𐒋𐒗𐒜 𐒛𐒐𐒔𐒁𐒂𐒎",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-osmanya.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-osmanya.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-osmanya.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-osmanya.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-osmanya.png"
+        }
+    },
+    "Coto Sans Phags Pa": {
+        "full_name": "Coto Sans Phags Pa",
+        "family_name": "Coto Sans Phags Pa",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Phags Pa",
+            "Mongolian"
+        ],
+        "sample_text": "ꡜꡤꡩꡕꡏꡂ ꡐꡗꡡꡯꡭꡓ ꡖꡘꡑꡉꡧꡟ ꡇꡁꡰꡄꡲꡥ ꡀꡆꡌꡙꡪꡠ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-phagspa.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-phagspa.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-phagspa.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-phagspa.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-phagspa.png"
+        }
+    },
+    "Coto Sans Phoenician": {
+        "full_name": "Coto Sans Phoenician",
+        "family_name": "Coto Sans Phoenician",
+        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Phoenician"
+        ],
+        "sample_text": "𐤏𐤋𐤕𐤑𐤐𐤆 𐤉𐤔𐤍𐤅𐤒𐤄 𐤂𐤇𐤃𐤓𐤀𐤈 𐤁𐤊𐤎𐤌",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-phoenician.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-phoenician.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-phoenician.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-phoenician.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-phoenician.png"
+        }
+    },
+    "Coto Sans Rejang": {
+        "full_name": "Coto Sans Rejang",
+        "family_name": "Coto Sans Rejang",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Rejang"
+        ],
+        "sample_text": "ꤶꥀꤱꤺꤻꤵ ꤳꥂꥁꤴꥃꤸ ꤼꥄꥅꤾꤹꤿ ꤽꤲꤰꥆꤷ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-rejang.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-rejang.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-rejang.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-rejang.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-rejang.png"
+        }
+    },
+    "Coto Sans Runic": {
+        "full_name": "Coto Sans Runic",
+        "family_name": "Coto Sans Runic",
+        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Runic"
+        ],
+        "sample_text": "ᛗᛠᛌᚴᚠᛊ ᛢᛍᛅᛐᚵᛦ ᚪᛡᚽᛣᚲᛉ ᛤᚥᛖᚢᛘᚧ ᛥᚾᛔᛏᚿᚷ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-runic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-runic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-runic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-runic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-runic.png"
+        }
+    },
+    "Coto Sans Samaritan": {
+        "full_name": "Coto Sans Samaritan",
+        "family_name": "Coto Sans Samaritan",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Samaritan"
+        ],
+        "sample_text": "ࠎࠑࠃࠔࠕࠁ ࠚࠇࠐࠤࠆࠓ ࠄࠌࠍࠅࠋࠂ ࠏࠈࠉࠒࠨࠀ ࠊ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-samaritan.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-samaritan.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-samaritan.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-samaritan.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-samaritan.png"
+        }
+    },
+    "Coto Sans Saurashtra": {
+        "full_name": "Coto Sans Saurashtra",
+        "family_name": "Coto Sans Saurashtra",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Saurashtra"
+        ],
+        "sample_text": "ꢘꢉꢓꢛꢤꢔ ꢧꢰꢕꢋꢙꢩ ꢮꢬꢊꢑꢡꢨ ꢃꢂꢫꢖꢞꢣ ꢲꢦꢯꢌꢠꢱ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-saurashtra.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-saurashtra.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-saurashtra.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-saurashtra.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-saurashtra.png"
+        }
+    },
+    "Coto Sans Shavian": {
+        "full_name": "Coto Sans Shavian",
+        "family_name": "Coto Sans Shavian",
+        "copyright": "Copyright 2011 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Shavian"
+        ],
+        "sample_text": "𐑙𐑷𐑺𐑚𐑶𐑲 𐑳𐑴𐑮𐑤𐑜𐑬 𐑟𐑞𐑥𐑼𐑣𐑭 𐑔𐑵𐑰𐑸𐑻𐑖 𐑢𐑹𐑾𐑿𐑗𐑑",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-shavian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-shavian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-shavian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-shavian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-shavian.png"
+        }
+    },
+    "Coto Sans Sundanese": {
+        "full_name": "Coto Sans Sundanese",
+        "family_name": "Coto Sans Sundanese",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Sundanese"
+        ],
+        "sample_text": "ᮙᮍᮮᮜᮠᮗ ᮅᮞᮚᮒᮑᮯ ᮌᮻᮘᮛᮃᮽ ᮇᮟᮎᮕᮏᮊ ᮓᮺᮝᮄᮆᮋ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-sundanese.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-sundanese.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-sundanese.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-sundanese.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-sundanese.png"
+        }
+    },
+    "Coto Sans Syloti Nagri": {
+        "full_name": "Coto Sans Syloti Nagri",
+        "family_name": "Coto Sans Syloti Nagri",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Syloti Nagri"
+        ],
+        "sample_text": "ꠅꠏꠙꠒꠍꠡ ꠠꠑꠢꠘꠉꠇ ꠔꠚꠓꠐꠈꠕ ꠖꠌꠀꠁꠊꠎ ꠛꠄꠃꠝꠗꠟ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-sylotinagri.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-sylotinagri.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-sylotinagri.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-sylotinagri.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-sylotinagri.png"
+        }
+    },
+    "Coto Sans Symbols": {
+        "full_name": "Coto Sans Symbols",
+        "family_name": "Coto Sans Symbols",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Braille",
+            "Greek"
+        ],
+        "sample_text": "⛈꜐➊𝐛ℐ𝛶 ⎶𝜷➇⠭𝈷⩛ 🁁𝒱⍹𝞝𝛍⓾ ⎠ℼ🂧⤖⦖⏕ ⍃𝛕⪃𝑬𝜀⥆",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-symbols.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-symbols.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-symbols.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-symbols.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-symbols.png"
+        }
+    },
+    "Coto Sans Tagalog": {
+        "full_name": "Coto Sans Tagalog",
+        "family_name": "Coto Sans Tagalog",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Tagalog"
+        ],
+        "sample_text": "ᜋᜐᜂᜊᜏᜈ ᜁᜃᜀᜑᜄᜇ ᜅᜎᜉᜌᜆ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-tagalog.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-tagalog.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-tagalog.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-tagalog.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-tagalog.png"
+        }
+    },
+    "Coto Sans Tagbanwa": {
+        "full_name": "Coto Sans Tagbanwa",
+        "family_name": "Coto Sans Tagbanwa",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Tagbanwa"
+        ],
+        "sample_text": "ᝰᝣᝯᝪᝨᝤ ᝦᝠᝡᝥᝢᝧ ᝫᝮᝬᝩ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-tagbanwa.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-tagbanwa.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-tagbanwa.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-tagbanwa.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-tagbanwa.png"
+        }
+    },
+    "Coto Sans Tai Le": {
+        "full_name": "Coto Sans Tai Le",
+        "family_name": "Coto Sans Tai Le",
+        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Tai Le"
+        ],
+        "sample_text": "ᥑᥪᥗᥢᥤᥡ ᥘᥥᥱᥩᥝᥔ ᥜᥣᥟᥬᥲᥙ ᥒᥴᥠᥖᥭᥕ ᥞᥳᥫᥨᥧᥚ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-taile.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-taile.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-taile.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-taile.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-taile.png"
+        }
+    },
+    "Coto Sans Tai Tham": {
+        "full_name": "Coto Sans Tai Tham",
+        "family_name": "Coto Sans Tai Tham",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Tai Tham"
+        ],
+        "sample_text": "ᨻᩈᨾᩁᨫᩓ ᨿᩃᩊᨯᩒᨹ ᨤᩏᨭᩀᨳᨢ ᨡᨧᨲᨺᨵᩌ ᨸᩎᨩᨶᩅᨨ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-taitham.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-taitham.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-taitham.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-taitham.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-taitham.png"
+        }
+    },
+    "Coto Sans Tai Viet": {
+        "full_name": "Coto Sans Tai Viet",
+        "family_name": "Coto Sans Tai Viet",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Tai Viet",
+            "Latin"
+        ],
+        "sample_text": "ꪕꪮꪃꪺꪄꪪ ꪅꪻꪍꪢꪠꪩ ꪔꪆꪶꪭꪯꪋ ꪇꪽꫛꪟꪛꫝ ꪒꪘꪚꪉꪌꪊ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-taiviet.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-taiviet.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-taiviet.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-taiviet.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-taiviet.png"
+        }
+    },
+    "Coto Sans Tamil": {
+        "full_name": "Coto Sans Tamil",
+        "family_name": "Coto Sans Tamil",
+        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Tamil"
+        ],
+        "sample_text": "ஶஹௐஈஞட ஓணஎஙளய தஊஔஉஆற மசஒநவஸ ஏஐகழஜஷ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-tamil.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-tamil.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-tamil.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-tamil.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-tamil.png"
+        }
+    },
+    "Coto Sans Thaana": {
+        "full_name": "Coto Sans Thaana",
+        "family_name": "Coto Sans Thaana",
+        "copyright": "Copyright 2014 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Thaana",
+            "Arabic"
+        ],
+        "sample_text": "ޘޢޚޝމޕ ލޱފވޔޖ ޣސބށޙޥ ޠޅޓޏޗޤ ކތހޛޡރ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-thaana.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-thaana.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-thaana.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-thaana.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-thaana.png"
+        }
+    },
+    "Coto Sans Tifinagh": {
+        "full_name": "Coto Sans Tifinagh",
+        "family_name": "Coto Sans Tifinagh",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Tifinagh"
+        ],
+        "sample_text": "ⴲⵢⵑⴿⴺⵉ ⵆⵅⵤⵕⴸⵞ ⴼⴵⴻⵍⵃⵄ ⵈⵐⴳⵛⵌⵖ ⵣⴴⵧⵓⵏⴹ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-tifinagh.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-tifinagh.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-tifinagh.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-tifinagh.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-tifinagh.png"
+        }
+    },
+    "Coto Sans Ugaritic": {
+        "full_name": "Coto Sans Ugaritic",
+        "family_name": "Coto Sans Ugaritic",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Ugaritic"
+        ],
+        "sample_text": "𐎍𐎒𐎁𐎓𐎔𐎋 𐎄𐎌𐎅𐎛𐎆𐎑 𐎊𐎐𐎜𐎝𐎏𐎘 𐎉𐎈𐎚𐎃𐎖𐎗 𐎇𐎕𐎙𐎀𐎂𐎎",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-ugaritic.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-ugaritic.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-ugaritic.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-ugaritic.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-ugaritic.png"
+        }
+    },
+    "Coto Sans Vai": {
+        "full_name": "Coto Sans Vai",
+        "family_name": "Coto Sans Vai",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Vai"
+        ],
+        "sample_text": "ꗌꕥꗍꕟꔆꕭ ꖡꔈꗚꗝꔴꖒ ꗦꔚꖏꕣꔼꕀ ꔋꕷꖢꕽꕑꗛ ꔳꘁꗮꖱꗫꖫ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-vai.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-vai.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-vai.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-vai.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-vai.png"
+        }
+    },
+    "Coto Sans Yi": {
+        "full_name": "Coto Sans Yi",
+        "family_name": "Coto Sans Yi",
+        "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Yi"
+        ],
+        "sample_text": "ꋅꁪꁳꃬꂘꏦ ꅫꐕꌉꆂꉨꆌ ꆣꆋꋆꅐꆿꅠ ꎫꄇꅙꌤꋻꅱ ꉀꎲꇵꂭꋸꅝ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-yi.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-yi.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-yi.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotosans-yi.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotosans/zotosans-yi.png"
+        }
+    },
+    "Coto Serif Armenian": {
+        "full_name": "Coto Serif Armenian",
+        "family_name": "Coto Serif Armenian",
+        "copyright": "Copyright 2014 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Armenian"
+        ],
+        "sample_text": "ԽՉՒԿՂՅ ՏՂԸՄԵԻ էէզըքգ նբյթփպ թցզՙձծ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoserif/zotoserif-armenian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoserif/zotoserif-armenian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoserif/zotoserif-armenian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotoserif-armenian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoserif/zotoserif-armenian.png"
+        }
+    },
+    "Coto Serif Georgian": {
+        "full_name": "Coto Serif Georgian",
+        "family_name": "Coto Serif Georgian",
+        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Georgian",
+            "Armenian"
+        ],
+        "sample_text": "ჁჼჅႧႶႴႲ ⴟშვⴌⴔⴠ ⴤⴆჰⴀⴈⴎ ⴟჶⴊⴚლგⴌ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoserif/zotoserif-georgian.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoserif/zotoserif-georgian.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoserif/zotoserif-georgian.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotoserif-georgian.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoserif/zotoserif-georgian.png"
+        }
+    },
+    "Coto Serif Khmer": {
+        "full_name": "Coto Serif Khmer",
+        "family_name": "Coto Serif Khmer",
+        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Khmer"
+        ],
+        "sample_text": "ឲយរឦញណ ឫខឥហសឭ ឳគងបឌឍ ថឧឈៗនធ ឡឆឯជឬឞ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoserif/zotoserif-khmer.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoserif/zotoserif-khmer.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoserif/zotoserif-khmer.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotoserif-khmer.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoserif/zotoserif-khmer.png"
+        }
+    },
+    "Coto Serif Lao": {
+        "full_name": "Coto Serif Lao",
+        "family_name": "Coto Serif Lao",
+        "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
+        "license": "Apache",
+        "description": "Font",
+        "scripts": [
+            "Lao"
+        ],
+        "sample_text": "ໃຣຯສຕດ ຊຢມໝເຫ ໂນໄຝວແ ໞບຈພະລ ຟກໜຳຮໟ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoserif/zotoserif-lao.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoserif/zotoserif-lao.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoserif/zotoserif-lao.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotoserif-lao.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoserif/zotoserif-lao.png"
+        }
+    },
+    "GetGo Baar Regular": {
+        "full_name": "GetGo Baar Regular",
+        "family_name": "GetGo Baar",
+        "copyright": "Copyright Echo Heo 2021",
+        "license": "CC-0",
+        "description": "Modular narrow display font",
+        "scripts": [
+            "Latin"
+        ],
+        "sample_text": "CMKSRJ ITSLBZ xhedha pqnnfv gprktw",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/baar.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.png"
+        }
+    },
+    "GetGo Cosm Italic": {
+        "full_name": "GetGo Cosm Italic",
+        "family_name": "GetGo Cosm",
+        "copyright": "No Rights Reserved.",
+        "license": "CC-0",
+        "description": "Font",
+        "scripts": [
+            "Latin"
+        ],
+        "sample_text": "ĽÕFIĶŸÊ ŊŲĦŊŤĮ ýäġţťț yșœśôá vûūâŧô",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cosm-italic[wght].svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].png"
+        }
+    },
+    "GetGo Cosm Regular": {
+        "full_name": "GetGo Cosm Regular",
+        "family_name": "GetGo Cosm",
+        "copyright": "No Rights Reserved.",
+        "license": "CC-0",
+        "description": "Font",
+        "scripts": [
+            "Latin"
+        ],
+        "sample_text": "ŪỲÆÑŪŔ ĖÈØŎXĴ nękćzę hŷěìăĥ oșőűng",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cosm[wght].svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].png"
+        }
+    },
+    "GetGo Deco ExtraLight": {
+        "full_name": "GetGo Deco ExtraLight",
+        "family_name": "GetGo Deco",
+        "copyright": "No Rights Reserved.",
+        "license": "CC-0",
+        "description": "Font",
+        "scripts": [
+            "Latin"
+        ],
+        "sample_text": "RIDSNC QUAMJV zifwlz matknh bopfxc",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/deco.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.png"
+        }
+    },
+    "GetGo Medi Regular": {
+        "full_name": "GetGo Medi Regular",
+        "family_name": "GetGo Medi",
+        "copyright": "No Rights Reserved.",
+        "license": "CC-0",
+        "description": "Font",
+        "scripts": [
+            "Latin"
+        ],
+        "sample_text": "XLJWDB XAPQJK oilmfd eurnco evsywc",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/medi.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.png"
+        }
+    },
+    "GetGo Ocra Regular": {
+        "full_name": "GetGo Ocra Regular",
+        "family_name": "GetGo Ocra",
+        "copyright": "OCR-AK, 2018 Retorillo (CC0)\nOCR-A, 2018 Jonh Sauter (CC0)\nOCR-BKxStd, 2010 force4u (CC0)",
+        "license": "CC-0",
+        "description": "Font",
+        "scripts": [
+            "Latin",
+            "Katakana"
+        ],
+        "sample_text": "KYXIZW PKOJG bpxhzb ｳｴｵｶｷ vlegms",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/ocra.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.png"
         }
     },
     "GetGo Pixa Regular": {
@@ -1512,42 +1585,6 @@
             "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.png"
         }
     },
-    "GetGo Veni Regular": {
-        "full_name": "GetGo Veni Regular",
-        "family_name": "GetGo Veni",
-        "copyright": "No Rights Reserved.",
-        "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin"
-        ],
-        "sample_text": "ÂÌDÓŸM IXẂÛÀÔ éẁfwïi åúíkóö ùämõœl",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/veni.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.png"
-        }
-    },
-    "GetGo Baar Regular": {
-        "full_name": "GetGo Baar Regular",
-        "family_name": "GetGo Baar",
-        "copyright": "Copyright Echo Heo 2021",
-        "license": "CC-0",
-        "description": "Modular narrow display font",
-        "scripts": [
-            "Latin"
-        ],
-        "sample_text": "CMKSRJ ITSLBZ xhedha pqnnfv gprktw",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/baar.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.png"
-        }
-    },
     "GG Plum Regular": {
         "full_name": "GG Plum Regular",
         "family_name": "GG Plum",
@@ -1564,24 +1601,6 @@
             "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].md",
             "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/plum[wght].svg",
             "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].png"
-        }
-    },
-    "GetGo Deco ExtraLight": {
-        "full_name": "GetGo Deco ExtraLight",
-        "family_name": "GetGo Deco",
-        "copyright": "No Rights Reserved.",
-        "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin"
-        ],
-        "sample_text": "RIDSNC QUAMJV zifwlz matknh bopfxc",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/deco.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.png"
         }
     },
     "GetGo Star Regular": {
@@ -1603,77 +1622,22 @@
             "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/star/star.png"
         }
     },
-    "GetGo Medi Regular": {
-        "full_name": "GetGo Medi Regular",
-        "family_name": "GetGo Medi",
+    "GetGo Veni Regular": {
+        "full_name": "GetGo Veni Regular",
+        "family_name": "GetGo Veni",
         "copyright": "No Rights Reserved.",
         "license": "CC-0",
         "description": "Font",
         "scripts": [
             "Latin"
         ],
-        "sample_text": "XLJWDB XAPQJK oilmfd eurnco evsywc",
+        "sample_text": "ÂÌDÓŸM IXẂÛÀÔ éẁfwïi åúíkóö ùämõœl",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/medi.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.png"
-        }
-    },
-    "GetGo Ocra Regular": {
-        "full_name": "GetGo Ocra Regular",
-        "family_name": "GetGo Ocra",
-        "copyright": "OCR-AK, 2018 Retorillo (CC0)\nOCR-A, 2018 Jonh Sauter (CC0)\nOCR-BKxStd, 2010 force4u (CC0)",
-        "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin",
-            "Katakana"
-        ],
-        "sample_text": "KYXIZW PKOJG bpxhzb ｳｴｵｶｷ vlegms",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/ocra.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.png"
-        }
-    },
-    "GetGo Cosm Italic": {
-        "full_name": "GetGo Cosm Italic",
-        "family_name": "GetGo Cosm",
-        "copyright": "No Rights Reserved.",
-        "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin"
-        ],
-        "sample_text": "ĽÕFIĶŸÊ ŊŲĦŊŤĮ ýäġţťț yșœśôá vûūâŧô",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cosm-italic[wght].svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].png"
-        }
-    },
-    "GetGo Cosm Regular": {
-        "full_name": "GetGo Cosm Regular",
-        "family_name": "GetGo Cosm",
-        "copyright": "No Rights Reserved.",
-        "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin"
-        ],
-        "sample_text": "ŪỲÆÑŪŔ ĖÈØŎXĴ nękćzę hŷěìăĥ oșőűng",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cosm[wght].svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/veni.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.png"
         }
     },
     "GetGo Vize Regular": {
@@ -1692,6 +1656,42 @@
             "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.md",
             "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/vize.svg",
             "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.png"
+        }
+    },
+    "GG Stroke Chan OFL Italic": {
+        "full_name": "GG Stroke Chan OFL Italic",
+        "family_name": "GG Stroke Chan OFL",
+        "copyright": "Copyright 2013 The Alegreya Sans Project Authors (https://github.com/huertatipografica/Alegreya-Sans)",
+        "license": "OFL",
+        "description": "Font",
+        "scripts": [
+            "Latin"
+        ],
+        "sample_text": "TLVUBG YKMMIP txnckj qixarh zpyegj",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/stroke-chan.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.png"
+        }
+    },
+    "GG Stroke Grot OFL Regular": {
+        "full_name": "GG Stroke Grot OFL Regular",
+        "family_name": "GG Stroke Grot OFL",
+        "copyright": "Copyright © 2015 by Wei Huang.  All rights reserved.",
+        "license": "OFL",
+        "description": "Font",
+        "scripts": [
+            "Latin"
+        ],
+        "sample_text": "PJVNNX TQFBHI wuufªk ldmzea prxhºy",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/stroke-grot.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.png"
         }
     }
 }

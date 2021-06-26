@@ -45,24 +45,6 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 
 
-### GG Stroke Grot OFL Regular
-
-![PJVNNX TQFBHI wuufªk ldmzea prxhºy](images/stroke-grot.svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/stroke-grot/stroke-grot.ttf){: target="_blank" }
-
----
-
-
-### GG Stroke Chan OFL Italic
-
-![TLVUBG YKMMIP txnckj qixarh zpyegj](images/stroke-chan.svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/stroke-chan/stroke-chan.ttf){: target="_blank" }
-
----
-
-
 ### GG Boto Regular
 
 ![Vältože бомуще θρώπον çavatečkul](images/boto.svg)
@@ -72,713 +54,695 @@ Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/
 ---
 
 
-### Coto Serif Armenian
+### Zoto Emoji
 
-![ԽՉՒԿՂՅ ՏՂԸՄԵԻ էէզըքգ նբյթփպ թցզՙձծ](images/cotoserif-armenian.svg)
+![🎡💄🀄🈴😱🐞 🇰🈚👺🍉2🍃 🔨🐣👠🌟🎯✈ 🍪😁 🎈🍸🌼 🍷📧🐔󾓩🏄👶](images/zoto-emoji.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotoserif/cotoserif-armenian.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoemoji/zoto-emoji.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Serif Georgian
+### Zoto Kufi Arabic
 
-![ჁჼჅႧႶႴႲ ⴟშვⴌⴔⴠ ⴤⴆჰⴀⴈⴎ ⴟჶⴊⴚლგⴌ](images/cotoserif-georgian.svg)
+![ﻹݬݣڙﺯﭘ ﹾﺂښێﹲۯ ۮڦﭖﺤﮌظ ڰګﺊذﮭڢ ۉﺠحﭧﭭﭽ](images/zoto-kufiarabic.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotoserif/cotoserif-georgian.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zoto-kufiarabic.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Serif Lao
+### Zoto Sans Armenian
 
-![ໃຣຯສຕດ ຊຢມໝເຫ ໂນໄຝວແ ໞບຈພະລ ຟກໜຳຮໟ](images/cotoserif-lao.svg)
+![ԼՃԻԶԹՆ ՑԻՖՐՂՌ ւզթսգղ ժյﬔվմն փկդխկց](images/zotosans-armenian.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotoserif/cotoserif-lao.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-armenian.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Serif Khmer
+### Zoto Sans Avestan
 
-![ឲយរឦញណ ឫខឥហសឭ ឳគងបឌឍ ថឧឈៗនធ ឡឆឯជឬឞ](images/cotoserif-khmer.svg)
+![𐬑𐬂𐬜𐬴𐬢𐬄 𐬖𐬁𐬱𐬭𐬆𐬍 𐬛𐬔𐬡𐬫𐬗𐬵 𐬒𐬦𐬥𐬬𐬊𐬲 𐬘𐬣𐬰𐬏𐬅𐬨](images/zotosans-avestan.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotoserif/cotoserif-khmer.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-avestan.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Tai Viet
+### Zoto Sans Balinese
 
-![ꪕꪮꪃꪺꪄꪪ ꪅꪻꪍꪢꪠꪩ ꪔꪆꪶꪭꪯꪋ ꪇꪽꫛꪟꪛꫝ ꪒꪘꪚꪉꪌꪊ](images/cotosans-taiviet.svg)
+![ᬰᬋᬘᬎᬓᬮ ᭊᬉᬥᬫᬌᬯ ᬪᬠᬲᭋᭅᬡ ᬑᬊᬭᬒᬨᬅ ᬧᬇᬗᬍᬩᭆ](images/zotosans-balinese.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-taiviet.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-balinese.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Ugaritic
+### Zoto Sans Bamum
 
-![𐎍𐎒𐎁𐎓𐎔𐎋 𐎄𐎌𐎅𐎛𐎆𐎑 𐎊𐎐𐎜𐎝𐎏𐎘 𐎉𐎈𐎚𐎃𐎖𐎗 𐎇𐎕𐎙𐎀𐎂𐎎](images/cotosans-ugaritic.svg)
+![𖦺ꚯꛀꛂ𖡖𖠟 𖢇𖧶𖤣𖡎𖢯𖧷 𖦢𖣙ꛚ𖥌ꚴ𖢏 𖣮𖨅𖦿𖧀𖥵𖢱 𖠓ꛆ𖢴ꛎ𖣯𖦊](images/zotosans-bamum.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-ugaritic.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-bamum.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Tai Tham
+### Zoto Sans Batak
 
-![ᨻᩈᨾᩁᨫᩓ ᨿᩃᩊᨯᩒᨹ ᨤᩏᨭᩀᨳᨢ ᨡᨧᨲᨺᨵᩌ ᨸᩎᨩᨶᩅᨨ](images/cotosans-taitham.svg)
+![ᯓᯇᯆᯂᯠᯑ ᯗᯍᯝᯣᯖᯛ ᯅᯈᯎᯡᯃᯜ ᯀᯊᯄᯘᯤᯙ ᯔᯉᯥᯚᯁᯏ](images/zotosans-batak.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-taitham.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-batak.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Coptic
+### Zoto Sans Brahmi
 
-![ⲰⲮⲄⳜⲜⳄ ⲦⲤⲢϮⲶⳠ ⲽⲫⲭⳗⲿⳳ ⲃⳇⲃⲏⳃⳗ ϫⳁⲅⲽⲉⲩ](images/cotosans-coptic.svg)
+![𑀤𑀭𑀬𑀥𑀰𑀉 𑀐𑀨𑀘𑀟𑀫𑀕 𑀗𑀓𑀷𑀣𑀲𑀳 𑀃𑀎𑀒𑀍𑀌𑀦 𑀡𑀋𑀚𑀑𑀊𑀇](images/zotosans-brahmi.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-coptic.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-brahmi.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Cypriot
+### Zoto Sans Buginese
 
-![𐠼𐠐𐠣𐠅𐠎𐠱 𐠩𐠍𐠪𐠢𐠦𐠮 𐠤𐠬𐠲𐠌𐠔𐠰 𐠕𐠞𐠡𐠝𐠖𐠊 𐠒𐠠𐠀𐠨𐠭𐠟](images/cotosans-cypriot.svg)
+![ᨐᨁᨖᨆᨋᨍ ᨕᨇᨑᨂᨌᨏ ᨃᨉᨓᨈᨒᨅ ᨎᨀᨊᨄᨔ](images/zotosans-buginese.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-cypriot.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-buginese.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Kayah Li
+### Zoto Sans Buhid
 
-![ꤢꤜꤊꤍꤠꤝ ꤒꤥꤟꤖꤐꤛ ꤋꤡꤌꤑꤞꤔ ꤚꤙꤎꤕꤏꤤ ꤘꤣꤓꤗ](images/cotosans-kayahli.svg)
+![ᝌᝃᝑᝏᝊᝄ ᝎᝍᝇᝀᝂᝉ ᝆᝈᝋᝅᝐᝁ](images/zotosans-buhid.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-kayahli.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-buhid.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Lycian
+### Zoto Sans Canadian Aboriginal
 
-![𐊜𐊀𐊖𐊙𐊋𐊊 𐊂𐊐𐊛𐊓𐊆𐊑 𐊔𐊗𐊄𐊍𐊘𐊃 𐊕𐊌𐊒𐊉𐊁𐊚 𐊈𐊅𐊎𐊏𐊇](images/cotosans-lycian.svg)
+![ᓿᒩᗰᒺᓙᘈ ᐳᗛᙸᔣᗊᐴ ᐨᕸᕂᒮᘂᔴ ᗝᒝᗿᘗᐧᖵ ᖀᖴᗄᐸᒌᑾ](images/zotosans-canadianaboriginal.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-lycian.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-canadianaboriginal.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Osmanya
+### Zoto Sans Carian
 
-![𐒌𐒆𐒓𐒈𐒊𐒚 𐒒𐒉𐒙𐒀𐒑𐒘 𐒖𐒅𐒃𐒄𐒕𐒝 𐒇𐒍𐒏𐒋𐒗𐒜 𐒛𐒐𐒔𐒁𐒂𐒎](images/cotosans-osmanya.svg)
+![𐊨𐋁𐊭𐊦𐊳𐊤 𐊱𐋋𐋅𐋎𐋂𐊿 𐋏𐊾𐊢𐊵𐋆𐊠 𐋇𐊡𐊽𐋃𐊣𐊹 𐊬𐊸𐊫𐊷𐊩𐊻](images/zotosans-carian.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-osmanya.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-carian.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Rejang
+### Zoto Sans Cham
 
-![ꤶꥀꤱꤺꤻꤵ ꤳꥂꥁꤴꥃꤸ ꤼꥄꥅꤾꤹꤿ ꤽꤲꤰꥆꤷ](images/cotosans-rejang.svg)
+![ꨌꨝꨨꨘꩈꨢ ꨑꨤꨙꩀꨡꩇ ꨕꨅꨠꨍꨦꨒ ꨋꨏꩄꨃꨈꩆ ꨐꨚꨎꨁꨖꨆ](images/zotosans-cham.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-rejang.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cham.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Old Turkic
+### Zoto Sans Cherokee
 
-![𐰥𐱁𐰶𐰢𐰯𐰐 𐰋𐰪𐰚𐰈𐰛𐰗 𐰳𐰝𐰖𐰊𐱆𐰽 𐰬𐰺𐰨𐰘𐰟𐰦 𐱅𐰼𐰁𐰹𐰙𐱀](images/cotosans-oldturkic.svg)
+![ᏓᎲᎮᎻᏛᏱ ᏌᎼᎳᏦᏊᎹ ᎸᏐᏒᏭᏧᏂ ᎿᏏᎠᎣᏚᎷ ᏤᏰᎶᏬᏔᎨ](images/zotosans-cherokee.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-oldturkic.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cherokee.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Old Italic
+### Zoto Sans Coptic
 
-![𐌏𐌉𐌆𐌊𐌙𐌜 𐌇𐌞𐌕𐌎𐌀𐌚 𐌃𐌁𐌓𐌅𐌋𐌔 𐌘𐌌𐌛𐌖𐌍𐌈 𐌄𐌝𐌐𐌂𐌗𐌑](images/cotosans-olditalic.svg)
+![ⲰⲮⲄⳜⲜⳄ ⲦⲤⲢϮⲶⳠ ⲽⲫⲭⳗⲿⳳ ⲃⳇⲃⲏⳃⳗ ϫⳁⲅⲽⲉⲩ](images/zotosans-coptic.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-olditalic.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-coptic.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Kharoshthi
+### Zoto Sans Cuneiform
 
-![𐨙𐨥𐨣𐨦𐨮𐨤 𐨀𐨬𐨐𐨞𐨖𐨠 𐨡𐨟𐨳𐨛𐨰𐨲 𐨯𐨜𐨭𐨒𐨫𐨱 𐨨𐨗𐨢𐨑𐨪𐨧](images/cotosans-kharoshthi.svg)
+![𒆀𒀵𒈏𒁼𒃠𒂚 𒁱𒄊𒋍𒃈𒅊𒈤 𒆿𒌓𒌥𒌭𒋗𒄵 𒀴𒋬𒅤𒁋𒀕𒍃 𒈿𒅸𒈙𒋊𒄸𒊻](images/zotosans-cuneiform.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-kharoshthi.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cuneiform.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Hebrew
+### Zoto Sans Cypriot
 
-![ןפרטּזּשׂ לּאָקמּיּשּׂ זףתעהּךּ אﬠךהװתּ כּײַﭏﬦוּבֿ](images/cotosans-hebrew.svg)
+![𐠼𐠐𐠣𐠅𐠎𐠱 𐠩𐠍𐠪𐠢𐠦𐠮 𐠤𐠬𐠲𐠌𐠔𐠰 𐠕𐠞𐠡𐠝𐠖𐠊 𐠒𐠠𐠀𐠨𐠭𐠟](images/zotosans-cypriot.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-hebrew.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cypriot.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Kufi Arabic
+### Zoto Sans Deseret
 
-![ﻹݬݣڙﺯﭘ ﹾﺂښێﹲۯ ۮڦﭖﺤﮌظ ڰګﺊذﮭڢ ۉﺠحﭧﭭﭽ](images/coto-kufiarabic.svg)
+![𐐈𐐔𐐟𐐚𐐢𐐌 𐐜𐐀𐐒𐐖𐐈𐐇 𐐹𐐷𐐮𐑅𐐫𐐵 𐐬𐐩𐐵𐐾𐑌𐐯 𐑏𐐸𐐬𐐽𐐱𐑏](images/zotosans-deseret.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/coto-kufiarabic.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-deseret.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Tagalog
+### Zoto Sans Egyptian Hieroglyphs
 
-![ᜋᜐᜂᜊᜏᜈ ᜁᜃᜀᜑᜄᜇ ᜅᜎᜉᜌᜆ](images/cotosans-tagalog.svg)
+![𓁫𓋾𓅷𓆢𓋁𓁗 𓇶𓈓𓋉𓄌𓅞𓈥 𓍪𓅵𓂥𓎮𓎇𓅺 𓋘𓐦𓀮𓅶𓎐𓍼 𓈭𓍙𓐣𓐘𓁳𓅅](images/zotosans-egyptianhieroglyphs.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-tagalog.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-egyptianhieroglyphs.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Cherokee
+### Zoto Sans Ethiopic
 
-![ᏓᎲᎮᎻᏛᏱ ᏌᎼᎳᏦᏊᎹ ᎸᏐᏒᏭᏧᏂ ᎿᏏᎠᎣᏚᎷ ᏤᏰᎶᏬᏔᎨ](images/cotosans-cherokee.svg)
+![ⷞⶌኻዝጼዬ ዑቿⷀጴሠሂ ᎍቊዃቾዔሃ ፑጆⷙቶⶉⶳ ጜየቀꬥጽቱ](images/zotosans-ethiopic.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-cherokee.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-ethiopic.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Mandaic
+### Zoto Sans Georgian
 
-![ࡗࡆࡌࡒࡁࡇ ࡊࡉࡋࡎࡖࡈ ࡏࡔࡍࡂࡄࡑ ࡓࡀࡅࡐࡃࡘ ࡕ](images/cotosans-mandaic.svg)
+![ႣჀႽჂ ႭႸႺႱ ⴇზⴂⴄჺⴊ ⴊფაⴥⴡⴌ ⴤჟღⴄსⴇ](images/zotosans-georgian.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-mandaic.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-georgian.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Symbols
+### Zoto Sans Glagolitic
 
-![⛈꜐➊𝐛ℐ𝛶 ⎶𝜷➇⠭𝈷⩛ 🁁𝒱⍹𝞝𝛍⓾ ⎠ℼ🂧⤖⦖⏕ ⍃𝛕⪃𝑬𝜀⥆](images/cotosans-symbols.svg)
+![ⰋⰤⰗⰁⰇⰏ ⰆⰥⰃⰒⰛⰍ ⰵⱍⰴⱑⰰⱎ ⱐⱏⱀⱗⱚⱑ ⰺⰽⱆⱊⱇⱌ](images/zotosans-glagolitic.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-symbols.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-glagolitic.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans New Tai Lue
+### Zoto Sans Gothic
 
-![ᦝᧀᧄᦈᦒᦕ ᧂᦁᧃᦱᦆᧉ ᦙᦗᦉᦵᦡᦇ ᦄᦞᦰᦴᦪᦎ ᧅᦑᦸᦌᦏᦘ](images/cotosans-newtailue.svg)
+![𐍉𐍆𐌱𐌿𐍀𐌾 𐌹𐌶𐍃𐌼𐍈𐍇 𐍂𐌷𐌳𐍄𐌰𐌲 𐌺𐌸𐍅𐌵𐌽𐌻 𐌴](images/zotosans-gothic.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-newtailue.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-gothic.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Buhid
+### Zoto Sans Gurmukhi
 
-![ᝌᝃᝑᝏᝊᝄ ᝎᝍᝇᝀᝂᝉ ᝆᝈᝋᝅᝐᝁ](images/cotosans-buhid.svg)
+![ਔਅਗ਼ਘਇਪ ਣੴਆਙਜਥ ਯਡਫ਼ਖ਼ਹਦ ਨਲ਼ਈਞਲਛ ਬਏਕੲਗਭ](images/zotosans-gurmukhi.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-buhid.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-gurmukhi.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Deseret
+### Zoto Sans Hanunoo
 
-![𐐈𐐔𐐟𐐚𐐢𐐌 𐐜𐐀𐐒𐐖𐐈𐐇 𐐹𐐷𐐮𐑅𐐫𐐵 𐐬𐐩𐐵𐐾𐑌𐐯 𐑏𐐸𐐬𐐽𐐱𐑏](images/cotosans-deseret.svg)
+![ᜣᜢᜬᜮᜡᜥ ᜦᜩᜱᜫᜤᜰ ᜠᜪᜨᜧᜯᜭ](images/zotosans-hanunoo.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-deseret.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-hanunoo.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Phoenician
+### Zoto Sans Hebrew
 
-![𐤏𐤋𐤕𐤑𐤐𐤆 𐤉𐤔𐤍𐤅𐤒𐤄 𐤂𐤇𐤃𐤓𐤀𐤈 𐤁𐤊𐤎𐤌](images/cotosans-phoenician.svg)
+![ןפרטּזּשׂ לּאָקמּיּשּׂ זףתעהּךּ אﬠךהװתּ כּײַﭏﬦוּבֿ](images/zotosans-hebrew.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-phoenician.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-hebrew.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Hanunoo
+### Zoto Sans Historic
 
-![ᜣᜢᜬᜮᜡᜥ ᜦᜩᜱᜫᜤᜰ ᜠᜪᜨᜧᜯᜭ](images/cotosans-hanunoo.svg)
+![ࠀࠁࡀࡁꡀ ꡁ𐀀𐀁𐊀𐊁 𐎀𐎁𐎠𐎡𐒀 𐒁𐡀𐡁𐤀𐤁 𐤠𐤡𐩠𐩡𐬀 𐬁𐭀𐭁𐭠𐭡𐰀𐰁𒀀𒀁𓀀𓀁](images/zotosans-historic.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-hanunoo.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-historic.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Tagbanwa
+### Zoto Sans Imperial Aramaic
 
-![ᝰᝣᝯᝪᝨᝤ ᝦᝠᝡᝥᝢᝧ ᝫᝮᝬᝩ](images/cotosans-tagbanwa.svg)
+![𐡑𐡀𐡈𐡉𐡄𐡁 𐡕𐡇𐡋𐡍𐡔𐡓 𐡆𐡎𐡅𐡏𐡒𐡂 𐡌𐡊𐡐𐡃](images/zotosans-imperialaramaic.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-tagbanwa.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-imperialaramaic.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Bamum
+### Zoto Sans Inscriptional Pahlavi
 
-![𖦺ꚯꛀꛂ𖡖𖠟 𖢇𖧶𖤣𖡎𖢯𖧷 𖦢𖣙ꛚ𖥌ꚴ𖢏 𖣮𖨅𖦿𖧀𖥵𖢱 𖠓ꛆ𖢴ꛎ𖣯𖦊](images/cotosans-bamum.svg)
+![𐭰𐭠𐭫𐭨𐭬𐭩 𐭢𐭧𐭯𐭦𐭣𐭤 𐭡𐭱𐭪𐭲𐭭𐭮 𐭥](images/zotosans-inscriptionalpahlavi.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-bamum.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalpahlavi.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Batak
+### Zoto Sans Inscriptional Parthian
 
-![ᯓᯇᯆᯂᯠᯑ ᯗᯍᯝᯣᯖᯛ ᯅᯈᯎᯡᯃᯜ ᯀᯊᯄᯘᯤᯙ ᯔᯉᯥᯚᯁᯏ](images/cotosans-batak.svg)
+![𐭊𐭕𐭈𐭃𐭔𐭍 𐭏𐭋𐭆𐭁𐭐𐭂 𐭀𐭄𐭒𐭌𐭎𐭅 𐭓𐭇𐭉𐭑](images/zotosans-inscriptionalparthian.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-batak.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalparthian.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Gurmukhi
+### Zoto Sans Javanese
 
-![ਔਅਗ਼ਘਇਪ ਣੴਆਙਜਥ ਯਡਫ਼ਖ਼ਹਦ ਨਲ਼ਈਞਲਛ ਬਏਕੲਗਭ](images/cotosans-gurmukhi.svg)
+![ꦅꦲꦈꦠꦞꦕ ꦪꦉꦚꦜꦣꦯ ꦧꦋꦇꦙꦥꦛ ꦆꦦꦡꦔꦫꦭ ꦩꦬꦖꦏꦝꦢ](images/zotosans-javanese.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-gurmukhi.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-javanese.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Inscriptional Parthian
+### Zoto Sans Kayah Li
 
-![𐭊𐭕𐭈𐭃𐭔𐭍 𐭏𐭋𐭆𐭁𐭐𐭂 𐭀𐭄𐭒𐭌𐭎𐭅 𐭓𐭇𐭉𐭑](images/cotosans-inscriptionalparthian.svg)
+![ꤢꤜꤊꤍꤠꤝ ꤒꤥꤟꤖꤐꤛ ꤋꤡꤌꤑꤞꤔ ꤚꤙꤎꤕꤏꤤ ꤘꤣꤓꤗ](images/zotosans-kayahli.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalparthian.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-kayahli.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Javanese
+### Zoto Sans Kharoshthi
 
-![ꦅꦲꦈꦠꦞꦕ ꦪꦉꦚꦜꦣꦯ ꦧꦋꦇꦙꦥꦛ ꦆꦦꦡꦔꦫꦭ ꦩꦬꦖꦏꦝꦢ](images/cotosans-javanese.svg)
+![𐨙𐨥𐨣𐨦𐨮𐨤 𐨀𐨬𐨐𐨞𐨖𐨠 𐨡𐨟𐨳𐨛𐨰𐨲 𐨯𐨜𐨭𐨒𐨫𐨱 𐨨𐨗𐨢𐨑𐨪𐨧](images/zotosans-kharoshthi.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-javanese.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-kharoshthi.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Canadian Aboriginal
+### Zoto Sans Khmer
 
-![ᓿᒩᗰᒺᓙᘈ ᐳᗛᙸᔣᗊᐴ ᐨᕸᕂᒮᘂᔴ ᗝᒝᗿᘗᐧᖵ ᖀᖴᗄᐸᒌᑾ](images/cotosans-canadianaboriginal.svg)
+![យខឍឡឣឳ ឱផងទណឥ ឃពកឨឰគ ឮៗជសឲឫ ឌលថឋឧឝ](images/zotosans-khmer.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-canadianaboriginal.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-khmer.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Thaana
+### Zoto Sans Lao
 
-![ޘޢޚޝމޕ ލޱފވޔޖ ޣސބށޙޥ ޠޅޓޏޗޤ ކތހޛޡރ](images/cotosans-thaana.svg)
+![ບໃຜລາອ ຫຽຟະຂຄ ຍຣມຳສຈ ໟໆເປຕໝ ພຢງທໜກ](images/zotosans-lao.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-thaana.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-lao.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Balinese
+### Zoto Sans Limbu
 
-![ᬰᬋᬘᬎᬓᬮ ᭊᬉᬥᬫᬌᬯ ᬪᬠᬲᭋᭅᬡ ᬑᬊᬭᬒᬨᬅ ᬧᬇᬗᬍᬩᭆ](images/cotosans-balinese.svg)
+![ᤌᤖᤓᤁᤕᤃ ᤐᤒᤚᤏᤛᤗ ᤑᤈᤎᤄᤅᤀ ᤜᤍᤆᤂᤔᤘ ᤊᤇᤋᤙᤉ](images/zotosans-limbu.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-balinese.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-limbu.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Cham
+### Zoto Sans Linear B
 
-![ꨌꨝꨨꨘꩈꨢ ꨑꨤꨙꩀꨡꩇ ꨕꨅꨠꨍꨦꨒ ꨋꨏꩄꨃꨈꩆ ꨐꨚꨎꨁꨖꨆ](images/cotosans-cham.svg)
+![𐁃𐃁𐂬𐂼𐂗𐀫 𐀔𐃀𐂌𐂹𐁉𐂳 𐀺𐃍𐃑𐀁𐂘𐃰 𐀦𐃪𐁍𐁆𐁐𐂵 𐂢𐃵𐃣𐃃𐂨𐂫](images/zotosans-linearb.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-cham.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-linearb.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Ogham
+### Zoto Sans Lisu
 
-![ᚔᚚᚍᚋᚈᚐ ᚉᚏᚕᚅᚆᚂ ᚖᚑᚎᚗᚘᚊ ᚁᚇᚓᚄᚌᚒ ᚙᚃ](images/cotosans-ogham.svg)
+![ꓞꓣꓓꓩꓑꓶ ꓵꓛꓦꓤꓺꓰ ꓲꓹꓢꓳꓽꓫ ꓱꓐꓝꓚꓒꓧ ꓡꓼꓗꓠꓭꓴ](images/zotosans-lisu.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-ogham.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-lisu.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Shavian
+### Zoto Sans Lycian
 
-![𐑙𐑷𐑺𐑚𐑶𐑲 𐑳𐑴𐑮𐑤𐑜𐑬 𐑟𐑞𐑥𐑼𐑣𐑭 𐑔𐑵𐑰𐑸𐑻𐑖 𐑢𐑹𐑾𐑿𐑗𐑑](images/cotosans-shavian.svg)
+![𐊜𐊀𐊖𐊙𐊋𐊊 𐊂𐊐𐊛𐊓𐊆𐊑 𐊔𐊗𐊄𐊍𐊘𐊃 𐊕𐊌𐊒𐊉𐊁𐊚 𐊈𐊅𐊎𐊏𐊇](images/zotosans-lycian.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-shavian.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-lycian.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Limbu
+### Zoto Sans Lydian
 
-![ᤌᤖᤓᤁᤕᤃ ᤐᤒᤚᤏᤛᤗ ᤑᤈᤎᤄᤅᤀ ᤜᤍᤆᤂᤔᤘ ᤊᤇᤋᤙᤉ](images/cotosans-limbu.svg)
+![𐤡𐤠𐤶𐤰𐤫𐤥 𐤣𐤮𐤸𐤬𐤲𐤯 𐤤𐤦𐤪𐤢𐤷𐤴 𐤩𐤧𐤨𐤹𐤱𐤭 𐤵𐤳](images/zotosans-lydian.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-limbu.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-lydian.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Ethiopic
+### Zoto Sans Mandaic
 
-![ⷞⶌኻዝጼዬ ዑቿⷀጴሠሂ ᎍቊዃቾዔሃ ፑጆⷙቶⶉⶳ ጜየቀꬥጽቱ](images/cotosans-ethiopic.svg)
+![ࡗࡆࡌࡒࡁࡇ ࡊࡉࡋࡎࡖࡈ ࡏࡔࡍࡂࡄࡑ ࡓࡀࡅࡐࡃࡘ ࡕ](images/zotosans-mandaic.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-ethiopic.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-mandaic.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Georgian
+### Zoto Sans Meetei Mayek
 
-![ႣჀႽჂ ႭႸႺႱ ⴇზⴂⴄჺⴊ ⴊფაⴥⴡⴌ ⴤჟღⴄსⴇ](images/cotosans-georgian.svg)
+![ꫢꯐꫧꯝꯂꫡ ꯒꫠꯇꯙꯎꯋ ꯡꯍꫲꯈꫦꯏ ꯔꯕꫩꯜꯛꯖ ꯅꫥꯠꯢꯄꯗ](images/zotosans-meeteimayek.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-georgian.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-meeteimayek.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Phags Pa
+### Zoto Sans Mongolian
 
-![ꡜꡤꡩꡕꡏꡂ ꡐꡗꡡꡯꡭꡓ ꡖꡘꡑꡉꡧꡟ ꡇꡁꡰꡄꡲꡥ ꡀꡆꡌꡙꡪꡠ](images/cotosans-phagspa.svg)
+![ᡙᡇᠷᡬᢃᠠ ᢖᠱᠽᠩᡞᡏ ᢢᠬᢙᡮᠫᠥ ᠼᢨᠾᠰᢎᡲ ᢉᢛᢝᢋᠮᡓ](images/zotosans-mongolian.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-phagspa.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-mongolian.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Egyptian Hieroglyphs
+### Zoto Sans New Tai Lue
 
-![𓁫𓋾𓅷𓆢𓋁𓁗 𓇶𓈓𓋉𓄌𓅞𓈥 𓍪𓅵𓂥𓎮𓎇𓅺 𓋘𓐦𓀮𓅶𓎐𓍼 𓈭𓍙𓐣𓐘𓁳𓅅](images/cotosans-egyptianhieroglyphs.svg)
+![ᦝᧀᧄᦈᦒᦕ ᧂᦁᧃᦱᦆᧉ ᦙᦗᦉᦵᦡᦇ ᦄᦞᦰᦴᦪᦎ ᧅᦑᦸᦌᦏᦘ](images/zotosans-newtailue.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-egyptianhieroglyphs.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-newtailue.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Lao
+### Zoto Sans NKo
 
-![ບໃຜລາອ ຫຽຟະຂຄ ຍຣມຳສຈ ໟໆເປຕໝ ພຢງທໜກ](images/cotosans-lao.svg)
+![ߓߪߣߍߑߞ ߕߛߧߘߖߤ ߟߏߵߨߒߠ ߢߎߥߡߴߝ ߔߩߌߙߊߦ](images/zotosans-nko.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-lao.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-nko.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Samaritan
+### Zoto Sans Ogham
 
-![ࠎࠑࠃࠔࠕࠁ ࠚࠇࠐࠤࠆࠓ ࠄࠌࠍࠅࠋࠂ ࠏࠈࠉࠒࠨࠀ ࠊ](images/cotosans-samaritan.svg)
+![ᚔᚚᚍᚋᚈᚐ ᚉᚏᚕᚅᚆᚂ ᚖᚑᚎᚗᚘᚊ ᚁᚇᚓᚄᚌᚒ ᚙᚃ](images/zotosans-ogham.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-samaritan.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-ogham.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Saurashtra
+### Zoto Sans Ol Chiki
 
-![ꢘꢉꢓꢛꢤꢔ ꢧꢰꢕꢋꢙꢩ ꢮꢬꢊꢑꢡꢨ ꢃꢂꢫꢖꢞꢣ ꢲꢦꢯꢌꢠꢱ](images/cotosans-saurashtra.svg)
+![ᱦᱫᱳᱰᱽᱜ ᱮᱧᱢᱝᱛᱶ ᱡᱯᱞᱹᱴᱣ ᱥᱱᱵᱷᱠᱭ ᱸᱬᱺᱲᱤᱪ](images/zotosans-olchiki.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-saurashtra.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-olchiki.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Historic
+### Zoto Sans Old Italic
 
-![ࠀࠁࡀࡁꡀ ꡁ𐀀𐀁𐊀𐊁 𐎀𐎁𐎠𐎡𐒀 𐒁𐡀𐡁𐤀𐤁 𐤠𐤡𐩠𐩡𐬀 𐬁𐭀𐭁𐭠𐭡𐰀𐰁𒀀𒀁𓀀𓀁](images/cotosans-historic.svg)
+![𐌏𐌉𐌆𐌊𐌙𐌜 𐌇𐌞𐌕𐌎𐌀𐌚 𐌃𐌁𐌓𐌅𐌋𐌔 𐌘𐌌𐌛𐌖𐌍𐌈 𐌄𐌝𐌐𐌂𐌗𐌑](images/zotosans-olditalic.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-historic.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-olditalic.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Mongolian
+### Zoto Sans Old Persian
 
-![ᡙᡇᠷᡬᢃᠠ ᢖᠱᠽᠩᡞᡏ ᢢᠬᢙᡮᠫᠥ ᠼᢨᠾᠰᢎᡲ ᢉᢛᢝᢋᠮᡓ](images/cotosans-mongolian.svg)
+![𐎣𐏈𐎽𐎸𐎢𐎻 𐎷𐏊𐎳𐎱𐎵𐎩 𐎨𐏌𐎶𐎬𐎰𐏋 𐎾𐎠𐏀𐎺𐎿𐎦 𐏍𐏉𐎡𐎴𐎼𐎹](images/zotosans-oldpersian.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-mongolian.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-oldpersian.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Tamil
+### Zoto Sans Old South Arabian
 
-![ஶஹௐஈஞட ஓணஎஙளய தஊஔஉஆற மசஒநவஸ ஏஐகழஜஷ](images/cotosans-tamil.svg)
+![𐩧𐩣𐩳𐩡𐩺𐩻 𐩷𐩰𐩫𐩸𐩶𐩮 𐩴𐩱𐩥𐩢𐩭𐩵 𐩪𐩬𐩨𐩩𐩼𐩦 𐩹𐩯𐩠𐩲𐩤](images/zotosans-oldsoutharabian.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-tamil.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-oldsoutharabian.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Old South Arabian
+### Zoto Sans Old Turkic
 
-![𐩧𐩣𐩳𐩡𐩺𐩻 𐩷𐩰𐩫𐩸𐩶𐩮 𐩴𐩱𐩥𐩢𐩭𐩵 𐩪𐩬𐩨𐩩𐩼𐩦 𐩹𐩯𐩠𐩲𐩤](images/cotosans-oldsoutharabian.svg)
+![𐰥𐱁𐰶𐰢𐰯𐰐 𐰋𐰪𐰚𐰈𐰛𐰗 𐰳𐰝𐰖𐰊𐱆𐰽 𐰬𐰺𐰨𐰘𐰟𐰦 𐱅𐰼𐰁𐰹𐰙𐱀](images/zotosans-oldturkic.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-oldsoutharabian.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-oldturkic.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Tifinagh
+### Zoto Sans Osmanya
 
-![ⴲⵢⵑⴿⴺⵉ ⵆⵅⵤⵕⴸⵞ ⴼⴵⴻⵍⵃⵄ ⵈⵐⴳⵛⵌⵖ ⵣⴴⵧⵓⵏⴹ](images/cotosans-tifinagh.svg)
+![𐒌𐒆𐒓𐒈𐒊𐒚 𐒒𐒉𐒙𐒀𐒑𐒘 𐒖𐒅𐒃𐒄𐒕𐒝 𐒇𐒍𐒏𐒋𐒗𐒜 𐒛𐒐𐒔𐒁𐒂𐒎](images/zotosans-osmanya.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-tifinagh.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-osmanya.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Ol Chiki
+### Zoto Sans Phags Pa
 
-![ᱦᱫᱳᱰᱽᱜ ᱮᱧᱢᱝᱛᱶ ᱡᱯᱞᱹᱴᱣ ᱥᱱᱵᱷᱠᱭ ᱸᱬᱺᱲᱤᱪ](images/cotosans-olchiki.svg)
+![ꡜꡤꡩꡕꡏꡂ ꡐꡗꡡꡯꡭꡓ ꡖꡘꡑꡉꡧꡟ ꡇꡁꡰꡄꡲꡥ ꡀꡆꡌꡙꡪꡠ](images/zotosans-phagspa.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-olchiki.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-phagspa.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Runic
+### Zoto Sans Phoenician
 
-![ᛗᛠᛌᚴᚠᛊ ᛢᛍᛅᛐᚵᛦ ᚪᛡᚽᛣᚲᛉ ᛤᚥᛖᚢᛘᚧ ᛥᚾᛔᛏᚿᚷ](images/cotosans-runic.svg)
+![𐤏𐤋𐤕𐤑𐤐𐤆 𐤉𐤔𐤍𐤅𐤒𐤄 𐤂𐤇𐤃𐤓𐤀𐤈 𐤁𐤊𐤎𐤌](images/zotosans-phoenician.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-runic.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-phoenician.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Glagolitic
+### Zoto Sans Rejang
 
-![ⰋⰤⰗⰁⰇⰏ ⰆⰥⰃⰒⰛⰍ ⰵⱍⰴⱑⰰⱎ ⱐⱏⱀⱗⱚⱑ ⰺⰽⱆⱊⱇⱌ](images/cotosans-glagolitic.svg)
+![ꤶꥀꤱꤺꤻꤵ ꤳꥂꥁꤴꥃꤸ ꤼꥄꥅꤾꤹꤿ ꤽꤲꤰꥆꤷ](images/zotosans-rejang.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-glagolitic.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-rejang.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Syloti Nagri
+### Zoto Sans Runic
 
-![ꠅꠏꠙꠒꠍꠡ ꠠꠑꠢꠘꠉꠇ ꠔꠚꠓꠐꠈꠕ ꠖꠌꠀꠁꠊꠎ ꠛꠄꠃꠝꠗꠟ](images/cotosans-sylotinagri.svg)
+![ᛗᛠᛌᚴᚠᛊ ᛢᛍᛅᛐᚵᛦ ᚪᛡᚽᛣᚲᛉ ᛤᚥᛖᚢᛘᚧ ᛥᚾᛔᛏᚿᚷ](images/zotosans-runic.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-sylotinagri.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-runic.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Avestan
+### Zoto Sans Samaritan
 
-![𐬑𐬂𐬜𐬴𐬢𐬄 𐬖𐬁𐬱𐬭𐬆𐬍 𐬛𐬔𐬡𐬫𐬗𐬵 𐬒𐬦𐬥𐬬𐬊𐬲 𐬘𐬣𐬰𐬏𐬅𐬨](images/cotosans-avestan.svg)
+![ࠎࠑࠃࠔࠕࠁ ࠚࠇࠐࠤࠆࠓ ࠄࠌࠍࠅࠋࠂ ࠏࠈࠉࠒࠨࠀ ࠊ](images/zotosans-samaritan.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-avestan.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-samaritan.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Sundanese
+### Zoto Sans Saurashtra
 
-![ᮙᮍᮮᮜᮠᮗ ᮅᮞᮚᮒᮑᮯ ᮌᮻᮘᮛᮃᮽ ᮇᮟᮎᮕᮏᮊ ᮓᮺᮝᮄᮆᮋ](images/cotosans-sundanese.svg)
+![ꢘꢉꢓꢛꢤꢔ ꢧꢰꢕꢋꢙꢩ ꢮꢬꢊꢑꢡꢨ ꢃꢂꢫꢖꢞꢣ ꢲꢦꢯꢌꢠꢱ](images/zotosans-saurashtra.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-sundanese.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-saurashtra.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Vai
+### Zoto Sans Shavian
 
-![ꗌꕥꗍꕟꔆꕭ ꖡꔈꗚꗝꔴꖒ ꗦꔚꖏꕣꔼꕀ ꔋꕷꖢꕽꕑꗛ ꔳꘁꗮꖱꗫꖫ](images/cotosans-vai.svg)
+![𐑙𐑷𐑺𐑚𐑶𐑲 𐑳𐑴𐑮𐑤𐑜𐑬 𐑟𐑞𐑥𐑼𐑣𐑭 𐑔𐑵𐑰𐑸𐑻𐑖 𐑢𐑹𐑾𐑿𐑗𐑑](images/zotosans-shavian.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-vai.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-shavian.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Khmer
+### Zoto Sans Sundanese
 
-![យខឍឡឣឳ ឱផងទណឥ ឃពកឨឰគ ឮៗជសឲឫ ឌលថឋឧឝ](images/cotosans-khmer.svg)
+![ᮙᮍᮮᮜᮠᮗ ᮅᮞᮚᮒᮑᮯ ᮌᮻᮘᮛᮃᮽ ᮇᮟᮎᮕᮏᮊ ᮓᮺᮝᮄᮆᮋ](images/zotosans-sundanese.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-khmer.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-sundanese.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Buginese
+### Zoto Sans Syloti Nagri
 
-![ᨐᨁᨖᨆᨋᨍ ᨕᨇᨑᨂᨌᨏ ᨃᨉᨓᨈᨒᨅ ᨎᨀᨊᨄᨔ](images/cotosans-buginese.svg)
+![ꠅꠏꠙꠒꠍꠡ ꠠꠑꠢꠘꠉꠇ ꠔꠚꠓꠐꠈꠕ ꠖꠌꠀꠁꠊꠎ ꠛꠄꠃꠝꠗꠟ](images/zotosans-sylotinagri.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-buginese.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-sylotinagri.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Gothic
+### Zoto Sans Symbols
 
-![𐍉𐍆𐌱𐌿𐍀𐌾 𐌹𐌶𐍃𐌼𐍈𐍇 𐍂𐌷𐌳𐍄𐌰𐌲 𐌺𐌸𐍅𐌵𐌽𐌻 𐌴](images/cotosans-gothic.svg)
+![⛈꜐➊𝐛ℐ𝛶 ⎶𝜷➇⠭𝈷⩛ 🁁𝒱⍹𝞝𝛍⓾ ⎠ℼ🂧⤖⦖⏕ ⍃𝛕⪃𝑬𝜀⥆](images/zotosans-symbols.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-gothic.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-symbols.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Lydian
+### Zoto Sans Tagalog
 
-![𐤡𐤠𐤶𐤰𐤫𐤥 𐤣𐤮𐤸𐤬𐤲𐤯 𐤤𐤦𐤪𐤢𐤷𐤴 𐤩𐤧𐤨𐤹𐤱𐤭 𐤵𐤳](images/cotosans-lydian.svg)
+![ᜋᜐᜂᜊᜏᜈ ᜁᜃᜀᜑᜄᜇ ᜅᜎᜉᜌᜆ](images/zotosans-tagalog.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-lydian.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tagalog.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Armenian
+### Zoto Sans Tagbanwa
 
-![ԼՃԻԶԹՆ ՑԻՖՐՂՌ ւզթսգղ ժյﬔվմն փկդխկց](images/cotosans-armenian.svg)
+![ᝰᝣᝯᝪᝨᝤ ᝦᝠᝡᝥᝢᝧ ᝫᝮᝬᝩ](images/zotosans-tagbanwa.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-armenian.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tagbanwa.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Linear B
+### Zoto Sans Tai Le
 
-![𐁃𐃁𐂬𐂼𐂗𐀫 𐀔𐃀𐂌𐂹𐁉𐂳 𐀺𐃍𐃑𐀁𐂘𐃰 𐀦𐃪𐁍𐁆𐁐𐂵 𐂢𐃵𐃣𐃃𐂨𐂫](images/cotosans-linearb.svg)
+![ᥑᥪᥗᥢᥤᥡ ᥘᥥᥱᥩᥝᥔ ᥜᥣᥟᥬᥲᥙ ᥒᥴᥠᥖᥭᥕ ᥞᥳᥫᥨᥧᥚ](images/zotosans-taile.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-linearb.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-taile.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Cuneiform
+### Zoto Sans Tai Tham
 
-![𒆀𒀵𒈏𒁼𒃠𒂚 𒁱𒄊𒋍𒃈𒅊𒈤 𒆿𒌓𒌥𒌭𒋗𒄵 𒀴𒋬𒅤𒁋𒀕𒍃 𒈿𒅸𒈙𒋊𒄸𒊻](images/cotosans-cuneiform.svg)
+![ᨻᩈᨾᩁᨫᩓ ᨿᩃᩊᨯᩒᨹ ᨤᩏᨭᩀᨳᨢ ᨡᨧᨲᨺᨵᩌ ᨸᩎᨩᨶᩅᨨ](images/zotosans-taitham.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-cuneiform.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-taitham.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Inscriptional Pahlavi
+### Zoto Sans Tai Viet
 
-![𐭰𐭠𐭫𐭨𐭬𐭩 𐭢𐭧𐭯𐭦𐭣𐭤 𐭡𐭱𐭪𐭲𐭭𐭮 𐭥](images/cotosans-inscriptionalpahlavi.svg)
+![ꪕꪮꪃꪺꪄꪪ ꪅꪻꪍꪢꪠꪩ ꪔꪆꪶꪭꪯꪋ ꪇꪽꫛꪟꪛꫝ ꪒꪘꪚꪉꪌꪊ](images/zotosans-taiviet.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-inscriptionalpahlavi.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-taiviet.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Tai Le
+### Zoto Sans Tamil
 
-![ᥑᥪᥗᥢᥤᥡ ᥘᥥᥱᥩᥝᥔ ᥜᥣᥟᥬᥲᥙ ᥒᥴᥠᥖᥭᥕ ᥞᥳᥫᥨᥧᥚ](images/cotosans-taile.svg)
+![ஶஹௐஈஞட ஓணஎஙளய தஊஔஉஆற மசஒநவஸ ஏஐகழஜஷ](images/zotosans-tamil.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-taile.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tamil.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Imperial Aramaic
+### Zoto Sans Thaana
 
-![𐡑𐡀𐡈𐡉𐡄𐡁 𐡕𐡇𐡋𐡍𐡔𐡓 𐡆𐡎𐡅𐡏𐡒𐡂 𐡌𐡊𐡐𐡃](images/cotosans-imperialaramaic.svg)
+![ޘޢޚޝމޕ ލޱފވޔޖ ޣސބށޙޥ ޠޅޓޏޗޤ ކތހޛޡރ](images/zotosans-thaana.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-imperialaramaic.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-thaana.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Old Persian
+### Zoto Sans Tifinagh
 
-![𐎣𐏈𐎽𐎸𐎢𐎻 𐎷𐏊𐎳𐎱𐎵𐎩 𐎨𐏌𐎶𐎬𐎰𐏋 𐎾𐎠𐏀𐎺𐎿𐎦 𐏍𐏉𐎡𐎴𐎼𐎹](images/cotosans-oldpersian.svg)
+![ⴲⵢⵑⴿⴺⵉ ⵆⵅⵤⵕⴸⵞ ⴼⴵⴻⵍⵃⵄ ⵈⵐⴳⵛⵌⵖ ⵣⴴⵧⵓⵏⴹ](images/zotosans-tifinagh.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-oldpersian.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tifinagh.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Yi
+### Zoto Sans Ugaritic
 
-![ꋅꁪꁳꃬꂘꏦ ꅫꐕꌉꆂꉨꆌ ꆣꆋꋆꅐꆿꅠ ꎫꄇꅙꌤꋻꅱ ꉀꎲꇵꂭꋸꅝ](images/cotosans-yi.svg)
+![𐎍𐎒𐎁𐎓𐎔𐎋 𐎄𐎌𐎅𐎛𐎆𐎑 𐎊𐎐𐎜𐎝𐎏𐎘 𐎉𐎈𐎚𐎃𐎖𐎗 𐎇𐎕𐎙𐎀𐎂𐎎](images/zotosans-ugaritic.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-yi.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-ugaritic.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Brahmi
+### Zoto Sans Vai
 
-![𑀤𑀭𑀬𑀥𑀰𑀉 𑀐𑀨𑀘𑀟𑀫𑀕 𑀗𑀓𑀷𑀣𑀲𑀳 𑀃𑀎𑀒𑀍𑀌𑀦 𑀡𑀋𑀚𑀑𑀊𑀇](images/cotosans-brahmi.svg)
+![ꗌꕥꗍꕟꔆꕭ ꖡꔈꗚꗝꔴꖒ ꗦꔚꖏꕣꔼꕀ ꔋꕷꖢꕽꕑꗛ ꔳꘁꗮꖱꗫꖫ](images/zotosans-vai.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-brahmi.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-vai.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Lisu
+### Zoto Sans Yi
 
-![ꓞꓣꓓꓩꓑꓶ ꓵꓛꓦꓤꓺꓰ ꓲꓹꓢꓳꓽꓫ ꓱꓐꓝꓚꓒꓧ ꓡꓼꓗꓠꓭꓴ](images/cotosans-lisu.svg)
+![ꋅꁪꁳꃬꂘꏦ ꅫꐕꌉꆂꉨꆌ ꆣꆋꋆꅐꆿꅠ ꎫꄇꅙꌤꋻꅱ ꉀꎲꇵꂭꋸꅝ](images/zotosans-yi.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-lisu.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-yi.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans NKo
+### Zoto Serif Armenian
 
-![ߓߪߣߍߑߞ ߕߛߧߘߖߤ ߟߏߵߨߒߠ ߢߎߥߡߴߝ ߔߩߌߙߊߦ](images/cotosans-nko.svg)
+![ԽՉՒԿՂՅ ՏՂԸՄԵԻ էէզըքգ նբյթփպ թցզՙձծ](images/zotoserif-armenian.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-nko.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-armenian.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Carian
+### Zoto Serif Georgian
 
-![𐊨𐋁𐊭𐊦𐊳𐊤 𐊱𐋋𐋅𐋎𐋂𐊿 𐋏𐊾𐊢𐊵𐋆𐊠 𐋇𐊡𐊽𐋃𐊣𐊹 𐊬𐊸𐊫𐊷𐊩𐊻](images/cotosans-carian.svg)
+![ჁჼჅႧႶႴႲ ⴟშვⴌⴔⴠ ⴤⴆჰⴀⴈⴎ ⴟჶⴊⴚლგⴌ](images/zotoserif-georgian.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-carian.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-georgian.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Sans Meetei Mayek
+### Zoto Serif Khmer
 
-![ꫢꯐꫧꯝꯂꫡ ꯒꫠꯇꯙꯎꯋ ꯡꯍꫲꯈꫦꯏ ꯔꯕꫩꯜꯛꯖ ꯅꫥꯠꯢꯄꯗ](images/cotosans-meeteimayek.svg)
+![ឲយរឦញណ ឫខឥហសឭ ឳគងបឌឍ ថឧឈៗនធ ឡឆឯជឬឞ](images/zotoserif-khmer.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotosans/cotosans-meeteimayek.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-khmer.ttf){: target="_blank" }
 
 ---
 
 
-### Coto Emoji
+### Zoto Serif Lao
 
-![🎡💄🀄🈴😱🐞 🇰🈚👺🍉2🍃 🔨🐣👠🌟🎯✈ 🍪😁 🎈🍸🌼 🍷📧🐔󾓩🏄👶](images/coto-emoji.svg)
+![ໃຣຯສຕດ ຊຢມໝເຫ ໂນໄຝວແ ໞບຈພະລ ຟກໜຳຮໟ](images/zotoserif-lao.svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cotoemoji/coto-emoji.ttf){: target="_blank" }
-
----
-
-
-### GetGo Pixa Regular
-
-![A˪̀ͰϢЀ Ա֑؆܀ހߊऀ ঀஂഀกༀကᄀ Ꭰ᐀ ᚠ⠀ ⴰ⺔ぁァ](images/pixa.svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/pixa/pixa.ttf){: target="_blank" }
-
----
-
-
-### GetGo Veni Regular
-
-![ÂÌDÓŸM IXẂÛÀÔ éẁfwïi åúíkóö ùämõœl](images/veni.svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/veni/veni.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-lao.ttf){: target="_blank" }
 
 ---
 
@@ -788,51 +752,6 @@ Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/
 ![CMKSRJ ITSLBZ xhedha pqnnfv gprktw](images/baar.svg)
 
 Modular narrow display font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/baar/baar.ttf){: target="_blank" }
-
----
-
-
-### GG Plum Regular
-
-![CĞBJÌĂ ŒÃÑDPẂ ŷèãaâò ẅoîẁĳœ effvgý](images/plum[wght].svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/plum/plum[wght].ttf){: target="_blank" }
-
----
-
-
-### GetGo Deco ExtraLight
-
-![RIDSNC QUAMJV zifwlz matknh bopfxc](images/deco.svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/deco/deco.ttf){: target="_blank" }
-
----
-
-
-### GetGo Star Regular
-
-![СЪРГУЮ ЮДЁЯЭФ зфоляч хшйёцш ицщиач](images/star.svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/star/star.ttf){: target="_blank" }
-
----
-
-
-### GetGo Medi Regular
-
-![XLJWDB XAPQJK oilmfd eurnco evsywc](images/medi.svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/medi/medi.ttf){: target="_blank" }
-
----
-
-
-### GetGo Ocra Regular
-
-![KYXIZW PKOJG bpxhzb ｳｴｵｶｷ vlegms](images/ocra.svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/ocra/ocra.ttf){: target="_blank" }
 
 ---
 
@@ -855,10 +774,91 @@ Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/
 ---
 
 
+### GetGo Deco ExtraLight
+
+![RIDSNC QUAMJV zifwlz matknh bopfxc](images/deco.svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/deco/deco.ttf){: target="_blank" }
+
+---
+
+
+### GetGo Medi Regular
+
+![XLJWDB XAPQJK oilmfd eurnco evsywc](images/medi.svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/medi/medi.ttf){: target="_blank" }
+
+---
+
+
+### GetGo Ocra Regular
+
+![KYXIZW PKOJG bpxhzb ｳｴｵｶｷ vlegms](images/ocra.svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/ocra/ocra.ttf){: target="_blank" }
+
+---
+
+
+### GetGo Pixa Regular
+
+![A˪̀ͰϢЀ Ա֑؆܀ހߊऀ ঀஂഀกༀကᄀ Ꭰ᐀ ᚠ⠀ ⴰ⺔ぁァ](images/pixa.svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/pixa/pixa.ttf){: target="_blank" }
+
+---
+
+
+### GG Plum Regular
+
+![CĞBJÌĂ ŒÃÑDPẂ ŷèãaâò ẅoîẁĳœ effvgý](images/plum[wght].svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/plum/plum[wght].ttf){: target="_blank" }
+
+---
+
+
+### GetGo Star Regular
+
+![СЪРГУЮ ЮДЁЯЭФ зфоляч хшйёцш ицщиач](images/star.svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/star/star.ttf){: target="_blank" }
+
+---
+
+
+### GetGo Veni Regular
+
+![ÂÌDÓŸM IXẂÛÀÔ éẁfwïi åúíkóö ùämõœl](images/veni.svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/veni/veni.ttf){: target="_blank" }
+
+---
+
+
 ### GetGo Vize Regular
 
 ![AMXRZY CPLZLI eghxfj usaivo yqbpwn](images/vize.svg)
 
 Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/vize/vize.ttf){: target="_blank" }
+
+---
+
+
+### GG Stroke Chan OFL Italic
+
+![TLVUBG YKMMIP txnckj qixarh zpyegj](images/stroke-chan.svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/stroke-chan/stroke-chan.ttf){: target="_blank" }
+
+---
+
+
+### GG Stroke Grot OFL Regular
+
+![PJVNNX TQFBHI wuufªk ldmzea prxhºy](images/stroke-grot.svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/stroke-grot/stroke-grot.ttf){: target="_blank" }
 
 ---

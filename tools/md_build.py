@@ -265,7 +265,7 @@ class GetGoDocs(object):
     def __init__(self):
         self.paths = OrderedDict()
         self.redo = {}
-        self.redo['woff'] = False
+        self.redo['woff'] = True
         self.redo['yaml'] = False
         self.redo['sample_text'] = False
         self.redo['sample'] = True
@@ -292,6 +292,7 @@ class GetGoDocs(object):
         for self.path in self.folders['font'].glob('**/*.?tf'):
             self.path = self.path.resolve()
             self.paths[self.path] = {}
+        self.paths = OrderedDict(sorted(self.paths.items()))
 
     def process(self):
         with open(Path(self.folders['md'], 'prolog.md'), 'r', encoding='utf-8') as f:

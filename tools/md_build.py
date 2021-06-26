@@ -140,7 +140,7 @@ class GetGoFont(object):
     def get_font_css(self):
         url = str(self.woff_path).replace(
             str(self.folders['docs']),
-            str('..')
+            str('../..')
         )
         return f"""
 

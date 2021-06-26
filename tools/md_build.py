@@ -155,7 +155,7 @@ class GetGoFont(object):
         return f"""
 
 @font-face {{
-  font-family: '{self.family}';
+  font-family: '{self.full_name}';
   font-style: normal;
   font-weight: 400;
   font-display: swap;

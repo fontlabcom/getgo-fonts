@@ -233,15 +233,16 @@ class GetGoFont(object):
         im = im.crop((0, 0, 600, 56))
         im.save(self.png_path, 'PNG')
 
-    def get_md(self):
-        md = ''
+    def build_md(self):
+        self.index_md = ''
+        self.font_md = ''
         download_url = str(self.path).replace(
             str(self.folders['font']), self.url_bases['git_download']
             )
         svg_link = str(self.svg_path).replace(
             str(self.folders['docs']) + '/', ''
         )
-        md += f"""
+        self.index_md += f"""
 
 ### {self.full_name}
 """
@@ -259,7 +260,8 @@ class GetGoFont(object):
 ---
 """
 
-        return md
+        self.index_md += md_font_summary
+
 
     def process(self):
         self.build_scripts()
@@ -324,7 +326,8 @@ class GetGoDocs(object):
             drec['url']['svg'] = fo.get_download_url(fo.svg_path)
             drec['url']['png'] = fo.get_download_url(fo.png_path)
             self.font_css += fo.get_font_css()
-            self.md += fo.get_md()
+            fo.build_md()
+            self.md += fo.index_md
 
         with open(Path(self.folders['css'], 'fonts.scss'), 'w', encoding='utf-8') as f:
             f.write(self.font_css)

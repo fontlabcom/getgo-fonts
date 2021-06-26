@@ -3,7 +3,7 @@ description: The GetGo Fonts for FontLab is a collection of font files, which ar
 baseurl: "/getgo-fonts"
 url: "https://fontlabcom.github.io"
 logo: https://res.cloudinary.com/fontlab/image/fetch/f_auto,w_48,c_scale/https://www.fontlab.com/img/icon-fontlab-7.png
-theme: "just-the-docs"
+#theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 kramdown:

@@ -48,6 +48,6 @@ You may create your own fonts based on this font, and you may incorporate portio
 ## Character Map
 
 <div style="font-family: 'Zoto Sans Lao'; font-size: 2em;">
-! " # $ % & ' ( ) * + , - . / : ; < = > ? @   ; ກ ຂ ຄ ງ ຈ ຊ ຍ ດ ຕ ຖ ທ ນ ບ ປ ຜ ຝ ພ ຟ ມ ຢ ຣ ລ ວ ສ ຫ ອ ຮ ຯ ະ ັ າ ຳ ິ ີ ຶ ື ຸ ູ ົ ຼ ຽ ເ ແ ໂ ໃ ໄ ໆ ່ ້ ໊ ໋ ໌ ໍ ໜ ໝ ໞ ໟ ◌
+! " $ % & ' ( ) * + , - . / : ; < = > ? @   ; ກ ຂ ຄ ງ ຈ ຊ ຍ ດ ຕ ຖ ທ ນ ບ ປ ຜ ຝ ພ ຟ ມ ຢ ຣ ລ ວ ສ ຫ ອ ຮ ຯ ະ ັ າ ຳ ິ ີ ຶ ື ຸ ູ ົ ຼ ຽ ເ ແ ໂ ໃ ໄ ໆ ່ ້ ໊ ໋ ໌ ໍ ໜ ໝ ໞ ໟ ◌
 </div>
 

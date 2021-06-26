@@ -114,7 +114,7 @@ class GetGoFont(object):
         scripts_coverage = OrderedDict()
         unicodes = []
         for u in self.font.getBestCmap().keys():
-            if ucd.category(chr(u))[0] not in ('N', 'C') and u not in (0xFFFD,):
+            if ucd.category(chr(u))[0] not in ('N', 'C') and u not in (0xFFFD, 0x0023):
                 unicodes.append(u)
                 script = ucd.script(chr(u))
                 scripts[script] = scripts.get(script, 0) + 1

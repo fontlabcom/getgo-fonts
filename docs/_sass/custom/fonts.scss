@@ -1,11 +1,115 @@
 
 
 @font-face {
+  font-family: 'GetGo Baar';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../../fonts/baar.woff2) format('woff2');
+}
+
+@font-face {
   font-family: 'GG Boto';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
   src: url(../../fonts/boto.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GetGo Cosm';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../../fonts/cosm-italic[wght].woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GetGo Cosm';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../../fonts/cosm[wght].woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GetGo Deco';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../../fonts/deco.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GetGo Medi';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../../fonts/medi.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GetGo Ocra';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../../fonts/ocra.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GetGo Pixa';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../../fonts/pixa.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GG Plum';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../../fonts/plum[wght].woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GetGo Star';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../../fonts/star.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GG Stroke Chan OFL';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../../fonts/stroke-chan.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GG Stroke Grot OFL';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../../fonts/stroke-grot.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GetGo Veni';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../../fonts/veni.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GetGo Vize';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../../fonts/vize.woff2) format('woff2');
 }
 
 @font-face {
@@ -622,108 +726,4 @@
   font-weight: 400;
   font-display: swap;
   src: url(../../fonts/zotoserif-lao.woff2) format('woff2');
-}
-
-@font-face {
-  font-family: 'GetGo Baar';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(../../fonts/baar.woff2) format('woff2');
-}
-
-@font-face {
-  font-family: 'GetGo Cosm';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(../../fonts/cosm-italic[wght].woff2) format('woff2');
-}
-
-@font-face {
-  font-family: 'GetGo Cosm';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(../../fonts/cosm[wght].woff2) format('woff2');
-}
-
-@font-face {
-  font-family: 'GetGo Deco';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(../../fonts/deco.woff2) format('woff2');
-}
-
-@font-face {
-  font-family: 'GetGo Medi';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(../../fonts/medi.woff2) format('woff2');
-}
-
-@font-face {
-  font-family: 'GetGo Ocra';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(../../fonts/ocra.woff2) format('woff2');
-}
-
-@font-face {
-  font-family: 'GetGo Pixa';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(../../fonts/pixa.woff2) format('woff2');
-}
-
-@font-face {
-  font-family: 'GG Plum';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(../../fonts/plum[wght].woff2) format('woff2');
-}
-
-@font-face {
-  font-family: 'GetGo Star';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(../../fonts/star.woff2) format('woff2');
-}
-
-@font-face {
-  font-family: 'GetGo Veni';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(../../fonts/veni.woff2) format('woff2');
-}
-
-@font-face {
-  font-family: 'GetGo Vize';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(../../fonts/vize.woff2) format('woff2');
-}
-
-@font-face {
-  font-family: 'GG Stroke Chan OFL';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(../../fonts/stroke-chan.woff2) format('woff2');
-}
-
-@font-face {
-  font-family: 'GG Stroke Grot OFL';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(../../fonts/stroke-grot.woff2) format('woff2');
 }

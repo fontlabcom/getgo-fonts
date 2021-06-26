@@ -265,10 +265,10 @@ class GetGoDocs(object):
     def __init__(self):
         self.paths = OrderedDict()
         self.redo = {}
-        self.redo['woff'] = True
+        self.redo['woff'] = False
         self.redo['yaml'] = False
         self.redo['sample_text'] = False
-        self.redo['sample'] = True
+        self.redo['sample'] = False
         self.folders = {}
         self.folders['root'] = Path(Path(__file__).parent, '..').resolve()
         self.folders['font'] = Path(self.folders['root'], 'getgo-fonts').resolve()
@@ -292,7 +292,8 @@ class GetGoDocs(object):
         for self.path in self.folders['font'].glob('**/*.?tf'):
             self.path = self.path.resolve()
             self.paths[self.path] = {}
-        self.paths = OrderedDict(sorted(self.paths.items()))
+        sorted_paths = sorted(self.paths.keys(), key=lambda p: p.stem)
+        self.paths = OrderedDict((key, self.paths[key]) for key in sorted_paths)
 
     def process(self):
         with open(Path(self.folders['md'], 'prolog.md'), 'r', encoding='utf-8') as f:

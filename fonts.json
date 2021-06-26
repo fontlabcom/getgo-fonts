@@ -1,4 +1,22 @@
 {
+    "GetGo Baar Regular": {
+        "full_name": "GetGo Baar Regular",
+        "family_name": "GetGo Baar",
+        "copyright": "Copyright Echo Heo 2021",
+        "license": "CC-0",
+        "description": "Modular narrow display font",
+        "scripts": [
+            "Latin"
+        ],
+        "sample_text": "CMKSRJ ITSLBZ xhedha pqnnfv gprktw",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/baar.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.png"
+        }
+    },
     "GG Boto Regular": {
         "full_name": "GG Boto Regular",
         "family_name": "GG Boto",
@@ -17,6 +35,251 @@
             "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto.md",
             "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/boto.svg",
             "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto.png"
+        }
+    },
+    "GetGo Cosm Italic": {
+        "full_name": "GetGo Cosm Italic",
+        "family_name": "GetGo Cosm",
+        "copyright": "No Rights Reserved.",
+        "license": "CC-0",
+        "description": "Font",
+        "scripts": [
+            "Latin"
+        ],
+        "sample_text": "ĽÕFIĶŸÊ ŊŲĦŊŤĮ ýäġţťț yșœśôá vûūâŧô",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cosm-italic[wght].svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].png"
+        }
+    },
+    "GetGo Cosm Regular": {
+        "full_name": "GetGo Cosm Regular",
+        "family_name": "GetGo Cosm",
+        "copyright": "No Rights Reserved.",
+        "license": "CC-0",
+        "description": "Font",
+        "scripts": [
+            "Latin"
+        ],
+        "sample_text": "ŪỲÆÑŪŔ ĖÈØŎXĴ nękćzę hŷěìăĥ oșőűng",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cosm[wght].svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].png"
+        }
+    },
+    "GetGo Deco ExtraLight": {
+        "full_name": "GetGo Deco ExtraLight",
+        "family_name": "GetGo Deco",
+        "copyright": "No Rights Reserved.",
+        "license": "CC-0",
+        "description": "Font",
+        "scripts": [
+            "Latin"
+        ],
+        "sample_text": "RIDSNC QUAMJV zifwlz matknh bopfxc",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/deco.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.png"
+        }
+    },
+    "GetGo Medi Regular": {
+        "full_name": "GetGo Medi Regular",
+        "family_name": "GetGo Medi",
+        "copyright": "No Rights Reserved.",
+        "license": "CC-0",
+        "description": "Font",
+        "scripts": [
+            "Latin"
+        ],
+        "sample_text": "XLJWDB XAPQJK oilmfd eurnco evsywc",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/medi.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.png"
+        }
+    },
+    "GetGo Ocra Regular": {
+        "full_name": "GetGo Ocra Regular",
+        "family_name": "GetGo Ocra",
+        "copyright": "OCR-AK, 2018 Retorillo (CC0)\nOCR-A, 2018 Jonh Sauter (CC0)\nOCR-BKxStd, 2010 force4u (CC0)",
+        "license": "CC-0",
+        "description": "Font",
+        "scripts": [
+            "Latin",
+            "Katakana"
+        ],
+        "sample_text": "KYXIZW PKOJG bpxhzb ｳｴｵｶｷ vlegms",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/ocra.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.png"
+        }
+    },
+    "GetGo Pixa Regular": {
+        "full_name": "GetGo Pixa Regular",
+        "family_name": "GetGo Pixa",
+        "copyright": "Copyright Khalfani 2017",
+        "license": "CC-0",
+        "description": "Font",
+        "scripts": [
+            "Han",
+            "Hangul",
+            "Latin",
+            "Canadian Aboriginal",
+            "Greek",
+            "Cyrillic",
+            "Arabic",
+            "Katakana",
+            "Myanmar",
+            "Coptic",
+            "Devanagari",
+            "Cherokee",
+            "Armenian",
+            "Hiragana",
+            "Hebrew",
+            "Runic",
+            "Bengali",
+            "Syriac",
+            "Thai",
+            "Braille",
+            "Tamil",
+            "Tifinagh",
+            "Nko",
+            "Thaana",
+            "Tibetan",
+            "Ogham",
+            "Bopomofo",
+            "Malayalam"
+        ],
+        "sample_text": "A˪̀ͰϢЀ Ա֑؆܀ހߊऀ ঀஂഀกༀကᄀ Ꭰ᐀ ᚠ⠀ ⴰ⺔ぁァ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/pixa.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.png"
+        }
+    },
+    "GG Plum Regular": {
+        "full_name": "GG Plum Regular",
+        "family_name": "GG Plum",
+        "copyright": "",
+        "license": "CC-0",
+        "description": "Font",
+        "scripts": [
+            "Latin"
+        ],
+        "sample_text": "CĞBJÌĂ ŒÃÑDPẂ ŷèãaâò ẅoîẁĳœ effvgý",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/plum[wght].svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].png"
+        }
+    },
+    "GetGo Star Regular": {
+        "full_name": "GetGo Star Regular",
+        "family_name": "GetGo Star",
+        "copyright": "Copyright Dmitriy Sychiov 2021\n“Daily Double” by “Quinn Davis” (https://fontstruct.com/fontstructors/show/1507185/sonicfontshd)",
+        "license": "CC-0",
+        "description": "Font",
+        "scripts": [
+            "Cyrillic",
+            "Latin"
+        ],
+        "sample_text": "СЪРГУЮ ЮДЁЯЭФ зфоляч хшйёцш ицщиач",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/star/star.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/star/star.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/star/star.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/star.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/star/star.png"
+        }
+    },
+    "GG Stroke Chan OFL Italic": {
+        "full_name": "GG Stroke Chan OFL Italic",
+        "family_name": "GG Stroke Chan OFL",
+        "copyright": "Copyright 2013 The Alegreya Sans Project Authors (https://github.com/huertatipografica/Alegreya-Sans)",
+        "license": "OFL",
+        "description": "Font",
+        "scripts": [
+            "Latin"
+        ],
+        "sample_text": "TLVUBG YKMMIP txnckj qixarh zpyegj",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/stroke-chan.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.png"
+        }
+    },
+    "GG Stroke Grot OFL Regular": {
+        "full_name": "GG Stroke Grot OFL Regular",
+        "family_name": "GG Stroke Grot OFL",
+        "copyright": "Copyright © 2015 by Wei Huang.  All rights reserved.",
+        "license": "OFL",
+        "description": "Font",
+        "scripts": [
+            "Latin"
+        ],
+        "sample_text": "PJVNNX TQFBHI wuufªk ldmzea prxhºy",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/stroke-grot.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.png"
+        }
+    },
+    "GetGo Veni Regular": {
+        "full_name": "GetGo Veni Regular",
+        "family_name": "GetGo Veni",
+        "copyright": "No Rights Reserved.",
+        "license": "CC-0",
+        "description": "Font",
+        "scripts": [
+            "Latin"
+        ],
+        "sample_text": "ÂÌDÓŸM IXẂÛÀÔ éẁfwïi åúíkóö ùämõœl",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/veni.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.png"
+        }
+    },
+    "GetGo Vize Regular": {
+        "full_name": "GetGo Vize Regular",
+        "family_name": "GetGo Vize",
+        "copyright": "No Rights Reserved.",
+        "license": "CC-0",
+        "description": "Font",
+        "scripts": [
+            "Latin"
+        ],
+        "sample_text": "AMXRZY CPLZLI eghxfj usaivo yqbpwn",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/vize.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.png"
         }
     },
     "Coto Emoji": {
@@ -1429,269 +1692,6 @@
             "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoserif/zotoserif-lao.md",
             "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/zotoserif-lao.svg",
             "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoserif/zotoserif-lao.png"
-        }
-    },
-    "GetGo Baar Regular": {
-        "full_name": "GetGo Baar Regular",
-        "family_name": "GetGo Baar",
-        "copyright": "Copyright Echo Heo 2021",
-        "license": "CC-0",
-        "description": "Modular narrow display font",
-        "scripts": [
-            "Latin"
-        ],
-        "sample_text": "CMKSRJ ITSLBZ xhedha pqnnfv gprktw",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/baar.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/baar/baar.png"
-        }
-    },
-    "GetGo Cosm Italic": {
-        "full_name": "GetGo Cosm Italic",
-        "family_name": "GetGo Cosm",
-        "copyright": "No Rights Reserved.",
-        "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin"
-        ],
-        "sample_text": "ĽÕFIĶŸÊ ŊŲĦŊŤĮ ýäġţťț yșœśôá vûūâŧô",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cosm-italic[wght].svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].png"
-        }
-    },
-    "GetGo Cosm Regular": {
-        "full_name": "GetGo Cosm Regular",
-        "family_name": "GetGo Cosm",
-        "copyright": "No Rights Reserved.",
-        "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin"
-        ],
-        "sample_text": "ŪỲÆÑŪŔ ĖÈØŎXĴ nękćzę hŷěìăĥ oșőűng",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cosm[wght].svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].png"
-        }
-    },
-    "GetGo Deco ExtraLight": {
-        "full_name": "GetGo Deco ExtraLight",
-        "family_name": "GetGo Deco",
-        "copyright": "No Rights Reserved.",
-        "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin"
-        ],
-        "sample_text": "RIDSNC QUAMJV zifwlz matknh bopfxc",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/deco.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.png"
-        }
-    },
-    "GetGo Medi Regular": {
-        "full_name": "GetGo Medi Regular",
-        "family_name": "GetGo Medi",
-        "copyright": "No Rights Reserved.",
-        "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin"
-        ],
-        "sample_text": "XLJWDB XAPQJK oilmfd eurnco evsywc",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/medi.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/medi/medi.png"
-        }
-    },
-    "GetGo Ocra Regular": {
-        "full_name": "GetGo Ocra Regular",
-        "family_name": "GetGo Ocra",
-        "copyright": "OCR-AK, 2018 Retorillo (CC0)\nOCR-A, 2018 Jonh Sauter (CC0)\nOCR-BKxStd, 2010 force4u (CC0)",
-        "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin",
-            "Katakana"
-        ],
-        "sample_text": "KYXIZW PKOJG bpxhzb ｳｴｵｶｷ vlegms",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/ocra.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/ocra/ocra.png"
-        }
-    },
-    "GetGo Pixa Regular": {
-        "full_name": "GetGo Pixa Regular",
-        "family_name": "GetGo Pixa",
-        "copyright": "Copyright Khalfani 2017",
-        "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Han",
-            "Hangul",
-            "Latin",
-            "Canadian Aboriginal",
-            "Greek",
-            "Cyrillic",
-            "Arabic",
-            "Katakana",
-            "Myanmar",
-            "Coptic",
-            "Devanagari",
-            "Cherokee",
-            "Armenian",
-            "Hiragana",
-            "Hebrew",
-            "Runic",
-            "Bengali",
-            "Syriac",
-            "Thai",
-            "Braille",
-            "Tamil",
-            "Tifinagh",
-            "Nko",
-            "Thaana",
-            "Tibetan",
-            "Ogham",
-            "Bopomofo",
-            "Malayalam"
-        ],
-        "sample_text": "A˪̀ͰϢЀ Ա֑؆܀ހߊऀ ঀஂഀกༀကᄀ Ꭰ᐀ ᚠ⠀ ⴰ⺔ぁァ",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/pixa.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/pixa/pixa.png"
-        }
-    },
-    "GG Plum Regular": {
-        "full_name": "GG Plum Regular",
-        "family_name": "GG Plum",
-        "copyright": "",
-        "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin"
-        ],
-        "sample_text": "CĞBJÌĂ ŒÃÑDPẂ ŷèãaâò ẅoîẁĳœ effvgý",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/plum[wght].svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].png"
-        }
-    },
-    "GetGo Star Regular": {
-        "full_name": "GetGo Star Regular",
-        "family_name": "GetGo Star",
-        "copyright": "Copyright Dmitriy Sychiov 2021\n“Daily Double” by “Quinn Davis” (https://fontstruct.com/fontstructors/show/1507185/sonicfontshd)",
-        "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Cyrillic",
-            "Latin"
-        ],
-        "sample_text": "СЪРГУЮ ЮДЁЯЭФ зфоляч хшйёцш ицщиач",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/star/star.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/star/star.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/star/star.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/star.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/star/star.png"
-        }
-    },
-    "GetGo Veni Regular": {
-        "full_name": "GetGo Veni Regular",
-        "family_name": "GetGo Veni",
-        "copyright": "No Rights Reserved.",
-        "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin"
-        ],
-        "sample_text": "ÂÌDÓŸM IXẂÛÀÔ éẁfwïi åúíkóö ùämõœl",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/veni.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/veni/veni.png"
-        }
-    },
-    "GetGo Vize Regular": {
-        "full_name": "GetGo Vize Regular",
-        "family_name": "GetGo Vize",
-        "copyright": "No Rights Reserved.",
-        "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin"
-        ],
-        "sample_text": "AMXRZY CPLZLI eghxfj usaivo yqbpwn",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/vize.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/vize/vize.png"
-        }
-    },
-    "GG Stroke Chan OFL Italic": {
-        "full_name": "GG Stroke Chan OFL Italic",
-        "family_name": "GG Stroke Chan OFL",
-        "copyright": "Copyright 2013 The Alegreya Sans Project Authors (https://github.com/huertatipografica/Alegreya-Sans)",
-        "license": "OFL",
-        "description": "Font",
-        "scripts": [
-            "Latin"
-        ],
-        "sample_text": "TLVUBG YKMMIP txnckj qixarh zpyegj",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/stroke-chan.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-chan/stroke-chan.png"
-        }
-    },
-    "GG Stroke Grot OFL Regular": {
-        "full_name": "GG Stroke Grot OFL Regular",
-        "family_name": "GG Stroke Grot OFL",
-        "copyright": "Copyright © 2015 by Wei Huang.  All rights reserved.",
-        "license": "OFL",
-        "description": "Font",
-        "scripts": [
-            "Latin"
-        ],
-        "sample_text": "PJVNNX TQFBHI wuufªk ldmzea prxhºy",
-        "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/stroke-grot.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/stroke-grot/stroke-grot.png"
         }
     }
 }

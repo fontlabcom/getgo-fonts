@@ -45,11 +45,128 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 
 
+### GetGo Baar Regular
+
+![CMKSRJ ITSLBZ xhedha pqnnfv gprktw](images/baar.svg)
+
+Modular narrow display font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/baar/baar.ttf){: target="_blank" }
+
+---
+
+
 ### GG Boto Regular
 
 ![Vältože бомуще θρώπον çavatečkul](images/boto.svg)
 
 Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/boto/boto.ttf){: target="_blank" }
+
+---
+
+
+### GetGo Cosm Italic
+
+![ĽÕFIĶŸÊ ŊŲĦŊŤĮ ýäġţťț yșœśôá vûūâŧô](images/cosm-italic[wght].svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm-italic[wght].ttf){: target="_blank" }
+
+---
+
+
+### GetGo Cosm Regular
+
+![ŪỲÆÑŪŔ ĖÈØŎXĴ nękćzę hŷěìăĥ oșőűng](images/cosm[wght].svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm[wght].ttf){: target="_blank" }
+
+---
+
+
+### GetGo Deco ExtraLight
+
+![RIDSNC QUAMJV zifwlz matknh bopfxc](images/deco.svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/deco/deco.ttf){: target="_blank" }
+
+---
+
+
+### GetGo Medi Regular
+
+![XLJWDB XAPQJK oilmfd eurnco evsywc](images/medi.svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/medi/medi.ttf){: target="_blank" }
+
+---
+
+
+### GetGo Ocra Regular
+
+![KYXIZW PKOJG bpxhzb ｳｴｵｶｷ vlegms](images/ocra.svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/ocra/ocra.ttf){: target="_blank" }
+
+---
+
+
+### GetGo Pixa Regular
+
+![A˪̀ͰϢЀ Ա֑؆܀ހߊऀ ঀஂഀกༀကᄀ Ꭰ᐀ ᚠ⠀ ⴰ⺔ぁァ](images/pixa.svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/pixa/pixa.ttf){: target="_blank" }
+
+---
+
+
+### GG Plum Regular
+
+![CĞBJÌĂ ŒÃÑDPẂ ŷèãaâò ẅoîẁĳœ effvgý](images/plum[wght].svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/plum/plum[wght].ttf){: target="_blank" }
+
+---
+
+
+### GetGo Star Regular
+
+![СЪРГУЮ ЮДЁЯЭФ зфоляч хшйёцш ицщиач](images/star.svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/star/star.ttf){: target="_blank" }
+
+---
+
+
+### GG Stroke Chan OFL Italic
+
+![TLVUBG YKMMIP txnckj qixarh zpyegj](images/stroke-chan.svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/stroke-chan/stroke-chan.ttf){: target="_blank" }
+
+---
+
+
+### GG Stroke Grot OFL Regular
+
+![PJVNNX TQFBHI wuufªk ldmzea prxhºy](images/stroke-grot.svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/stroke-grot/stroke-grot.ttf){: target="_blank" }
+
+---
+
+
+### GetGo Veni Regular
+
+![ÂÌDÓŸM IXẂÛÀÔ éẁfwïi åúíkóö ùämõœl](images/veni.svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/veni/veni.ttf){: target="_blank" }
+
+---
+
+
+### GetGo Vize Regular
+
+![AMXRZY CPLZLI eghxfj usaivo yqbpwn](images/vize.svg)
+
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/vize/vize.ttf){: target="_blank" }
 
 ---
 
@@ -743,122 +860,5 @@ Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/
 ![ໃຣຯສຕດ ຊຢມໝເຫ ໂນໄຝວແ ໞບຈພະລ ຟກໜຳຮໟ](images/zotoserif-lao.svg)
 
 Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-lao.ttf){: target="_blank" }
-
----
-
-
-### GetGo Baar Regular
-
-![CMKSRJ ITSLBZ xhedha pqnnfv gprktw](images/baar.svg)
-
-Modular narrow display font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/baar/baar.ttf){: target="_blank" }
-
----
-
-
-### GetGo Cosm Italic
-
-![ĽÕFIĶŸÊ ŊŲĦŊŤĮ ýäġţťț yșœśôá vûūâŧô](images/cosm-italic[wght].svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm-italic[wght].ttf){: target="_blank" }
-
----
-
-
-### GetGo Cosm Regular
-
-![ŪỲÆÑŪŔ ĖÈØŎXĴ nękćzę hŷěìăĥ oșőűng](images/cosm[wght].svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm[wght].ttf){: target="_blank" }
-
----
-
-
-### GetGo Deco ExtraLight
-
-![RIDSNC QUAMJV zifwlz matknh bopfxc](images/deco.svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/deco/deco.ttf){: target="_blank" }
-
----
-
-
-### GetGo Medi Regular
-
-![XLJWDB XAPQJK oilmfd eurnco evsywc](images/medi.svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/medi/medi.ttf){: target="_blank" }
-
----
-
-
-### GetGo Ocra Regular
-
-![KYXIZW PKOJG bpxhzb ｳｴｵｶｷ vlegms](images/ocra.svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/ocra/ocra.ttf){: target="_blank" }
-
----
-
-
-### GetGo Pixa Regular
-
-![A˪̀ͰϢЀ Ա֑؆܀ހߊऀ ঀஂഀกༀကᄀ Ꭰ᐀ ᚠ⠀ ⴰ⺔ぁァ](images/pixa.svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/pixa/pixa.ttf){: target="_blank" }
-
----
-
-
-### GG Plum Regular
-
-![CĞBJÌĂ ŒÃÑDPẂ ŷèãaâò ẅoîẁĳœ effvgý](images/plum[wght].svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/plum/plum[wght].ttf){: target="_blank" }
-
----
-
-
-### GetGo Star Regular
-
-![СЪРГУЮ ЮДЁЯЭФ зфоляч хшйёцш ицщиач](images/star.svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/star/star.ttf){: target="_blank" }
-
----
-
-
-### GetGo Veni Regular
-
-![ÂÌDÓŸM IXẂÛÀÔ éẁfwïi åúíkóö ùämõœl](images/veni.svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/veni/veni.ttf){: target="_blank" }
-
----
-
-
-### GetGo Vize Regular
-
-![AMXRZY CPLZLI eghxfj usaivo yqbpwn](images/vize.svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/vize/vize.ttf){: target="_blank" }
-
----
-
-
-### GG Stroke Chan OFL Italic
-
-![TLVUBG YKMMIP txnckj qixarh zpyegj](images/stroke-chan.svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/stroke-chan/stroke-chan.ttf){: target="_blank" }
-
----
-
-
-### GG Stroke Grot OFL Regular
-
-![PJVNNX TQFBHI wuufªk ldmzea prxhºy](images/stroke-grot.svg)
-
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/stroke-grot/stroke-grot.ttf){: target="_blank" }
 
 ---

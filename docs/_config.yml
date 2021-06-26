@@ -1,6 +1,32 @@
 title: "GetGo fonts"
+logo: https://res.cloudinary.com/fontlab/image/fetch/f_auto,w_48,c_scale/https://www.fontlab.com/img/icon-fontlab-7.png
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: false
 kramdown:
   parse_block_html: true
+heading_anchors: true
+footer_content: "Site copyright &copy; 2021 Fontlab Ltd. Fonts are copyright of their respective rights owners. See license details for each font."
+
+aux_links:
+  "FontLab.com":
+    - "https://www.fontlab.com/"
+  "FontLab 7":
+    - "https://www.fontlab.com/font-editor/fontlab/"
+  "FontLab Help":
+    - "https://help.fontlab.com/"
+  "FontLab Videos":
+    - "http://fontlab.tv/"
+  "Buy":
+    - "https://store.fontlab.com/"
+  "Support":
+    - "https://support.fontlab.com/"
+  "Forum":
+    - "https://forum.fontlab.com/"
+  "Blog":
+    - "https://blog.fontlab.com/"
+  "Contact":
+    - "https://www.fontlab.com/contact/"
+  "About Us":
+    - "https://www.fontlab.com/about/"
+aux_links_new_tab: true

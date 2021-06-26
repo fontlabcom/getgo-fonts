@@ -234,13 +234,16 @@ class GetGoFont(object):
 
     def get_md(self):
         md = ''
+        download_url = str(self.path).replace(
+            str(self.folders['font']), self.url_bases['git_download']
+            )
         md += f"""
 
 ### {self.full_name}
 
 <p style="font-family:'{self.full_name}'">{self.metadata["sample_text"]}</p>
 
-{self.metadata["description"]}
+{self.metadata["description"]} | [Download font]({download_url})
 
 ---
 """

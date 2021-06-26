@@ -254,6 +254,7 @@ class GetGoDocs(object):
             drec['url']['svg'] = fo.get_download_url(fo.svg_path)
             drec['url']['png'] = fo.get_download_url(fo.png_path)
             self.font_css += fo.get_font_css()
+            
 
         with open(Path(self.folders['css'], 'fonts.css'), 'w', encoding='utf-8') as f:
             f.write(self.font_css)

@@ -6,27 +6,11 @@ search_enabled: false
 kramdown:
   parse_block_html: true
 heading_anchors: true
-footer_content: "Site copyright &copy; 2021 Fontlab Ltd. Fonts are copyright of their respective rights owners. See license details for each font."
+collections:
+  pages:
+    output: true
+    permalink: /:path/
 
-# aux_links:
-#   "FontLab.com":
-#     - "https://www.fontlab.com/"
-#   "FontLab 7":
-#     - "https://www.fontlab.com/font-editor/fontlab/"
-#   "Help":
-#     - "https://help.fontlab.com/"
-#   "Videos":
-#     - "http://fontlab.tv/"
-#   "Buy":
-#     - "https://store.fontlab.com/"
-#   "Support":
-#     - "https://support.fontlab.com/"
-#   "Forum":
-#     - "https://forum.fontlab.com/"
-#   "Blog":
-#     - "https://blog.fontlab.com/"
-#   "Contact":
-#     - "https://www.fontlab.com/contact/"
-#   "About":
-#     - "https://www.fontlab.com/about/"
-# aux_links_new_tab: true
+permalink: pretty
+
+footer_content: "Site copyright &copy; 2021 Fontlab Ltd. Fonts are copyright of their respective rights owners. See license details for each font."

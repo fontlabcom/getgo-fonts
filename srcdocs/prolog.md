@@ -5,8 +5,7 @@ The GetGo fonts are suitable for starting your own font project in FontLab.
 
 ## Download
 
-[Download](https://github.com/fontlabcom/getgo-fonts/archive/refs/heads/main.zip){.uk-button .uk-button-default}
-
+[Download all fonts](https://github.com/fontlabcom/getgo-fonts/archive/refs/heads/main.zip){: .btn .btn-purple }
 
 ## Licenses
 

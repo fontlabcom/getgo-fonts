@@ -45,13 +45,13 @@ class GetGoFont(object):
             self.path.parent, str(self.path.stem) + '.md'
         ).resolve()
         self.svg_path = Path(
-            self.path.parent, str(self.path.stem) + '.svg'
+            self.folders['svg'], str(self.path.stem) + '.svg'
         ).resolve()
         self.png_path = Path(
             self.path.parent, str(self.path.stem) + '.png'
         ).resolve()
         self.woff_path = Path(
-            self.folders['woff'], self.path.stem + '.woff2'
+            self.folders['woff'], str(self.path.stem) + '.woff2'
         ).resolve()
         self.yaml_path = Path(
             self.path.parent, str(self.path.stem) + '.yaml'
@@ -237,13 +237,16 @@ class GetGoFont(object):
         download_url = str(self.path).replace(
             str(self.folders['font']), self.url_bases['git_download']
             )
+        svg_link = str(self.svg_path).replace(
+            str(self.folders['docs']) + '/', ''
+        )
         md += f"""
 
 ### {self.full_name}
 
-<p style="font-family:'{self.full_name}'">{self.metadata["sample_text"]}</p>
+![{self.metadata["sample_text"]}]({svg_link})
 
-{self.metadata["description"]} | [Download font]({download_url})
+{self.metadata["description"]} \| [Download font]({download_url})
 
 ---
 """
@@ -265,13 +268,14 @@ class GetGoDocs(object):
         self.redo['woff'] = False
         self.redo['yaml'] = False
         self.redo['sample_text'] = False
-        self.redo['sample'] = False
+        self.redo['sample'] = True
         self.folders = {}
         self.folders['root'] = Path(Path(__file__).parent, '..').resolve()
         self.folders['font'] = Path(self.folders['root'], 'getgo-fonts').resolve()
         self.folders['md'] = Path(self.folders['root'], 'srcdocs').resolve()
         self.folders['docs'] = Path(self.folders['root'], 'docs').resolve()
         self.folders['woff'] = Path(self.folders['docs'], 'fonts').resolve()
+        self.folders['svg'] = Path(self.folders['docs'], 'images').resolve()
         self.folders['css'] = Path(self.folders['docs'], 'css').resolve()
 
         self.url_bases = {}
@@ -325,6 +329,7 @@ class GetGoDocs(object):
 
 def main():
     ggd = GetGoDocs()
+    ggd.redo['sample'] = False
     ggd.make()
 
 if __name__ == '__main__':

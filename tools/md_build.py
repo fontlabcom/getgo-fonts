@@ -45,7 +45,7 @@ class GetGoFont(object):
             self.path.parent, str(self.path.stem) + '.md'
         ).resolve()
         self.md_outpath = Path(
-            self.folders['docs'], '_pages', str(self.path.stem).replace(
+            self.folders['docs'], str(self.path.stem).replace(
                 '[', '-').replace(']', '-') + '.md'
         ).resolve()
         self.svg_path = Path(
@@ -69,7 +69,7 @@ class GetGoFont(object):
         self.full_name = self.get_full_name()
         self.copyright = self.get_copyright()
         self.license = self.get_license()
-        self.unicodes = sorted(list(self.font.getBestCmap().keys()))
+        self.unicodes = []
         self.glyphs_count = len(self.font.getGlyphSet().keys())
         self.scripts = OrderedDict()
         self.script_names = OrderedDict()
@@ -77,7 +77,6 @@ class GetGoFont(object):
         self.index_md = ''
         self.font_md = ''
         self.process()
-
 
     def get_download_url(self, path):
         url = str(path).replace(
@@ -115,11 +114,14 @@ class GetGoFont(object):
     def build_scripts(self):
         scripts = OrderedDict()
         scripts_coverage = OrderedDict()
-        for u in self.unicodes:
-            if ucd.category(chr(u))[0] not in ('N', 'C'):
+        unicodes = []
+        for u in self.font.getBestCmap().keys():
+            if ucd.category(chr(u))[0] not in ('N', 'C') and u not in (0xFFFD,):
+                unicodes.append(u)
                 script = ucd.script(chr(u))
                 scripts[script] = scripts.get(script, 0) + 1
                 scripts_coverage[script] = scripts_coverage.get(script, []) + [u]
+        self.unicodes = sorted(unicodes)
         scripts = OrderedDict(sorted(
             scripts.items(), key=lambda t: t[1], reverse=True
         ))
@@ -267,14 +269,16 @@ class GetGoFont(object):
 ---
 """
 
-        self.font_md += f"""
+        self.font_md += f"""---
+layout: default
+title: "{self.full_name}"
 ---
-layout: page
-title: "{self.full_name} — GetGo Fonts for FontLab"
----
+
 # {self.full_name}
 
-![{self.metadata["sample_text"]}]({svg_link})
+<div contenteditable="true" style="font-family: {self.full_name}; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
+{self.metadata["sample_text"]}
+</div>
 
 [Download FontLab VFJ]({download_url}){{: .btn .btn-purple target="_blank" }}
 
@@ -286,8 +290,10 @@ title: "{self.full_name} — GetGo Fonts for FontLab"
 
 ---
 
+## Character Map
+
 <div style="font-family: {self.full_name}; font-size: 2em;">
-{" ".join([chr(u) for u in self.unicodes])}
+{" ".join([chr(u) for u in self.unicodes]).strip()}
 </div>
 
 """

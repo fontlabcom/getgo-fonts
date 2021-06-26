@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: default
 title: "GetGo Fonts for FontLab"
+nav_order: 1
 ---
+
 # GetGo Fonts for FontLab
 
 The GetGo fonts are suitable for starting your own font project in FontLab 7.

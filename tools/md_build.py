@@ -246,7 +246,7 @@ class GetGoFont(object):
 
 ### {self.full_name}
 """
-        md_font_description = f"""license: {self.license} | {self.metadata["description"]} \| glyphs: {self.glyphs_count} \| scripts: {", ".join(self.script_names)}"""
+        md_font_description = f"""license: {self.license} \| {self.metadata["description"]} \| glyphs: {self.glyphs_count} \| scripts: {", ".join(self.script_names)}"""
 
         md_font_summary = f"""
 

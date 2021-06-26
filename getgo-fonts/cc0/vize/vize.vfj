@@ -2032,6 +2032,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -2178,6 +2181,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -3130,6 +3136,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -4287,6 +4296,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -4516,6 +4528,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -5812,6 +5827,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -6342,7 +6360,7 @@
     "info":{
       "tfn":"GG Vize",
       "sgn":"GG Vize",
-      "creationDate":"2007/07/13 08:23:00",
+      "creationDate":"2007/07/13 09:23:00",
       "copyright":"No Rights Reserved.",
       "trademark":"None.",
       "designer":"Sora Sagano",
@@ -6363,7 +6381,7 @@
     "meta":{
       "metaCreator":true,
       "metaFormatVersion":8,
-      "metaBuild":"7649"
+      "metaBuild":"7840"
     },
     "settings":{
       "settings.RoundCoordinates":"round"
@@ -6374,8 +6392,8 @@
           "name":"Regular",
           "tsn":"Regular",
           "sgn":"GG Vize",
-          "ffn":"GG Vize Regular",
-          "psn":"GGVize-Regular",
+          "ffn":"GG Vize",
+          "psn":"GGVize",
           "weight_name":"Regular",
           "width_name":"Normal",
           "slope_name":"Plain",
@@ -6400,7 +6418,7 @@
             "HintingMaxV":250,
             "HintingMinH":20,
             "HintingMinV":20,
-            "OS2UseTypoMetrics":0,
+            "OS2UseTypoMetrics":false,
             "ProcessLoops":false,
             "TtHinter":1,
             "TtHorizSmoothing":0,

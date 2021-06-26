@@ -91,6 +91,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -1947,6 +1950,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -2658,6 +2664,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -2800,6 +2809,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               },
               {
@@ -2832,6 +2844,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -2861,6 +2876,9 @@
                   "component":{
                     "glyphName":"D"
                   }
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -3144,6 +3162,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -4650,6 +4671,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -5406,6 +5430,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -6726,6 +6753,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -6852,6 +6882,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -7085,6 +7118,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -7936,6 +7972,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -8687,6 +8726,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -10471,6 +10513,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -10628,6 +10673,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -11165,6 +11213,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -11857,6 +11908,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -12480,6 +12534,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -14226,6 +14283,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -14976,6 +15036,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -15617,6 +15680,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -16168,6 +16234,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -17986,6 +18055,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -18689,6 +18761,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -19203,6 +19278,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -20679,6 +20757,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -21402,7 +21483,10 @@
                     "glyphName":"dotlessi"
                   }
                 },
-                "locked":true
+                "locked":true,
+                "stroke":{
+                  "thickness":1
+                }
               },
               {
                 "elementData":{
@@ -21414,7 +21498,10 @@
                   "xOffset":59
                 },
                 "locked":true,
-                "nonSpacing":true
+                "nonSpacing":true,
+                "stroke":{
+                  "thickness":1
+                }
               }
             ],
             "anchors":[
@@ -21449,7 +21536,10 @@
                     "glyphName":"dotlessi"
                   }
                 },
-                "locked":true
+                "locked":true,
+                "stroke":{
+                  "thickness":1
+                }
               },
               {
                 "elementData":{
@@ -21461,7 +21551,10 @@
                   "xOffset":36
                 },
                 "locked":true,
-                "nonSpacing":true
+                "nonSpacing":true,
+                "stroke":{
+                  "thickness":1
+                }
               }
             ],
             "anchors":[
@@ -21496,7 +21589,10 @@
                     "glyphName":"dotlessi"
                   }
                 },
-                "locked":true
+                "locked":true,
+                "stroke":{
+                  "thickness":1
+                }
               },
               {
                 "elementData":{
@@ -21505,7 +21601,10 @@
                   }
                 },
                 "locked":true,
-                "nonSpacing":true
+                "nonSpacing":true,
+                "stroke":{
+                  "thickness":1
+                }
               }
             ],
             "anchors":[
@@ -21595,6 +21694,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -22692,6 +22794,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -22812,6 +22917,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -23037,6 +23145,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -23910,6 +24021,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -24750,6 +24864,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -26588,6 +26705,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -36283,6 +36403,9 @@
                   "yScale":-1,
                   "xOffset":330,
                   "yOffset":496
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -36656,6 +36779,9 @@
                   "yScale":-1,
                   "xOffset":282,
                   "yOffset":1226
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42044,6 +42170,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42146,6 +42275,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42250,6 +42382,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42366,6 +42501,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42471,6 +42609,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42585,6 +42726,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42687,6 +42831,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42782,6 +42929,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42896,6 +43046,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42998,6 +43151,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -43104,6 +43260,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -43218,6 +43377,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -43332,6 +43494,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -43442,6 +43607,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -43817,7 +43985,7 @@
     "info":{
       "tfn":"GG Cosm",
       "sgn":"GG Cosm",
-      "creationDate":"2021/06/16 07:04:03",
+      "creationDate":"2021/06/16 08:04:03",
       "copyright":"No Rights Reserved.",
       "designer":"Sora Sagano",
       "designerURL":"http://www.dotcolon.net",
@@ -43833,7 +44001,7 @@
     "meta":{
       "metaCreator":true,
       "metaFormatVersion":8,
-      "metaBuild":"7649"
+      "metaBuild":"7840"
     },
     "settings":{
       "settings.RoundCoordinates":"round"
@@ -43882,7 +44050,7 @@
             "HintingMaxV":250,
             "HintingMinH":20,
             "HintingMinV":20,
-            "OS2UseTypoMetrics":0,
+            "OS2UseTypoMetrics":false,
             "ProcessLoops":true,
             "TtHinter":1,
             "TtHorizSmoothing":0,
@@ -44828,7 +44996,7 @@
             "HintingMaxV":250,
             "HintingMinH":20,
             "HintingMinV":20,
-            "OS2UseTypoMetrics":0,
+            "OS2UseTypoMetrics":false,
             "ProcessLoops":true,
             "TtHinter":1,
             "TtHorizSmoothing":0,
@@ -45778,7 +45946,7 @@
             "HintingMaxV":250,
             "HintingMinH":20,
             "HintingMinV":20,
-            "OS2UseTypoMetrics":0,
+            "OS2UseTypoMetrics":false,
             "ProcessLoops":true,
             "TtHinter":1,
             "TtHorizSmoothing":0,

@@ -95,6 +95,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -1968,6 +1971,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -2678,6 +2684,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -2776,6 +2785,9 @@
                 },
                 "transform":{
                   "xOffset":10
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -2798,6 +2810,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               },
               {
@@ -2808,6 +2823,9 @@
                 },
                 "transform":{
                   "xOffset":-8
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -2840,6 +2858,9 @@
                 },
                 "transform":{
                   "xOffset":6
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -3124,6 +3145,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -4628,6 +4652,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -5438,6 +5465,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -6760,6 +6790,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -6886,6 +6919,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -7117,6 +7153,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -7973,6 +8012,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -8733,6 +8775,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -10508,6 +10553,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -10665,6 +10713,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -11202,6 +11253,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -11894,6 +11948,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -12514,6 +12571,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -14260,6 +14320,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -15010,6 +15073,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -15651,6 +15717,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -16202,6 +16271,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -18005,6 +18077,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -18704,6 +18779,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -19231,6 +19309,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -20710,6 +20791,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -21430,7 +21514,10 @@
                     "glyphName":"dotlessi"
                   }
                 },
-                "locked":true
+                "locked":true,
+                "stroke":{
+                  "thickness":1
+                }
               },
               {
                 "elementData":{
@@ -21442,7 +21529,10 @@
                   "xOffset":-3
                 },
                 "locked":true,
-                "nonSpacing":true
+                "nonSpacing":true,
+                "stroke":{
+                  "thickness":1
+                }
               }
             ],
             "anchors":[
@@ -21481,7 +21571,10 @@
                     "glyphName":"dotlessi"
                   }
                 },
-                "locked":true
+                "locked":true,
+                "stroke":{
+                  "thickness":1
+                }
               },
               {
                 "elementData":{
@@ -21493,7 +21586,10 @@
                   "xOffset":-33
                 },
                 "locked":true,
-                "nonSpacing":true
+                "nonSpacing":true,
+                "stroke":{
+                  "thickness":1
+                }
               }
             ],
             "anchors":[
@@ -21532,7 +21628,10 @@
                     "glyphName":"dotlessi"
                   }
                 },
-                "locked":true
+                "locked":true,
+                "stroke":{
+                  "thickness":1
+                }
               },
               {
                 "elementData":{
@@ -21544,7 +21643,10 @@
                   "xOffset":-69
                 },
                 "locked":true,
-                "nonSpacing":true
+                "nonSpacing":true,
+                "stroke":{
+                  "thickness":1
+                }
               }
             ],
             "anchors":[
@@ -21643,6 +21745,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -22757,17 +22862,27 @@
             "advanceWidth":282,
             "elements":[
               {
-                "component":{
-                  "glyphName":"dotlessj"
-                },
-                "locked":true
-              },
-              {
-                "component":{
-                  "glyphName":"dotaccent"
+                "elementData":{
+                  "component":{
+                    "glyphName":"dotlessj"
+                  }
                 },
                 "locked":true,
-                "nonSpacing":true
+                "stroke":{
+                  "thickness":1
+                }
+              },
+              {
+                "elementData":{
+                  "component":{
+                    "glyphName":"dotaccent"
+                  }
+                },
+                "locked":true,
+                "nonSpacing":true,
+                "stroke":{
+                  "thickness":1
+                }
               }
             ],
             "anchors":[
@@ -22850,7 +22965,10 @@
                     "glyphName":"dotlessj"
                   }
                 },
-                "locked":true
+                "locked":true,
+                "stroke":{
+                  "thickness":1
+                }
               },
               {
                 "elementData":{
@@ -22859,7 +22977,10 @@
                   }
                 },
                 "locked":true,
-                "nonSpacing":true
+                "nonSpacing":true,
+                "stroke":{
+                  "thickness":1
+                }
               }
             ],
             "anchors":[
@@ -22965,6 +23086,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -23190,6 +23314,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -24055,6 +24182,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -24918,6 +25048,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -26728,6 +26861,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -36172,6 +36308,9 @@
                 "transform":{
                   "xScale":-1,
                   "xOffset":457
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -36191,6 +36330,9 @@
                 "transform":{
                   "xScale":-1,
                   "xOffset":387
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -36210,6 +36352,9 @@
                 "transform":{
                   "xScale":-1,
                   "xOffset":382
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -36522,6 +36667,9 @@
                   "yScale":-1,
                   "xOffset":322,
                   "yOffset":1174
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -36543,6 +36691,9 @@
                   "yScale":-1,
                   "xOffset":247,
                   "yOffset":1220
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -36564,6 +36715,9 @@
                   "yScale":-1,
                   "xOffset":114,
                   "yOffset":1226
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -41931,6 +42085,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42033,6 +42190,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42137,6 +42297,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42253,6 +42416,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42358,6 +42524,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42472,6 +42641,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42574,6 +42746,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42669,6 +42844,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42783,6 +42961,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42885,6 +43066,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -42991,6 +43175,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -43105,6 +43292,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -43219,6 +43409,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -43329,6 +43522,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -46104,6 +46300,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -46740,7 +46939,7 @@
     "info":{
       "tfn":"GG Cosm",
       "sgn":"GG Cosm",
-      "creationDate":"2021/06/16 05:04:00",
+      "creationDate":"2021/06/16 06:04:00",
       "copyright":"No Rights Reserved.",
       "designer":"Sora Sagano",
       "designerURL":"http://www.dotcolon.net",
@@ -46756,7 +46955,7 @@
     "meta":{
       "metaCreator":true,
       "metaFormatVersion":8,
-      "metaBuild":"7649"
+      "metaBuild":"7840"
     },
     "settings":{
       "settings.RoundCoordinates":"round"
@@ -46802,7 +47001,7 @@
             "HintingMaxV":250,
             "HintingMinH":20,
             "HintingMinV":20,
-            "OS2UseTypoMetrics":0,
+            "OS2UseTypoMetrics":false,
             "ProcessLoops":true,
             "TtHinter":1,
             "TtHorizSmoothing":0,
@@ -47853,8 +48052,8 @@
           "name":"Reg Upr",
           "tsn":"Regular",
           "sgn":"GG Cosm",
-          "ffn":"GG Cosm Regular",
-          "psn":"GGCosm-Regular",
+          "ffn":"GG Cosm",
+          "psn":"GGCosm",
           "weight_name":"Regular",
           "width_name":"Normal",
           "slope_name":"Plain",
@@ -47888,7 +48087,7 @@
             "HintingMaxV":250,
             "HintingMinH":20,
             "HintingMinV":20,
-            "OS2UseTypoMetrics":0,
+            "OS2UseTypoMetrics":false,
             "ProcessLoops":true,
             "TtHinter":1,
             "TtHorizSmoothing":0,
@@ -48992,7 +49191,7 @@
             "HintingMaxV":250,
             "HintingMinH":20,
             "HintingMinV":20,
-            "OS2UseTypoMetrics":0,
+            "OS2UseTypoMetrics":false,
             "ProcessLoops":true,
             "TtHinter":1,
             "TtHorizSmoothing":0,

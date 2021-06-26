@@ -1,7 +1,7 @@
 {
   "version":8,
   "font":{
-    "glyphsCount":101,
+    "glyphsCount":103,
     "upm":1000,
     "glyphs":[
       {
@@ -14,12 +14,2196 @@
         ]
       },
       {
+        "name":"NULL",
+        "unicode":"0000"
+      },
+      {
+        "name":"CR",
+        "unicode":"000d",
+        "advanceWidth":250
+      },
+      {
         "name":"space",
         "unicode":"0020",
         "layers":[
           {
             "name":"Roman",
             "advanceWidth":299
+          }
+        ]
+      },
+      {
+        "name":"exclam",
+        "unicode":"0021",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":262,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "131 -10 s",
+                        "103 -10  81 12  81 40 s",
+                        "81 68  103 90  131 90 s",
+                        "159 90  181 68  181 40 s",
+                        "181 12  159 -10 c"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "135 167",
+                        "137 169",
+                        "137 237  144 337  152 408 s",
+                        "160 483  169 534  181 591 s",
+                        "192 643  169 671  131 671 s",
+                        "93 671  70 643  81 591 s",
+                        "93 534  102 483  110 408 s",
+                        "118 337  125 237  125 169",
+                        "127 167"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-10,
+                "thickness":681
+              },
+              {
+                "vertical":true,
+                "position":78,
+                "thickness":106
+              },
+              {
+                "vertical":true,
+                "position":127,
+                "thickness":10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"quotedbl",
+        "unicode":"0022",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":386,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"quotesingle"
+                },
+                "locked":true
+              },
+              {
+                "component":{
+                  "glyphName":"quotesingle"
+                },
+                "transform":{
+                  "xOffset":170
+                },
+                "locked":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":618,
+                "thickness":93
+              },
+              {
+                "vertical":true,
+                "position":121,
+                "thickness":26
+              },
+              {
+                "vertical":true,
+                "position":291,
+                "thickness":26
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"numbersign",
+        "unicode":"0023",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":406,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "87 20",
+                        "104 20",
+                        "139 192",
+                        "222 192",
+                        "186 20",
+                        "203 20",
+                        "238 192",
+                        "338 192",
+                        "349 242",
+                        "249 242",
+                        "273 358",
+                        "373 358",
+                        "383 408",
+                        "283 408",
+                        "319 581",
+                        "302 581",
+                        "267 408",
+                        "184 408",
+                        "220 581",
+                        "203 581",
+                        "168 408",
+                        "68 408",
+                        "57 358",
+                        "157 358",
+                        "133 242",
+                        "33 242",
+                        "23 192",
+                        "123 192"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "150 242",
+                        "174 358",
+                        "256 358",
+                        "232 242"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":192,
+                "thickness":50
+              },
+              {
+                "horizontal":true,
+                "position":358,
+                "thickness":50
+              },
+              {
+                "vertical":true,
+                "position":23,
+                "thickness":360
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"dollar",
+        "unicode":"0024",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":518,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "62 44",
+                        "108 20  158 5  216 1",
+                        "216 -101",
+                        "218 -103",
+                        "230 -103",
+                        "232 -101",
+                        "232 0",
+                        "243 0  262 0  273 1",
+                        "273 -101",
+                        "275 -103",
+                        "287 -103",
+                        "289 -101",
+                        "289 3",
+                        "384 17  452 79  452 176 s",
+                        "452 252  408 306  289 349",
+                        "289 595",
+                        "350 588  377 551  397 499 s",
+                        "406 475  411 436  414 395",
+                        "416 393",
+                        "424 393",
+                        "424 442  425 530  428 563",
+                        "427 566",
+                        "386 591  349 606  289 609",
+                        "289 715",
+                        "287 717",
+                        "275 717",
+                        "273 715",
+                        "273 610",
+                        "263 610  243 609  232 607",
+                        "232 715",
+                        "230 717",
+                        "218 717",
+                        "216 715",
+                        "216 604",
+                        "133 584  75 517  75 448 s",
+                        "75 361  125 314  216 278",
+                        "216 15",
+                        "152 24  112 65  92 116 s",
+                        "83 140  78 174  75 215",
+                        "73 217",
+                        "65 217",
+                        "65 168  64 80  61 47"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "289 249",
+                        "367 212  388 178  388 127 s",
+                        "388 65  353 28  289 17"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "216 377",
+                        "157 404  137 435  137 496 s",
+                        "137 542  168 576  216 590"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "273 15",
+                        "261 14  244 13  232 14",
+                        "232 272",
+                        "273 256"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "273 354",
+                        "232 370",
+                        "232 593",
+                        "242 595  260 596  273 596"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-80,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":1,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":596,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":65,
+                "thickness":8
+              },
+              {
+                "vertical":true,
+                "position":75,
+                "thickness":62
+              },
+              {
+                "vertical":true,
+                "position":216,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":273,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":388,
+                "thickness":64
+              },
+              {
+                "vertical":true,
+                "position":416,
+                "thickness":8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"percent",
+        "unicode":"0025",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":816,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "178 -29",
+                        "191 -37",
+                        "622 650",
+                        "609 658"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "id":"elementdata",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "210 300 s",
+                        "305 300  364 378  364 467 s",
+                        "364 556  305 634  210 634 s",
+                        "115 634  56 556  56 467 s",
+                        "56 378  115 300 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "130 467 s",
+                        "130 565  162 620  210 620 s",
+                        "258 620  290 565  290 467 s",
+                        "290 369  258 314  210 314 s",
+                        "162 314  130 369 c"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":396,
+                  "yOffset":-313
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata",
+                "locked":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-16,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":-13,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":-8,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":300,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":307,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":620,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":56,
+                "thickness":74
+              },
+              {
+                "vertical":true,
+                "position":290,
+                "thickness":74
+              },
+              {
+                "vertical":true,
+                "position":452,
+                "thickness":74
+              },
+              {
+                "vertical":true,
+                "position":686,
+                "thickness":74
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"ampersand",
+        "unicode":"0026",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":959,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "54 194",
+                        "61 197  65 198  72 198 s",
+                        "100 198  119 181  133 160 s",
+                        "220 28  310 -10  451 -10 s",
+                        "640 -10  818 125  818 282 s",
+                        "818 340  776 375  734 375 s",
+                        "704 375  682 371  576 320",
+                        "663 368  690 393  698 444 s",
+                        "708 506  714 515  737 533 s",
+                        "746 540  786 565  805 575 s",
+                        "847 598  867 618  883 645",
+                        "883 647",
+                        "873 651",
+                        "858 621  834 601  799 582 s",
+                        "779 571  716 537  667 513 s",
+                        "634 497  623 486  618 455 s",
+                        "599 337  578 320  443 264",
+                        "442 261",
+                        "446 252",
+                        "493 273  543 295  604 320 s",
+                        "628 330  645 334  663 334 s",
+                        "711 334  730 286  730 245 s",
+                        "730 92  601 1  471 1 s",
+                        "354 1  274 67  210 209 s",
+                        "201 228  178 253  161 257",
+                        "214 302  308 377  350 409",
+                        "361 422  367 435  367 451 s",
+                        "367 467  361 482  343 504 s",
+                        "330 520  323 536  323 565 s",
+                        "323 634  373 660  423 660 s",
+                        "462 660  499 648  516 635 s",
+                        "521 631  523 624  520 619 s",
+                        "509 599  500 586  466 542",
+                        "467 539",
+                        "475 534",
+                        "504 575  528 606  551 634",
+                        "550 636",
+                        "518 654  470 670  423 670 s",
+                        "328 670  236 624  236 544 s",
+                        "236 510  251 486  272 468 s",
+                        "301 444  312 432  312 417 s",
+                        "312 400  303 388  282 371 s",
+                        "222 321  179 287  51 202"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-10,
+                "thickness":11
+              },
+              {
+                "horizontal":true,
+                "position":334,
+                "thickness":41
+              },
+              {
+                "horizontal":true,
+                "position":660,
+                "thickness":10
+              },
+              {
+                "vertical":true,
+                "position":236,
+                "thickness":87
+              },
+              {
+                "vertical":true,
+                "position":312,
+                "thickness":55
+              },
+              {
+                "vertical":true,
+                "position":730,
+                "thickness":88
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"quotesingle",
+        "unicode":"0027",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":216,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "73 -140",
+                        "116 -115  163 -60  163 6 s",
+                        "163 50  133 87  95 87 s",
+                        "65 87  39 66  39 38 s",
+                        "39 11  56 -6  78 -6 s",
+                        "93 -6  105 0  117 14",
+                        "130 5  137 -9  137 -28 s",
+                        "137 -71  106 -110  69 -133"
+                      ]
+                    }
+                  ]
+                },
+                "transform":{
+                  "xOffset":-16,
+                  "yOffset":624
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":484,
+                "thickness":227
+              },
+              {
+                "horizontal":true,
+                "position":618,
+                "thickness":93
+              },
+              {
+                "vertical":true,
+                "position":121,
+                "thickness":26
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"parenleft",
+        "unicode":"0028",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":312,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "285 -94",
+                        "293 -86",
+                        "293 -84",
+                        "195 14  143 141  143 307 s",
+                        "143 473  195 600  293 698",
+                        "293 700",
+                        "285 708",
+                        "283 708",
+                        "160 610  89 470  89 307 s",
+                        "89 144  160 4  283 -94"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-73,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":-65,
+                "thickness":-21
+              },
+              {
+                "vertical":true,
+                "position":89,
+                "thickness":54
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"parenright",
+        "unicode":"0029",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":312,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "19 -86",
+                        "27 -94",
+                        "29 -94",
+                        "152 4  223 144  223 307 s",
+                        "223 470  152 610  29 708",
+                        "27 708",
+                        "19 700",
+                        "19 698",
+                        "117 600  169 473  169 307 s",
+                        "169 141  117 14  19 -84"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-94,
+                "thickness":10
+              },
+              {
+                "horizontal":true,
+                "position":-65,
+                "thickness":-21
+              },
+              {
+                "vertical":true,
+                "position":169,
+                "thickness":54
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"asterisk",
+        "unicode":"002a",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":348,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "39 478 s",
+                        "48 463  64 460  81 477 s",
+                        "97 493  131 522  164 546",
+                        "161 551",
+                        "123 536  85 522  61 515 s",
+                        "38 508  30 493 c"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "164 565",
+                        "131 590  97 619  81 635 s",
+                        "64 652  48 649  39 634 s",
+                        "30 619  38 604  61 597 s",
+                        "85 590  123 576  161 561"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "171 543",
+                        "166 503  159 460  153 436 s",
+                        "148 413  157 400  174 400 s",
+                        "191 400  200 413  195 436 s",
+                        "189 460  182 503  177 543"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "177 569",
+                        "182 609  189 651  195 676 s",
+                        "200 699  191 712  174 712 s",
+                        "157 712  148 699  153 676 s",
+                        "159 651  166 609  171 569"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "184 546",
+                        "216 522  251 493  267 477 s",
+                        "284 460  300 463  309 478 s",
+                        "318 493  310 508  287 515 s",
+                        "263 522  225 536  187 551"
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "184 565",
+                        "187 561",
+                        "225 576  263 590  287 597 s",
+                        "310 604  318 619  309 634 s",
+                        "300 649  284 652  267 635 s",
+                        "251 619  216 590 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":465,
+                "thickness":181
+              },
+              {
+                "vertical":true,
+                "position":153,
+                "thickness":42
+              },
+              {
+                "vertical":true,
+                "position":161,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":171,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"plus",
+        "unicode":"002b",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":504,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "244 -5",
+                        "246 -7",
+                        "258 -7",
+                        "260 -5",
+                        "260 193",
+                        "457 193",
+                        "459 195",
+                        "459 205",
+                        "457 207",
+                        "260 207",
+                        "260 405",
+                        "258 407",
+                        "246 407",
+                        "244 405",
+                        "244 207",
+                        "47 207",
+                        "45 205",
+                        "45 195",
+                        "47 193",
+                        "244 193"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":16,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":193,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":244,
+                "thickness":16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"comma",
+        "unicode":"002c",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":202,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"quotesingle"
+                },
+                "transform":{
+                  "xOffset":28,
+                  "yOffset":-624
+                },
+                "locked":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-112,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":-6,
+                "thickness":93
+              },
+              {
+                "horizontal":true,
+                "position":15,
+                "thickness":-21
+              },
+              {
+                "vertical":true,
+                "position":149,
+                "thickness":26
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"hyphen",
+        "unicode":"002d",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":403,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "93 175",
+                        "101 177  113 179  125 179 s",
+                        "255 179 s",
+                        "263 179  269 182  275 186 s",
+                        "287 194  305 210  314 219",
+                        "311 225",
+                        "310 225",
+                        "302 223  290 221  278 221 s",
+                        "148 221 s",
+                        "140 221  134 218  128 214 s",
+                        "116 206  98 190  89 181",
+                        "89 181  92 175  92 175"
+                      ]
+                    }
+                  ]
+                },
+                "stroke":{
+                  "thickness":1
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":179,
+                "thickness":42
+              },
+              {
+                "vertical":true,
+                "position":89,
+                "thickness":225
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"period",
+        "unicode":"002e",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":202,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "51 37 s",
+                        "51 9  73 -13  101 -13 s",
+                        "129 -13  151 9  151 37 s",
+                        "151 65  129 87  101 87 s",
+                        "73 87  51 65 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-13,
+                "thickness":100
+              },
+              {
+                "vertical":true,
+                "position":51,
+                "thickness":100
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"slash",
+        "unicode":"002f",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":364,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-1 -87",
+                        "12 -93",
+                        "365 695",
+                        "352 701"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-72,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":-66,
+                "thickness":-21
+              },
+              {
+                "vertical":true,
+                "position":-1,
+                "thickness":366
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"zero",
+        "unicode":"0030",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":566,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "283 -13 s",
+                        "428 -13  522 127  522 311 s",
+                        "522 495  428 634  283 634 s",
+                        "138 634  44 494  44 310 s",
+                        "44 126  138 -13 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "132 311 s",
+                        "132 507  195 620  283 620 s",
+                        "371 620  434 506  434 310 s",
+                        "434 114  371 1  283 1 s",
+                        "195 1  132 115 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-13,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":620,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":44,
+                "thickness":88
+              },
+              {
+                "vertical":true,
+                "position":434,
+                "thickness":88
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"one",
+        "unicode":"0031",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":413,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "75 -1",
+                        "117 0  169 0  212 0 s",
+                        "255 0  307 0  349 -1",
+                        "349 8",
+                        "347 10",
+                        "323 10  289 11  264 13 s",
+                        "255 14  252 17  252 24 s",
+                        "252 559 s",
+                        "252 577  253 605  254 624",
+                        "252 626",
+                        "246 626",
+                        "196 598  129 566  67 539",
+                        "65 536",
+                        "67 530",
+                        "70 529",
+                        "172 574",
+                        "172 24 s",
+                        "172 17  169 14  160 13 s",
+                        "135 11  101 10  77 10",
+                        "75 8"
+                      ]
+                    }
+                  ]
+                },
+                "stroke":{
+                  "thickness":1
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":10
+              },
+              {
+                "vertical":true,
+                "position":172,
+                "thickness":80
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"two",
+        "unicode":"0032",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":501,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "-1 -1",
+                        "29 1  107 1  178 1 s",
+                        "249 1  355 1  443 -1",
+                        "445 1",
+                        "442 34  441 84  441 206",
+                        "433 206",
+                        "431 204",
+                        "431 180  429 125  425 99 s",
+                        "422 75  403 65  350 61 s",
+                        "323 59  297 57  231 57 s",
+                        "79 57",
+                        "126 113  219 209  292 280 s",
+                        "370 355  426 417  426 488 s",
+                        "426 577  355 634  234 634 s",
+                        "177 634  124 616  65 580",
+                        "63 578",
+                        "66 545  67 458  67 409",
+                        "75 409",
+                        "77 411",
+                        "77 447  81 485  87 510 s",
+                        "101 569  141 620  219 620 s",
+                        "299 620  338 562  338 474 s",
+                        "338 373  264 281  115 120 s",
+                        "67 67  38 39  -2 2"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":1,
+                "thickness":56
+              },
+              {
+                "horizontal":true,
+                "position":620,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":67,
+                "thickness":10
+              },
+              {
+                "vertical":true,
+                "position":338,
+                "thickness":88
+              },
+              {
+                "vertical":true,
+                "position":431,
+                "thickness":10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"three",
+        "unicode":"0033",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":509,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "36 34",
+                        "87 2  152 -13  209 -13 s",
+                        "340 -13  458 51  458 173 s",
+                        "458 268  372 328  266 328",
+                        "348 340  440 395  440 486 s",
+                        "440 583  354 634  246 634 s",
+                        "189 634  134 616  75 580",
+                        "73 578",
+                        "76 545  77 458  77 409",
+                        "85 409",
+                        "87 411",
+                        "87 447  91 485  97 510 s",
+                        "111 569  151 620  229 620 s",
+                        "309 620  352 551  352 470 s",
+                        "352 375  286 331  205 331 s",
+                        "195 331",
+                        "193 329",
+                        "193 321",
+                        "195 319",
+                        "199 319 s",
+                        "313 319  370 240  370 157 s",
+                        "370 61  300 1  220 1 s",
+                        "140 1  72 52  58 111 s",
+                        "52 136  48 173  48 210",
+                        "46 212",
+                        "38 212",
+                        "38 163  37 69  34 36"
+                      ]
+                    }
+                  ]
+                },
+                "stroke":{
+                  "thickness":1
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-13,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":319,
+                "thickness":12
+              },
+              {
+                "horizontal":true,
+                "position":620,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":38,
+                "thickness":10
+              },
+              {
+                "vertical":true,
+                "position":77,
+                "thickness":10
+              },
+              {
+                "vertical":true,
+                "position":352,
+                "thickness":88
+              },
+              {
+                "vertical":true,
+                "position":370,
+                "thickness":88
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"four",
+        "unicode":"0034",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":553,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "19 161",
+                        "327 163",
+                        "327 24 s",
+                        "327 17  324 14  315 13 s",
+                        "290 11  256 10  232 10",
+                        "230 8",
+                        "230 -1",
+                        "272 0  324 0  367 0 s",
+                        "410 0  462 0  504 -1",
+                        "504 8",
+                        "502 10",
+                        "478 10  444 11  419 13 s",
+                        "410 14  407 17  407 24 s",
+                        "407 163",
+                        "522 163",
+                        "524 165",
+                        "524 176  524 186  526 200",
+                        "519 200",
+                        "517 198",
+                        "516 186  513 181  506 180 s",
+                        "482 176  470 175  407 175",
+                        "407 582 s",
+                        "407 600  408 628  409 647",
+                        "405 647",
+                        "314 526  127 294  18 164"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "56 178",
+                        "118 265  267 449  327 519",
+                        "327 175",
+                        "251 175  137 175 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "thickness":10
+              },
+              {
+                "horizontal":true,
+                "position":162,
+                "thickness":13
+              },
+              {
+                "vertical":true,
+                "position":327,
+                "thickness":80
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"five",
+        "unicode":"0035",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":492,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "34 34",
+                        "85 2  153 -13  210 -13 s",
+                        "336 -13  453 54  453 191 s",
+                        "453 296  368 365  223 365 s",
+                        "195 365  141 359  102 350",
+                        "107 412  115 476  129 562",
+                        "159 563  218 564  253 564 s",
+                        "287 564  346 564  388 562",
+                        "390 564",
+                        "390 580  391 615  394 645",
+                        "387 645",
+                        "385 643",
+                        "384 632  381 626  374 625 s",
+                        "350 621  332 620  254 620",
+                        "254 620  152 621  120 623",
+                        "118 621",
+                        "111 546  98 437  84 334",
+                        "87 333",
+                        "123 343  165 350  196 350 s",
+                        "302 350  365 274  365 174 s",
+                        "365 59  289 1  213 1 s",
+                        "133 1  70 52  56 111 s",
+                        "50 136  46 173  46 210",
+                        "44 212",
+                        "36 212",
+                        "36 163  35 69  32 36"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-13,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":350,
+                "thickness":15
+              },
+              {
+                "horizontal":true,
+                "position":564,
+                "thickness":56
+              },
+              {
+                "vertical":true,
+                "position":36,
+                "thickness":10
+              },
+              {
+                "vertical":true,
+                "position":365,
+                "thickness":88
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"six",
+        "unicode":"0036",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":523,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "410 637",
+                        "236 608  54 443  54 235 s",
+                        "54 92  140 -13  265 -13 s",
+                        "387 -13  489 66  489 189 s",
+                        "489 280  421 353  312 353 s",
+                        "250 353  189 323  144 278",
+                        "153 436  271 593  413 626"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "276 1 s",
+                        "193 1  144 79  144 223 s",
+                        "144 260  157 279  201 304 s",
+                        "219 314  244 322  267 322 s",
+                        "359 322  401 256  401 165 s",
+                        "401 63  342 1 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-13,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":322,
+                "thickness":31
+              },
+              {
+                "vertical":true,
+                "position":54,
+                "thickness":90
+              },
+              {
+                "vertical":true,
+                "position":401,
+                "thickness":88
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"seven",
+        "unicode":"0037",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":476,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "105 -3",
+                        "188 -1",
+                        "190 1",
+                        "260 165  406 478  488 620",
+                        "487 623",
+                        "457 621  351 621  280 621 s",
+                        "209 621  138 621  51 623",
+                        "49 621",
+                        "52 588  53 537  53 416",
+                        "61 416",
+                        "63 418",
+                        "63 442  65 496  69 523 s",
+                        "72 547  90 557  144 561 s",
+                        "171 563  201 565  267 565 s",
+                        "434 565",
+                        "308 297  247 170  220 119 s",
+                        "176 36  145 10  107 3",
+                        "105 1"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":18,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":565,
+                "thickness":56
+              },
+              {
+                "vertical":true,
+                "position":53,
+                "thickness":10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"eight",
+        "unicode":"0038",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":534,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "46 153 s",
+                        "46 50  137 -10  257 -10 s",
+                        "372 -10  478 58  478 164 s",
+                        "478 247  423 286  327 335",
+                        "390 370  452 420  452 493 s",
+                        "452 578  369 634  272 634 s",
+                        "165 634  76 564  76 470 s",
+                        "76 398  125 358  188 316",
+                        "115 284  46 232 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "263 1 s",
+                        "182 1  107 71  107 171 s",
+                        "107 236  139 276  202 310",
+                        "314 258  390 212  390 132 s",
+                        "390 46  328 1 c"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "164 501 s",
+                        "164 576  212 620  265 620 s",
+                        "333 620  388 561  388 477 s",
+                        "388 412  361 370  313 342",
+                        "217 392  164 432 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-10,
+                "thickness":11
+              },
+              {
+                "horizontal":true,
+                "position":620,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":46,
+                "thickness":61
+              },
+              {
+                "vertical":true,
+                "position":76,
+                "thickness":88
+              },
+              {
+                "vertical":true,
+                "position":388,
+                "thickness":64
+              },
+              {
+                "vertical":true,
+                "position":390,
+                "thickness":88
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"nine",
+        "unicode":"0039",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":523,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "113 -16",
+                        "287 13  469 178  469 386 s",
+                        "469 529  383 634  258 634 s",
+                        "136 634  34 555  34 432 s",
+                        "34 341  102 268  211 268 s",
+                        "272 268  334 298  379 343",
+                        "370 184  252 28  110 -5"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "256 299 s",
+                        "164 299  122 364  122 456 s",
+                        "122 558  181 620  247 620 s",
+                        "330 620  379 541  379 398 s",
+                        "379 361  366 342  322 317 s",
+                        "304 307  279 299 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":16,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":268,
+                "thickness":31
+              },
+              {
+                "horizontal":true,
+                "position":620,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":34,
+                "thickness":88
+              },
+              {
+                "vertical":true,
+                "position":379,
+                "thickness":90
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"colon",
+        "unicode":"003a",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":202,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"period"
+                },
+                "locked":true
+              },
+              {
+                "component":{
+                  "glyphName":"period"
+                },
+                "transform":{
+                  "yOffset":326
+                },
+                "locked":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-13,
+                "thickness":100
+              },
+              {
+                "horizontal":true,
+                "position":313,
+                "thickness":100
+              },
+              {
+                "vertical":true,
+                "position":51,
+                "thickness":100
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"semicolon",
+        "unicode":"003b",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":202,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"period"
+                },
+                "transform":{
+                  "yOffset":326
+                },
+                "locked":true
+              },
+              {
+                "component":{
+                  "glyphName":"quotesingle"
+                },
+                "transform":{
+                  "xOffset":16,
+                  "yOffset":-624
+                },
+                "locked":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-112,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":-6,
+                "thickness":93
+              },
+              {
+                "horizontal":true,
+                "position":15,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":313,
+                "thickness":100
+              },
+              {
+                "vertical":true,
+                "position":51,
+                "thickness":100
+              },
+              {
+                "vertical":true,
+                "position":137,
+                "thickness":26
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"less",
+        "unicode":"003c",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":566,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "89 204",
+                        "90 202",
+                        "492 1",
+                        "495 1",
+                        "500 11",
+                        "499 13",
+                        "106 210",
+                        "499 407",
+                        "500 409",
+                        "495 419",
+                        "492 419",
+                        "90 218",
+                        "89 216"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":22,
+                "thickness":-21
+              },
+              {
+                "vertical":true,
+                "position":89,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"equal",
+        "unicode":"003d",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":611,
+            "elements":[
+              {
+                "elementData":{
+                  "id":"elementdata.1",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "96 127",
+                        "98 125",
+                        "513 125",
+                        "515 127",
+                        "515 137",
+                        "513 139",
+                        "98 139",
+                        "96 137"
+                      ]
+                    }
+                  ]
+                },
+                "locked":true
+              },
+              {
+                "elementData":"elementdata.1",
+                "transform":{
+                  "yOffset":156
+                },
+                "locked":true
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":125,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":281,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":96,
+                "thickness":419
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"greater",
+        "unicode":"003e",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":566,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "71 1",
+                        "74 1",
+                        "476 202",
+                        "477 204",
+                        "477 216",
+                        "476 218",
+                        "74 419",
+                        "71 419",
+                        "66 409",
+                        "67 407",
+                        "460 210",
+                        "67 13",
+                        "66 11"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":22,
+                "thickness":-21
+              },
+              {
+                "vertical":true,
+                "position":460,
+                "thickness":17
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"question",
+        "unicode":"003f",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":492,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"period"
+                },
+                "transform":{
+                  "xOffset":98,
+                  "yOffset":3
+                },
+                "locked":true
+              },
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "191 167",
+                        "199 167",
+                        "201 169",
+                        "201 182  203 201  206 213 s",
+                        "218 258  235 278  301 334 s",
+                        "369 391  411 431  411 513 s",
+                        "411 601  334 670  230 670 s",
+                        "166 670  103 652  50 622",
+                        "49 619",
+                        "52 586  53 498  53 449",
+                        "61 449",
+                        "63 451",
+                        "66 492  71 526  80 550 s",
+                        "102 613  147 656  226 656 s",
+                        "297 656  347 612  347 538 s",
+                        "347 498  329 460  284 424 s",
+                        "213 368  185 330  185 250 s",
+                        "185 227  187 192  189 169"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-10,
+                "thickness":100
+              },
+              {
+                "horizontal":true,
+                "position":656,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":53,
+                "thickness":8
+              },
+              {
+                "vertical":true,
+                "position":149,
+                "thickness":100
+              },
+              {
+                "vertical":true,
+                "position":185,
+                "thickness":16
+              },
+              {
+                "vertical":true,
+                "position":347,
+                "thickness":64
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"at",
+        "unicode":"0040",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":755,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "660 23",
+                        "578 -56  494 -100  381 -100 s",
+                        "208 -100  73 0  73 197 s",
+                        "73 381  251 527  432 527 s",
+                        "584 527  696 422  696 280 s",
+                        "696 164  615 72  532 72 s",
+                        "493 72  490 108  506 175 s",
+                        "557 383",
+                        "556 386",
+                        "496 386",
+                        "494 384",
+                        "483 339",
+                        "474 361  455 383  421 383 s",
+                        "378 383  338 360  310 332 s",
+                        "259 281  225 233  225 153 s",
+                        "225 95  262 52  307 52 s",
+                        "358 52  407 98  438 148",
+                        "422 83  457 56  507 56 s",
+                        "620 56  712 152  712 286 s",
+                        "712 422  595 540  438 540 s",
+                        "237 540  56 385  56 191 s",
+                        "56 -4  196 -113  376 -113 s",
+                        "490 -113  576 -72  668 15",
+                        "668 18",
+                        "663 23"
+                      ]
+                    },
+                    {
+                      "nodes":[
+                        "464 257 s",
+                        "449 196  438 171  431 159 s",
+                        "407 119  380 95  348 95 s",
+                        "318 95  295 119  295 165 s",
+                        "295 265  350 369  425 369 s",
+                        "461 369  482 331  475 305"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-113,
+                "thickness":13
+              },
+              {
+                "horizontal":true,
+                "position":52,
+                "thickness":43
+              },
+              {
+                "horizontal":true,
+                "position":56,
+                "thickness":16
+              },
+              {
+                "horizontal":true,
+                "position":369,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":527,
+                "thickness":13
+              },
+              {
+                "vertical":true,
+                "position":56,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":225,
+                "thickness":70
+              },
+              {
+                "vertical":true,
+                "position":434,
+                "thickness":63
+              },
+              {
+                "vertical":true,
+                "position":696,
+                "thickness":16
+              }
+            ]
           }
         ]
       },
@@ -679,6 +2863,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -1283,6 +3470,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -1519,6 +3709,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -2108,23 +4301,34 @@
         ]
       },
       {
-        "name":"period",
-        "unicode":"002e",
+        "name":"bracketleft",
+        "unicode":"005b",
         "layers":[
           {
             "name":"Roman",
-            "advanceWidth":202,
+            "advanceWidth":328,
             "elements":[
               {
                 "elementData":{
                   "contours":[
                     {
                       "nodes":[
-                        "51 37 s",
-                        "51 9  73 -13  101 -13 s",
-                        "129 -13  151 9  151 37 s",
-                        "151 65  129 87  101 87 s",
-                        "73 87  51 65 c"
+                        "130 -88",
+                        "132 -90",
+                        "192 -89  269 -88  317 -88",
+                        "319 -86",
+                        "319 -76",
+                        "317 -74",
+                        "295 -74  246 -74  221 -72 s",
+                        "198 -71  186 -60  186 -31 s",
+                        "186 645 s",
+                        "186 674  198 685  221 686 s",
+                        "246 687  295 688  317 688",
+                        "319 690",
+                        "319 700",
+                        "317 702",
+                        "269 702  192 702  132 704",
+                        "130 702"
                       ]
                     }
                   ]
@@ -2134,13 +4338,246 @@
             "hints":[
               {
                 "horizontal":true,
-                "position":-13,
-                "thickness":100
+                "position":-88,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":688,
+                "thickness":14
               },
               {
                 "vertical":true,
-                "position":51,
-                "thickness":100
+                "position":130,
+                "thickness":56
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"backslash",
+        "unicode":"005c",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":364,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "365 -87",
+                        "12 701",
+                        "-1 695",
+                        "352 -93"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-72,
+                "thickness":-21
+              },
+              {
+                "horizontal":true,
+                "position":-66,
+                "thickness":-21
+              },
+              {
+                "vertical":true,
+                "position":-1,
+                "thickness":366
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"bracketright",
+        "unicode":"005d",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":328,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "11 -88",
+                        "59 -88  136 -89  196 -90",
+                        "198 -88",
+                        "198 702",
+                        "196 704",
+                        "136 702  59 702  11 702",
+                        "9 700",
+                        "9 690",
+                        "11 688",
+                        "33 688  82 687  107 686 s",
+                        "129 685  142 674  142 645 s",
+                        "142 -31 s",
+                        "142 -60  129 -71  107 -72 s",
+                        "82 -74  33 -74  11 -74",
+                        "9 -76",
+                        "9 -86"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-88,
+                "thickness":14
+              },
+              {
+                "horizontal":true,
+                "position":688,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":142,
+                "thickness":56
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"asciicircum",
+        "unicode":"005e",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":560,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "71 232",
+                        "81 227",
+                        "83 228",
+                        "280 621",
+                        "477 228",
+                        "479 227",
+                        "489 232",
+                        "489 235",
+                        "288 637",
+                        "286 638",
+                        "274 638",
+                        "272 637",
+                        "71 235"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":621,
+                "thickness":17
+              },
+              {
+                "vertical":true,
+                "position":71,
+                "thickness":418
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"underscore",
+        "unicode":"005f",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":508,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "16 -73",
+                        "18 -75",
+                        "490 -75",
+                        "492 -73",
+                        "492 -63",
+                        "490 -61",
+                        "18 -61",
+                        "16 -63"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":-75,
+                "thickness":14
+              },
+              {
+                "vertical":true,
+                "position":16,
+                "thickness":476
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"grave",
+        "unicode":"0060",
+        "layers":[
+          {
+            "name":"Roman",
+            "advanceWidth":225,
+            "elements":[
+              {
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "88 496 s",
+                        "122 478  164 452  183 437",
+                        "193 446",
+                        "174 471  157 497  133 541 s",
+                        "113 576  93 591  71 591 s",
+                        "53 591  37 575  37 555 s",
+                        "37 532  54 513 c"
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "hints":[
+              {
+                "horizontal":true,
+                "position":437,
+                "thickness":154
+              },
+              {
+                "vertical":true,
+                "position":37,
+                "thickness":156
               }
             ]
           }
@@ -2197,6 +4634,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -2285,6 +4725,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -2349,6 +4792,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -2586,6 +5032,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -2849,6 +5298,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               },
               {
@@ -3035,6 +5487,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -3102,6 +5557,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -3276,6 +5734,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -3338,6 +5799,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -3505,6 +5969,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -3584,6 +6051,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -3800,6 +6270,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -4043,6 +6516,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -4199,2223 +6675,6 @@
                 "vertical":true,
                 "position":403,
                 "thickness":9
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"comma",
-        "unicode":"002c",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":202,
-            "elements":[
-              {
-                "component":{
-                  "glyphName":"quotesingle"
-                },
-                "transform":{
-                  "xOffset":28,
-                  "yOffset":-624
-                },
-                "locked":true
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":-112,
-                "thickness":-21
-              },
-              {
-                "horizontal":true,
-                "position":-6,
-                "thickness":93
-              },
-              {
-                "horizontal":true,
-                "position":15,
-                "thickness":-21
-              },
-              {
-                "vertical":true,
-                "position":149,
-                "thickness":26
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"zero",
-        "unicode":"0030",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":566,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "283 -13 s",
-                        "428 -13  522 127  522 311 s",
-                        "522 495  428 634  283 634 s",
-                        "138 634  44 494  44 310 s",
-                        "44 126  138 -13 c"
-                      ]
-                    },
-                    {
-                      "nodes":[
-                        "132 311 s",
-                        "132 507  195 620  283 620 s",
-                        "371 620  434 506  434 310 s",
-                        "434 114  371 1  283 1 s",
-                        "195 1  132 115 c"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":-13,
-                "thickness":14
-              },
-              {
-                "horizontal":true,
-                "position":620,
-                "thickness":14
-              },
-              {
-                "vertical":true,
-                "position":44,
-                "thickness":88
-              },
-              {
-                "vertical":true,
-                "position":434,
-                "thickness":88
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"one",
-        "unicode":"0031",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":413,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "75 -1",
-                        "117 0  169 0  212 0 s",
-                        "255 0  307 0  349 -1",
-                        "349 8",
-                        "347 10",
-                        "323 10  289 11  264 13 s",
-                        "255 14  252 17  252 24 s",
-                        "252 559 s",
-                        "252 577  253 605  254 624",
-                        "252 626",
-                        "246 626",
-                        "196 598  129 566  67 539",
-                        "65 536",
-                        "67 530",
-                        "70 529",
-                        "172 574",
-                        "172 24 s",
-                        "172 17  169 14  160 13 s",
-                        "135 11  101 10  77 10",
-                        "75 8"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "thickness":10
-              },
-              {
-                "vertical":true,
-                "position":172,
-                "thickness":80
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"two",
-        "unicode":"0032",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":501,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "-1 -1",
-                        "29 1  107 1  178 1 s",
-                        "249 1  355 1  443 -1",
-                        "445 1",
-                        "442 34  441 84  441 206",
-                        "433 206",
-                        "431 204",
-                        "431 180  429 125  425 99 s",
-                        "422 75  403 65  350 61 s",
-                        "323 59  297 57  231 57 s",
-                        "79 57",
-                        "126 113  219 209  292 280 s",
-                        "370 355  426 417  426 488 s",
-                        "426 577  355 634  234 634 s",
-                        "177 634  124 616  65 580",
-                        "63 578",
-                        "66 545  67 458  67 409",
-                        "75 409",
-                        "77 411",
-                        "77 447  81 485  87 510 s",
-                        "101 569  141 620  219 620 s",
-                        "299 620  338 562  338 474 s",
-                        "338 373  264 281  115 120 s",
-                        "67 67  38 39  -2 2"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":1,
-                "thickness":56
-              },
-              {
-                "horizontal":true,
-                "position":620,
-                "thickness":14
-              },
-              {
-                "vertical":true,
-                "position":67,
-                "thickness":10
-              },
-              {
-                "vertical":true,
-                "position":338,
-                "thickness":88
-              },
-              {
-                "vertical":true,
-                "position":431,
-                "thickness":10
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"three",
-        "unicode":"0033",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":509,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "36 34",
-                        "87 2  152 -13  209 -13 s",
-                        "340 -13  458 51  458 173 s",
-                        "458 268  372 328  266 328",
-                        "348 340  440 395  440 486 s",
-                        "440 583  354 634  246 634 s",
-                        "189 634  134 616  75 580",
-                        "73 578",
-                        "76 545  77 458  77 409",
-                        "85 409",
-                        "87 411",
-                        "87 447  91 485  97 510 s",
-                        "111 569  151 620  229 620 s",
-                        "309 620  352 551  352 470 s",
-                        "352 375  286 331  205 331 s",
-                        "195 331",
-                        "193 329",
-                        "193 321",
-                        "195 319",
-                        "199 319 s",
-                        "313 319  370 240  370 157 s",
-                        "370 61  300 1  220 1 s",
-                        "140 1  72 52  58 111 s",
-                        "52 136  48 173  48 210",
-                        "46 212",
-                        "38 212",
-                        "38 163  37 69  34 36"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":-13,
-                "thickness":14
-              },
-              {
-                "horizontal":true,
-                "position":319,
-                "thickness":12
-              },
-              {
-                "horizontal":true,
-                "position":620,
-                "thickness":14
-              },
-              {
-                "vertical":true,
-                "position":38,
-                "thickness":10
-              },
-              {
-                "vertical":true,
-                "position":77,
-                "thickness":10
-              },
-              {
-                "vertical":true,
-                "position":352,
-                "thickness":88
-              },
-              {
-                "vertical":true,
-                "position":370,
-                "thickness":88
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"four",
-        "unicode":"0034",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":553,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "19 161",
-                        "327 163",
-                        "327 24 s",
-                        "327 17  324 14  315 13 s",
-                        "290 11  256 10  232 10",
-                        "230 8",
-                        "230 -1",
-                        "272 0  324 0  367 0 s",
-                        "410 0  462 0  504 -1",
-                        "504 8",
-                        "502 10",
-                        "478 10  444 11  419 13 s",
-                        "410 14  407 17  407 24 s",
-                        "407 163",
-                        "522 163",
-                        "524 165",
-                        "524 176  524 186  526 200",
-                        "519 200",
-                        "517 198",
-                        "516 186  513 181  506 180 s",
-                        "482 176  470 175  407 175",
-                        "407 582 s",
-                        "407 600  408 628  409 647",
-                        "405 647",
-                        "314 526  127 294  18 164"
-                      ]
-                    },
-                    {
-                      "nodes":[
-                        "56 178",
-                        "118 265  267 449  327 519",
-                        "327 175",
-                        "251 175  137 175 c"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "thickness":10
-              },
-              {
-                "horizontal":true,
-                "position":162,
-                "thickness":13
-              },
-              {
-                "vertical":true,
-                "position":327,
-                "thickness":80
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"five",
-        "unicode":"0035",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":492,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "34 34",
-                        "85 2  153 -13  210 -13 s",
-                        "336 -13  453 54  453 191 s",
-                        "453 296  368 365  223 365 s",
-                        "195 365  141 359  102 350",
-                        "107 412  115 476  129 562",
-                        "159 563  218 564  253 564 s",
-                        "287 564  346 564  388 562",
-                        "390 564",
-                        "390 580  391 615  394 645",
-                        "387 645",
-                        "385 643",
-                        "384 632  381 626  374 625 s",
-                        "350 621  332 620  254 620",
-                        "254 620  152 621  120 623",
-                        "118 621",
-                        "111 546  98 437  84 334",
-                        "87 333",
-                        "123 343  165 350  196 350 s",
-                        "302 350  365 274  365 174 s",
-                        "365 59  289 1  213 1 s",
-                        "133 1  70 52  56 111 s",
-                        "50 136  46 173  46 210",
-                        "44 212",
-                        "36 212",
-                        "36 163  35 69  32 36"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":-13,
-                "thickness":14
-              },
-              {
-                "horizontal":true,
-                "position":350,
-                "thickness":15
-              },
-              {
-                "horizontal":true,
-                "position":564,
-                "thickness":56
-              },
-              {
-                "vertical":true,
-                "position":36,
-                "thickness":10
-              },
-              {
-                "vertical":true,
-                "position":365,
-                "thickness":88
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"six",
-        "unicode":"0036",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":523,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "410 637",
-                        "236 608  54 443  54 235 s",
-                        "54 92  140 -13  265 -13 s",
-                        "387 -13  489 66  489 189 s",
-                        "489 280  421 353  312 353 s",
-                        "250 353  189 323  144 278",
-                        "153 436  271 593  413 626"
-                      ]
-                    },
-                    {
-                      "nodes":[
-                        "276 1 s",
-                        "193 1  144 79  144 223 s",
-                        "144 260  157 279  201 304 s",
-                        "219 314  244 322  267 322 s",
-                        "359 322  401 256  401 165 s",
-                        "401 63  342 1 c"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":-13,
-                "thickness":14
-              },
-              {
-                "horizontal":true,
-                "position":322,
-                "thickness":31
-              },
-              {
-                "vertical":true,
-                "position":54,
-                "thickness":90
-              },
-              {
-                "vertical":true,
-                "position":401,
-                "thickness":88
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"seven",
-        "unicode":"0037",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":476,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "105 -3",
-                        "188 -1",
-                        "190 1",
-                        "260 165  406 478  488 620",
-                        "487 623",
-                        "457 621  351 621  280 621 s",
-                        "209 621  138 621  51 623",
-                        "49 621",
-                        "52 588  53 537  53 416",
-                        "61 416",
-                        "63 418",
-                        "63 442  65 496  69 523 s",
-                        "72 547  90 557  144 561 s",
-                        "171 563  201 565  267 565 s",
-                        "434 565",
-                        "308 297  247 170  220 119 s",
-                        "176 36  145 10  107 3",
-                        "105 1"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":18,
-                "thickness":-21
-              },
-              {
-                "horizontal":true,
-                "position":565,
-                "thickness":56
-              },
-              {
-                "vertical":true,
-                "position":53,
-                "thickness":10
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"eight",
-        "unicode":"0038",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":534,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "46 153 s",
-                        "46 50  137 -10  257 -10 s",
-                        "372 -10  478 58  478 164 s",
-                        "478 247  423 286  327 335",
-                        "390 370  452 420  452 493 s",
-                        "452 578  369 634  272 634 s",
-                        "165 634  76 564  76 470 s",
-                        "76 398  125 358  188 316",
-                        "115 284  46 232 c"
-                      ]
-                    },
-                    {
-                      "nodes":[
-                        "263 1 s",
-                        "182 1  107 71  107 171 s",
-                        "107 236  139 276  202 310",
-                        "314 258  390 212  390 132 s",
-                        "390 46  328 1 c"
-                      ]
-                    },
-                    {
-                      "nodes":[
-                        "164 501 s",
-                        "164 576  212 620  265 620 s",
-                        "333 620  388 561  388 477 s",
-                        "388 412  361 370  313 342",
-                        "217 392  164 432 c"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":-10,
-                "thickness":11
-              },
-              {
-                "horizontal":true,
-                "position":620,
-                "thickness":14
-              },
-              {
-                "vertical":true,
-                "position":46,
-                "thickness":61
-              },
-              {
-                "vertical":true,
-                "position":76,
-                "thickness":88
-              },
-              {
-                "vertical":true,
-                "position":388,
-                "thickness":64
-              },
-              {
-                "vertical":true,
-                "position":390,
-                "thickness":88
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"nine",
-        "unicode":"0039",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":523,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "113 -16",
-                        "287 13  469 178  469 386 s",
-                        "469 529  383 634  258 634 s",
-                        "136 634  34 555  34 432 s",
-                        "34 341  102 268  211 268 s",
-                        "272 268  334 298  379 343",
-                        "370 184  252 28  110 -5"
-                      ]
-                    },
-                    {
-                      "nodes":[
-                        "256 299 s",
-                        "164 299  122 364  122 456 s",
-                        "122 558  181 620  247 620 s",
-                        "330 620  379 541  379 398 s",
-                        "379 361  366 342  322 317 s",
-                        "304 307  279 299 c"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":16,
-                "thickness":-21
-              },
-              {
-                "horizontal":true,
-                "position":268,
-                "thickness":31
-              },
-              {
-                "horizontal":true,
-                "position":620,
-                "thickness":14
-              },
-              {
-                "vertical":true,
-                "position":34,
-                "thickness":88
-              },
-              {
-                "vertical":true,
-                "position":379,
-                "thickness":90
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"hyphen",
-        "unicode":"002d",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":403,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "93 175",
-                        "101 177  113 179  125 179 s",
-                        "255 179 s",
-                        "263 179  269 182  275 186 s",
-                        "287 194  305 210  314 219",
-                        "311 225",
-                        "310 225",
-                        "302 223  290 221  278 221 s",
-                        "148 221 s",
-                        "140 221  134 218  128 214 s",
-                        "116 206  98 190  89 181",
-                        "89 181  92 175  92 175"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":179,
-                "thickness":42
-              },
-              {
-                "vertical":true,
-                "position":89,
-                "thickness":225
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"plus",
-        "unicode":"002b",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":504,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "244 -5",
-                        "246 -7",
-                        "258 -7",
-                        "260 -5",
-                        "260 193",
-                        "457 193",
-                        "459 195",
-                        "459 205",
-                        "457 207",
-                        "260 207",
-                        "260 405",
-                        "258 407",
-                        "246 407",
-                        "244 405",
-                        "244 207",
-                        "47 207",
-                        "45 205",
-                        "45 195",
-                        "47 193",
-                        "244 193"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":16,
-                "thickness":-21
-              },
-              {
-                "horizontal":true,
-                "position":193,
-                "thickness":14
-              },
-              {
-                "vertical":true,
-                "position":244,
-                "thickness":16
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"asterisk",
-        "unicode":"002a",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":348,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "39 478 s",
-                        "48 463  64 460  81 477 s",
-                        "97 493  131 522  164 546",
-                        "161 551",
-                        "123 536  85 522  61 515 s",
-                        "38 508  30 493 c"
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "164 565",
-                        "131 590  97 619  81 635 s",
-                        "64 652  48 649  39 634 s",
-                        "30 619  38 604  61 597 s",
-                        "85 590  123 576  161 561"
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "171 543",
-                        "166 503  159 460  153 436 s",
-                        "148 413  157 400  174 400 s",
-                        "191 400  200 413  195 436 s",
-                        "189 460  182 503  177 543"
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "177 569",
-                        "182 609  189 651  195 676 s",
-                        "200 699  191 712  174 712 s",
-                        "157 712  148 699  153 676 s",
-                        "159 651  166 609  171 569"
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "184 546",
-                        "216 522  251 493  267 477 s",
-                        "284 460  300 463  309 478 s",
-                        "318 493  310 508  287 515 s",
-                        "263 522  225 536  187 551"
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "184 565",
-                        "187 561",
-                        "225 576  263 590  287 597 s",
-                        "310 604  318 619  309 634 s",
-                        "300 649  284 652  267 635 s",
-                        "251 619  216 590 c"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":465,
-                "thickness":181
-              },
-              {
-                "vertical":true,
-                "position":153,
-                "thickness":42
-              },
-              {
-                "vertical":true,
-                "position":161,
-                "thickness":16
-              },
-              {
-                "vertical":true,
-                "position":171,
-                "thickness":16
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"asciicircum",
-        "unicode":"005e",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":560,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "71 232",
-                        "81 227",
-                        "83 228",
-                        "280 621",
-                        "477 228",
-                        "479 227",
-                        "489 232",
-                        "489 235",
-                        "288 637",
-                        "286 638",
-                        "274 638",
-                        "272 637",
-                        "71 235"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":621,
-                "thickness":17
-              },
-              {
-                "vertical":true,
-                "position":71,
-                "thickness":418
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"slash",
-        "unicode":"002f",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":364,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "-1 -87",
-                        "12 -93",
-                        "365 695",
-                        "352 701"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":-72,
-                "thickness":-21
-              },
-              {
-                "horizontal":true,
-                "position":-66,
-                "thickness":-21
-              },
-              {
-                "vertical":true,
-                "position":-1,
-                "thickness":366
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"backslash",
-        "unicode":"005c",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":364,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "365 -87",
-                        "12 701",
-                        "-1 695",
-                        "352 -93"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":-72,
-                "thickness":-21
-              },
-              {
-                "horizontal":true,
-                "position":-66,
-                "thickness":-21
-              },
-              {
-                "vertical":true,
-                "position":-1,
-                "thickness":366
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"colon",
-        "unicode":"003a",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":202,
-            "elements":[
-              {
-                "component":{
-                  "glyphName":"period"
-                },
-                "locked":true
-              },
-              {
-                "component":{
-                  "glyphName":"period"
-                },
-                "transform":{
-                  "yOffset":326
-                },
-                "locked":true
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":-13,
-                "thickness":100
-              },
-              {
-                "horizontal":true,
-                "position":313,
-                "thickness":100
-              },
-              {
-                "vertical":true,
-                "position":51,
-                "thickness":100
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"semicolon",
-        "unicode":"003b",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":202,
-            "elements":[
-              {
-                "component":{
-                  "glyphName":"period"
-                },
-                "transform":{
-                  "yOffset":326
-                },
-                "locked":true
-              },
-              {
-                "component":{
-                  "glyphName":"quotesingle"
-                },
-                "transform":{
-                  "xOffset":16,
-                  "yOffset":-624
-                },
-                "locked":true
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":-112,
-                "thickness":-21
-              },
-              {
-                "horizontal":true,
-                "position":-6,
-                "thickness":93
-              },
-              {
-                "horizontal":true,
-                "position":15,
-                "thickness":-21
-              },
-              {
-                "horizontal":true,
-                "position":313,
-                "thickness":100
-              },
-              {
-                "vertical":true,
-                "position":51,
-                "thickness":100
-              },
-              {
-                "vertical":true,
-                "position":137,
-                "thickness":26
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"less",
-        "unicode":"003c",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":566,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "89 204",
-                        "90 202",
-                        "492 1",
-                        "495 1",
-                        "500 11",
-                        "499 13",
-                        "106 210",
-                        "499 407",
-                        "500 409",
-                        "495 419",
-                        "492 419",
-                        "90 218",
-                        "89 216"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":22,
-                "thickness":-21
-              },
-              {
-                "vertical":true,
-                "position":89,
-                "thickness":17
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"equal",
-        "unicode":"003d",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":611,
-            "elements":[
-              {
-                "elementData":{
-                  "id":"elementdata",
-                  "contours":[
-                    {
-                      "nodes":[
-                        "96 127",
-                        "98 125",
-                        "513 125",
-                        "515 127",
-                        "515 137",
-                        "513 139",
-                        "98 139",
-                        "96 137"
-                      ]
-                    }
-                  ]
-                },
-                "locked":true
-              },
-              {
-                "elementData":"elementdata",
-                "transform":{
-                  "yOffset":156
-                },
-                "locked":true
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":125,
-                "thickness":14
-              },
-              {
-                "horizontal":true,
-                "position":281,
-                "thickness":14
-              },
-              {
-                "vertical":true,
-                "position":96,
-                "thickness":419
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"greater",
-        "unicode":"003e",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":566,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "71 1",
-                        "74 1",
-                        "476 202",
-                        "477 204",
-                        "477 216",
-                        "476 218",
-                        "74 419",
-                        "71 419",
-                        "66 409",
-                        "67 407",
-                        "460 210",
-                        "67 13",
-                        "66 11"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":22,
-                "thickness":-21
-              },
-              {
-                "vertical":true,
-                "position":460,
-                "thickness":17
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"exclam",
-        "unicode":"0021",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":262,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "131 -10 s",
-                        "103 -10  81 12  81 40 s",
-                        "81 68  103 90  131 90 s",
-                        "159 90  181 68  181 40 s",
-                        "181 12  159 -10 c"
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "135 167",
-                        "137 169",
-                        "137 237  144 337  152 408 s",
-                        "160 483  169 534  181 591 s",
-                        "192 643  169 671  131 671 s",
-                        "93 671  70 643  81 591 s",
-                        "93 534  102 483  110 408 s",
-                        "118 337  125 237  125 169",
-                        "127 167"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":-10,
-                "thickness":681
-              },
-              {
-                "vertical":true,
-                "position":78,
-                "thickness":106
-              },
-              {
-                "vertical":true,
-                "position":127,
-                "thickness":10
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"question",
-        "unicode":"003f",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":492,
-            "elements":[
-              {
-                "component":{
-                  "glyphName":"period"
-                },
-                "transform":{
-                  "xOffset":98,
-                  "yOffset":3
-                },
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "191 167",
-                        "199 167",
-                        "201 169",
-                        "201 182  203 201  206 213 s",
-                        "218 258  235 278  301 334 s",
-                        "369 391  411 431  411 513 s",
-                        "411 601  334 670  230 670 s",
-                        "166 670  103 652  50 622",
-                        "49 619",
-                        "52 586  53 498  53 449",
-                        "61 449",
-                        "63 451",
-                        "66 492  71 526  80 550 s",
-                        "102 613  147 656  226 656 s",
-                        "297 656  347 612  347 538 s",
-                        "347 498  329 460  284 424 s",
-                        "213 368  185 330  185 250 s",
-                        "185 227  187 192  189 169"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":-10,
-                "thickness":100
-              },
-              {
-                "horizontal":true,
-                "position":656,
-                "thickness":14
-              },
-              {
-                "vertical":true,
-                "position":53,
-                "thickness":8
-              },
-              {
-                "vertical":true,
-                "position":149,
-                "thickness":100
-              },
-              {
-                "vertical":true,
-                "position":185,
-                "thickness":16
-              },
-              {
-                "vertical":true,
-                "position":347,
-                "thickness":64
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"quotesingle",
-        "unicode":"0027",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":216,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "73 -140",
-                        "116 -115  163 -60  163 6 s",
-                        "163 50  133 87  95 87 s",
-                        "65 87  39 66  39 38 s",
-                        "39 11  56 -6  78 -6 s",
-                        "93 -6  105 0  117 14",
-                        "130 5  137 -9  137 -28 s",
-                        "137 -71  106 -110  69 -133"
-                      ]
-                    }
-                  ]
-                },
-                "transform":{
-                  "xOffset":-16,
-                  "yOffset":624
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":484,
-                "thickness":227
-              },
-              {
-                "horizontal":true,
-                "position":618,
-                "thickness":93
-              },
-              {
-                "vertical":true,
-                "position":121,
-                "thickness":26
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"quotedbl",
-        "unicode":"0022",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":386,
-            "elements":[
-              {
-                "component":{
-                  "glyphName":"quotesingle"
-                },
-                "locked":true
-              },
-              {
-                "component":{
-                  "glyphName":"quotesingle"
-                },
-                "transform":{
-                  "xOffset":170
-                },
-                "locked":true
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":618,
-                "thickness":93
-              },
-              {
-                "vertical":true,
-                "position":121,
-                "thickness":26
-              },
-              {
-                "vertical":true,
-                "position":291,
-                "thickness":26
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"numbersign",
-        "unicode":"0023",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":406,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "87 20",
-                        "104 20",
-                        "139 192",
-                        "222 192",
-                        "186 20",
-                        "203 20",
-                        "238 192",
-                        "338 192",
-                        "349 242",
-                        "249 242",
-                        "273 358",
-                        "373 358",
-                        "383 408",
-                        "283 408",
-                        "319 581",
-                        "302 581",
-                        "267 408",
-                        "184 408",
-                        "220 581",
-                        "203 581",
-                        "168 408",
-                        "68 408",
-                        "57 358",
-                        "157 358",
-                        "133 242",
-                        "33 242",
-                        "23 192",
-                        "123 192"
-                      ]
-                    },
-                    {
-                      "nodes":[
-                        "150 242",
-                        "174 358",
-                        "256 358",
-                        "232 242"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":192,
-                "thickness":50
-              },
-              {
-                "horizontal":true,
-                "position":358,
-                "thickness":50
-              },
-              {
-                "vertical":true,
-                "position":23,
-                "thickness":360
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"at",
-        "unicode":"0040",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":755,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "660 23",
-                        "578 -56  494 -100  381 -100 s",
-                        "208 -100  73 0  73 197 s",
-                        "73 381  251 527  432 527 s",
-                        "584 527  696 422  696 280 s",
-                        "696 164  615 72  532 72 s",
-                        "493 72  490 108  506 175 s",
-                        "557 383",
-                        "556 386",
-                        "496 386",
-                        "494 384",
-                        "483 339",
-                        "474 361  455 383  421 383 s",
-                        "378 383  338 360  310 332 s",
-                        "259 281  225 233  225 153 s",
-                        "225 95  262 52  307 52 s",
-                        "358 52  407 98  438 148",
-                        "422 83  457 56  507 56 s",
-                        "620 56  712 152  712 286 s",
-                        "712 422  595 540  438 540 s",
-                        "237 540  56 385  56 191 s",
-                        "56 -4  196 -113  376 -113 s",
-                        "490 -113  576 -72  668 15",
-                        "668 18",
-                        "663 23"
-                      ]
-                    },
-                    {
-                      "nodes":[
-                        "464 257 s",
-                        "449 196  438 171  431 159 s",
-                        "407 119  380 95  348 95 s",
-                        "318 95  295 119  295 165 s",
-                        "295 265  350 369  425 369 s",
-                        "461 369  482 331  475 305"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":-113,
-                "thickness":13
-              },
-              {
-                "horizontal":true,
-                "position":52,
-                "thickness":43
-              },
-              {
-                "horizontal":true,
-                "position":56,
-                "thickness":16
-              },
-              {
-                "horizontal":true,
-                "position":369,
-                "thickness":14
-              },
-              {
-                "horizontal":true,
-                "position":527,
-                "thickness":13
-              },
-              {
-                "vertical":true,
-                "position":56,
-                "thickness":17
-              },
-              {
-                "vertical":true,
-                "position":225,
-                "thickness":70
-              },
-              {
-                "vertical":true,
-                "position":434,
-                "thickness":63
-              },
-              {
-                "vertical":true,
-                "position":696,
-                "thickness":16
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"dollar",
-        "unicode":"0024",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":518,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "62 44",
-                        "108 20  158 5  216 1",
-                        "216 -101",
-                        "218 -103",
-                        "230 -103",
-                        "232 -101",
-                        "232 0",
-                        "243 0  262 0  273 1",
-                        "273 -101",
-                        "275 -103",
-                        "287 -103",
-                        "289 -101",
-                        "289 3",
-                        "384 17  452 79  452 176 s",
-                        "452 252  408 306  289 349",
-                        "289 595",
-                        "350 588  377 551  397 499 s",
-                        "406 475  411 436  414 395",
-                        "416 393",
-                        "424 393",
-                        "424 442  425 530  428 563",
-                        "427 566",
-                        "386 591  349 606  289 609",
-                        "289 715",
-                        "287 717",
-                        "275 717",
-                        "273 715",
-                        "273 610",
-                        "263 610  243 609  232 607",
-                        "232 715",
-                        "230 717",
-                        "218 717",
-                        "216 715",
-                        "216 604",
-                        "133 584  75 517  75 448 s",
-                        "75 361  125 314  216 278",
-                        "216 15",
-                        "152 24  112 65  92 116 s",
-                        "83 140  78 174  75 215",
-                        "73 217",
-                        "65 217",
-                        "65 168  64 80  61 47"
-                      ]
-                    },
-                    {
-                      "nodes":[
-                        "289 249",
-                        "367 212  388 178  388 127 s",
-                        "388 65  353 28  289 17"
-                      ]
-                    },
-                    {
-                      "nodes":[
-                        "216 377",
-                        "157 404  137 435  137 496 s",
-                        "137 542  168 576  216 590"
-                      ]
-                    },
-                    {
-                      "nodes":[
-                        "273 15",
-                        "261 14  244 13  232 14",
-                        "232 272",
-                        "273 256"
-                      ]
-                    },
-                    {
-                      "nodes":[
-                        "273 354",
-                        "232 370",
-                        "232 593",
-                        "242 595  260 596  273 596"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":-80,
-                "thickness":-21
-              },
-              {
-                "horizontal":true,
-                "thickness":14
-              },
-              {
-                "horizontal":true,
-                "position":1,
-                "thickness":13
-              },
-              {
-                "horizontal":true,
-                "position":596,
-                "thickness":14
-              },
-              {
-                "vertical":true,
-                "position":65,
-                "thickness":8
-              },
-              {
-                "vertical":true,
-                "position":75,
-                "thickness":62
-              },
-              {
-                "vertical":true,
-                "position":216,
-                "thickness":16
-              },
-              {
-                "vertical":true,
-                "position":273,
-                "thickness":16
-              },
-              {
-                "vertical":true,
-                "position":388,
-                "thickness":64
-              },
-              {
-                "vertical":true,
-                "position":416,
-                "thickness":8
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"percent",
-        "unicode":"0025",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":816,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "178 -29",
-                        "191 -37",
-                        "622 650",
-                        "609 658"
-                      ]
-                    }
-                  ]
-                }
-              },
-              {
-                "elementData":{
-                  "id":"elementdata.1",
-                  "contours":[
-                    {
-                      "nodes":[
-                        "210 300 s",
-                        "305 300  364 378  364 467 s",
-                        "364 556  305 634  210 634 s",
-                        "115 634  56 556  56 467 s",
-                        "56 378  115 300 c"
-                      ]
-                    },
-                    {
-                      "nodes":[
-                        "130 467 s",
-                        "130 565  162 620  210 620 s",
-                        "258 620  290 565  290 467 s",
-                        "290 369  258 314  210 314 s",
-                        "162 314  130 369 c"
-                      ]
-                    }
-                  ]
-                },
-                "transform":{
-                  "xOffset":396,
-                  "yOffset":-313
-                },
-                "locked":true
-              },
-              {
-                "elementData":"elementdata.1",
-                "locked":true
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":-16,
-                "thickness":-21
-              },
-              {
-                "horizontal":true,
-                "position":-13,
-                "thickness":14
-              },
-              {
-                "horizontal":true,
-                "position":-8,
-                "thickness":-21
-              },
-              {
-                "horizontal":true,
-                "position":300,
-                "thickness":14
-              },
-              {
-                "horizontal":true,
-                "position":307,
-                "thickness":14
-              },
-              {
-                "horizontal":true,
-                "position":620,
-                "thickness":14
-              },
-              {
-                "vertical":true,
-                "position":56,
-                "thickness":74
-              },
-              {
-                "vertical":true,
-                "position":290,
-                "thickness":74
-              },
-              {
-                "vertical":true,
-                "position":452,
-                "thickness":74
-              },
-              {
-                "vertical":true,
-                "position":686,
-                "thickness":74
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"ampersand",
-        "unicode":"0026",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":959,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "54 194",
-                        "61 197  65 198  72 198 s",
-                        "100 198  119 181  133 160 s",
-                        "220 28  310 -10  451 -10 s",
-                        "640 -10  818 125  818 282 s",
-                        "818 340  776 375  734 375 s",
-                        "704 375  682 371  576 320",
-                        "663 368  690 393  698 444 s",
-                        "708 506  714 515  737 533 s",
-                        "746 540  786 565  805 575 s",
-                        "847 598  867 618  883 645",
-                        "883 647",
-                        "873 651",
-                        "858 621  834 601  799 582 s",
-                        "779 571  716 537  667 513 s",
-                        "634 497  623 486  618 455 s",
-                        "599 337  578 320  443 264",
-                        "442 261",
-                        "446 252",
-                        "493 273  543 295  604 320 s",
-                        "628 330  645 334  663 334 s",
-                        "711 334  730 286  730 245 s",
-                        "730 92  601 1  471 1 s",
-                        "354 1  274 67  210 209 s",
-                        "201 228  178 253  161 257",
-                        "214 302  308 377  350 409",
-                        "361 422  367 435  367 451 s",
-                        "367 467  361 482  343 504 s",
-                        "330 520  323 536  323 565 s",
-                        "323 634  373 660  423 660 s",
-                        "462 660  499 648  516 635 s",
-                        "521 631  523 624  520 619 s",
-                        "509 599  500 586  466 542",
-                        "467 539",
-                        "475 534",
-                        "504 575  528 606  551 634",
-                        "550 636",
-                        "518 654  470 670  423 670 s",
-                        "328 670  236 624  236 544 s",
-                        "236 510  251 486  272 468 s",
-                        "301 444  312 432  312 417 s",
-                        "312 400  303 388  282 371 s",
-                        "222 321  179 287  51 202"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":-10,
-                "thickness":11
-              },
-              {
-                "horizontal":true,
-                "position":334,
-                "thickness":41
-              },
-              {
-                "horizontal":true,
-                "position":660,
-                "thickness":10
-              },
-              {
-                "vertical":true,
-                "position":236,
-                "thickness":87
-              },
-              {
-                "vertical":true,
-                "position":312,
-                "thickness":55
-              },
-              {
-                "vertical":true,
-                "position":730,
-                "thickness":88
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"parenleft",
-        "unicode":"0028",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":312,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "285 -94",
-                        "293 -86",
-                        "293 -84",
-                        "195 14  143 141  143 307 s",
-                        "143 473  195 600  293 698",
-                        "293 700",
-                        "285 708",
-                        "283 708",
-                        "160 610  89 470  89 307 s",
-                        "89 144  160 4  283 -94"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":-73,
-                "thickness":-21
-              },
-              {
-                "horizontal":true,
-                "position":-65,
-                "thickness":-21
-              },
-              {
-                "vertical":true,
-                "position":89,
-                "thickness":54
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"parenright",
-        "unicode":"0029",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":312,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "19 -86",
-                        "27 -94",
-                        "29 -94",
-                        "152 4  223 144  223 307 s",
-                        "223 470  152 610  29 708",
-                        "27 708",
-                        "19 700",
-                        "19 698",
-                        "117 600  169 473  169 307 s",
-                        "169 141  117 14  19 -84"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":-94,
-                "thickness":10
-              },
-              {
-                "horizontal":true,
-                "position":-65,
-                "thickness":-21
-              },
-              {
-                "vertical":true,
-                "position":169,
-                "thickness":54
               }
             ]
           }
@@ -6616,34 +6875,30 @@
         ]
       },
       {
-        "name":"bracketleft",
-        "unicode":"005b",
+        "name":"asciitilde",
+        "unicode":"007e",
         "layers":[
           {
             "name":"Roman",
-            "advanceWidth":328,
+            "advanceWidth":586,
             "elements":[
               {
                 "elementData":{
                   "contours":[
                     {
                       "nodes":[
-                        "130 -88",
-                        "132 -90",
-                        "192 -89  269 -88  317 -88",
-                        "319 -86",
-                        "319 -76",
-                        "317 -74",
-                        "295 -74  246 -74  221 -72 s",
-                        "198 -71  186 -60  186 -31 s",
-                        "186 645 s",
-                        "186 674  198 685  221 686 s",
-                        "246 687  295 688  317 688",
-                        "319 690",
-                        "319 700",
-                        "317 702",
-                        "269 702  192 702  132 704",
-                        "130 702"
+                        "74 195",
+                        "77 195",
+                        "107 228  124 239  153 239 s",
+                        "185 239  219 222  277 187 s",
+                        "314 164  349 150  390 150 s",
+                        "435 150  477 173  520 226",
+                        "512 233",
+                        "509 233",
+                        "478 199  462 189  433 189 s",
+                        "401 189  366 206  309 241 s",
+                        "272 264  237 278  196 278 s",
+                        "151 278  109 255  66 202"
                       ]
                     }
                   ]
@@ -6653,52 +6908,98 @@
             "hints":[
               {
                 "horizontal":true,
-                "position":-88,
-                "thickness":14
+                "position":150,
+                "thickness":39
               },
               {
                 "horizontal":true,
-                "position":688,
-                "thickness":14
+                "position":239,
+                "thickness":39
               },
               {
                 "vertical":true,
-                "position":130,
-                "thickness":56
+                "position":66,
+                "thickness":454
               }
             ]
           }
         ]
       },
       {
-        "name":"bracketright",
-        "unicode":"005d",
+        "name":"yen",
+        "unicode":"00a5",
         "layers":[
           {
             "name":"Roman",
-            "advanceWidth":328,
+            "advanceWidth":624,
             "elements":[
               {
                 "elementData":{
                   "contours":[
                     {
                       "nodes":[
-                        "11 -88",
-                        "59 -88  136 -89  196 -90",
-                        "198 -88",
-                        "198 702",
-                        "196 704",
-                        "136 702  59 702  11 702",
-                        "9 700",
-                        "9 690",
-                        "11 688",
-                        "33 688  82 687  107 686 s",
-                        "129 685  142 674  142 645 s",
-                        "142 -31 s",
-                        "142 -60  129 -71  107 -72 s",
-                        "82 -74  33 -74  11 -74",
-                        "9 -76",
-                        "9 -86"
+                        "175 -1",
+                        "217 0  269 0  312 0 s",
+                        "355 0  407 0  449 -1",
+                        "449 8",
+                        "447 10",
+                        "423 10  389 11  364 13 s",
+                        "355 14  352 17  352 24 s",
+                        "352 276",
+                        "528 276",
+                        "530 278",
+                        "530 288",
+                        "528 290",
+                        "352 290",
+                        "352 312 s",
+                        "352 334  355 346  369 365",
+                        "528 365",
+                        "530 367",
+                        "530 377",
+                        "528 379",
+                        "378 379",
+                        "429 452 s",
+                        "473 516  488 537  531 590 s",
+                        "538 598  545 602  554 603 s",
+                        "571 605  587 606  611 606",
+                        "613 608",
+                        "613 617",
+                        "571 616  564 616  521 616 s",
+                        "478 616  465 616  423 617",
+                        "423 608",
+                        "425 606",
+                        "449 606  469 605  494 603 s",
+                        "503 602  511 600  507 594 s",
+                        "486 561  469 535  417 462 s",
+                        "351 367",
+                        "201 593 s",
+                        "197 599  202 602  211 603 s",
+                        "236 605  249 606  273 606",
+                        "275 608",
+                        "275 617",
+                        "233 616  186 616  143 616 s",
+                        "100 616  57 616  15 617",
+                        "15 608",
+                        "17 606",
+                        "41 606  60 605  85 603 s",
+                        "94 602  100 598  106 590 s",
+                        "247 379",
+                        "96 379",
+                        "94 377",
+                        "94 367",
+                        "96 365",
+                        "256 365",
+                        "268 347  272 334  272 312 s",
+                        "272 290",
+                        "96 290",
+                        "94 288",
+                        "94 278",
+                        "96 276",
+                        "272 276",
+                        "272 24 s",
+                        "272 17  269 14  260 13 s",
+                        "235 11  201 10  177 10",
+                        "175 8"
                       ]
                     }
                   ]
@@ -6708,18 +7009,27 @@
             "hints":[
               {
                 "horizontal":true,
-                "position":-88,
+                "thickness":10
+              },
+              {
+                "horizontal":true,
+                "position":276,
                 "thickness":14
               },
               {
                 "horizontal":true,
-                "position":688,
+                "position":365,
                 "thickness":14
               },
               {
+                "horizontal":true,
+                "position":606,
+                "thickness":10
+              },
+              {
                 "vertical":true,
-                "position":142,
-                "thickness":56
+                "position":272,
+                "thickness":80
               }
             ]
           }
@@ -6894,250 +7204,6 @@
             ]
           }
         ]
-      },
-      {
-        "name":"underscore",
-        "unicode":"005f",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":508,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "16 -73",
-                        "18 -75",
-                        "490 -75",
-                        "492 -73",
-                        "492 -63",
-                        "490 -61",
-                        "18 -61",
-                        "16 -63"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":-75,
-                "thickness":14
-              },
-              {
-                "vertical":true,
-                "position":16,
-                "thickness":476
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"yen",
-        "unicode":"00a5",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":624,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "175 -1",
-                        "217 0  269 0  312 0 s",
-                        "355 0  407 0  449 -1",
-                        "449 8",
-                        "447 10",
-                        "423 10  389 11  364 13 s",
-                        "355 14  352 17  352 24 s",
-                        "352 276",
-                        "528 276",
-                        "530 278",
-                        "530 288",
-                        "528 290",
-                        "352 290",
-                        "352 312 s",
-                        "352 334  355 346  369 365",
-                        "528 365",
-                        "530 367",
-                        "530 377",
-                        "528 379",
-                        "378 379",
-                        "429 452 s",
-                        "473 516  488 537  531 590 s",
-                        "538 598  545 602  554 603 s",
-                        "571 605  587 606  611 606",
-                        "613 608",
-                        "613 617",
-                        "571 616  564 616  521 616 s",
-                        "478 616  465 616  423 617",
-                        "423 608",
-                        "425 606",
-                        "449 606  469 605  494 603 s",
-                        "503 602  511 600  507 594 s",
-                        "486 561  469 535  417 462 s",
-                        "351 367",
-                        "201 593 s",
-                        "197 599  202 602  211 603 s",
-                        "236 605  249 606  273 606",
-                        "275 608",
-                        "275 617",
-                        "233 616  186 616  143 616 s",
-                        "100 616  57 616  15 617",
-                        "15 608",
-                        "17 606",
-                        "41 606  60 605  85 603 s",
-                        "94 602  100 598  106 590 s",
-                        "247 379",
-                        "96 379",
-                        "94 377",
-                        "94 367",
-                        "96 365",
-                        "256 365",
-                        "268 347  272 334  272 312 s",
-                        "272 290",
-                        "96 290",
-                        "94 288",
-                        "94 278",
-                        "96 276",
-                        "272 276",
-                        "272 24 s",
-                        "272 17  269 14  260 13 s",
-                        "235 11  201 10  177 10",
-                        "175 8"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "thickness":10
-              },
-              {
-                "horizontal":true,
-                "position":276,
-                "thickness":14
-              },
-              {
-                "horizontal":true,
-                "position":365,
-                "thickness":14
-              },
-              {
-                "horizontal":true,
-                "position":606,
-                "thickness":10
-              },
-              {
-                "vertical":true,
-                "position":272,
-                "thickness":80
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"asciitilde",
-        "unicode":"007e",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":586,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "74 195",
-                        "77 195",
-                        "107 228  124 239  153 239 s",
-                        "185 239  219 222  277 187 s",
-                        "314 164  349 150  390 150 s",
-                        "435 150  477 173  520 226",
-                        "512 233",
-                        "509 233",
-                        "478 199  462 189  433 189 s",
-                        "401 189  366 206  309 241 s",
-                        "272 264  237 278  196 278 s",
-                        "151 278  109 255  66 202"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":150,
-                "thickness":39
-              },
-              {
-                "horizontal":true,
-                "position":239,
-                "thickness":39
-              },
-              {
-                "vertical":true,
-                "position":66,
-                "thickness":454
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name":"grave",
-        "unicode":"0060",
-        "layers":[
-          {
-            "name":"Roman",
-            "advanceWidth":225,
-            "elements":[
-              {
-                "elementData":{
-                  "contours":[
-                    {
-                      "nodes":[
-                        "88 496 s",
-                        "122 478  164 452  183 437",
-                        "193 446",
-                        "174 471  157 497  133 541 s",
-                        "113 576  93 591  71 591 s",
-                        "53 591  37 575  37 555 s",
-                        "37 532  54 513 c"
-                      ]
-                    }
-                  ]
-                }
-              }
-            ],
-            "hints":[
-              {
-                "horizontal":true,
-                "position":437,
-                "thickness":154
-              },
-              {
-                "vertical":true,
-                "position":37,
-                "thickness":156
-              }
-            ]
-          }
-        ]
       }
     ],
     "defaultMaster":"Roman",
@@ -7152,6 +7218,10 @@
       }
     ],
     "hinting":{
+      "gasp":[
+        15,
+        65535
+      ]
     },
     "info":{
       "tfn":"GG Medi",
@@ -7177,7 +7247,7 @@
     "meta":{
       "metaCreator":true,
       "metaFormatVersion":8,
-      "metaBuild":"7649"
+      "metaBuild":"7840"
     },
     "settings":{
       "settings.RoundCoordinates":"round"
@@ -7188,8 +7258,8 @@
           "name":"Roman",
           "tsn":"Regular",
           "sgn":"GG Medi",
-          "ffn":"GG Medi Regular",
-          "psn":"GGMedi-Regular",
+          "ffn":"GG Medi",
+          "psn":"GGMedi",
           "weight_name":"Regular",
           "width_name":"Normal",
           "slope_name":"Plain",
@@ -7214,7 +7284,7 @@
             "HintingMaxV":250,
             "HintingMinH":20,
             "HintingMinV":20,
-            "OS2UseTypoMetrics":0,
+            "OS2UseTypoMetrics":false,
             "ProcessLoops":false,
             "TtHinter":1,
             "TtHorizSmoothing":0,

@@ -54,6 +54,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -186,6 +189,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -938,6 +944,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -1695,6 +1704,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -1911,6 +1923,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -3057,6 +3072,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -5560,7 +5578,7 @@
     "info":{
       "tfn":"GG Deco",
       "sgn":"GG Deco ExtLt",
-      "creationDate":"2011/06/28 06:04:00",
+      "creationDate":"2011/06/28 07:04:00",
       "copyright":"No Rights Reserved.",
       "trademark":"None.",
       "designer":"Sora Sagano",
@@ -5581,7 +5599,7 @@
     "meta":{
       "metaCreator":true,
       "metaFormatVersion":8,
-      "metaBuild":"7649"
+      "metaBuild":"7840"
     },
     "settings":{
       "settings.RoundCoordinates":"round"
@@ -5590,10 +5608,10 @@
       {
         "fontMaster":{
           "name":"Regular",
-          "tsn":"ExtraLight",
+          "tsn":"Regular",
           "sgn":"GG Deco ExtLt",
-          "ffn":"GG Deco ExtraLight",
-          "psn":"GGDeco-ExtraLight",
+          "ffn":"GG Deco",
+          "psn":"GGDeco",
           "weight_name":"ExtraLight",
           "width_name":"Normal",
           "slope_name":"Plain",
@@ -5618,7 +5636,7 @@
             "HintingMaxV":250,
             "HintingMinH":20,
             "HintingMinV":20,
-            "OS2UseTypoMetrics":0,
+            "OS2UseTypoMetrics":false,
             "ProcessLoops":false,
             "TtHinter":1,
             "TtHorizSmoothing":0,

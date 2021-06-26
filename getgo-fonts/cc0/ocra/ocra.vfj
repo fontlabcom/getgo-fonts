@@ -9880,14 +9880,14 @@
       "maxFunctionDefs":22,
       "maxStackElements":256,
       "gasp":[
-        2,
+        15,
         65535
       ]
     },
     "info":{
       "tfn":"GG Ocra",
       "sgn":"GG Ocra",
-      "creationDate":"2018/08/14 21:52:56",
+      "creationDate":"2018/08/14 22:52:56",
       "copyright":"OCR-AK, 2018 Retorillo (CC0)\nOCR-A, 2018 Jonh Sauter (CC0)\nOCR-BKxStd, 2010 force4u (CC0)",
       "vendorID":"PfEd",
       "versionMajor":1,
@@ -9900,7 +9900,7 @@
     "meta":{
       "metaCreator":true,
       "metaFormatVersion":8,
-      "metaBuild":"7649"
+      "metaBuild":"7840"
     },
     "settings":{
       "settings.RoundCoordinates":"round"
@@ -9911,8 +9911,8 @@
           "name":"Regular",
           "tsn":"Regular",
           "sgn":"GG Ocra",
-          "ffn":"GG Ocra Regular",
-          "psn":"GGOcra-Regular",
+          "ffn":"GG Ocra",
+          "psn":"GGOcra",
           "weight_name":"Regular",
           "width_name":"Normal",
           "slope_name":"Plain",
@@ -9937,7 +9937,7 @@
             "HintingMaxV":250,
             "HintingMinH":20,
             "HintingMinV":20,
-            "OS2UseTypoMetrics":0,
+            "OS2UseTypoMetrics":false,
             "ProcessLoops":false,
             "TtHinter":1,
             "TtHorizSmoothing":0,

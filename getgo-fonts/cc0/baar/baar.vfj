@@ -1516,6 +1516,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ]
@@ -1621,6 +1624,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ]
@@ -2208,6 +2214,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ]
@@ -2967,6 +2976,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ]
@@ -3129,6 +3141,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ]
@@ -3916,6 +3931,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ]
@@ -4089,7 +4107,7 @@
     "info":{
       "tfn":"GG Baar",
       "sgn":"GG Baar",
-      "creationDate":"2021/06/16 04:39:23",
+      "creationDate":"2021/06/16 05:39:23",
       "copyright":"Copyright Echo Heo 2021",
       "trademark":"FontStruct is a trademark of FontStruct.com",
       "designer":"Echo Heo",
@@ -4111,7 +4129,7 @@
     "meta":{
       "metaCreator":true,
       "metaFormatVersion":8,
-      "metaBuild":"7649"
+      "metaBuild":"7840"
     },
     "settings":{
       "settings.RoundCoordinates":"round"
@@ -4122,8 +4140,8 @@
           "name":"Regular",
           "tsn":"Regular",
           "sgn":"GG Baar",
-          "ffn":"GG Baar Regular",
-          "psn":"GGBaar-Regular",
+          "ffn":"GG Baar",
+          "psn":"GGBaar",
           "weight_name":"Regular",
           "width_name":"Normal",
           "slope_name":"Plain",
@@ -4147,7 +4165,7 @@
             "HintingMaxV":512,
             "HintingMinH":41,
             "HintingMinV":41,
-            "OS2UseTypoMetrics":0,
+            "OS2UseTypoMetrics":false,
             "ProcessLoops":false,
             "TtHinter":1,
             "TtHorizSmoothing":0,

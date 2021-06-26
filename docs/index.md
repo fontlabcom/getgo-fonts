@@ -40,7 +40,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 
 
-### GetGo Baar Regular
+### GG Baar
 
 ![CMKSRJ ITSLBZ xhedha pqnnfv gprktw](images/baar.svg)
 
@@ -49,16 +49,16 @@ Modular narrow display font \| [Download font](https://downgit.github.io/#/home?
 ---
 
 
-### GG Boto Regular
+### GG Boto
 
-![Vältože бомуще θρώπον çavatečkul](images/boto.svg)
+![Vältože бомуще θρώπον çavatečkul](images/boto[wght,wdth,ital].svg)
 
-Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/boto/boto.ttf){: target="_blank" }
+Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/boto/boto[wght,wdth,ital].ttf){: target="_blank" }
 
 ---
 
 
-### GetGo Cosm Italic
+### GG Cosm Italic
 
 ![ĽÕFIĶŸÊ ŊŲĦŊŤĮ ýäġţťț yșœśôá vûūâŧô](images/cosm-italic[wght].svg)
 
@@ -67,7 +67,7 @@ Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/
 ---
 
 
-### GetGo Cosm Regular
+### GG Cosm
 
 ![ŪỲÆÑŪŔ ĖÈØŎXĴ nękćzę hŷěìăĥ oșőűng](images/cosm[wght].svg)
 
@@ -76,7 +76,7 @@ Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/
 ---
 
 
-### GetGo Deco ExtraLight
+### GG Deco
 
 ![RIDSNC QUAMJV zifwlz matknh bopfxc](images/deco.svg)
 
@@ -85,7 +85,7 @@ Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/
 ---
 
 
-### GetGo Medi Regular
+### GG Medi
 
 ![XLJWDB XAPQJK oilmfd eurnco evsywc](images/medi.svg)
 
@@ -94,7 +94,7 @@ Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/
 ---
 
 
-### GetGo Ocra Regular
+### GG Ocra
 
 ![KYXIZW PKOJG bpxhzb ｳｴｵｶｷ vlegms](images/ocra.svg)
 
@@ -103,7 +103,7 @@ Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/
 ---
 
 
-### GetGo Pixa Regular
+### GG Pixa
 
 ![A˪̀ͰϢЀ Ա֑؆܀ހߊऀ ঀஂഀกༀကᄀ Ꭰ᐀ ᚠ⠀ ⴰ⺔ぁァ](images/pixa.svg)
 
@@ -112,7 +112,7 @@ Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/
 ---
 
 
-### GG Plum Regular
+### GG Plum
 
 ![CĞBJÌĂ ŒÃÑDPẂ ŷèãaâò ẅoîẁĳœ effvgý](images/plum[wght].svg)
 
@@ -121,7 +121,7 @@ Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/
 ---
 
 
-### GetGo Star Regular
+### GG Star
 
 ![СЪРГУЮ ЮДЁЯЭФ зфоляч хшйёцш ицщиач](images/star.svg)
 
@@ -139,7 +139,7 @@ Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/
 ---
 
 
-### GG Stroke Grot OFL Regular
+### GG Stroke Grot OFL
 
 ![PJVNNX TQFBHI wuufªk ldmzea prxhºy](images/stroke-grot.svg)
 
@@ -148,7 +148,7 @@ Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/
 ---
 
 
-### GetGo Veni Regular
+### GG Veni
 
 ![ÂÌDÓŸM IXẂÛÀÔ éẁfwïi åúíkóö ùämõœl](images/veni.svg)
 
@@ -157,7 +157,7 @@ Font \| [Download font](https://downgit.github.io/#/home?url=https://github.com/
 ---
 
 
-### GetGo Vize Regular
+### GG Vize
 
 ![AMXRZY CPLZLI eghxfj usaivo yqbpwn](images/vize.svg)
 

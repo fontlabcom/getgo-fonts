@@ -30,11 +30,11 @@
         ],
         "sample_text": "Vältože бомуще θρώπον çavatečkul",
         "url": {
-            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto.vfj",
-            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto.ttf",
-            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto.md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/boto.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto.png"
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto[wght,wdth,ital].vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto[wght,wdth,ital].ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto[wght,wdth,ital].md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/boto[wght,wdth,ital].svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto[wght,wdth,ital].png"
         }
     },
     "GetGo Cosm Italic": {

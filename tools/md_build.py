@@ -268,7 +268,7 @@ class GetGoDocs(object):
         self.redo['woff'] = False
         self.redo['yaml'] = False
         self.redo['sample_text'] = False
-        self.redo['sample'] = False
+        self.redo['sample'] = True
         self.folders = {}
         self.folders['root'] = Path(Path(__file__).parent, '..').resolve()
         self.folders['font'] = Path(self.folders['root'], 'getgo-fonts').resolve()
@@ -331,7 +331,7 @@ class GetGoDocs(object):
 
 def main():
     ggd = GetGoDocs()
-    ggd.redo['sample'] = False
+    ggd.redo['sample'] = True
     ggd.make()
 
 if __name__ == '__main__':

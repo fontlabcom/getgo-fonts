@@ -318,6 +318,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -2028,6 +2031,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -2639,6 +2645,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -3603,6 +3612,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -4102,6 +4114,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -5139,6 +5154,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -5794,6 +5812,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -6130,6 +6151,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -7726,6 +7750,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -8146,6 +8173,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -8658,6 +8688,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -9747,6 +9780,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -10553,6 +10589,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -11447,6 +11486,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -13193,6 +13235,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -13532,6 +13577,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -13766,6 +13814,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -14771,6 +14822,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -15288,6 +15342,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -15434,6 +15491,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -15610,7 +15670,7 @@
                   "glyphName":"circumflex"
                 },
                 "transform":{
-                  "xOffset":-139.5
+                  "xOffset":-140
                 },
                 "locked":true,
                 "nonSpacing":true
@@ -15690,7 +15750,7 @@
                   "glyphName":"dieresis"
                 },
                 "transform":{
-                  "xOffset":-138.5
+                  "xOffset":-139
                 },
                 "locked":true,
                 "nonSpacing":true
@@ -15994,6 +16054,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -16651,6 +16714,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -16996,6 +17062,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -18959,6 +19028,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -19748,6 +19820,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -20826,6 +20901,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -21621,6 +21699,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -22280,6 +22361,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -25707,6 +25791,9 @@
                 },
                 "transform":{
                   "xOffset":41
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -25772,6 +25859,9 @@
                 },
                 "transform":{
                   "xOffset":72
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -25837,6 +25927,9 @@
                 },
                 "transform":{
                   "xOffset":51
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -31287,6 +31380,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -31430,6 +31526,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -31585,6 +31684,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -31733,6 +31835,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -31893,6 +31998,9 @@
                 },
                 "transform":{
                   "xOffset":147
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -32046,6 +32154,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -32210,6 +32321,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -32392,6 +32506,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ],
@@ -32609,7 +32726,7 @@
     "info":{
       "tfn":"GG Plum",
       "sgn":"GG Plum",
-      "creationDate":"2021/06/16 04:54:36",
+      "creationDate":"2021/06/16 05:54:36",
       "designer":"Sora Sagano",
       "designerURL":"http://www.dotcolon.net/",
       "versionMajor":1,
@@ -32622,7 +32739,7 @@
     "meta":{
       "metaCreator":true,
       "metaFormatVersion":8,
-      "metaBuild":"7649"
+      "metaBuild":"7840"
     },
     "settings":{
       "settings.RoundCoordinates":"round"
@@ -32656,16 +32773,16 @@
           },
           "guidelines":[
             {
-              "name":"f1",
-              "style":"custom",
-              "horizontal":true,
-              "position":250
-            },
-            {
               "name":"f2",
               "style":"custom",
               "horizontal":true,
               "position":765
+            },
+            {
+              "name":"f1",
+              "style":"custom",
+              "horizontal":true,
+              "position":250
             }
           ],
           "otherData":{
@@ -32675,7 +32792,7 @@
             "HintingMaxV":250,
             "HintingMinH":20,
             "HintingMinV":20,
-            "OS2UseTypoMetrics":0,
+            "OS2UseTypoMetrics":false,
             "ProcessLoops":true,
             "TtHinter":1,
             "TtHorizSmoothing":0,
@@ -33080,8 +33197,8 @@
           "name":"Regular",
           "tsn":"Regular",
           "sgn":"GG Plum",
-          "ffn":"GG Plum Regular",
-          "psn":"GGPlum-Regular",
+          "ffn":"GG Plum",
+          "psn":"GGPlum",
           "weight_name":"Regular",
           "width_name":"Normal",
           "slope_name":"Plain",
@@ -33116,7 +33233,7 @@
             "HintingMaxV":250,
             "HintingMinH":20,
             "HintingMinV":20,
-            "OS2UseTypoMetrics":0,
+            "OS2UseTypoMetrics":false,
             "ProcessLoops":true,
             "TtHinter":1,
             "TtHorizSmoothing":0,
@@ -33574,7 +33691,7 @@
             "HintingMaxV":250,
             "HintingMinH":20,
             "HintingMinV":20,
-            "OS2UseTypoMetrics":0,
+            "OS2UseTypoMetrics":false,
             "ProcessLoops":true,
             "TtHinter":1,
             "TtHorizSmoothing":0,

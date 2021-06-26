@@ -885,6 +885,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ]
@@ -982,6 +985,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ]
@@ -1506,6 +1512,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ]
@@ -2061,6 +2070,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ]
@@ -2196,6 +2208,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ]
@@ -2949,6 +2964,9 @@
                       ]
                     }
                   ]
+                },
+                "stroke":{
+                  "thickness":1
                 }
               }
             ]
@@ -5380,7 +5398,7 @@
     "info":{
       "tfn":"GG Star",
       "sgn":"GG Star",
-      "creationDate":"2021/04/19 16:15:58",
+      "creationDate":"2021/04/19 17:15:58",
       "copyright":"Copyright Dmitriy Sychiov 2021\n“Daily Double” by “Quinn Davis” (https://fontstruct.com/fontstructors/show/1507185/sonicfontshd)",
       "trademark":"FontStruct is a trademark of FontStruct.com",
       "designer":"Dmitriy Sychiov",
@@ -5402,7 +5420,7 @@
     "meta":{
       "metaCreator":true,
       "metaFormatVersion":8,
-      "metaBuild":"7649"
+      "metaBuild":"7840"
     },
     "settings":{
       "settings.RoundCoordinates":"round"
@@ -5413,8 +5431,8 @@
           "name":"Regular",
           "tsn":"Regular",
           "sgn":"GG Star",
-          "ffn":"GG Star Regular",
-          "psn":"GGStar-Regular",
+          "ffn":"GG Star",
+          "psn":"GGStar",
           "weight_name":"Regular",
           "width_name":"Normal",
           "slope_name":"Plain",
@@ -5438,7 +5456,7 @@
             "HintingMaxV":512,
             "HintingMinH":41,
             "HintingMinV":41,
-            "OS2UseTypoMetrics":0,
+            "OS2UseTypoMetrics":false,
             "ProcessLoops":false,
             "TtHinter":1,
             "TtHorizSmoothing":0,

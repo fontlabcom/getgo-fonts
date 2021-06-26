@@ -167,10 +167,8 @@ class GetGoFont(object):
         if not self.redo['yaml'] and self.yaml_path.is_file():
             with open(self.yaml_path, 'r', encoding='utf-8') as f:
                 metadata = oyaml.read_yaml(f)
-        metadata['full_name'] = metadata.get(
-            'full_name', self.get_full_name())
-        metadata['family_name'] = metadata.get(
-            'family_name', self.get_family_name())
+        metadata['full_name'] = self.get_full_name()
+        metadata['family_name'] = self.get_family_name()
         metadata['copyright'] = self.get_copyright()
         metadata['license'] = metadata.get('license', self.get_license())
         metadata['description'] = metadata.get('description', 'Font')
@@ -215,32 +213,31 @@ class GetGoFont(object):
         return " ".join(newwords)
 
     def render_sample_text(self, text=None):
-        if not self.redo['sample']:
-            return
+        if self.redo['sample'] or not self.png_path.is_file() or not self.svg_path.is_file():
 
-        if not text:
-            text = self.metadata['sample_text']
-        v = vharfbuzz.Vharfbuzz(self.path)
-        buf = v.shape(text, {'script': self.scripts[0]})
-        svg = v.buf_to_svg(buf)
-        svg = re.sub(
-            r"""<svg xmlns="http://www\.w3\.org/2000/svg" viewBox="0 0 (.*?) (.*?)" transform="matrix\(1 0 0 -1 0 0\)">""",
-            r"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 \g<1> \g<2>" transform="translate(0, \g<2>) scale(1, -1)">""",
-            svg
-        )
-        png = io.BytesIO()
-        with open(self.svg_path, 'w') as f:
-            f.write(svg)
-        if is_usvg:
-            usvg(self.svg_path, self.svg_path)
-        cairosvg.svg2png(
-            bytestring=svg,
-            write_to=png,
-            output_height=56
-        )
-        im = Image.open(png)
-        im = im.crop((0, 0, 600, 56))
-        im.save(self.png_path, 'PNG')
+            if not text:
+                text = self.metadata['sample_text']
+            v = vharfbuzz.Vharfbuzz(self.path)
+            buf = v.shape(text, {'script': self.scripts[0]})
+            svg = v.buf_to_svg(buf)
+            svg = re.sub(
+                r"""<svg xmlns="http://www\.w3\.org/2000/svg" viewBox="0 0 (.*?) (.*?)" transform="matrix\(1 0 0 -1 0 0\)">""",
+                r"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 \g<1> \g<2>" transform="translate(0, \g<2>) scale(1, -1)">""",
+                svg
+            )
+            png = io.BytesIO()
+            with open(self.svg_path, 'w') as f:
+                f.write(svg)
+            if is_usvg:
+                usvg(self.svg_path, self.svg_path)
+            cairosvg.svg2png(
+                bytestring=svg,
+                write_to=png,
+                output_height=56
+            )
+            im = Image.open(png)
+            im = im.crop((0, 0, 600, 56))
+            im.save(self.png_path, 'PNG')
 
     def build_md(self):
         download_url = str(self.path).replace(

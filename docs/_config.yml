@@ -11,11 +11,11 @@ footer_content: "Site copyright &copy; 2021 Fontlab Ltd. Fonts are copyright of 
 aux_links:
   "FontLab.com":
     - "https://www.fontlab.com/"
-  "FontLab 7":
+  "FontLab 7":
     - "https://www.fontlab.com/font-editor/fontlab/"
-  "FontLab Help":
+  "Help":
     - "https://help.fontlab.com/"
-  "FontLab Videos":
+  "Videos":
     - "http://fontlab.tv/"
   "Buy":
     - "https://store.fontlab.com/"
@@ -27,6 +27,6 @@ aux_links:
     - "https://blog.fontlab.com/"
   "Contact":
     - "https://www.fontlab.com/contact/"
-  "About Us":
+  "About":
     - "https://www.fontlab.com/about/"
 aux_links_new_tab: true

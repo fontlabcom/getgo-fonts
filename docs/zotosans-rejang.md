@@ -45,7 +45,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
-## Character Map
+## Character map
 
 <div style="font-family: 'Zoto Sans Rejang'; font-size: 2em;">
 ꤰ ꤱ ꤲ ꤳ ꤴ ꤵ ꤶ ꤷ ꤸ ꤹ ꤺ ꤻ ꤼ ꤽ ꤾ ꤿ ꥀ ꥁ ꥂ ꥃ ꥄ ꥅ ꥆ ꥇ ꥈ ꥉ ꥊ ꥋ ꥌ ꥍ ꥎ ꥏ ꥐ ꥑ ꥒ ꥓ ꥟

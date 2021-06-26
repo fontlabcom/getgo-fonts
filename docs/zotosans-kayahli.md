@@ -45,7 +45,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
-## Character Map
+## Character map
 
 <div style="font-family: 'Zoto Sans Kayah Li'; font-size: 2em;">
 ꤊ ꤋ ꤌ ꤍ ꤎ ꤏ ꤐ ꤑ ꤒ ꤓ ꤔ ꤕ ꤖ ꤗ ꤘ ꤙ ꤚ ꤛ ꤜ ꤝ ꤞ ꤟ ꤠ ꤡ ꤢ ꤣ ꤤ ꤥ ꤦ ꤧ ꤨ ꤩ ꤪ ꤫ ꤬ ꤭ ꤮ ꤯

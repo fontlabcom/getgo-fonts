@@ -45,7 +45,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
-## Character Map
+## Character map
 
 <div style="font-family: 'Zoto Sans Thaana'; font-size: 2em;">
 ! ( ) , . : ;   ، ؛ ؟ ٪ ٫ ٬ ހ ށ ނ ރ ބ ޅ ކ އ ވ މ ފ ދ ތ ލ ގ ޏ ސ ޑ ޒ ޓ ޔ ޕ ޖ ޗ ޘ ޙ ޚ ޛ ޜ ޝ ޞ ޟ ޠ ޡ ޢ ޣ ޤ ޥ ަ ާ ި ީ ު ޫ ެ ޭ ޮ ޯ ް ޱ ‘ ’ “ ” ◌ ﷲ ﷽

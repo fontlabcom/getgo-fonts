@@ -45,7 +45,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
-## Character Map
+## Character map
 
 <div style="font-family: 'Zoto Sans Inscriptional Parthian'; font-size: 2em;">
 𐭀 𐭁 𐭂 𐭃 𐭄 𐭅 𐭆 𐭇 𐭈 𐭉 𐭊 𐭋 𐭌 𐭍 𐭎 𐭏 𐭐 𐭑 𐭒 𐭓 𐭔 𐭕

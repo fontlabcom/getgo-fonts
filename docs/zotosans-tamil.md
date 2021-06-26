@@ -45,7 +45,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
-## Character Map
+## Character map
 
 <div style="font-family: 'Zoto Sans Tamil'; font-size: 2em;">
 ! " % ' ( ) * + , - . / : ; < = > ? [ \ ] ^ _ { | } ~   × ÷ । ॥ ஂ ஃ அ ஆ இ ஈ உ ஊ எ ஏ ஐ ஒ ஓ ஔ க ங ச ஜ ஞ ட ண த ந ன ப ம ய ர ற ல ள ழ வ ஶ ஷ ஸ ஹ ா ி ீ ு ூ ெ ே ை ொ ோ ௌ ் ௐ ௗ ௳ ௴ ௵ ௶ ௷ ௸ ௹ ௺ – — ‘ ’ “ ” … ₹ − ◌

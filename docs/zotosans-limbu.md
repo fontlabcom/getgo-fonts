@@ -45,7 +45,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
-## Character Map
+## Character map
 
 <div style="font-family: 'Zoto Sans Limbu'; font-size: 2em;">
 । ॥ ᤀ ᤁ ᤂ ᤃ ᤄ ᤅ ᤆ ᤇ ᤈ ᤉ ᤊ ᤋ ᤌ ᤍ ᤎ ᤏ ᤐ ᤑ ᤒ ᤓ ᤔ ᤕ ᤖ ᤗ ᤘ ᤙ ᤚ ᤛ ᤜ ᤠ ᤡ ᤢ ᤣ ᤤ ᤥ ᤦ ᤧ ᤨ ᤩ ᤪ ᤫ ᤰ ᤱ ᤲ ᤳ ᤴ ᤵ ᤶ ᤷ ᤸ ᤹ ᤺ ᤻ ᥀ ᥄ ᥅

@@ -45,7 +45,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
-## Character Map
+## Character map
 
 <div style="font-family: 'Zoto Sans Meetei Mayek'; font-size: 2em;">
 ꫠ ꫡ ꫢ ꫣ ꫤ ꫥ ꫦ ꫧ ꫨ ꫩ ꫪ ꫫ ꫬ ꫭ ꫮ ꫯ ꫰ ꫱ ꫲ ꫳ ꫴ ꫵ ꫶ ꯀ ꯁ ꯂ ꯃ ꯄ ꯅ ꯆ ꯇ ꯈ ꯉ ꯊ ꯋ ꯌ ꯍ ꯎ ꯏ ꯐ ꯑ ꯒ ꯓ ꯔ ꯕ ꯖ ꯗ ꯘ ꯙ ꯚ ꯛ ꯜ ꯝ ꯞ ꯟ ꯠ ꯡ ꯢ ꯣ ꯤ ꯥ ꯦ ꯧ ꯨ ꯩ ꯪ ꯫ ꯬ ꯭

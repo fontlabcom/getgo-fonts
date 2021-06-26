@@ -45,7 +45,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
-## Character Map
+## Character map
 
 <div style="font-family: 'Zoto Sans Phags Pa'; font-size: 2em;">
 ! ?   ᠁ ᠂ ᠃ ᠅ ‥ … ◌ 、 。 〈 〉 《 》 「 」 『 』 【 】 〔 〕 〖 〗 〘 〙 〚 〛 ꡀ ꡁ ꡂ ꡃ ꡄ ꡅ ꡆ ꡇ ꡈ ꡉ ꡊ ꡋ ꡌ ꡍ ꡎ ꡏ ꡐ ꡑ ꡒ ꡓ ꡔ ꡕ ꡖ ꡗ ꡘ ꡙ ꡚ ꡛ ꡜ ꡝ ꡞ ꡟ ꡠ ꡡ ꡢ ꡣ ꡤ ꡥ ꡦ ꡧ ꡨ ꡩ ꡪ ꡫ ꡬ ꡭ ꡮ ꡯ ꡰ ꡱ ꡲ ꡳ ꡴ ꡵ ꡶ ꡷ ︀

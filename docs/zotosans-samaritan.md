@@ -45,7 +45,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
-## Character Map
+## Character map
 
 <div style="font-family: 'Zoto Sans Samaritan'; font-size: 2em;">
 ࠀ ࠁ ࠂ ࠃ ࠄ ࠅ ࠆ ࠇ ࠈ ࠉ ࠊ ࠋ ࠌ ࠍ ࠎ ࠏ ࠐ ࠑ ࠒ ࠓ ࠔ ࠕ ࠖ ࠗ ࠘ ࠙ ࠚ ࠛ ࠜ ࠝ ࠞ ࠟ ࠠ ࠡ ࠢ ࠣ ࠤ ࠥ ࠦ ࠧ ࠨ ࠩ ࠪ ࠫ ࠬ ࠭ ࠰ ࠱ ࠲ ࠳ ࠴ ࠵ ࠶ ࠷ ࠸ ࠹ ࠺ ࠻ ࠼ ࠽ ࠾ ⸱

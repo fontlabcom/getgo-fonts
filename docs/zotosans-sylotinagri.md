@@ -45,7 +45,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
-## Character Map
+## Character map
 
 <div style="font-family: 'Zoto Sans Syloti Nagri'; font-size: 2em;">
 । ॥ ‐ ‑ ⁕ ◌ ꠀ ꠁ ꠂ ꠃ ꠄ ꠅ ꠆ ꠇ ꠈ ꠉ ꠊ ꠋ ꠌ ꠍ ꠎ ꠏ ꠐ ꠑ ꠒ ꠓ ꠔ ꠕ ꠖ ꠗ ꠘ ꠙ ꠚ ꠛ ꠜ ꠝ ꠞ ꠟ ꠠ ꠡ ꠢ ꠣ ꠤ ꠥ ꠦ ꠧ ꠨ ꠩ ꠪ ꠫

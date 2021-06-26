@@ -285,7 +285,7 @@ title: "{self.full_name}"
 
 ---
 
-## Character Map
+## Character map
 
 <div style="font-family: '{self.full_name}'; font-size: 2em;">
 {" ".join([chr(u) for u in self.unicodes]).strip()}

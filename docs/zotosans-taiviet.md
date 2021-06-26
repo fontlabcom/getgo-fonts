@@ -45,7 +45,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
-## Character Map
+## Character map
 
 <div style="font-family: 'Zoto Sans Tai Viet'; font-size: 2em;">
 ◌ ꞌ ꪀ ꪁ ꪂ ꪃ ꪄ ꪅ ꪆ ꪇ ꪈ ꪉ ꪊ ꪋ ꪌ ꪍ ꪎ ꪏ ꪐ ꪑ ꪒ ꪓ ꪔ ꪕ ꪖ ꪗ ꪘ ꪙ ꪚ ꪛ ꪜ ꪝ ꪞ ꪟ ꪠ ꪡ ꪢ ꪣ ꪤ ꪥ ꪦ ꪧ ꪨ ꪩ ꪪ ꪫ ꪬ ꪭ ꪮ ꪯ ꪰ ꪱ ꪲ ꪳ ꪴ ꪵ ꪶ ꪷ ꪸ ꪹ ꪺ ꪻ ꪼ ꪽ ꪾ ꪿ ꫀ ꫁ ꫂ ꫛ ꫜ ꫝ ꫞ ꫟

@@ -45,7 +45,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
-## Character Map
+## Character map
 
 <div style="font-family: 'Zoto Sans Coptic'; font-size: 2em;">
 ŋ ǁ ɑ ɔ ə ɛ ɟ ɡ ɲ ɾ ʃ ʒ ʤ ʧ ˇ ː ˘ ˙ ˚ ˛ ˝ ̀ ́ ̂ ̄ ̅ ̇ ̈ ̣ ̿ ͡ Ϣ ϣ Ϥ ϥ Ϧ ϧ Ϩ ϩ Ϫ ϫ Ϭ ϭ Ϯ ϯ ᷍ Ⲁ ⲁ Ⲃ ⲃ Ⲅ ⲅ Ⲇ ⲇ Ⲉ ⲉ Ⲋ ⲋ Ⲍ ⲍ Ⲏ ⲏ Ⲑ ⲑ Ⲓ ⲓ Ⲕ ⲕ Ⲗ ⲗ Ⲙ ⲙ Ⲛ ⲛ Ⲝ ⲝ Ⲟ ⲟ Ⲡ ⲡ Ⲣ ⲣ Ⲥ ⲥ Ⲧ ⲧ Ⲩ ⲩ Ⲫ ⲫ Ⲭ ⲭ Ⲯ ⲯ Ⲱ ⲱ Ⲳ ⲳ Ⲵ ⲵ Ⲷ ⲷ Ⲹ ⲹ Ⲻ ⲻ Ⲽ ⲽ Ⲿ ⲿ Ⳁ ⳁ Ⳃ ⳃ Ⳅ ⳅ Ⳇ ⳇ Ⳉ ⳉ Ⳋ ⳋ Ⳍ ⳍ Ⳏ ⳏ Ⳑ ⳑ Ⳓ ⳓ Ⳕ ⳕ Ⳗ ⳗ Ⳙ ⳙ Ⳛ ⳛ Ⳝ ⳝ Ⳟ ⳟ Ⳡ ⳡ Ⳣ ⳣ ⳤ ⳥ ⳦ ⳧ ⳨ ⳩ ⳪ Ⳬ ⳬ Ⳮ ⳮ ⳯ ⳰ ⳱ Ⳳ ⳳ ⳹ ⳺ ⳻ ⳼ ⳾ ⳿ ︤ ︥ ︦

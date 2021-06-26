@@ -45,7 +45,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
-## Character Map
+## Character map
 
 <div style="font-family: 'Zoto Sans Gurmukhi'; font-size: 2em;">
 ! " % ' ( ) * + , - . / : ; < = > ? [ \ ] ^ _ { | } ~   × ÷ । ॥ ਁ ਂ ਃ ਅ ਆ ਇ ਈ ਉ ਊ ਏ ਐ ਓ ਔ ਕ ਖ ਗ ਘ ਙ ਚ ਛ ਜ ਝ ਞ ਟ ਠ ਡ ਢ ਣ ਤ ਥ ਦ ਧ ਨ ਪ ਫ ਬ ਭ ਮ ਯ ਰ ਲ ਲ਼ ਵ ਸ਼ ਸ ਹ ਼ ਾ ਿ ੀ ੁ ੂ ੇ ੈ ੋ ੌ ੍ ੑ ਖ਼ ਗ਼ ਜ਼ ੜ ਫ਼ ੰ ੱ ੲ ੳ ੴ ੵ – — ‘ ’ “ ” … ₹ − ◌ ☬ ꠶ ꠷ ꠸ ꠹

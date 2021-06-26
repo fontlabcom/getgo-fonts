@@ -37,7 +37,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
-## Character Map
+## Character map
 
 <div style="font-family: 'GG Veni'; font-size: 2em;">
 ! " $ % & ' ( ) * + , - . / : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~ ¡ £ ¥ ¨ « ´ ¸ » ¿ À Á Â Ã Ä Å Æ Ç È É Ê Ë Ì Í Î Ï Ñ Ò Ó Ô Õ Ö Ø Ù Ú Û Ü Ý ß à á â ã ä å æ ç è é ê ë ì í î ï ñ ò ó ô õ ö ø ù ú û ü ý ÿ ı Ĳ ĳ Œ œ Ŵ ŵ Ŷ ŷ Ÿ ˆ ˚ ˜ Ẁ ẁ Ẃ ẃ Ẅ ẅ Ỳ ỳ – — ‘ ’ “ ” „ … ‹ › € ﬁ ﬂ

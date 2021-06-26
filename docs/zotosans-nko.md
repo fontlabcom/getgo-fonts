@@ -45,7 +45,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
-## Character Map
+## Character map
 
 <div style="font-family: 'Zoto Sans NKo'; font-size: 2em;">
 ، ؛ ؟ ٪ ߊ ߋ ߌ ߍ ߎ ߏ ߐ ߑ ߒ ߓ ߔ ߕ ߖ ߗ ߘ ߙ ߚ ߛ ߜ ߝ ߞ ߟ ߠ ߡ ߢ ߣ ߤ ߥ ߦ ߧ ߨ ߩ ߪ ߫ ߬ ߭ ߮ ߯ ߰ ߱ ߲ ߳ ߴ ߵ ߶ ߷ ߸ ߹ ߺ ⸜ ⸝ ﴾ ﴿

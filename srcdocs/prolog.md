@@ -10,7 +10,7 @@ The GetGo fonts are suitable for starting your own font project in FontLab 7.
 
 ## Download
 
-[Download all fonts](https://github.com/fontlabcom/getgo-fonts/archive/refs/heads/main.zip){: .btn .btn-purple }
+[Download all fonts](https://github.com/fontlabcom/getgo-fonts/raw/main/getgo-fonts-for-fontlab.zip){: .btn .btn-purple }
 
 ## Licenses
 

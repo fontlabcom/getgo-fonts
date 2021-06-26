@@ -11,7 +11,7 @@ import random
 import re
 from collections import OrderedDict
 from pathlib import Path
-
+import shutil
 import cairosvg
 import fontTools.ttLib
 import fontTools.unicodedata as ucd
@@ -311,6 +311,7 @@ class GetGoDocs(object):
         self.redo['yaml'] = False
         self.redo['sample_text'] = False
         self.redo['sample'] = True
+        self.redo['zip'] = False
         self.folders = {}
         self.folders['root'] = Path(Path(__file__).parent, '..').resolve()
         self.folders['font'] = Path(self.folders['root'], 'getgo-fonts').resolve()
@@ -370,9 +371,18 @@ class GetGoDocs(object):
         with open(Path(self.folders['docs'], 'index.md'), 'w', encoding='utf-8') as f:
             f.write(self.index_md)
 
+    def make_zip(self):
+        shutil.make_archive(
+            Path(self.folders['root'], 'getgo-fonts-for-fontlab'),
+            'zip',
+            self.folders['font']
+            )
+
     def make(self):
         self.find_fonts()
         self.process()
+        if self.redo['zip']:
+            self.make_zip()
 
 def main():
     ggd = GetGoDocs()
@@ -380,6 +390,7 @@ def main():
     ggd.redo['yaml'] = False
     ggd.redo['sample_text'] = False
     ggd.redo['sample'] = False
+    ggd.redo['zip'] = True
     ggd.make()
 
 if __name__ == '__main__':

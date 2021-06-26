@@ -203,6 +203,9 @@ class GetGoFont(object):
         im = im.crop((0, 0, 600, 56))
         im.save(self.png_path, 'PNG')
 
+    def get_md(self):
+        return '\n- ' + repr(self.metadata)
+
     def process(self):
         self.build_scripts()
         self.build_metadata()
@@ -234,6 +237,7 @@ class GetGoDocs(object):
         self.url_bases['git_download'] = 'https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts'
         self.data = OrderedDict()
         self.font_css = ''
+        self.md = ''
 
     def find_fonts(self):
         for self.path in self.folders['font'].glob('**/*.?tf'):
@@ -241,6 +245,13 @@ class GetGoDocs(object):
             self.paths[self.path] = {}
 
     def process(self):
+        with open(Path(self.folders['md'], 'prolog.md'), 'r', encoding='utf-8') as f:
+            self.md += f.read() + """
+
+## Fonts
+
+"""
+
         for path in self.paths:
             fo = GetGoFont(path, self.folders, self.url_bases, self.redo)
 
@@ -254,12 +265,15 @@ class GetGoDocs(object):
             drec['url']['svg'] = fo.get_download_url(fo.svg_path)
             drec['url']['png'] = fo.get_download_url(fo.png_path)
             self.font_css += fo.get_font_css()
-            
+            self.md += fo.get_md()
+
 
         with open(Path(self.folders['css'], 'fonts.css'), 'w', encoding='utf-8') as f:
             f.write(self.font_css)
         with open(Path(self.folders['root'], 'fonts.json'), 'w', encoding='utf-8') as f:
             ojson.json_dump(self.data, f)
+        with open(Path(self.folders['md'], 'index.md'), 'w', encoding='utf-8') as f:
+            f.write(self.md)
 
     def make(self):
         self.find_fonts()

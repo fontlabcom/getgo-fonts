@@ -1,7 +1,7 @@
 title: GetGo Fonts for FontLab
 description: The GetGo Fonts for FontLab is a collection of font files, which are suitable for starting your own font project in FontLab. The fonts are licensed under CC-0 (public domain), Apache or OFL, and are available for download in the FontLab VFJ format. They support a variety of writing systems and design styles, and the collection is growing!
-baseurl: "/getgo-fonts"
-url: "https://fontlabcom.github.io/getgo-fonts/"
+#baseurl: "/getgo-fonts"
+#url: "https://fontlabcom.github.io/getgo-fonts/"
 logo: https://res.cloudinary.com/fontlab/image/fetch/f_auto,w_48,c_scale/https://www.fontlab.com/img/icon-fontlab-7.png
 theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs

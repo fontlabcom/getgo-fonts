@@ -29,7 +29,7 @@ If the font is licensed under the [Apache License v2.0](https://www.apache.org/l
 You may create your own fonts based on this font, and you may incorporate portions of this font into your own font. You may publish your own font under any license, including a commercial license, but you must:
 
 - in _Font Info › Legal › Copyright_, include `Portions Copyright (put the year and the original copyright owner here).`
-- in _Font Info › Legal › Copyright_, include `Portions licensed under the Apache License v2.0.`
+- in _Font Info › Legal › License_, include `Portions licensed under the Apache License v2.0.`
 
 ### OFL
 
@@ -38,7 +38,7 @@ If the font is licensed under the [SIL Open Font License, Version 1.1](https://s
 You may create your own fonts based on this font, and you may incorporate portions of this font into your own font, but you must publish the resulting font under the same license (SIL Open Font License, Version 1.1):
 
 - in _Font Info › Legal › Copyright_, include `Portions Copyright (put the year and the original copyright owner here).`
-- in _Font Info › Legal › Copyright_, put `Licensed under the SIL Open Font License, Version 1.1.`
+- in _Font Info › Legal › License_, put `Licensed under the SIL Open Font License, Version 1.1.`
 - see [the license](https://scripts.sil.org/OFL) for more details
 
 

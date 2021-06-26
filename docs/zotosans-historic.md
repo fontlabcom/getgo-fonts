@@ -45,7 +45,7 @@ Based on [Noto](https://github.com/notofonts) by Google. Copyright 2011-2015 Goo
 You may create your own fonts based on this font, and you may incorporate portions of this font into your own font. You may publish your own font under any license, including a commercial license, but you must:
 
 - in _Font Info › Legal › Copyright_, include `Portions Copyright 2011-2015 Google Inc.`
-- in _Font Info › Legal › Copyright_, include `Portions licensed under the Apache License v2.0.`
+- in _Font Info › Legal › License_, include `Portions licensed under the Apache License v2.0.`
 
 
 ---

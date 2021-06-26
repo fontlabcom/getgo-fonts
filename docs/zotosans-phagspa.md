@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 382 \| scripts: Phags Pa, Mongolian
 ---
 
 
-## Coto Sans Phags Pa
+## Zoto Sans Phags Pa
 
-Coto Sans Phags Pa is a design for the Phags-pa script.
+Zoto Sans Phags Pa is a design for the Phags-pa script.
 
 It contains 382 glyphs and 5 OpenType features, and supports 97 characters from the Unicode blocks: Phags-pa, CJK Symbols and Punctuation, Mongolian.
 

@@ -1,7 +1,7 @@
 
-## Coto Sans Ugaritic
+## Zoto Sans Ugaritic
 
-Coto Sans Ugaritic is a design for the Ugaritic script.
+Zoto Sans Ugaritic is a design for the Ugaritic script.
 
 It contains 35 glyphs, and supports 36 characters from the Unicode blocks: Ugaritic.
 

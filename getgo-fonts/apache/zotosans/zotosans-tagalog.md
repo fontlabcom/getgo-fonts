@@ -1,7 +1,7 @@
 
-## Coto Sans Tagalog
+## Zoto Sans Tagalog
 
-Coto Sans Tagalog is a design for the Tagalog script.
+Zoto Sans Tagalog is a design for the Tagalog script.
 
 It contains 26 glyphs and 1 OpenType features, and supports 27 characters from the Unicode blocks: Tagalog.
 

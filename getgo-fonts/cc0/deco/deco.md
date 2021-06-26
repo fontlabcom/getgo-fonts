@@ -1,6 +1,6 @@
-## GetGo Deco
+## GG Deco
 
-GetGo Deco is a geometric art deco sanserif font.
+GG Deco is a geometric art deco sanserif font.
 
 It contains 104 glyphs, and supports 102 characters from the Unicode blocks: Basic Latin, General Punctuation.
 

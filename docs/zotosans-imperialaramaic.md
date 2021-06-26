@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 35 \| scripts: Imperial Aramaic
 ---
 
 
-## Coto Sans Imperial Aramaic
+## Zoto Sans Imperial Aramaic
 
-Coto Sans Imperial Aramaic is a design for the Imperial Aramaic script.
+Zoto Sans Imperial Aramaic is a design for the Imperial Aramaic script.
 
 It contains 35 glyphs, and supports 36 characters from the Unicode blocks: Imperial Aramaic.
 

@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 89 \| scripts: Cherokee
 ---
 
 
-## Coto Sans Cherokee
+## Zoto Sans Cherokee
 
-Coto Sans Cherokee is a design for the Cherokee script.
+Zoto Sans Cherokee is a design for the Cherokee script.
 
 It contains 89 glyphs and 1 OpenType features, and supports 90 characters from the Unicode blocks: Cherokee.
 

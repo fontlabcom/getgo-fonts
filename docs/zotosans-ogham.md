@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 33 \| scripts: Ogham
 ---
 
 
-## Coto Sans Ogham
+## Zoto Sans Ogham
 
-Coto Sans Ogham is a design for the Ogham script.
+Zoto Sans Ogham is a design for the Ogham script.
 
 It contains 33 glyphs, and supports 34 characters from the Unicode blocks: Ogham.
 

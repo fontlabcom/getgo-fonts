@@ -16,9 +16,9 @@ license: CC-0 \| Font \| glyphs: 144 \| scripts: Cyrillic, Latin
 ---
 
 
-## GetGo Star
+## GG Star
 
-GetGo Star is a narrow retro sci-fi display font.
+GG Star is a narrow retro sci-fi display font.
 
 It contains 144 glyphs, and supports 143 characters from the Unicode blocks: Cyrillic, Basic Latin, General Punctuation.
 

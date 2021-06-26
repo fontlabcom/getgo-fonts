@@ -1,7 +1,7 @@
 
-## Coto Serif Lao
+## Zoto Serif Lao
 
-Coto Serif Lao is a design for the Lao script.
+Zoto Serif Lao is a design for the Lao script.
 
 It contains 166 glyphs and 2 OpenType features, and supports 120 characters from the Unicode blocks: Lao, Basic Latin.
 

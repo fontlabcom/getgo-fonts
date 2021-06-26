@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 265 \| scripts: Khmer
 ---
 
 
-## Coto Sans Khmer
+## Zoto Sans Khmer
 
-Coto Sans Khmer is a design for the Khmer script.
+Zoto Sans Khmer is a design for the Khmer script.
 
 It contains 265 glyphs and 5 OpenType features, and supports 190 characters from the Unicode blocks: Khmer, Khmer Symbols, Basic Latin.
 

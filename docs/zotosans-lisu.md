@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 54 \| scripts: Lisu
 ---
 
 
-## Coto Sans Lisu
+## Zoto Sans Lisu
 
-Coto Sans Lisu is a design for the Fraser script.
+Zoto Sans Lisu is a design for the Fraser script.
 
 It contains 54 glyphs, and supports 55 characters from the Unicode blocks: Lisu.
 

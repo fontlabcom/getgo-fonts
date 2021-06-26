@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 155 \| scripts: Javanese
 ---
 
 
-## Coto Sans Javanese
+## Zoto Sans Javanese
 
-Coto Sans Javanese is a design for the Javanese script.
+Zoto Sans Javanese is a design for the Javanese script.
 
 It contains 155 glyphs and 7 OpenType features, and supports 100 characters from the Unicode blocks: Javanese.
 

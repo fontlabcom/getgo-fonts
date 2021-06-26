@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 986 \| scripts: Cuneiform
 ---
 
 
-## Coto Sans Cuneiform
+## Zoto Sans Cuneiform
 
-Coto Sans Cuneiform is a design for the Sumero-Akkadian cuneiform script.
+Zoto Sans Cuneiform is a design for the Sumero-Akkadian cuneiform script.
 
 It contains 986 glyphs, and supports 987 characters from the Unicode blocks: Cuneiform, Cuneiform Numbers and Punctuation.
 

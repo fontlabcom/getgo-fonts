@@ -1,7 +1,7 @@
 
-## Coto Sans Georgian
+## Zoto Sans Georgian
 
-Coto Sans Georgian is a design for the Georgian script.
+Zoto Sans Georgian is a design for the Georgian script.
 
 It contains 127 glyphs and 1 OpenType features, and supports 127 characters from the Unicode blocks: Georgian, Georgian Supplement.
 

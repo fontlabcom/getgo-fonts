@@ -1,7 +1,7 @@
 
-## Coto Sans Ethiopic
+## Zoto Sans Ethiopic
 
-Coto Sans Ethiopic is a design for the Ethiopic script.
+Zoto Sans Ethiopic is a design for the Ethiopic script.
 
 It contains 559 glyphs and 3 OpenType features, and supports 500 characters from the Unicode blocks: Ethiopic, Ethiopic Extended, Ethiopic Extended-A, Ethiopic Supplement.
 

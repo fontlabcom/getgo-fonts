@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 53 \| scripts: Carian
 ---
 
 
-## Coto Sans Carian
+## Zoto Sans Carian
 
-Coto Sans Carian is a design for the Carian script.
+Zoto Sans Carian is a design for the Carian script.
 
 It contains 53 glyphs, and supports 54 characters from the Unicode blocks: Carian.
 

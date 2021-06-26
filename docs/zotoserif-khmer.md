@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 378 \| scripts: Khmer
 ---
 
 
-## Coto Serif Khmer
+## Zoto Serif Khmer
 
-Coto Serif Khmer is a design for the Khmer script.
+Zoto Serif Khmer is a design for the Khmer script.
 
 It contains 378 glyphs and 6 OpenType features, and supports 184 characters from the Unicode blocks: Khmer, Khmer Symbols, Basic Latin.
 

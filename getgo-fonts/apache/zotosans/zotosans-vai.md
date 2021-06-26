@@ -1,7 +1,7 @@
 
-## Coto Sans Vai
+## Zoto Sans Vai
 
-Coto Sans Vai is a design for the Vai script.
+Zoto Sans Vai is a design for the Vai script.
 
 It contains 304 glyphs, and supports 305 characters from the Unicode blocks: Vai.
 

@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 43 \| scripts: Hanunoo
 ---
 
 
-## Coto Sans Hanunoo
+## Zoto Sans Hanunoo
 
-Coto Sans Hanunoo is a design for the Hanunoo script.
+Zoto Sans Hanunoo is a design for the Hanunoo script.
 
 It contains 43 glyphs and 3 OpenType features, and supports 28 characters from the Unicode blocks: Hanunoo.
 

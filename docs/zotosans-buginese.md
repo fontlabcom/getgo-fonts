@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 63 \| scripts: Buginese
 ---
 
 
-## Coto Sans Buginese
+## Zoto Sans Buginese
 
-Coto Sans Buginese is a design for the Buginese script.
+Zoto Sans Buginese is a design for the Buginese script.
 
 It contains 63 glyphs and 3 OpenType features, and supports 40 characters from the Unicode blocks: Buginese.
 

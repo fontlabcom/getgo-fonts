@@ -1,7 +1,7 @@
 
-## Coto Sans Osmanya
+## Zoto Sans Osmanya
 
-Coto Sans Osmanya is a design for the Osmanya script.
+Zoto Sans Osmanya is a design for the Osmanya script.
 
 It contains 44 glyphs, and supports 45 characters from the Unicode blocks: Osmanya.
 

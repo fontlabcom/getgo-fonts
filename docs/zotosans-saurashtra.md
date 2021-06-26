@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 93 \| scripts: Saurashtra
 ---
 
 
-## Coto Sans Saurashtra
+## Zoto Sans Saurashtra
 
-Coto Sans Saurashtra is a design for the Saurashtra script.
+Zoto Sans Saurashtra is a design for the Saurashtra script.
 
 It contains 93 glyphs and 3 OpenType features, and supports 89 characters from the Unicode blocks: Saurashtra.
 

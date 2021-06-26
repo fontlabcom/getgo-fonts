@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 43 \| scripts: Gothic
 ---
 
 
-## Coto Sans Gothic
+## Zoto Sans Gothic
 
-Coto Sans Gothic is a design for the Gothic script.
+Zoto Sans Gothic is a design for the Gothic script.
 
 It contains 43 glyphs and 2 OpenType features, and supports 38 characters from the Unicode blocks: Gothic, Combining Diacritical Marks.
 

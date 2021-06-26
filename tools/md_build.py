@@ -35,6 +35,8 @@ class GetGoFont(object):
         self.folders = folders
         self.url_bases = url_bases
         self.redo = redo
+        self.page_url = str(self.path.stem).replace(
+            '[', '').replace(']', '').replace(',', '-')
         self.vfj_path = Path(
             self.path.parent, str(self.path.stem) + '.vfj'
         ).resolve()
@@ -45,20 +47,16 @@ class GetGoFont(object):
             self.path.parent, str(self.path.stem) + '.md'
         ).resolve()
         self.md_outpath = Path(
-            self.folders['docs'], str(self.path.stem).replace(
-                '[', '-').replace(']', '-') + '.md'
+            self.folders['docs'], self.page_url + '.md'
         ).resolve()
         self.svg_path = Path(
-            self.folders['images'], str(self.path.stem).replace(
-                '[','-').replace(']','-') + '.svg'
+            self.folders['images'], self.page_url + '.svg'
         ).resolve()
         self.png_path = Path(
-            self.folders['images'], str(self.path.stem).replace(
-                '[', '-').replace(']', '-') + '.png'
+            self.folders['images'], self.page_url + '.png'
         ).resolve()
         self.woff_path = Path(
-            self.folders['woff'], str(self.path.stem).replace(
-                '[', '-').replace(']', '-') + '.woff2'
+            self.folders['woff'], self.page_url + '.woff2'
         ).resolve()
         self.yaml_path = Path(
             self.path.parent, str(self.path.stem) + '.yaml'
@@ -260,11 +258,11 @@ class GetGoFont(object):
 
 ### {self.full_name}
 
-![{self.metadata["sample_text"]}]({svg_link})
+[![{self.metadata["sample_text"]}]({svg_link})]({self.page_url + '/'})
 
-[Download FontLab VFJ]({download_url}){{: .btn target="_blank" }}
+[Download zipped FontLab VFJ]({download_url}){{: .btn target="_blank" }}
 
-{md_font_description}
+{md_font_description} |\ [Read more…]({self.page_url + '/'})
 
 ---
 """

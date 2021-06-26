@@ -1,7 +1,7 @@
 
-## GetGo Pixa
+## GG Pixa
 
-GetGo Pixa is a quirky pixel font with 14 pixels tall letters, for 28 writing systems.
+GG Pixa is a quirky pixel font with 14 pixels tall letters, for 28 writing systems.
 
 It contains 14769 glyphs and 1 OpenType features, and supports 14766 characters from the Unicode blocks: CJK Unified Ideographs, Hangul Syllables, Unified Canadian Aboriginal Syllabics, Cyrillic, Hangul Jamo, Latin Extended Additional, Mathematical Operators, Miscellaneous Technical, Miscellaneous Symbols and Arrows, Miscellaneous Symbols, Greek Extended, Arabic, Halfwidth and Fullwidth Forms, Kangxi Radicals, Latin Extended-B, CJK Compatibility, Dingbats, CJK Compatibility Ideographs, Myanmar, Greek and Coptic, Supplemental Arrows-B, Latin Extended-A, Phonetic Extensions, Box Drawing, Coptic, Devanagari, Arrows, IPA Extensions, Katakana, Geometric Shapes, Hiragana, Cherokee, Armenian, Hebrew, Latin-1 Supplement, Runic, Basic Latin, Spacing Modifier Letters, Bengali, Letterlike Symbols, Enclosed Alphanumerics, Thai, Syriac, General Punctuation, Braille Patterns, Phonetic Extensions Supplement, Yijing Hexagram Symbols, Tifinagh, Tamil, NKo, Thaana, CJK Symbols and Punctuation, Arabic Supplement, Cyrillic Supplement, Miscellaneous Mathematical Symbols-A, Control Pictures, Combining Diacritical Marks, Tibetan, Modifier Tone Letters, Cyrillic Extended-A, Enclosed CJK Letters and Months, Currency Symbols, Block Elements, Ogham, Small Form Variants, Superscripts and Subscripts, Katakana Phonetic Extensions, Supplemental Arrows-A, Miscellaneous Mathematical Symbols-B, Ideographic Description Characters, Kanbun, Optical Character Recognition, Combining Diacritical Marks for Symbols, Cyrillic Extended-C, Alphabetic Presentation Forms, CJK Unified Ideographs Extension A, CJK Radicals Supplement, Number Forms.
 

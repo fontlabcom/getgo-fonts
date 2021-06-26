@@ -1,7 +1,7 @@
 
-## Coto Sans Tifinagh
+## Zoto Sans Tifinagh
 
-Coto Sans Tifinagh is a design for the Tifinagh script.
+Zoto Sans Tifinagh is a design for the Tifinagh script.
 
 It contains 101 glyphs and 3 OpenType features, and supports 72 characters from the Unicode blocks: Tifinagh, Combining Diacritical Marks.
 

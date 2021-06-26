@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 166 \| scripts: Lao
 ---
 
 
-## Coto Sans Lao
+## Zoto Sans Lao
 
-Coto Sans Lao is a design for the Lao script.
+Zoto Sans Lao is a design for the Lao script.
 
 It contains 166 glyphs and 13 OpenType features, and supports 120 characters from the Unicode blocks: Lao, Basic Latin.
 

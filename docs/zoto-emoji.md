@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 771 \| scripts:
 ---
 
 
-## Coto Emoji
+## Zoto Emoji
 
-Coto Emoji is a design for Emoji symbols.
+Zoto Emoji is a design for Emoji symbols.
 
 It contains 771 glyphs and 1 OpenType features, and supports 768 characters from the Unicode blocks: Miscellaneous Symbols and Pictographs, Emoticons, Enclosed Alphanumeric Supplement, Miscellaneous Symbols, Transport and Map Symbols, Dingbats, Enclosed Ideographic Supplement, General Punctuation, Geometric Shapes, Arrows, Miscellaneous Technical, Miscellaneous Symbols and Arrows.
 

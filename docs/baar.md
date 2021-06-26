@@ -15,9 +15,9 @@ license: CC-0 \| Modular narrow display font \| glyphs: 98 \| scripts: Latin
 
 ---
 
-## GetGo Baar
+## GG Baar
 
-GetGo Baar is a modular narrow display font.
+GG Baar is a modular narrow display font.
 
 It contains 98 glyphs, and supports 97 characters from the Unicode blocks: Basic Latin.
 

@@ -1,7 +1,7 @@
 
-## Coto Sans Batak
+## Zoto Sans Batak
 
-Coto Sans Batak is a design for the Batak script.
+Zoto Sans Batak is a design for the Batak script.
 
 It contains 61 glyphs and 3 OpenType features, and supports 61 characters from the Unicode blocks: Batak.
 

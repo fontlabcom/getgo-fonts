@@ -1,7 +1,7 @@
 
-## Coto Sans Gurmukhi
+## Zoto Sans Gurmukhi
 
-Coto Sans Gurmukhi is a design for the Gurmukhi script.
+Zoto Sans Gurmukhi is a design for the Gurmukhi script.
 
 It contains 301 glyphs and 10 OpenType features, and supports 151 characters from the Unicode blocks: Gurmukhi, Basic Latin, General Punctuation, Common Indic Number Forms.
 

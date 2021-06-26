@@ -1,7 +1,7 @@
 
-## Coto Sans Syloti Nagri
+## Zoto Sans Syloti Nagri
 
-Coto Sans Syloti Nagri is a design for the Syloti Nagri script.
+Zoto Sans Syloti Nagri is a design for the Syloti Nagri script.
 
 It contains 85 glyphs and 3 OpenType features, and supports 68 characters from the Unicode blocks: Syloti Nagri.
 

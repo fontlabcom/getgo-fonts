@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 45 \| scripts: Inscriptional Parthian
 ---
 
 
-## Coto Sans Inscriptional Parthian
+## Zoto Sans Inscriptional Parthian
 
-Coto Sans Inscriptional Parthian is a design for the Inscriptional Parthian script.
+Zoto Sans Inscriptional Parthian is a design for the Inscriptional Parthian script.
 
 It contains 45 glyphs and 2 OpenType features, and supports 35 characters from the Unicode blocks: Inscriptional Parthian.
 

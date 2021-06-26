@@ -16,9 +16,9 @@ license: CC-0 \| Font \| glyphs: 177 \| scripts: Latin, Katakana
 ---
 
 
-## GetGo Ocra
+## GG Ocra
 
-GetGo Ocra is a simple OCR font. ANSI characters are follow the OCR-A standard (ANSI X3.17-1977), and JIS characters follow the OCR-BK standard (JIS X 9003-1980).
+GG Ocra is a simple OCR font. ANSI characters are follow the OCR-A standard (ANSI X3.17-1977), and JIS characters follow the OCR-BK standard (JIS X 9003-1980).
 
 It contains 177 glyphs, and supports 174 characters from the Unicode blocks: Basic Latin, Halfwidth and Fullwidth Forms, Latin-1 Supplement.
 

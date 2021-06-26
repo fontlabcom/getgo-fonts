@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 182 \| scripts: Brahmi
 ---
 
 
-## Coto Sans Brahmi
+## Zoto Sans Brahmi
 
-Coto Sans Brahmi is a design for the Brahmi script.
+Zoto Sans Brahmi is a design for the Brahmi script.
 
 It contains 182 glyphs and 4 OpenType features, and supports 113 characters from the Unicode blocks: Brahmi.
 

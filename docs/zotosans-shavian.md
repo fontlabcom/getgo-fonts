@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 52 \| scripts: Shavian
 ---
 
 
-## Coto Sans Shavian
+## Zoto Sans Shavian
 
-Coto Sans Shavian is a design for the Shavian script.
+Zoto Sans Shavian is a design for the Shavian script.
 
 It contains 52 glyphs, and supports 53 characters from the Unicode blocks: Shavian.
 

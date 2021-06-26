@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 31 \| scripts: Lydian
 ---
 
 
-## Coto Sans Lydian
+## Zoto Sans Lydian
 
-Coto Sans Lydian is a design for the Lydian script.
+Zoto Sans Lydian is a design for the Lydian script.
 
 It contains 31 glyphs, and supports 32 characters from the Unicode blocks: Lydian.
 

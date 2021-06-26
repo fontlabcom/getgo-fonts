@@ -1,7 +1,7 @@
 
-## Coto Sans Buhid
+## Zoto Sans Buhid
 
-Coto Sans Buhid is a design for the Buhid script.
+Zoto Sans Buhid is a design for the Buhid script.
 
 It contains 39 glyphs and 2 OpenType features, and supports 27 characters from the Unicode blocks: Buhid.
 

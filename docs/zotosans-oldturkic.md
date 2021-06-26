@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 77 \| scripts: Old Turkic
 ---
 
 
-## Coto Sans Old Turkic
+## Zoto Sans Old Turkic
 
-Coto Sans Old Turkic is a design for the Orkhon runic (Old Turkic) script.
+Zoto Sans Old Turkic is a design for the Orkhon runic (Old Turkic) script.
 
 It contains 77 glyphs, and supports 78 characters from the Unicode blocks: Old Turkic.
 

@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 79 \| scripts: Sundanese
 ---
 
 
-## Coto Sans Sundanese
+## Zoto Sans Sundanese
 
-Coto Sans Sundanese is a design for the Sundanese script.
+Zoto Sans Sundanese is a design for the Sundanese script.
 
 It contains 79 glyphs and 4 OpenType features, and supports 77 characters from the Unicode blocks: Sundanese, Sundanese Supplement.
 

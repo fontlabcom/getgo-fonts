@@ -1,7 +1,7 @@
 
-## Coto Sans Coptic
+## Zoto Sans Coptic
 
-Coto Sans Coptic is a design for the Coptic script.
+Zoto Sans Coptic is a design for the Coptic script.
 
 It contains 190 glyphs and 3 OpenType features, and supports 177 characters from the Unicode blocks: Coptic, Greek and Coptic, IPA Extensions, Combining Diacritical Marks, Spacing Modifier Letters.
 

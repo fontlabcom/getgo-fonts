@@ -1,7 +1,7 @@
 
-## Coto Sans Tai Tham
+## Zoto Sans Tai Tham
 
-Coto Sans Tai Tham is a design for the Lanna (Tai Tham) script.
+Zoto Sans Tai Tham is a design for the Lanna (Tai Tham) script.
 
 It contains 231 glyphs and 4 OpenType features, and supports 137 characters from the Unicode blocks: Tai Tham.
 

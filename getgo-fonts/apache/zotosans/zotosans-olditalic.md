@@ -1,7 +1,7 @@
 
-## Coto Sans Old Italic
+## Zoto Sans Old Italic
 
-Coto Sans Old Italic is a design for the Old Italic script.
+Zoto Sans Old Italic is a design for the Old Italic script.
 
 It contains 39 glyphs, and supports 40 characters from the Unicode blocks: Old Italic.
 

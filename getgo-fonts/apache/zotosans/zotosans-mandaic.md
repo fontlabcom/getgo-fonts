@@ -1,7 +1,7 @@
 
-## Coto Sans Mandaic
+## Zoto Sans Mandaic
 
-Coto Sans Mandaic is a design for the Mandaean (Mandaic) script.
+Zoto Sans Mandaic is a design for the Mandaean (Mandaic) script.
 
 It contains 128 glyphs and 6 OpenType features, and supports 35 characters from the Unicode blocks: Mandaic.
 

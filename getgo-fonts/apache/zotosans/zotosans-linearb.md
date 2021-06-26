@@ -1,7 +1,7 @@
 
-## Coto Sans Linear B
+## Zoto Sans Linear B
 
-Coto Sans Linear B is a design for the Linear B script.
+Zoto Sans Linear B is a design for the Linear B script.
 
 It contains 272 glyphs, and supports 273 characters from the Unicode blocks: Linear B Ideograms, Linear B Syllabary, Aegean Numbers.
 

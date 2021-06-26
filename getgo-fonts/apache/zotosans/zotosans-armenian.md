@@ -1,7 +1,7 @@
 
-## Coto Sans Armenian
+## Zoto Sans Armenian
 
-Coto Sans Armenian is a design for the Armenian script.
+Zoto Sans Armenian is a design for the Armenian script.
 
 It contains 98 glyphs and 2 OpenType features, and supports 97 characters from the Unicode blocks: Armenian, Alphabetic Presentation Forms.
 

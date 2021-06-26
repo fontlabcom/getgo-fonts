@@ -1,7 +1,7 @@
 
-## Coto Sans Balinese
+## Zoto Sans Balinese
 
-Coto Sans Balinese is a design for the Balinese script.
+Zoto Sans Balinese is a design for the Balinese script.
 
 It contains 182 glyphs and 4 OpenType features, and supports 130 characters from the Unicode blocks: Balinese.
 

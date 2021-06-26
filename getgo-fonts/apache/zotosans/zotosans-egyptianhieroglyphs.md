@@ -1,7 +1,7 @@
 
-## Coto Sans Egyptian Hieroglyphs
+## Zoto Sans Egyptian Hieroglyphs
 
-Coto Sans Egyptian Hieroglyphs is a design for the Egyptian hieroglyphs script.
+Zoto Sans Egyptian Hieroglyphs is a design for the Egyptian hieroglyphs script.
 
 It contains 1075 glyphs, and supports 1076 characters from the Unicode blocks: Egyptian Hieroglyphs.
 

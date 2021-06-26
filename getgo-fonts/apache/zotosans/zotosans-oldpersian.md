@@ -1,7 +1,7 @@
 
-## Coto Sans Old Persian
+## Zoto Sans Old Persian
 
-Coto Sans Old Persian is a design for the Old Persian script.
+Zoto Sans Old Persian is a design for the Old Persian script.
 
 It contains 54 glyphs, and supports 55 characters from the Unicode blocks: Old Persian.
 

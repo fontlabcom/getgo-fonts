@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 127 \| scripts: Georgian, Armenian
 ---
 
 
-## Coto Serif Georgian
+## Zoto Serif Georgian
 
-Coto Serif Georgian is a design for the Georgian script.
+Zoto Serif Georgian is a design for the Georgian script.
 
 It contains 127 glyphs and 1 OpenType features, and supports 127 characters from the Unicode blocks: Georgian, Georgian Supplement.
 

@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 155 \| scripts: Hebrew
 ---
 
 
-## Coto Sans Hebrew
+## Zoto Sans Hebrew
 
-Coto Sans Hebrew is a design for the Hebrew script.
+Zoto Sans Hebrew is a design for the Hebrew script.
 
 It contains 155 glyphs and 6 OpenType features, and supports 144 characters from the Unicode blocks: Hebrew, Alphabetic Presentation Forms.
 

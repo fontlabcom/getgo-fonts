@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 127 \| scripts: Cham
 ---
 
 
-## Coto Sans Cham
+## Zoto Sans Cham
 
-Coto Sans Cham is a design for the Cham script.
+Zoto Sans Cham is a design for the Cham script.
 
 It contains 127 glyphs and 2 OpenType features, and supports 119 characters from the Unicode blocks: Cham, Basic Latin.
 

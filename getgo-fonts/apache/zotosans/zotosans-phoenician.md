@@ -1,7 +1,7 @@
 
-## Coto Sans Phoenician
+## Zoto Sans Phoenician
 
-Coto Sans Phoenician is a design for the Phoenician script.
+Zoto Sans Phoenician is a design for the Phoenician script.
 
 It contains 33 glyphs, and supports 34 characters from the Unicode blocks: Phoenician.
 

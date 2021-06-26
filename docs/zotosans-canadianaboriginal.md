@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 744 \| scripts: Canadian Aboriginal, Latin
 ---
 
 
-## Coto Sans Canadian Aboriginal
+## Zoto Sans Canadian Aboriginal
 
-Coto Sans Canadian Aboriginal is a design for the Canadian Aboriginal syllabics script.
+Zoto Sans Canadian Aboriginal is a design for the Canadian Aboriginal syllabics script.
 
 It contains 744 glyphs and 1 OpenType features, and supports 722 characters from the Unicode blocks: Unified Canadian Aboriginal Syllabics, Unified Canadian Aboriginal Syllabics Extended, Spacing Modifier Letters.
 

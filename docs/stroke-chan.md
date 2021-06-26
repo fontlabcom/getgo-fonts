@@ -15,9 +15,9 @@ license: OFL \| Font \| glyphs: 106 \| scripts: Latin
 
 ---
 
-## GetGo Stroke Chan
+## GG Stroke Chan OFL Italic
 
-GetGo Stroke Chan is a single-stroke italic design in chancery style. You can apply Power Brush or a Stroke to it to experiment.
+GG Stroke Chan OFL Italic is a single-stroke italic design in chancery style. You can apply Power Brush or a Stroke to it to experiment.
 
 It contains a basic Latin glyph set.
 

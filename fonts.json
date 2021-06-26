@@ -33,8 +33,8 @@
             "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto[wght,wdth,ital].vfj",
             "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto[wght,wdth,ital].ttf",
             "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/boto/boto[wght,wdth,ital].md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/boto-wght,wdth,ital-.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/boto-wght,wdth,ital-.png"
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/botowght-wdth-ital.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/botowght-wdth-ital.png"
         }
     },
     "GetGo Cosm Italic": {
@@ -51,8 +51,8 @@
             "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].vfj",
             "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].ttf",
             "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm-italic[wght].md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cosm-italic-wght-.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cosm-italic-wght-.png"
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cosm-italicwght.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cosm-italicwght.png"
         }
     },
     "GetGo Cosm Regular": {
@@ -69,8 +69,8 @@
             "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].vfj",
             "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].ttf",
             "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/cosm/cosm[wght].md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cosm-wght-.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cosm-wght-.png"
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cosmwght.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cosmwght.png"
         }
     },
     "GetGo Deco ExtraLight": {
@@ -187,8 +187,8 @@
             "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].vfj",
             "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].ttf",
             "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].md",
-            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/plum-wght-.svg",
-            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/plum-wght-.png"
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/plumwght.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/plumwght.png"
         }
     },
     "GetGo Star Regular": {

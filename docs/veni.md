@@ -15,9 +15,9 @@ license: CC-0 \| Font \| glyphs: 199 \| scripts: Latin
 
 ---
 
-## GetGo Veni
+## GG Veni
 
-GetGo Veni is a Renaissance serif font.
+GG Veni is a Renaissance serif font.
 
 It contains 199 glyphs and 3 OpenType features, and supports 198 characters from the Unicode blocks: Basic Latin, Latin-1 Supplement, Latin Extended-A, General Punctuation, Latin Extended Additional.
 

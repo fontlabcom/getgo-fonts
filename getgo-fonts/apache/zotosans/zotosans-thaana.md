@@ -1,7 +1,7 @@
 
-## Coto Sans Thaana
+## Zoto Sans Thaana
 
-Coto Sans Thaana is a design for the Thaana script.
+Zoto Sans Thaana is a design for the Thaana script.
 
 It contains 95 glyphs and 2 OpenType features, and supports 91 characters from the Unicode blocks: Thaana, Basic Latin, Arabic, General Punctuation.
 

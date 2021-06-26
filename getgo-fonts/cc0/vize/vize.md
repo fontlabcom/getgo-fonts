@@ -1,7 +1,7 @@
 
-## GetGo Vize
+## GG Vize
 
-GetGo Vize is a Renaissance humanist sanserif font.
+GG Vize is a Renaissance humanist sanserif font.
 
 It contains 103 glyphs, and supports 102 characters from the Unicode blocks: Basic Latin, General Punctuation.
 

@@ -1,7 +1,7 @@
 
-## Coto Sans Cypriot
+## Zoto Sans Cypriot
 
-Coto Sans Cypriot is a design for the Cypriot script.
+Zoto Sans Cypriot is a design for the Cypriot script.
 
 It contains 59 glyphs, and supports 60 characters from the Unicode blocks: Cypriot Syllabary.
 

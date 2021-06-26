@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 762 \| scripts: Arabic
 ---
 
 
-## Coto Kufi Arabic
+## Zoto Kufi Arabic
 
-Coto Kufi Arabic is a design for the Arabic script.
+Zoto Kufi Arabic is a design for the Arabic script.
 
 It contains 762 glyphs and 10 OpenType features, and supports 473 characters from the Unicode blocks: Arabic, Arabic Presentation Forms-B, Arabic Presentation Forms-A, Arabic Supplement.
 

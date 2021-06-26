@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 91 \| scripts: New Tai Lue
 ---
 
 
-## Coto Sans New Tai Lue
+## Zoto Sans New Tai Lue
 
-Coto Sans New Tai Lue is a design for the New Tai Lue script.
+Zoto Sans New Tai Lue is a design for the New Tai Lue script.
 
 It contains 91 glyphs and 1 OpenType features, and supports 88 characters from the Unicode blocks: New Tai Lue.
 

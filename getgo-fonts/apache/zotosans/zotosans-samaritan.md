@@ -1,7 +1,7 @@
 
-## Coto Sans Samaritan
+## Zoto Sans Samaritan
 
-Coto Sans Samaritan is a design for the Samaritan script.
+Zoto Sans Samaritan is a design for the Samaritan script.
 
 It contains 67 glyphs and 4 OpenType features, and supports 67 characters from the Unicode blocks: Samaritan.
 

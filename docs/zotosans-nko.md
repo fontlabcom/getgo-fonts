@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 174 \| scripts: Nko, Arabic
 ---
 
 
-## Coto Sans NKo
+## Zoto Sans NKo
 
-Coto Sans NKo is a design for the N’Ko script.
+Zoto Sans NKo is a design for the N’Ko script.
 
 It contains 174 glyphs and 5 OpenType features, and supports 76 characters from the Unicode blocks: NKo, Arabic.
 

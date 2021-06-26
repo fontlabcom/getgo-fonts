@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 215 \| scripts: Tamil
 ---
 
 
-## Coto Sans Tamil
+## Zoto Sans Tamil
 
-Coto Sans Tamil is a design for the Tamil script.
+Zoto Sans Tamil is a design for the Tamil script.
 
 It contains 215 glyphs and 9 OpenType features, and supports 139 characters from the Unicode blocks: Tamil, Basic Latin, General Punctuation.
 

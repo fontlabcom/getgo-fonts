@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 98 \| scripts: Armenian
 ---
 
 
-## Coto Serif Armenian
+## Zoto Serif Armenian
 
-Coto Serif Armenian is a design for the Armenian script.
+Zoto Serif Armenian is a design for the Armenian script.
 
 It contains 98 glyphs and 2 OpenType features, and supports 97 characters from the Unicode blocks: Armenian, Alphabetic Presentation Forms.
 

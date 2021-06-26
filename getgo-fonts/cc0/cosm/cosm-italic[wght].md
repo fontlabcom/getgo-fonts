@@ -1,6 +1,6 @@
-## GetGo Cosm
+## GG Cosm
 
-GetGo Cosm is a neo-grotesque sanserif font family with a weight axis, in two inclinations: upright and italic.
+GG Cosm is a neo-grotesque sanserif font family with a weight axis, in two inclinations: upright and italic.
 
 It contains 359 glyphs and 5 OpenType features, and supports 358 characters from the Unicode blocks: Latin Extended-A, Basic Latin, Latin-1 Supplement, General Punctuation, Mathematical Operators, Spacing Modifier Letters, Latin Extended Additional, Latin Extended-B.
 

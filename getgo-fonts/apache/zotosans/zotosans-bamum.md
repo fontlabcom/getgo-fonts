@@ -1,7 +1,7 @@
 
-## Coto Sans Bamum
+## Zoto Sans Bamum
 
-Coto Sans Bamum is a design for the Bamum script.
+Zoto Sans Bamum is a design for the Bamum script.
 
 It contains 661 glyphs and 1 OpenType features, and supports 662 characters from the Unicode blocks: Bamum Supplement, Bamum.
 

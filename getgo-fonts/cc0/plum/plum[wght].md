@@ -1,7 +1,7 @@
 
-## GetGo Plum
+## GG Plum
 
-GetGo Plum is a humanist sanserif font family with a weight axis.
+GG Plum is a humanist sanserif font family with a weight axis.
 
 It contains 205 glyphs and 3 OpenType features, and supports 204 characters from the Unicode blocks: Basic Latin, Latin-1 Supplement, Latin Extended-A, General Punctuation, Latin Extended Additional, Spacing Modifier Letters.
 

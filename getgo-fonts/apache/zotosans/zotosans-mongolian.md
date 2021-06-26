@@ -1,7 +1,7 @@
 
-## Coto Sans Mongolian
+## Zoto Sans Mongolian
 
-Coto Sans Mongolian is a design for the Mongolian script.
+Zoto Sans Mongolian is a design for the Mongolian script.
 
 It contains 1511 glyphs and 5 OpenType features, and supports 200 characters from the Unicode blocks: Mongolian, CJK Compatibility Forms, General Punctuation, Basic Latin.
 

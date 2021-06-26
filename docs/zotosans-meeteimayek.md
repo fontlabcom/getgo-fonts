@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 91 \| scripts: Meetei Mayek
 ---
 
 
-## Coto Sans Meetei Mayek
+## Zoto Sans Meetei Mayek
 
-Coto Sans Meetei Mayek is a design for the Meetei Mayek (Meitei) script.
+Zoto Sans Meetei Mayek is a design for the Meetei Mayek (Meitei) script.
 
 It contains 91 glyphs and 3 OpenType features, and supports 84 characters from the Unicode blocks: Meetei Mayek, Meetei Mayek Extensions.
 

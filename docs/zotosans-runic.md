@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 85 \| scripts: Runic
 ---
 
 
-## Coto Sans Runic
+## Zoto Sans Runic
 
-Coto Sans Runic is a design for the Runic script.
+Zoto Sans Runic is a design for the Runic script.
 
 It contains 85 glyphs, and supports 86 characters from the Unicode blocks: Runic.
 

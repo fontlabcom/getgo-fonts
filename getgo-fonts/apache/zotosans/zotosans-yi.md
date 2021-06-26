@@ -1,7 +1,7 @@
 
-## Coto Sans Yi
+## Zoto Sans Yi
 
-Coto Sans Yi is a design for the Yi script.
+Zoto Sans Yi is a design for the Yi script.
 
 It contains 1251 glyphs, and supports 1251 characters from the Unicode blocks: Yi Syllables, Yi Radicals, CJK Symbols and Punctuation, Halfwidth and Fullwidth Forms.
 

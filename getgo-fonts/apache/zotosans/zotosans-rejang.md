@@ -1,7 +1,7 @@
 
-## Coto Sans Rejang
+## Zoto Sans Rejang
 
-Coto Sans Rejang is a design for the Rejang script.
+Zoto Sans Rejang is a design for the Rejang script.
 
 It contains 41 glyphs and 1 OpenType features, and supports 42 characters from the Unicode blocks: Rejang.
 

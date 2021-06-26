@@ -15,9 +15,9 @@ license: OFL \| Font \| glyphs: 132 \| scripts: Latin
 
 ---
 
-## GetGo Stroke Grot
+## GG Stroke Grot OFL
 
-GetGo Stroke Grot is a single-stroke grotesque sanserif design. You can apply Power Brush or a Stroke to it to experiment.
+GG Stroke Grot OFL is a single-stroke grotesque sanserif design. You can apply Power Brush or a Stroke to it to experiment.
 
 It contains a basic Latin glyph set.
 

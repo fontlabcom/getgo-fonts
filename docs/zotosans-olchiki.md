@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 52 \| scripts: Ol Chiki
 ---
 
 
-## Coto Sans Ol Chiki
+## Zoto Sans Ol Chiki
 
-Coto Sans Ol Chiki is a design for the Ol Chiki script.
+Zoto Sans Ol Chiki is a design for the Ol Chiki script.
 
 It contains 52 glyphs, and supports 53 characters from the Unicode blocks: Ol Chiki.
 

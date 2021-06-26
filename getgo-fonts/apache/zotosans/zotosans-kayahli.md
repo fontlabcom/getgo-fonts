@@ -1,7 +1,7 @@
 
-## Coto Sans Kayah Li
+## Zoto Sans Kayah Li
 
-Coto Sans Kayah Li is a design for the Kayah Li script.
+Zoto Sans Kayah Li is a design for the Kayah Li script.
 
 It contains 54 glyphs and 2 OpenType features, and supports 53 characters from the Unicode blocks: Kayah Li.
 

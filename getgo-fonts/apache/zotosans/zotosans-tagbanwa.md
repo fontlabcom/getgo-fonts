@@ -1,7 +1,7 @@
 
-## Coto Sans Tagbanwa
+## Zoto Sans Tagbanwa
 
-Coto Sans Tagbanwa is a design for the Tagbanwa script.
+Zoto Sans Tagbanwa is a design for the Tagbanwa script.
 
 It contains 24 glyphs and 1 OpenType features, and supports 25 characters from the Unicode blocks: Tagbanwa.
 

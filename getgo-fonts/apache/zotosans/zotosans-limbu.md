@@ -1,7 +1,7 @@
 
-## Coto Sans Limbu
+## Zoto Sans Limbu
 
-Coto Sans Limbu is a design for the Limbu script.
+Zoto Sans Limbu is a design for the Limbu script.
 
 It contains 73 glyphs and 3 OpenType features, and supports 73 characters from the Unicode blocks: Limbu.
 

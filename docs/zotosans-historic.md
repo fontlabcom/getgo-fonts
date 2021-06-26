@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 3638 \| scripts: Egyptian Hieroglyphs, Cuneif
 ---
 
 
-## Coto Sans Historic
+## Zoto Sans Historic
 
-Coto Sans Historic is a design for the Egyptian hieroglyphs script and for Sumero-Akkadian cuneiform.
+Zoto Sans Historic is a design for the Egyptian hieroglyphs script and for Sumero-Akkadian cuneiform.
 
 It contains 3638 glyphs and 11 OpenType features, and supports 3238 characters from the Unicode blocks: Egyptian Hieroglyphs, Cuneiform, Linear B Ideograms, Latin-1 Supplement, Linear B Syllabary, Basic Latin, Old Turkic, Samaritan, Avestan, Phags-pa, Carian, Old Persian, Ugaritic, Osmanya, Old South Arabian, Mandaic, Lycian, Lydian, Imperial Aramaic, Phoenician, Inscriptional Parthian, CJK Symbols and Punctuation, Inscriptional Pahlavi, General Punctuation, Aegean Numbers, Latin Extended-A, Spacing Modifier Letters, Mongolian, Cuneiform Numbers and Punctuation.
 

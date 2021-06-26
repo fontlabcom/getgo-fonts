@@ -1,7 +1,7 @@
 
-## Coto Sans Tai Le
+## Zoto Sans Tai Le
 
-Coto Sans Tai Le is a design for the Tai Le script.
+Zoto Sans Tai Le is a design for the Tai Le script.
 
 It contains 55 glyphs, and supports 56 characters from the Unicode blocks: Tai Le, CJK Symbols and Punctuation.
 

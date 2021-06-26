@@ -1,7 +1,7 @@
 
-## Coto Sans Deseret
+## Zoto Sans Deseret
 
-Coto Sans Deseret is a design for the Deseret script.
+Zoto Sans Deseret is a design for the Deseret script.
 
 It contains 84 glyphs, and supports 85 characters from the Unicode blocks: Deseret.
 

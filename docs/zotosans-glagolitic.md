@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 98 \| scripts: Glagolitic
 ---
 
 
-## Coto Sans Glagolitic
+## Zoto Sans Glagolitic
 
-Coto Sans Glagolitic is a design for the Glagolitic script.
+Zoto Sans Glagolitic is a design for the Glagolitic script.
 
 It contains 98 glyphs, and supports 99 characters from the Unicode blocks: Glagolitic.
 

@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 33 \| scripts: Lycian
 ---
 
 
-## Coto Sans Lycian
+## Zoto Sans Lycian
 
-Coto Sans Lycian is a design for the Lycian script.
+Zoto Sans Lycian is a design for the Lycian script.
 
 It contains 33 glyphs, and supports 34 characters from the Unicode blocks: Lycian.
 

@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 5126 \| scripts: Braille, Greek
 ---
 
 
-## Coto Sans Symbols
+## Zoto Sans Symbols
 
-Coto Sans Symbols is a design for the Mathematical notation script.
+Zoto Sans Symbols is a design for the Mathematical notation script.
 
 It contains 5126 glyphs, and supports 5130 characters from the Unicode blocks: Mathematical Alphanumeric Symbols, Miscellaneous Symbols, Mathematical Operators, Braille Patterns, Supplemental Mathematical Operators, Byzantine Musical Symbols, Miscellaneous Technical, Musical Symbols, Dingbats, Enclosed Alphanumeric Supplement, Box Drawing, Supplemental Arrows-B, Miscellaneous Mathematical Symbols-B, Alchemical Symbols, Arrows, Domino Tiles, Geometric Shapes, Miscellaneous Symbols and Arrows, Tai Xuan Jing Symbols, Letterlike Symbols, Enclosed Alphanumerics, Ancient Greek Musical Notation, Yijing Hexagram Symbols, Supplemental Punctuation, Playing Cards, Enclosed Ideographic Supplement, Miscellaneous Mathematical Symbols-A, Phaistos Disc, Mahjong Tiles, Control Pictures, Combining Diacritical Marks for Symbols, Modifier Tone Letters, Block Elements, Currency Symbols, Ancient Greek Numbers, Supplemental Arrows-A, Aegean Numbers, Ancient Symbols, Optical Character Recognition.
 

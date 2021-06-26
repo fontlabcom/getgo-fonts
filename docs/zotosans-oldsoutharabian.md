@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 36 \| scripts: Old South Arabian
 ---
 
 
-## Coto Sans Old South Arabian
+## Zoto Sans Old South Arabian
 
-Coto Sans Old South Arabian is a design for the Old South Arabian script.
+Zoto Sans Old South Arabian is a design for the Old South Arabian script.
 
 It contains 36 glyphs, and supports 37 characters from the Unicode blocks: Old South Arabian.
 

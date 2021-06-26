@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 73 \| scripts: Avestan
 ---
 
 
-## Coto Sans Avestan
+## Zoto Sans Avestan
 
-Coto Sans Avestan is a design for the Avestan script.
+Zoto Sans Avestan is a design for the Avestan script.
 
 It contains 73 glyphs and 1 OpenType features, and supports 70 characters from the Unicode blocks: Avestan.
 

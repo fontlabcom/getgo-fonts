@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 81 \| scripts: Tai Viet, Latin
 ---
 
 
-## Coto Sans Tai Viet
+## Zoto Sans Tai Viet
 
-Coto Sans Tai Viet is a design for the Tai Viet script.
+Zoto Sans Tai Viet is a design for the Tai Viet script.
 
 It contains 81 glyphs and 1 OpenType features, and supports 82 characters from the Unicode blocks: Tai Viet.
 

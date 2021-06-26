@@ -1,7 +1,7 @@
 
-## Coto Sans Kharoshthi
+## Zoto Sans Kharoshthi
 
-Coto Sans Kharoshthi is a design for the Kharoshthi script.
+Zoto Sans Kharoshthi is a design for the Kharoshthi script.
 
 It contains 133 glyphs and 4 OpenType features, and supports 70 characters from the Unicode blocks: Kharoshthi.
 

@@ -16,9 +16,9 @@ license: Apache \| Font \| glyphs: 34 \| scripts: Inscriptional Pahlavi
 ---
 
 
-## Coto Sans Inscriptional Pahlavi
+## Zoto Sans Inscriptional Pahlavi
 
-Coto Sans Inscriptional Pahlavi is a design for the Inscriptional Pahlavi script.
+Zoto Sans Inscriptional Pahlavi is a design for the Inscriptional Pahlavi script.
 
 It contains 34 glyphs and 2 OpenType features, and supports 32 characters from the Unicode blocks: Inscriptional Pahlavi.
 

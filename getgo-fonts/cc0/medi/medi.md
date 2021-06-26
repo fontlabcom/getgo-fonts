@@ -1,6 +1,6 @@
-## GetGo Medi
+## GG Medi
 
-GetGo Medi is a Didone serif font.
+GG Medi is a Didone serif font.
 
 It contains 103 glyphs, and supports 102 characters from the Unicode blocks: Basic Latin, General Punctuation.
 

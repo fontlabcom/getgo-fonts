@@ -276,7 +276,7 @@ class GetGoDocs(object):
         self.folders['docs'] = Path(self.folders['root'], 'docs').resolve()
         self.folders['woff'] = Path(self.folders['docs'], 'fonts').resolve()
         self.folders['svg'] = Path(self.folders['docs'], 'images').resolve()
-        self.folders['css'] = Path(self.folders['docs'], 'css').resolve()
+        self.folders['css'] = Path(self.folders['docs'], '_sass', 'custom').resolve()
 
         self.url_bases = {}
 
@@ -316,7 +316,7 @@ class GetGoDocs(object):
             self.font_css += fo.get_font_css()
             self.md += fo.get_md()
 
-        with open(Path(self.folders['css'], 'fonts.css'), 'w', encoding='utf-8') as f:
+        with open(Path(self.folders['css'], 'fonts.scss'), 'w', encoding='utf-8') as f:
             f.write(self.font_css)
         with open(Path(self.folders['root'], 'fonts.json'), 'w', encoding='utf-8') as f:
             ojson.json_dump(self.data, f)

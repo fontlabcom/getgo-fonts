@@ -8,3 +8,9 @@ h1,
 h2 {
     font-family: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
+
+@media only screen and (min-width: 800px) {
+    .site-header {
+        display: none;
+    }
+}

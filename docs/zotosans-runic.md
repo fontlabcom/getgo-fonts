@@ -5,7 +5,7 @@ title: "Zoto Sans Runic"
 
 # Zoto Sans Runic
 
-<div contenteditable="true" style="font-family: Zoto Sans Runic; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
+<div contenteditable="true" style="font-family: 'Zoto Sans Runic'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 ᛗᛠᛌᚴᚠᛊ ᛢᛍᛅᛐᚵᛦ ᚪᛡᚽᛣᚲᛉ ᛤᚥᛖᚢᛘᚧ ᛥᚾᛔᛏᚿᚷ
 </div>
 
@@ -47,7 +47,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ## Character Map
 
-<div style="font-family: Zoto Sans Runic; font-size: 2em;">
+<div style="font-family: 'Zoto Sans Runic'; font-size: 2em;">
 ᚠ ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ ᚫ ᚬ ᚭ ᚮ ᚯ ᚰ ᚱ ᚲ ᚳ ᚴ ᚵ ᚶ ᚷ ᚸ ᚹ ᚺ ᚻ ᚼ ᚽ ᚾ ᚿ ᛀ ᛁ ᛂ ᛃ ᛄ ᛅ ᛆ ᛇ ᛈ ᛉ ᛊ ᛋ ᛌ ᛍ ᛎ ᛏ ᛐ ᛑ ᛒ ᛓ ᛔ ᛕ ᛖ ᛗ ᛘ ᛙ ᛚ ᛛ ᛜ ᛝ ᛞ ᛟ ᛠ ᛡ ᛢ ᛣ ᛤ ᛥ ᛦ ᛧ ᛨ ᛩ ᛪ ᛫ ᛬ ᛭
 </div>
 

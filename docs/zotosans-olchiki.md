@@ -5,7 +5,7 @@ title: "Zoto Sans Ol Chiki"
 
 # Zoto Sans Ol Chiki
 
-<div contenteditable="true" style="font-family: Zoto Sans Ol Chiki; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
+<div contenteditable="true" style="font-family: 'Zoto Sans Ol Chiki'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 ᱦᱫᱳᱰᱽᱜ ᱮᱧᱢᱝᱛᱶ ᱡᱯᱞᱹᱴᱣ ᱥᱱᱵᱷᱠᱭ ᱸᱬᱺᱲᱤᱪ
 </div>
 
@@ -47,7 +47,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ## Character Map
 
-<div style="font-family: Zoto Sans Ol Chiki; font-size: 2em;">
+<div style="font-family: 'Zoto Sans Ol Chiki'; font-size: 2em;">
 ᱚ ᱛ ᱜ ᱝ ᱞ ᱟ ᱠ ᱡ ᱢ ᱣ ᱤ ᱥ ᱦ ᱧ ᱨ ᱩ ᱪ ᱫ ᱬ ᱭ ᱮ ᱯ ᱰ ᱱ ᱲ ᱳ ᱴ ᱵ ᱶ ᱷ ᱸ ᱹ ᱺ ᱻ ᱼ ᱽ ᱾ ᱿
 </div>
 

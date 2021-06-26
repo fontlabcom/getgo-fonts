@@ -5,7 +5,7 @@ title: "Zoto Sans Old South Arabian"
 
 # Zoto Sans Old South Arabian
 
-<div contenteditable="true" style="font-family: Zoto Sans Old South Arabian; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
+<div contenteditable="true" style="font-family: 'Zoto Sans Old South Arabian'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 𐩧𐩣𐩳𐩡𐩺𐩻 𐩷𐩰𐩫𐩸𐩶𐩮 𐩴𐩱𐩥𐩢𐩭𐩵 𐩪𐩬𐩨𐩩𐩼𐩦 𐩹𐩯𐩠𐩲𐩤
 </div>
 
@@ -47,7 +47,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ## Character Map
 
-<div style="font-family: Zoto Sans Old South Arabian; font-size: 2em;">
+<div style="font-family: 'Zoto Sans Old South Arabian'; font-size: 2em;">
 𐩠 𐩡 𐩢 𐩣 𐩤 𐩥 𐩦 𐩧 𐩨 𐩩 𐩪 𐩫 𐩬 𐩭 𐩮 𐩯 𐩰 𐩱 𐩲 𐩳 𐩴 𐩵 𐩶 𐩷 𐩸 𐩹 𐩺 𐩻 𐩼 𐩿
 </div>
 

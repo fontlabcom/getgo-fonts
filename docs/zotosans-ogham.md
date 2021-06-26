@@ -5,7 +5,7 @@ title: "Zoto Sans Ogham"
 
 # Zoto Sans Ogham
 
-<div contenteditable="true" style="font-family: Zoto Sans Ogham; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
+<div contenteditable="true" style="font-family: 'Zoto Sans Ogham'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 ᚔᚚᚍᚋᚈᚐ ᚉᚏᚕᚅᚆᚂ ᚖᚑᚎᚗᚘᚊ ᚁᚇᚓᚄᚌᚒ ᚙᚃ
 </div>
 
@@ -47,7 +47,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ## Character Map
 
-<div style="font-family: Zoto Sans Ogham; font-size: 2em;">
+<div style="font-family: 'Zoto Sans Ogham'; font-size: 2em;">
 ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ ᚊ ᚋ ᚌ ᚍ ᚎ ᚏ ᚐ ᚑ ᚒ ᚓ ᚔ ᚕ ᚖ ᚗ ᚘ ᚙ ᚚ ᚛ ᚜
 </div>
 

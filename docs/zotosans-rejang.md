@@ -5,7 +5,7 @@ title: "Zoto Sans Rejang"
 
 # Zoto Sans Rejang
 
-<div contenteditable="true" style="font-family: Zoto Sans Rejang; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
+<div contenteditable="true" style="font-family: 'Zoto Sans Rejang'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 ꤶꥀꤱꤺꤻꤵ ꤳꥂꥁꤴꥃꤸ ꤼꥄꥅꤾꤹꤿ ꤽꤲꤰꥆꤷ
 </div>
 
@@ -47,7 +47,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ## Character Map
 
-<div style="font-family: Zoto Sans Rejang; font-size: 2em;">
+<div style="font-family: 'Zoto Sans Rejang'; font-size: 2em;">
 ꤰ ꤱ ꤲ ꤳ ꤴ ꤵ ꤶ ꤷ ꤸ ꤹ ꤺ ꤻ ꤼ ꤽ ꤾ ꤿ ꥀ ꥁ ꥂ ꥃ ꥄ ꥅ ꥆ ꥇ ꥈ ꥉ ꥊ ꥋ ꥌ ꥍ ꥎ ꥏ ꥐ ꥑ ꥒ ꥓ ꥟
 </div>
 

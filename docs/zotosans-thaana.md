@@ -5,7 +5,7 @@ title: "Zoto Sans Thaana"
 
 # Zoto Sans Thaana
 
-<div contenteditable="true" style="font-family: Zoto Sans Thaana; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
+<div contenteditable="true" style="font-family: 'Zoto Sans Thaana'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 ޘޢޚޝމޕ ލޱފވޔޖ ޣސބށޙޥ ޠޅޓޏޗޤ ކތހޛޡރ
 </div>
 
@@ -47,7 +47,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ## Character Map
 
-<div style="font-family: Zoto Sans Thaana; font-size: 2em;">
+<div style="font-family: 'Zoto Sans Thaana'; font-size: 2em;">
 ! ( ) , . : ;   ، ؛ ؟ ٪ ٫ ٬ ހ ށ ނ ރ ބ ޅ ކ އ ވ މ ފ ދ ތ ލ ގ ޏ ސ ޑ ޒ ޓ ޔ ޕ ޖ ޗ ޘ ޙ ޚ ޛ ޜ ޝ ޞ ޟ ޠ ޡ ޢ ޣ ޤ ޥ ަ ާ ި ީ ު ޫ ެ ޭ ޮ ޯ ް ޱ ‘ ’ “ ” ◌ ﷲ ﷽
 </div>
 

@@ -5,7 +5,7 @@ title: "Zoto Sans Tagalog"
 
 # Zoto Sans Tagalog
 
-<div contenteditable="true" style="font-family: Zoto Sans Tagalog; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
+<div contenteditable="true" style="font-family: 'Zoto Sans Tagalog'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 ᜋᜐᜂᜊᜏᜈ ᜁᜃᜀᜑᜄᜇ ᜅᜎᜉᜌᜆ
 </div>
 
@@ -47,7 +47,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ## Character Map
 
-<div style="font-family: Zoto Sans Tagalog; font-size: 2em;">
+<div style="font-family: 'Zoto Sans Tagalog'; font-size: 2em;">
 ᜀ ᜁ ᜂ ᜃ ᜄ ᜅ ᜆ ᜇ ᜈ ᜉ ᜊ ᜋ ᜌ ᜎ ᜏ ᜐ ᜑ ᜒ ᜓ ᜔ ᜵ ᜶
 </div>
 

@@ -5,7 +5,7 @@ title: "Zoto Sans Tagbanwa"
 
 # Zoto Sans Tagbanwa
 
-<div contenteditable="true" style="font-family: Zoto Sans Tagbanwa; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
+<div contenteditable="true" style="font-family: 'Zoto Sans Tagbanwa'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 ᝰᝣᝯᝪᝨᝤ ᝦᝠᝡᝥᝢᝧ ᝫᝮᝬᝩ
 </div>
 
@@ -47,7 +47,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ## Character Map
 
-<div style="font-family: Zoto Sans Tagbanwa; font-size: 2em;">
+<div style="font-family: 'Zoto Sans Tagbanwa'; font-size: 2em;">
 ᜵ ᜶ ᝠ ᝡ ᝢ ᝣ ᝤ ᝥ ᝦ ᝧ ᝨ ᝩ ᝪ ᝫ ᝬ ᝮ ᝯ ᝰ ᝲ ᝳ
 </div>
 

@@ -5,7 +5,7 @@ title: "Zoto Serif Lao"
 
 # Zoto Serif Lao
 
-<div contenteditable="true" style="font-family: Zoto Serif Lao; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
+<div contenteditable="true" style="font-family: 'Zoto Serif Lao'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 ໃຣຯສຕດ ຊຢມໝເຫ ໂນໄຝວແ ໞບຈພະລ ຟກໜຳຮໟ
 </div>
 
@@ -47,7 +47,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ## Character Map
 
-<div style="font-family: Zoto Serif Lao; font-size: 2em;">
+<div style="font-family: 'Zoto Serif Lao'; font-size: 2em;">
 ! " # $ % & ' ( ) * + , - . / : ; < = > ? @   ; ກ ຂ ຄ ງ ຈ ຊ ຍ ດ ຕ ຖ ທ ນ ບ ປ ຜ ຝ ພ ຟ ມ ຢ ຣ ລ ວ ສ ຫ ອ ຮ ຯ ະ ັ າ ຳ ິ ີ ຶ ື ຸ ູ ົ ຼ ຽ ເ ແ ໂ ໃ ໄ ໆ ່ ້ ໊ ໋ ໌ ໍ ໜ ໝ ໞ ໟ ◌
 </div>
 

@@ -5,7 +5,7 @@ title: "GG Stroke Chan OFL Italic"
 
 # GG Stroke Chan OFL Italic
 
-<div contenteditable="true" style="font-family: GG Stroke Chan OFL Italic; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
+<div contenteditable="true" style="font-family: 'GG Stroke Chan OFL Italic'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 TLVUBG YKMMIP txnckj qixarh zpyegj
 </div>
 
@@ -40,7 +40,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ## Character Map
 
-<div style="font-family: GG Stroke Chan OFL Italic; font-size: 2em;">
+<div style="font-family: 'GG Stroke Chan OFL Italic'; font-size: 2em;">
 ! " # $ % & ' ( ) * + , - . / : ; < = > ? @ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z [ \ ] ^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z { | } ~   ¡ ¢ £ ¤ ¥ ¦ §
 </div>
 

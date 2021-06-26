@@ -5,7 +5,7 @@ title: "Zoto Sans Gothic"
 
 # Zoto Sans Gothic
 
-<div contenteditable="true" style="font-family: Zoto Sans Gothic; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
+<div contenteditable="true" style="font-family: 'Zoto Sans Gothic'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 𐍉𐍆𐌱𐌿𐍀𐌾 𐌹𐌶𐍃𐌼𐍈𐍇 𐍂𐌷𐌳𐍄𐌰𐌲 𐌺𐌸𐍅𐌵𐌽𐌻 𐌴
 </div>
 
@@ -47,7 +47,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ## Character Map
 
-<div style="font-family: Zoto Sans Gothic; font-size: 2em;">
+<div style="font-family: 'Zoto Sans Gothic'; font-size: 2em;">
 :   · ̄ ̅ ̈ ̱ 𐌰 𐌱 𐌲 𐌳 𐌴 𐌵 𐌶 𐌷 𐌸 𐌹 𐌺 𐌻 𐌼 𐌽 𐌾 𐌿 𐍀 𐍂 𐍃 𐍄 𐍅 𐍆 𐍇 𐍈 𐍉
 </div>
 

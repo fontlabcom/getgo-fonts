@@ -51,7 +51,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/baar/baar.ttf){: .btn target="_blank" }
 
-license: CC-0 \| Modular narrow display font \| glyphs: 98 \| scripts: Latin |\ [Read more…](baar/)
+license: CC-0 \| Modular narrow display font \| glyphs: 98 \| scripts: Latin \| [Read more…](baar/)
 
 ---
 
@@ -62,7 +62,7 @@ license: CC-0 \| Modular narrow display font \| glyphs: 98 \| scripts: Latin |\ 
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/boto/boto[wght,wdth,ital].ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 3387 \| scripts: Latin, Cyrillic, Greek |\ [Read more…](botowght-wdth-ital/)
+license: Apache \| Font \| glyphs: 3387 \| scripts: Latin, Cyrillic, Greek \| [Read more…](botowght-wdth-ital/)
 
 ---
 
@@ -73,7 +73,7 @@ license: Apache \| Font \| glyphs: 3387 \| scripts: Latin, Cyrillic, Greek |\ [R
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm-italic[wght].ttf){: .btn target="_blank" }
 
-license: CC-0 \| Font \| glyphs: 340 \| scripts: Latin |\ [Read more…](cosm-italicwght/)
+license: CC-0 \| Font \| glyphs: 340 \| scripts: Latin \| [Read more…](cosm-italicwght/)
 
 ---
 
@@ -84,7 +84,7 @@ license: CC-0 \| Font \| glyphs: 340 \| scripts: Latin |\ [Read more…](cosm-it
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm[wght].ttf){: .btn target="_blank" }
 
-license: CC-0 \| Font \| glyphs: 359 \| scripts: Latin |\ [Read more…](cosmwght/)
+license: CC-0 \| Font \| glyphs: 359 \| scripts: Latin \| [Read more…](cosmwght/)
 
 ---
 
@@ -95,7 +95,7 @@ license: CC-0 \| Font \| glyphs: 359 \| scripts: Latin |\ [Read more…](cosmwgh
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/deco/deco.ttf){: .btn target="_blank" }
 
-license: CC-0 \| Font \| glyphs: 104 \| scripts: Latin |\ [Read more…](deco/)
+license: CC-0 \| Font \| glyphs: 104 \| scripts: Latin \| [Read more…](deco/)
 
 ---
 
@@ -106,7 +106,7 @@ license: CC-0 \| Font \| glyphs: 104 \| scripts: Latin |\ [Read more…](deco/)
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/medi/medi.ttf){: .btn target="_blank" }
 
-license: CC-0 \| Font \| glyphs: 103 \| scripts: Latin |\ [Read more…](medi/)
+license: CC-0 \| Font \| glyphs: 103 \| scripts: Latin \| [Read more…](medi/)
 
 ---
 
@@ -117,7 +117,7 @@ license: CC-0 \| Font \| glyphs: 103 \| scripts: Latin |\ [Read more…](medi/)
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/ocra/ocra.ttf){: .btn target="_blank" }
 
-license: CC-0 \| Font \| glyphs: 177 \| scripts: Latin, Katakana |\ [Read more…](ocra/)
+license: CC-0 \| Font \| glyphs: 177 \| scripts: Latin, Katakana \| [Read more…](ocra/)
 
 ---
 
@@ -128,7 +128,7 @@ license: CC-0 \| Font \| glyphs: 177 \| scripts: Latin, Katakana |\ [Read more�
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/pixa/pixa.ttf){: .btn target="_blank" }
 
-license: CC-0 \| Font \| glyphs: 14769 \| scripts: Han, Hangul, Latin, Canadian Aboriginal, Greek, Cyrillic, Arabic, Katakana, Myanmar, Coptic, Devanagari, Cherokee, Armenian, Hiragana, Hebrew, Runic, Bengali, Syriac, Thai, Braille, Tamil, Tifinagh, Nko, Thaana, Tibetan, Ogham, Bopomofo, Malayalam |\ [Read more…](pixa/)
+license: CC-0 \| Font \| glyphs: 14769 \| scripts: Han, Hangul, Latin, Canadian Aboriginal, Greek, Cyrillic, Arabic, Katakana, Myanmar, Coptic, Devanagari, Cherokee, Armenian, Hiragana, Hebrew, Runic, Bengali, Syriac, Thai, Braille, Tamil, Tifinagh, Nko, Thaana, Tibetan, Ogham, Bopomofo, Malayalam \| [Read more…](pixa/)
 
 ---
 
@@ -139,7 +139,7 @@ license: CC-0 \| Font \| glyphs: 14769 \| scripts: Han, Hangul, Latin, Canadian 
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/plum/plum[wght].ttf){: .btn target="_blank" }
 
-license: CC-0 \| Font \| glyphs: 205 \| scripts: Latin |\ [Read more…](plumwght/)
+license: CC-0 \| Font \| glyphs: 205 \| scripts: Latin \| [Read more…](plumwght/)
 
 ---
 
@@ -150,7 +150,7 @@ license: CC-0 \| Font \| glyphs: 205 \| scripts: Latin |\ [Read more…](plumwgh
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/star/star.ttf){: .btn target="_blank" }
 
-license: CC-0 \| Font \| glyphs: 144 \| scripts: Cyrillic, Latin |\ [Read more…](star/)
+license: CC-0 \| Font \| glyphs: 144 \| scripts: Cyrillic, Latin \| [Read more…](star/)
 
 ---
 
@@ -161,7 +161,7 @@ license: CC-0 \| Font \| glyphs: 144 \| scripts: Cyrillic, Latin |\ [Read more�
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/stroke-chan/stroke-chan.ttf){: .btn target="_blank" }
 
-license: OFL \| Font \| glyphs: 106 \| scripts: Latin |\ [Read more…](stroke-chan/)
+license: OFL \| Font \| glyphs: 106 \| scripts: Latin \| [Read more…](stroke-chan/)
 
 ---
 
@@ -172,7 +172,7 @@ license: OFL \| Font \| glyphs: 106 \| scripts: Latin |\ [Read more…](stroke-c
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/stroke-grot/stroke-grot.ttf){: .btn target="_blank" }
 
-license: OFL \| Font \| glyphs: 132 \| scripts: Latin |\ [Read more…](stroke-grot/)
+license: OFL \| Font \| glyphs: 132 \| scripts: Latin \| [Read more…](stroke-grot/)
 
 ---
 
@@ -183,7 +183,7 @@ license: OFL \| Font \| glyphs: 132 \| scripts: Latin |\ [Read more…](stroke-g
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/veni/veni.ttf){: .btn target="_blank" }
 
-license: CC-0 \| Font \| glyphs: 199 \| scripts: Latin |\ [Read more…](veni/)
+license: CC-0 \| Font \| glyphs: 199 \| scripts: Latin \| [Read more…](veni/)
 
 ---
 
@@ -194,7 +194,7 @@ license: CC-0 \| Font \| glyphs: 199 \| scripts: Latin |\ [Read more…](veni/)
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/vize/vize.ttf){: .btn target="_blank" }
 
-license: CC-0 \| Font \| glyphs: 103 \| scripts: Latin |\ [Read more…](vize/)
+license: CC-0 \| Font \| glyphs: 103 \| scripts: Latin \| [Read more…](vize/)
 
 ---
 
@@ -205,7 +205,7 @@ license: CC-0 \| Font \| glyphs: 103 \| scripts: Latin |\ [Read more…](vize/)
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoemoji/zoto-emoji.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 771 \| scripts:  |\ [Read more…](zoto-emoji/)
+license: Apache \| Font \| glyphs: 771 \| scripts:  \| [Read more…](zoto-emoji/)
 
 ---
 
@@ -216,7 +216,7 @@ license: Apache \| Font \| glyphs: 771 \| scripts:  |\ [Read more…](zoto-emoji
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zoto-kufiarabic.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 762 \| scripts: Arabic |\ [Read more…](zoto-kufiarabic/)
+license: Apache \| Font \| glyphs: 762 \| scripts: Arabic \| [Read more…](zoto-kufiarabic/)
 
 ---
 
@@ -227,7 +227,7 @@ license: Apache \| Font \| glyphs: 762 \| scripts: Arabic |\ [Read more…](zoto
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-armenian.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 98 \| scripts: Armenian |\ [Read more…](zotosans-armenian/)
+license: Apache \| Font \| glyphs: 98 \| scripts: Armenian \| [Read more…](zotosans-armenian/)
 
 ---
 
@@ -238,7 +238,7 @@ license: Apache \| Font \| glyphs: 98 \| scripts: Armenian |\ [Read more…](zot
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-avestan.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 73 \| scripts: Avestan |\ [Read more…](zotosans-avestan/)
+license: Apache \| Font \| glyphs: 73 \| scripts: Avestan \| [Read more…](zotosans-avestan/)
 
 ---
 
@@ -249,7 +249,7 @@ license: Apache \| Font \| glyphs: 73 \| scripts: Avestan |\ [Read more…](zoto
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-balinese.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 182 \| scripts: Balinese |\ [Read more…](zotosans-balinese/)
+license: Apache \| Font \| glyphs: 182 \| scripts: Balinese \| [Read more…](zotosans-balinese/)
 
 ---
 
@@ -260,7 +260,7 @@ license: Apache \| Font \| glyphs: 182 \| scripts: Balinese |\ [Read more…](zo
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-bamum.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 661 \| scripts: Bamum |\ [Read more…](zotosans-bamum/)
+license: Apache \| Font \| glyphs: 661 \| scripts: Bamum \| [Read more…](zotosans-bamum/)
 
 ---
 
@@ -271,7 +271,7 @@ license: Apache \| Font \| glyphs: 661 \| scripts: Bamum |\ [Read more…](zotos
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-batak.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 61 \| scripts: Batak |\ [Read more…](zotosans-batak/)
+license: Apache \| Font \| glyphs: 61 \| scripts: Batak \| [Read more…](zotosans-batak/)
 
 ---
 
@@ -282,7 +282,7 @@ license: Apache \| Font \| glyphs: 61 \| scripts: Batak |\ [Read more…](zotosa
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-brahmi.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 182 \| scripts: Brahmi |\ [Read more…](zotosans-brahmi/)
+license: Apache \| Font \| glyphs: 182 \| scripts: Brahmi \| [Read more…](zotosans-brahmi/)
 
 ---
 
@@ -293,7 +293,7 @@ license: Apache \| Font \| glyphs: 182 \| scripts: Brahmi |\ [Read more…](zoto
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-buginese.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 63 \| scripts: Buginese |\ [Read more…](zotosans-buginese/)
+license: Apache \| Font \| glyphs: 63 \| scripts: Buginese \| [Read more…](zotosans-buginese/)
 
 ---
 
@@ -304,7 +304,7 @@ license: Apache \| Font \| glyphs: 63 \| scripts: Buginese |\ [Read more…](zot
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-buhid.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 39 \| scripts: Buhid |\ [Read more…](zotosans-buhid/)
+license: Apache \| Font \| glyphs: 39 \| scripts: Buhid \| [Read more…](zotosans-buhid/)
 
 ---
 
@@ -315,7 +315,7 @@ license: Apache \| Font \| glyphs: 39 \| scripts: Buhid |\ [Read more…](zotosa
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-canadianaboriginal.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 744 \| scripts: Canadian Aboriginal, Latin |\ [Read more…](zotosans-canadianaboriginal/)
+license: Apache \| Font \| glyphs: 744 \| scripts: Canadian Aboriginal, Latin \| [Read more…](zotosans-canadianaboriginal/)
 
 ---
 
@@ -326,7 +326,7 @@ license: Apache \| Font \| glyphs: 744 \| scripts: Canadian Aboriginal, Latin |\
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-carian.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 53 \| scripts: Carian |\ [Read more…](zotosans-carian/)
+license: Apache \| Font \| glyphs: 53 \| scripts: Carian \| [Read more…](zotosans-carian/)
 
 ---
 
@@ -337,7 +337,7 @@ license: Apache \| Font \| glyphs: 53 \| scripts: Carian |\ [Read more…](zotos
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cham.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 127 \| scripts: Cham |\ [Read more…](zotosans-cham/)
+license: Apache \| Font \| glyphs: 127 \| scripts: Cham \| [Read more…](zotosans-cham/)
 
 ---
 
@@ -348,7 +348,7 @@ license: Apache \| Font \| glyphs: 127 \| scripts: Cham |\ [Read more…](zotosa
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cherokee.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 89 \| scripts: Cherokee |\ [Read more…](zotosans-cherokee/)
+license: Apache \| Font \| glyphs: 89 \| scripts: Cherokee \| [Read more…](zotosans-cherokee/)
 
 ---
 
@@ -359,7 +359,7 @@ license: Apache \| Font \| glyphs: 89 \| scripts: Cherokee |\ [Read more…](zot
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-coptic.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 190 \| scripts: Coptic, Latin |\ [Read more…](zotosans-coptic/)
+license: Apache \| Font \| glyphs: 190 \| scripts: Coptic, Latin \| [Read more…](zotosans-coptic/)
 
 ---
 
@@ -370,7 +370,7 @@ license: Apache \| Font \| glyphs: 190 \| scripts: Coptic, Latin |\ [Read more�
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cuneiform.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 986 \| scripts: Cuneiform |\ [Read more…](zotosans-cuneiform/)
+license: Apache \| Font \| glyphs: 986 \| scripts: Cuneiform \| [Read more…](zotosans-cuneiform/)
 
 ---
 
@@ -381,7 +381,7 @@ license: Apache \| Font \| glyphs: 986 \| scripts: Cuneiform |\ [Read more…](z
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cypriot.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 59 \| scripts: Cypriot |\ [Read more…](zotosans-cypriot/)
+license: Apache \| Font \| glyphs: 59 \| scripts: Cypriot \| [Read more…](zotosans-cypriot/)
 
 ---
 
@@ -392,7 +392,7 @@ license: Apache \| Font \| glyphs: 59 \| scripts: Cypriot |\ [Read more…](zoto
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-deseret.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 84 \| scripts: Deseret |\ [Read more…](zotosans-deseret/)
+license: Apache \| Font \| glyphs: 84 \| scripts: Deseret \| [Read more…](zotosans-deseret/)
 
 ---
 
@@ -403,7 +403,7 @@ license: Apache \| Font \| glyphs: 84 \| scripts: Deseret |\ [Read more…](zoto
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-egyptianhieroglyphs.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 1075 \| scripts: Egyptian Hieroglyphs |\ [Read more…](zotosans-egyptianhieroglyphs/)
+license: Apache \| Font \| glyphs: 1075 \| scripts: Egyptian Hieroglyphs \| [Read more…](zotosans-egyptianhieroglyphs/)
 
 ---
 
@@ -414,7 +414,7 @@ license: Apache \| Font \| glyphs: 1075 \| scripts: Egyptian Hieroglyphs |\ [Rea
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-ethiopic.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 559 \| scripts: Ethiopic |\ [Read more…](zotosans-ethiopic/)
+license: Apache \| Font \| glyphs: 559 \| scripts: Ethiopic \| [Read more…](zotosans-ethiopic/)
 
 ---
 
@@ -425,7 +425,7 @@ license: Apache \| Font \| glyphs: 559 \| scripts: Ethiopic |\ [Read more…](zo
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-georgian.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 127 \| scripts: Georgian, Armenian |\ [Read more…](zotosans-georgian/)
+license: Apache \| Font \| glyphs: 127 \| scripts: Georgian, Armenian \| [Read more…](zotosans-georgian/)
 
 ---
 
@@ -436,7 +436,7 @@ license: Apache \| Font \| glyphs: 127 \| scripts: Georgian, Armenian |\ [Read m
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-glagolitic.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 98 \| scripts: Glagolitic |\ [Read more…](zotosans-glagolitic/)
+license: Apache \| Font \| glyphs: 98 \| scripts: Glagolitic \| [Read more…](zotosans-glagolitic/)
 
 ---
 
@@ -447,7 +447,7 @@ license: Apache \| Font \| glyphs: 98 \| scripts: Glagolitic |\ [Read more…](z
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-gothic.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 43 \| scripts: Gothic |\ [Read more…](zotosans-gothic/)
+license: Apache \| Font \| glyphs: 43 \| scripts: Gothic \| [Read more…](zotosans-gothic/)
 
 ---
 
@@ -458,7 +458,7 @@ license: Apache \| Font \| glyphs: 43 \| scripts: Gothic |\ [Read more…](zotos
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-gurmukhi.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 301 \| scripts: Gurmukhi |\ [Read more…](zotosans-gurmukhi/)
+license: Apache \| Font \| glyphs: 301 \| scripts: Gurmukhi \| [Read more…](zotosans-gurmukhi/)
 
 ---
 
@@ -469,7 +469,7 @@ license: Apache \| Font \| glyphs: 301 \| scripts: Gurmukhi |\ [Read more…](zo
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-hanunoo.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 43 \| scripts: Hanunoo |\ [Read more…](zotosans-hanunoo/)
+license: Apache \| Font \| glyphs: 43 \| scripts: Hanunoo \| [Read more…](zotosans-hanunoo/)
 
 ---
 
@@ -480,7 +480,7 @@ license: Apache \| Font \| glyphs: 43 \| scripts: Hanunoo |\ [Read more…](zoto
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-hebrew.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 155 \| scripts: Hebrew |\ [Read more…](zotosans-hebrew/)
+license: Apache \| Font \| glyphs: 155 \| scripts: Hebrew \| [Read more…](zotosans-hebrew/)
 
 ---
 
@@ -491,7 +491,7 @@ license: Apache \| Font \| glyphs: 155 \| scripts: Hebrew |\ [Read more…](zoto
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-historic.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 3638 \| scripts: Egyptian Hieroglyphs, Cuneiform, Linear B, Latin, Old Turkic, Samaritan, Avestan, Phags Pa, Carian, Old Persian, Ugaritic, Osmanya, Old South Arabian, Mandaic, Lycian, Lydian, Imperial Aramaic, Phoenician, Inscriptional Parthian, Inscriptional Pahlavi |\ [Read more…](zotosans-historic/)
+license: Apache \| Font \| glyphs: 3638 \| scripts: Egyptian Hieroglyphs, Cuneiform, Linear B, Latin, Old Turkic, Samaritan, Avestan, Phags Pa, Carian, Old Persian, Ugaritic, Osmanya, Old South Arabian, Mandaic, Lycian, Lydian, Imperial Aramaic, Phoenician, Inscriptional Parthian, Inscriptional Pahlavi \| [Read more…](zotosans-historic/)
 
 ---
 
@@ -502,7 +502,7 @@ license: Apache \| Font \| glyphs: 3638 \| scripts: Egyptian Hieroglyphs, Cuneif
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-imperialaramaic.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 35 \| scripts: Imperial Aramaic |\ [Read more…](zotosans-imperialaramaic/)
+license: Apache \| Font \| glyphs: 35 \| scripts: Imperial Aramaic \| [Read more…](zotosans-imperialaramaic/)
 
 ---
 
@@ -513,7 +513,7 @@ license: Apache \| Font \| glyphs: 35 \| scripts: Imperial Aramaic |\ [Read more
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalpahlavi.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 34 \| scripts: Inscriptional Pahlavi |\ [Read more…](zotosans-inscriptionalpahlavi/)
+license: Apache \| Font \| glyphs: 34 \| scripts: Inscriptional Pahlavi \| [Read more…](zotosans-inscriptionalpahlavi/)
 
 ---
 
@@ -524,7 +524,7 @@ license: Apache \| Font \| glyphs: 34 \| scripts: Inscriptional Pahlavi |\ [Read
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalparthian.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 45 \| scripts: Inscriptional Parthian |\ [Read more…](zotosans-inscriptionalparthian/)
+license: Apache \| Font \| glyphs: 45 \| scripts: Inscriptional Parthian \| [Read more…](zotosans-inscriptionalparthian/)
 
 ---
 
@@ -535,7 +535,7 @@ license: Apache \| Font \| glyphs: 45 \| scripts: Inscriptional Parthian |\ [Rea
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-javanese.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 155 \| scripts: Javanese |\ [Read more…](zotosans-javanese/)
+license: Apache \| Font \| glyphs: 155 \| scripts: Javanese \| [Read more…](zotosans-javanese/)
 
 ---
 
@@ -546,7 +546,7 @@ license: Apache \| Font \| glyphs: 155 \| scripts: Javanese |\ [Read more…](zo
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-kayahli.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 54 \| scripts: Kayah Li |\ [Read more…](zotosans-kayahli/)
+license: Apache \| Font \| glyphs: 54 \| scripts: Kayah Li \| [Read more…](zotosans-kayahli/)
 
 ---
 
@@ -557,7 +557,7 @@ license: Apache \| Font \| glyphs: 54 \| scripts: Kayah Li |\ [Read more…](zot
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-kharoshthi.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 133 \| scripts: Kharoshthi |\ [Read more…](zotosans-kharoshthi/)
+license: Apache \| Font \| glyphs: 133 \| scripts: Kharoshthi \| [Read more…](zotosans-kharoshthi/)
 
 ---
 
@@ -568,7 +568,7 @@ license: Apache \| Font \| glyphs: 133 \| scripts: Kharoshthi |\ [Read more…](
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-khmer.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 265 \| scripts: Khmer |\ [Read more…](zotosans-khmer/)
+license: Apache \| Font \| glyphs: 265 \| scripts: Khmer \| [Read more…](zotosans-khmer/)
 
 ---
 
@@ -579,7 +579,7 @@ license: Apache \| Font \| glyphs: 265 \| scripts: Khmer |\ [Read more…](zotos
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-lao.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 166 \| scripts: Lao |\ [Read more…](zotosans-lao/)
+license: Apache \| Font \| glyphs: 166 \| scripts: Lao \| [Read more…](zotosans-lao/)
 
 ---
 
@@ -590,7 +590,7 @@ license: Apache \| Font \| glyphs: 166 \| scripts: Lao |\ [Read more…](zotosan
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-limbu.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 73 \| scripts: Limbu |\ [Read more…](zotosans-limbu/)
+license: Apache \| Font \| glyphs: 73 \| scripts: Limbu \| [Read more…](zotosans-limbu/)
 
 ---
 
@@ -601,7 +601,7 @@ license: Apache \| Font \| glyphs: 73 \| scripts: Limbu |\ [Read more…](zotosa
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-linearb.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 272 \| scripts: Linear B |\ [Read more…](zotosans-linearb/)
+license: Apache \| Font \| glyphs: 272 \| scripts: Linear B \| [Read more…](zotosans-linearb/)
 
 ---
 
@@ -612,7 +612,7 @@ license: Apache \| Font \| glyphs: 272 \| scripts: Linear B |\ [Read more…](zo
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-lisu.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 54 \| scripts: Lisu |\ [Read more…](zotosans-lisu/)
+license: Apache \| Font \| glyphs: 54 \| scripts: Lisu \| [Read more…](zotosans-lisu/)
 
 ---
 
@@ -623,7 +623,7 @@ license: Apache \| Font \| glyphs: 54 \| scripts: Lisu |\ [Read more…](zotosan
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-lycian.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 33 \| scripts: Lycian |\ [Read more…](zotosans-lycian/)
+license: Apache \| Font \| glyphs: 33 \| scripts: Lycian \| [Read more…](zotosans-lycian/)
 
 ---
 
@@ -634,7 +634,7 @@ license: Apache \| Font \| glyphs: 33 \| scripts: Lycian |\ [Read more…](zotos
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-lydian.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 31 \| scripts: Lydian |\ [Read more…](zotosans-lydian/)
+license: Apache \| Font \| glyphs: 31 \| scripts: Lydian \| [Read more…](zotosans-lydian/)
 
 ---
 
@@ -645,7 +645,7 @@ license: Apache \| Font \| glyphs: 31 \| scripts: Lydian |\ [Read more…](zotos
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-mandaic.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 128 \| scripts: Mandaic |\ [Read more…](zotosans-mandaic/)
+license: Apache \| Font \| glyphs: 128 \| scripts: Mandaic \| [Read more…](zotosans-mandaic/)
 
 ---
 
@@ -656,7 +656,7 @@ license: Apache \| Font \| glyphs: 128 \| scripts: Mandaic |\ [Read more…](zot
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-meeteimayek.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 91 \| scripts: Meetei Mayek |\ [Read more…](zotosans-meeteimayek/)
+license: Apache \| Font \| glyphs: 91 \| scripts: Meetei Mayek \| [Read more…](zotosans-meeteimayek/)
 
 ---
 
@@ -667,7 +667,7 @@ license: Apache \| Font \| glyphs: 91 \| scripts: Meetei Mayek |\ [Read more…]
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-mongolian.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 1511 \| scripts: Mongolian |\ [Read more…](zotosans-mongolian/)
+license: Apache \| Font \| glyphs: 1511 \| scripts: Mongolian \| [Read more…](zotosans-mongolian/)
 
 ---
 
@@ -678,7 +678,7 @@ license: Apache \| Font \| glyphs: 1511 \| scripts: Mongolian |\ [Read more…](
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-newtailue.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 91 \| scripts: New Tai Lue |\ [Read more…](zotosans-newtailue/)
+license: Apache \| Font \| glyphs: 91 \| scripts: New Tai Lue \| [Read more…](zotosans-newtailue/)
 
 ---
 
@@ -689,7 +689,7 @@ license: Apache \| Font \| glyphs: 91 \| scripts: New Tai Lue |\ [Read more…](
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-nko.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 174 \| scripts: Nko, Arabic |\ [Read more…](zotosans-nko/)
+license: Apache \| Font \| glyphs: 174 \| scripts: Nko, Arabic \| [Read more…](zotosans-nko/)
 
 ---
 
@@ -700,7 +700,7 @@ license: Apache \| Font \| glyphs: 174 \| scripts: Nko, Arabic |\ [Read more…]
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-ogham.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 33 \| scripts: Ogham |\ [Read more…](zotosans-ogham/)
+license: Apache \| Font \| glyphs: 33 \| scripts: Ogham \| [Read more…](zotosans-ogham/)
 
 ---
 
@@ -711,7 +711,7 @@ license: Apache \| Font \| glyphs: 33 \| scripts: Ogham |\ [Read more…](zotosa
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-olchiki.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 52 \| scripts: Ol Chiki |\ [Read more…](zotosans-olchiki/)
+license: Apache \| Font \| glyphs: 52 \| scripts: Ol Chiki \| [Read more…](zotosans-olchiki/)
 
 ---
 
@@ -722,7 +722,7 @@ license: Apache \| Font \| glyphs: 52 \| scripts: Ol Chiki |\ [Read more…](zot
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-olditalic.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 39 \| scripts: Old Italic |\ [Read more…](zotosans-olditalic/)
+license: Apache \| Font \| glyphs: 39 \| scripts: Old Italic \| [Read more…](zotosans-olditalic/)
 
 ---
 
@@ -733,7 +733,7 @@ license: Apache \| Font \| glyphs: 39 \| scripts: Old Italic |\ [Read more…](z
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-oldpersian.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 54 \| scripts: Old Persian |\ [Read more…](zotosans-oldpersian/)
+license: Apache \| Font \| glyphs: 54 \| scripts: Old Persian \| [Read more…](zotosans-oldpersian/)
 
 ---
 
@@ -744,7 +744,7 @@ license: Apache \| Font \| glyphs: 54 \| scripts: Old Persian |\ [Read more…](
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-oldsoutharabian.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 36 \| scripts: Old South Arabian |\ [Read more…](zotosans-oldsoutharabian/)
+license: Apache \| Font \| glyphs: 36 \| scripts: Old South Arabian \| [Read more…](zotosans-oldsoutharabian/)
 
 ---
 
@@ -755,7 +755,7 @@ license: Apache \| Font \| glyphs: 36 \| scripts: Old South Arabian |\ [Read mor
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-oldturkic.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 77 \| scripts: Old Turkic |\ [Read more…](zotosans-oldturkic/)
+license: Apache \| Font \| glyphs: 77 \| scripts: Old Turkic \| [Read more…](zotosans-oldturkic/)
 
 ---
 
@@ -766,7 +766,7 @@ license: Apache \| Font \| glyphs: 77 \| scripts: Old Turkic |\ [Read more…](z
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-osmanya.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 44 \| scripts: Osmanya |\ [Read more…](zotosans-osmanya/)
+license: Apache \| Font \| glyphs: 44 \| scripts: Osmanya \| [Read more…](zotosans-osmanya/)
 
 ---
 
@@ -777,7 +777,7 @@ license: Apache \| Font \| glyphs: 44 \| scripts: Osmanya |\ [Read more…](zoto
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-phagspa.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 382 \| scripts: Phags Pa, Mongolian |\ [Read more…](zotosans-phagspa/)
+license: Apache \| Font \| glyphs: 382 \| scripts: Phags Pa, Mongolian \| [Read more…](zotosans-phagspa/)
 
 ---
 
@@ -788,7 +788,7 @@ license: Apache \| Font \| glyphs: 382 \| scripts: Phags Pa, Mongolian |\ [Read 
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-phoenician.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 33 \| scripts: Phoenician |\ [Read more…](zotosans-phoenician/)
+license: Apache \| Font \| glyphs: 33 \| scripts: Phoenician \| [Read more…](zotosans-phoenician/)
 
 ---
 
@@ -799,7 +799,7 @@ license: Apache \| Font \| glyphs: 33 \| scripts: Phoenician |\ [Read more…](z
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-rejang.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 41 \| scripts: Rejang |\ [Read more…](zotosans-rejang/)
+license: Apache \| Font \| glyphs: 41 \| scripts: Rejang \| [Read more…](zotosans-rejang/)
 
 ---
 
@@ -810,7 +810,7 @@ license: Apache \| Font \| glyphs: 41 \| scripts: Rejang |\ [Read more…](zotos
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-runic.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 85 \| scripts: Runic |\ [Read more…](zotosans-runic/)
+license: Apache \| Font \| glyphs: 85 \| scripts: Runic \| [Read more…](zotosans-runic/)
 
 ---
 
@@ -821,7 +821,7 @@ license: Apache \| Font \| glyphs: 85 \| scripts: Runic |\ [Read more…](zotosa
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-samaritan.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 67 \| scripts: Samaritan |\ [Read more…](zotosans-samaritan/)
+license: Apache \| Font \| glyphs: 67 \| scripts: Samaritan \| [Read more…](zotosans-samaritan/)
 
 ---
 
@@ -832,7 +832,7 @@ license: Apache \| Font \| glyphs: 67 \| scripts: Samaritan |\ [Read more…](zo
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-saurashtra.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 93 \| scripts: Saurashtra |\ [Read more…](zotosans-saurashtra/)
+license: Apache \| Font \| glyphs: 93 \| scripts: Saurashtra \| [Read more…](zotosans-saurashtra/)
 
 ---
 
@@ -843,7 +843,7 @@ license: Apache \| Font \| glyphs: 93 \| scripts: Saurashtra |\ [Read more…](z
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-shavian.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 52 \| scripts: Shavian |\ [Read more…](zotosans-shavian/)
+license: Apache \| Font \| glyphs: 52 \| scripts: Shavian \| [Read more…](zotosans-shavian/)
 
 ---
 
@@ -854,7 +854,7 @@ license: Apache \| Font \| glyphs: 52 \| scripts: Shavian |\ [Read more…](zoto
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-sundanese.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 79 \| scripts: Sundanese |\ [Read more…](zotosans-sundanese/)
+license: Apache \| Font \| glyphs: 79 \| scripts: Sundanese \| [Read more…](zotosans-sundanese/)
 
 ---
 
@@ -865,7 +865,7 @@ license: Apache \| Font \| glyphs: 79 \| scripts: Sundanese |\ [Read more…](zo
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-sylotinagri.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 85 \| scripts: Syloti Nagri |\ [Read more…](zotosans-sylotinagri/)
+license: Apache \| Font \| glyphs: 85 \| scripts: Syloti Nagri \| [Read more…](zotosans-sylotinagri/)
 
 ---
 
@@ -876,7 +876,7 @@ license: Apache \| Font \| glyphs: 85 \| scripts: Syloti Nagri |\ [Read more…]
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-symbols.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 5126 \| scripts: Braille, Greek |\ [Read more…](zotosans-symbols/)
+license: Apache \| Font \| glyphs: 5126 \| scripts: Braille, Greek \| [Read more…](zotosans-symbols/)
 
 ---
 
@@ -887,7 +887,7 @@ license: Apache \| Font \| glyphs: 5126 \| scripts: Braille, Greek |\ [Read more
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tagalog.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 26 \| scripts: Tagalog |\ [Read more…](zotosans-tagalog/)
+license: Apache \| Font \| glyphs: 26 \| scripts: Tagalog \| [Read more…](zotosans-tagalog/)
 
 ---
 
@@ -898,7 +898,7 @@ license: Apache \| Font \| glyphs: 26 \| scripts: Tagalog |\ [Read more…](zoto
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tagbanwa.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 24 \| scripts: Tagbanwa |\ [Read more…](zotosans-tagbanwa/)
+license: Apache \| Font \| glyphs: 24 \| scripts: Tagbanwa \| [Read more…](zotosans-tagbanwa/)
 
 ---
 
@@ -909,7 +909,7 @@ license: Apache \| Font \| glyphs: 24 \| scripts: Tagbanwa |\ [Read more…](zot
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-taile.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 55 \| scripts: Tai Le |\ [Read more…](zotosans-taile/)
+license: Apache \| Font \| glyphs: 55 \| scripts: Tai Le \| [Read more…](zotosans-taile/)
 
 ---
 
@@ -920,7 +920,7 @@ license: Apache \| Font \| glyphs: 55 \| scripts: Tai Le |\ [Read more…](zotos
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-taitham.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 231 \| scripts: Tai Tham |\ [Read more…](zotosans-taitham/)
+license: Apache \| Font \| glyphs: 231 \| scripts: Tai Tham \| [Read more…](zotosans-taitham/)
 
 ---
 
@@ -931,7 +931,7 @@ license: Apache \| Font \| glyphs: 231 \| scripts: Tai Tham |\ [Read more…](zo
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-taiviet.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 81 \| scripts: Tai Viet, Latin |\ [Read more…](zotosans-taiviet/)
+license: Apache \| Font \| glyphs: 81 \| scripts: Tai Viet, Latin \| [Read more…](zotosans-taiviet/)
 
 ---
 
@@ -942,7 +942,7 @@ license: Apache \| Font \| glyphs: 81 \| scripts: Tai Viet, Latin |\ [Read more�
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tamil.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 215 \| scripts: Tamil |\ [Read more…](zotosans-tamil/)
+license: Apache \| Font \| glyphs: 215 \| scripts: Tamil \| [Read more…](zotosans-tamil/)
 
 ---
 
@@ -953,7 +953,7 @@ license: Apache \| Font \| glyphs: 215 \| scripts: Tamil |\ [Read more…](zotos
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-thaana.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 95 \| scripts: Thaana, Arabic |\ [Read more…](zotosans-thaana/)
+license: Apache \| Font \| glyphs: 95 \| scripts: Thaana, Arabic \| [Read more…](zotosans-thaana/)
 
 ---
 
@@ -964,7 +964,7 @@ license: Apache \| Font \| glyphs: 95 \| scripts: Thaana, Arabic |\ [Read more�
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tifinagh.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 101 \| scripts: Tifinagh |\ [Read more…](zotosans-tifinagh/)
+license: Apache \| Font \| glyphs: 101 \| scripts: Tifinagh \| [Read more…](zotosans-tifinagh/)
 
 ---
 
@@ -975,7 +975,7 @@ license: Apache \| Font \| glyphs: 101 \| scripts: Tifinagh |\ [Read more…](zo
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-ugaritic.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 35 \| scripts: Ugaritic |\ [Read more…](zotosans-ugaritic/)
+license: Apache \| Font \| glyphs: 35 \| scripts: Ugaritic \| [Read more…](zotosans-ugaritic/)
 
 ---
 
@@ -986,7 +986,7 @@ license: Apache \| Font \| glyphs: 35 \| scripts: Ugaritic |\ [Read more…](zot
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-vai.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 304 \| scripts: Vai |\ [Read more…](zotosans-vai/)
+license: Apache \| Font \| glyphs: 304 \| scripts: Vai \| [Read more…](zotosans-vai/)
 
 ---
 
@@ -997,7 +997,7 @@ license: Apache \| Font \| glyphs: 304 \| scripts: Vai |\ [Read more…](zotosan
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-yi.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 1251 \| scripts: Yi |\ [Read more…](zotosans-yi/)
+license: Apache \| Font \| glyphs: 1251 \| scripts: Yi \| [Read more…](zotosans-yi/)
 
 ---
 
@@ -1008,7 +1008,7 @@ license: Apache \| Font \| glyphs: 1251 \| scripts: Yi |\ [Read more…](zotosan
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-armenian.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 98 \| scripts: Armenian |\ [Read more…](zotoserif-armenian/)
+license: Apache \| Font \| glyphs: 98 \| scripts: Armenian \| [Read more…](zotoserif-armenian/)
 
 ---
 
@@ -1019,7 +1019,7 @@ license: Apache \| Font \| glyphs: 98 \| scripts: Armenian |\ [Read more…](zot
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-georgian.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 127 \| scripts: Georgian, Armenian |\ [Read more…](zotoserif-georgian/)
+license: Apache \| Font \| glyphs: 127 \| scripts: Georgian, Armenian \| [Read more…](zotoserif-georgian/)
 
 ---
 
@@ -1030,7 +1030,7 @@ license: Apache \| Font \| glyphs: 127 \| scripts: Georgian, Armenian |\ [Read m
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-khmer.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 378 \| scripts: Khmer |\ [Read more…](zotoserif-khmer/)
+license: Apache \| Font \| glyphs: 378 \| scripts: Khmer \| [Read more…](zotoserif-khmer/)
 
 ---
 
@@ -1041,6 +1041,6 @@ license: Apache \| Font \| glyphs: 378 \| scripts: Khmer |\ [Read more…](zotos
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-lao.ttf){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 166 \| scripts: Lao |\ [Read more…](zotoserif-lao/)
+license: Apache \| Font \| glyphs: 166 \| scripts: Lao \| [Read more…](zotoserif-lao/)
 
 ---

@@ -5,7 +5,7 @@ title: "Zoto Sans Tamil"
 
 # Zoto Sans Tamil
 
-<div contenteditable="true" style="font-family: Zoto Sans Tamil; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
+<div contenteditable="true" style="font-family: 'Zoto Sans Tamil'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 ஶஹௐஈஞட ஓணஎஙளய தஊஔஉஆற மசஒநவஸ ஏஐகழஜஷ
 </div>
 
@@ -47,7 +47,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ## Character Map
 
-<div style="font-family: Zoto Sans Tamil; font-size: 2em;">
+<div style="font-family: 'Zoto Sans Tamil'; font-size: 2em;">
 ! " # % ' ( ) * + , - . / : ; < = > ? [ \ ] ^ _ { | } ~   × ÷ । ॥ ஂ ஃ அ ஆ இ ஈ உ ஊ எ ஏ ஐ ஒ ஓ ஔ க ங ச ஜ ஞ ட ண த ந ன ப ம ய ர ற ல ள ழ வ ஶ ஷ ஸ ஹ ா ி ீ ு ூ ெ ே ை ொ ோ ௌ ் ௐ ௗ ௳ ௴ ௵ ௶ ௷ ௸ ௹ ௺ – — ‘ ’ “ ” … ₹ − ◌
 </div>
 

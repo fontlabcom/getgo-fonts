@@ -259,7 +259,7 @@ class GetGoFont(object):
 
 [Download zipped FontLab VFJ]({download_url}){{: .btn target="_blank" }}
 
-{md_font_description} |\ [Read more…]({self.page_url + '/'})
+{md_font_description} \| [Read more…]({self.page_url + '/'})
 
 ---
 """
@@ -271,7 +271,7 @@ title: "{self.full_name}"
 
 # {self.full_name}
 
-<div contenteditable="true" style="font-family: {self.full_name}; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
+<div contenteditable="true" style="font-family: '{self.full_name}'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 {self.metadata["sample_text"]}
 </div>
 
@@ -287,7 +287,7 @@ title: "{self.full_name}"
 
 ## Character Map
 
-<div style="font-family: {self.full_name}; font-size: 2em;">
+<div style="font-family: '{self.full_name}'; font-size: 2em;">
 {" ".join([chr(u) for u in self.unicodes]).strip()}
 </div>
 

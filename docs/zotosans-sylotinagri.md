@@ -5,7 +5,7 @@ title: "Zoto Sans Syloti Nagri"
 
 # Zoto Sans Syloti Nagri
 
-<div contenteditable="true" style="font-family: Zoto Sans Syloti Nagri; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
+<div contenteditable="true" style="font-family: 'Zoto Sans Syloti Nagri'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 ꠅꠏꠙꠒꠍꠡ ꠠꠑꠢꠘꠉꠇ ꠔꠚꠓꠐꠈꠕ ꠖꠌꠀꠁꠊꠎ ꠛꠄꠃꠝꠗꠟ
 </div>
 
@@ -47,7 +47,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ## Character Map
 
-<div style="font-family: Zoto Sans Syloti Nagri; font-size: 2em;">
+<div style="font-family: 'Zoto Sans Syloti Nagri'; font-size: 2em;">
 । ॥ ‐ ‑ ⁕ ◌ ꠀ ꠁ ꠂ ꠃ ꠄ ꠅ ꠆ ꠇ ꠈ ꠉ ꠊ ꠋ ꠌ ꠍ ꠎ ꠏ ꠐ ꠑ ꠒ ꠓ ꠔ ꠕ ꠖ ꠗ ꠘ ꠙ ꠚ ꠛ ꠜ ꠝ ꠞ ꠟ ꠠ ꠡ ꠢ ꠣ ꠤ ꠥ ꠦ ꠧ ꠨ ꠩ ꠪ ꠫
 </div>
 

@@ -157,7 +157,7 @@ license: CC-0 \| Font \| glyphs: 205 \| scripts: Latin \| [Read more…](plumwgh
 ---
 
 
-### GG Rafi Italic
+### GG Rafi OFL Italic
 
 [![LIBRE ŽĿŮŸ interface đkūăbņ](images/rafi-italicwght.svg)](rafi-italicwght/)
 
@@ -168,7 +168,7 @@ license: OFL \| Font \| glyphs: 854 \| scripts: Latin, Greek \| [Read more…](r
 ---
 
 
-### GG Rafi
+### GG Rafi OFL
 
 [![ÓSITEV TÛĒRGD speaker âdłamÿ ðèŉzæy](images/rafiwght.svg)](rafiwght/)
 

@@ -49,7 +49,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ### GG Baar
 
-[![CMKSRJ ITSLBZ xhedha pqnnfv gprktw](images/baar.svg)](baar/)
+[![DECODE MYSTERY observe greatest rubrum](images/baar.svg)](baar/)
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/baar/baar.vfj){: .btn target="_blank" }
 
@@ -69,9 +69,20 @@ license: Apache \| Font \| glyphs: 3387 \| scripts: Latin, Cyrillic, Greek \| [R
 ---
 
 
+### GG Club OFL
+
+[![CLUB ŞẎLOP sports ħěbmṍģ ḝæŧlāť](images/club-var.svg)](club-var/)
+
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/club/club-var.vfj){: .btn target="_blank" }
+
+license: OFL \| Variable font with 12 axes in college block style \| glyphs: 563 \| scripts: Latin, Greek \| [Read more…](club-var/)
+
+---
+
+
 ### GG Cosm Italic
 
-[![ĽÕFIĶŸÊ ŊŲĦŊŤĮ ýäġţťț yșœśôá vûūâŧô](images/cosm-italicwght.svg)](cosm-italicwght/)
+[![COSMOS ŊŲĦŊŤĮ natural yșœśôá vûūâŧô](images/cosm-italicwght.svg)](cosm-italicwght/)
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm-italic[wght].vfj){: .btn target="_blank" }
 
@@ -82,7 +93,7 @@ license: CC-0 \| Font \| glyphs: 340 \| scripts: Latin \| [Read more…](cosm-it
 
 ### GG Cosm
 
-[![ŪỲÆÑŪŔ ĖÈØŎXĴ nękćzę hŷěìăĥ oșőűng](images/cosmwght.svg)](cosmwght/)
+[![WORLD ĖÈØŎXĴ discover nękćzęĥ oșőűng](images/cosmwght.svg)](cosmwght/)
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm[wght].vfj){: .btn target="_blank" }
 
@@ -137,7 +148,7 @@ license: CC-0 \| Font \| glyphs: 14769 \| scripts: Han, Hangul, Latin, Canadian 
 
 ### GG Plum
 
-[![CĞBJÌĂ ŒÃÑDPẂ ŷèãaâò ẅoîẁĳœ effvgý](images/plumwght.svg)](plumwght/)
+[![CLARITY CĞBJÌĂ flight ẅoîẁĳœ effvgý](images/plumwght.svg)](plumwght/)
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/plum/plum[wght].vfj){: .btn target="_blank" }
 
@@ -146,9 +157,42 @@ license: CC-0 \| Font \| glyphs: 205 \| scripts: Latin \| [Read more…](plumwgh
 ---
 
 
+### GG Rafi Italic
+
+[![LIBRE ŽĿŮŸ interface đkūăbņ](images/rafi-italicwght.svg)](rafi-italicwght/)
+
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/rafi/rafi-italic[wght].vfj){: .btn target="_blank" }
+
+license: OFL \| Font \| glyphs: 854 \| scripts: Latin, Greek \| [Read more…](rafi-italicwght/)
+
+---
+
+
+### GG Rafi
+
+[![ÓSITEV TÛĒRGD speaker âdłamÿ ðèŉzæy](images/rafiwght.svg)](rafiwght/)
+
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/rafi/rafi[wght].vfj){: .btn target="_blank" }
+
+license: OFL \| Font \| glyphs: 855 \| scripts: Latin, Greek \| [Read more…](rafiwght/)
+
+---
+
+
+### GG Scig OFL Regular
+
+[![HELLO ĠRŦȂǺẄ square ǫpøåĝð ąậaģbw](images/scig-var.svg)](scig-var/)
+
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/scig/scig-var.vfj){: .btn target="_blank" }
+
+license: OFL \| Font \| glyphs: 1218 \| scripts: Latin, Cyrillic \| [Read more…](scig-var/)
+
+---
+
+
 ### GG Star
 
-[![СЪРГУЮ ЮДЁЯЭФ зфоляч хшйёцш ицщиач](images/star.svg)](star/)
+[![QUEST СЪРГУЮ imagine зфоляч ицщиач](images/star.svg)](star/)
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/star/star.vfj){: .btn target="_blank" }
 
@@ -181,7 +225,7 @@ license: OFL \| Font \| glyphs: 132 \| scripts: Latin \| [Read more…](stroke-g
 
 ### GG Veni
 
-[![ÂÌDÓŸM IXẂÛÀÔ éẁfwïi åúíkóö ùämõœl](images/veni.svg)](veni/)
+[![VESTIRO ÂÌDÓŸM quantas ùämõœl elegant](images/veni.svg)](veni/)
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/veni/veni.vfj){: .btn target="_blank" }
 
@@ -192,7 +236,7 @@ license: CC-0 \| Font \| glyphs: 199 \| scripts: Latin \| [Read more…](veni/)
 
 ### GG Vize
 
-[![AMXRZY CPLZLI eghxfj usaivo yqbpwn](images/vize.svg)](vize/)
+[![CAPITAL QUEST fashion cuisine elegant](images/vize.svg)](vize/)
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/vize/vize.vfj){: .btn target="_blank" }
 

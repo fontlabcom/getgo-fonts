@@ -6,7 +6,7 @@ title: "GG Cosm Italic"
 # GG Cosm Italic
 
 <div contenteditable="true" style="font-family: 'GG Cosm Italic'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
-ĽÕFIĶŸÊ ŊŲĦŊŤĮ ýäġţťț yșœśôá vûūâŧô
+COSMOS ŊŲĦŊŤĮ natural yșœśôá vûūâŧô
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm-italic[wght].vfj){: .btn .btn-purple target="_blank" }

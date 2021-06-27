@@ -6,7 +6,7 @@ title: "GG Plum"
 # GG Plum
 
 <div contenteditable="true" style="font-family: 'GG Plum'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
-CĞBJÌĂ ŒÃÑDPẂ ŷèãaâò ẅoîẁĳœ effvgý
+CLARITY CĞBJÌĂ flight ẅoîẁĳœ effvgý
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/plum/plum[wght].vfj){: .btn .btn-purple target="_blank" }

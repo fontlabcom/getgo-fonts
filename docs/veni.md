@@ -6,7 +6,7 @@ title: "GG Veni"
 # GG Veni
 
 <div contenteditable="true" style="font-family: 'GG Veni'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
-ÂÌDÓŸM IXẂÛÀÔ éẁfwïi åúíkóö ùämõœl
+VESTIRO ÂÌDÓŸM quantas ùämõœl elegant
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/veni/veni.vfj){: .btn .btn-purple target="_blank" }

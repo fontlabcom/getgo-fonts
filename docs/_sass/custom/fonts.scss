@@ -17,6 +17,14 @@
 }
 
 @font-face {
+  font-family: 'GG Club OFL';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../../fonts/club-var.woff2) format('woff2');
+}
+
+@font-face {
   font-family: 'GG Cosm Italic';
   font-style: normal;
   font-weight: 400;
@@ -70,6 +78,30 @@
   font-weight: 400;
   font-display: swap;
   src: url(../../fonts/plumwght.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GG Rafi Italic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../../fonts/rafi-italicwght.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GG Rafi';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../../fonts/rafiwght.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'GG Scig OFL Regular';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../../fonts/scig-var.woff2) format('woff2');
 }
 
 @font-face {

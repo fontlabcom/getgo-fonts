@@ -6,7 +6,7 @@ title: "GG Cosm"
 # GG Cosm
 
 <div contenteditable="true" style="font-family: 'GG Cosm'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
-ŪỲÆÑŪŔ ĖÈØŎXĴ nękćzę hŷěìăĥ oșőűng
+WORLD ĖÈØŎXĴ discover nękćzęĥ oșőűng
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm[wght].vfj){: .btn .btn-purple target="_blank" }

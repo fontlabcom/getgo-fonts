@@ -1,0 +1,14 @@
+full_name: GG Ptit OFL
+family_name: GG Ptit OFL
+copyright: |-
+  Copyright (c) 2009-2015, Philippe Cochy,,,(http://pecita.eu),
+  with Reserved Font Name Pecita.
+license: OFL
+description: Multi-script handwritten font that uses single stroke
+scripts:
+- Latin
+- Greek
+- Cyrillic
+- Katakana
+- Cherokee
+sample_text: SCRIPT fluids write ķniṟɱ îʑᴽțṵž

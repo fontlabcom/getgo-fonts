@@ -37,6 +37,25 @@
             "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/botowght-wdth-ital.png"
         }
     },
+    "GG Cafe": {
+        "full_name": "GG Cafe",
+        "family_name": "GG Cafe",
+        "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\nhttp://www.apache.org/licenses/LICENSE-2.0.html",
+        "license": "Apache",
+        "description": "Signpainter-style flat brush script font",
+        "scripts": [
+            "Latin",
+            "Greek"
+        ],
+        "sample_text": "FRESH DIRECT espresso first ļbĩẅńà",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cafe/cafe.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cafe/cafe.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/cafe/cafe.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cafe.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/cafe.png"
+        }
+    },
     "GG Club OFL": {
         "license": "OFL",
         "description": "Variable font with 12 axes in college block style",
@@ -108,6 +127,43 @@
             "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/deco/deco.md",
             "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/deco.svg",
             "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/deco.png"
+        }
+    },
+    "GG Fest": {
+        "full_name": "GG Fest",
+        "family_name": "GG Fest",
+        "copyright": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\nhttp://www.apache.org/licenses/LICENSE-2.0.html",
+        "license": "Apache",
+        "description": "Festive slab serif font inspired by 1950s hand lettering",
+        "scripts": [
+            "Latin"
+        ],
+        "sample_text": "FESTIVE Hippy orange astound łeľũŧó",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/fest/fest.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/fest/fest.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/fest/fest.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/fest.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/fest.png"
+        }
+    },
+    "GG Hint": {
+        "full_name": "GG Hint",
+        "family_name": "GG Hint",
+        "copyright": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\nhttp://www.apache.org/licenses/LICENSE-2.0.html",
+        "license": "Apache",
+        "description": "Unicase sanserif design with pixel-perfect manual TrueType Hinting (TTH)",
+        "scripts": [
+            "Latin",
+            "Greek"
+        ],
+        "sample_text": "REVOLT Revolt revolt ĦBŦĒC bĉţėŷľ",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/hint/hint.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/hint/hint.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/hint/hint.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/hint.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/hint.png"
         }
     },
     "GG Medi": {
@@ -208,6 +264,28 @@
             "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/cc0/plum/plum[wght].md",
             "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/plumwght.svg",
             "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/plumwght.png"
+        }
+    },
+    "GG Ptit OFL": {
+        "full_name": "GG Ptit OFL",
+        "family_name": "GG Ptit OFL",
+        "copyright": "Copyright (c) 2009-2015, Philippe Cochy,,,(http://pecita.eu),\nwith Reserved Font Name Pecita.",
+        "license": "OFL",
+        "description": "Multi-script handwritten font that uses single stroke",
+        "scripts": [
+            "Latin",
+            "Greek",
+            "Cyrillic",
+            "Katakana",
+            "Cherokee"
+        ],
+        "sample_text": "SCRIPT fluids write ķniṟɱ îʑᴽțṵž",
+        "url": {
+            "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/ptit/ptit.vfj",
+            "ttf": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/ptit/ptit.ttf",
+            "md": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/ofl/ptit/ptit.md",
+            "svg": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/ptit.svg",
+            "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/ptit.png"
         }
     },
     "GG Rafi OFL Italic": {

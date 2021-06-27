@@ -69,6 +69,17 @@ license: Apache \| Font \| glyphs: 3387 \| scripts: Latin, Cyrillic, Greek \| [R
 ---
 
 
+### GG Cafe
+
+[![FRESH DIRECT espresso first ļbĩẅńà](images/cafe.svg)](cafe/)
+
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cafe/cafe.vfj){: .btn target="_blank" }
+
+license: Apache \| Signpainter-style flat brush script font \| glyphs: 372 \| scripts: Latin, Greek \| [Read more…](cafe/)
+
+---
+
+
 ### GG Club OFL
 
 [![CLUB ŞẎLOP sports ħěbmṍģ ḝæŧlāť](images/club-var.svg)](club-var/)
@@ -113,6 +124,28 @@ license: CC-0 \| Font \| glyphs: 104 \| scripts: Latin \| [Read more…](deco/)
 ---
 
 
+### GG Fest
+
+[![FESTIVE Hippy orange astound łeľũŧó](images/fest.svg)](fest/)
+
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/fest/fest.vfj){: .btn target="_blank" }
+
+license: Apache \| Festive slab serif font inspired by 1950s hand lettering \| glyphs: 369 \| scripts: Latin \| [Read more…](fest/)
+
+---
+
+
+### GG Hint
+
+[![REVOLT Revolt revolt ĦBŦĒC bĉţėŷľ](images/hint.svg)](hint/)
+
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/hint/hint.vfj){: .btn target="_blank" }
+
+license: Apache \| Unicase sanserif design with pixel-perfect manual TrueType Hinting (TTH) \| glyphs: 372 \| scripts: Latin, Greek \| [Read more…](hint/)
+
+---
+
+
 ### GG Medi
 
 [![XLJWDB XAPQJK oilmfd eurnco evsywc](images/medi.svg)](medi/)
@@ -153,6 +186,17 @@ license: CC-0 \| Font \| glyphs: 14769 \| scripts: Han, Hangul, Latin, Canadian 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/plum/plum[wght].vfj){: .btn target="_blank" }
 
 license: CC-0 \| Font \| glyphs: 205 \| scripts: Latin \| [Read more…](plumwght/)
+
+---
+
+
+### GG Ptit OFL
+
+[![SCRIPT fluids write ķniṟɱ îʑᴽțṵž](images/ptit.svg)](ptit/)
+
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/ptit/ptit.vfj){: .btn target="_blank" }
+
+license: OFL \| Multi-script handwritten font that uses single stroke \| glyphs: 4760 \| scripts: Latin, Greek, Cyrillic, Katakana, Cherokee \| [Read more…](ptit/)
 
 ---
 

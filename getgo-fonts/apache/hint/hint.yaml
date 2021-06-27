@@ -1,0 +1,11 @@
+full_name: GG Hint
+family_name: GG Hint
+copyright: |-
+  Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.
+  http://www.apache.org/licenses/LICENSE-2.0.html
+license: Apache
+description: Unicase sanserif design with pixel-perfect manual TrueType Hinting (TTH)
+scripts:
+- Latin
+- Greek
+sample_text: REVOLT Revolt revolt ĦBŦĒC bĉţėŷľ

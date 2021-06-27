@@ -1,0 +1,11 @@
+full_name: GG Cafe
+family_name: GG Cafe
+copyright: |-
+  Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.
+  http://www.apache.org/licenses/LICENSE-2.0.html
+license: Apache
+description: Signpainter-style flat brush script font
+scripts:
+- Latin
+- Greek
+sample_text: FRESH DIRECT espresso first ļbĩẅńà

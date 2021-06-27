@@ -7,7 +7,7 @@ GG Ptit OFL is a multi-script handwritten font that uses a single stroke (skelet
 - The glyphs flagged in red are composite glyphs that refer to other glyphs.
 - The glyphs flagged in dark blue are control and empty glyphs.
 
-The font supports Afrikaans, Archaic Greek Letters, Baltic, Basic Cyrillic, Basic Greek, Basic Latin, Catalan, Central European, Chess Symbols, Dutch, Euro, Hebbar Tamil, Igbo Onwu, IPA, Latin Ligatures, Mathematical Operators, Pan African Latin, Pinyin, Polytonic Greek, Romanian, Turkish, Vietnamese, Western European.
+It includes an extensive set of OpenType features that combine the glyphs for a naturally-looking, fluid writing result. It supports Afrikaans, Archaic Greek Letters, Baltic, Basic Cyrillic, Basic Greek, Basic Latin, Catalan, Central European, Chess Symbols, Dutch, Euro, Hebbar Tamil, Igbo Onwu, IPA, Latin Ligatures, Mathematical Operators, Pan African Latin, Pinyin, Polytonic Greek, Romanian, Turkish, Vietnamese, Western European.
 
 ### License
 

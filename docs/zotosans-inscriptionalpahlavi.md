@@ -5,6 +5,8 @@ title: "Zoto Sans Inscriptional Pahlavi"
 
 # Zoto Sans Inscriptional Pahlavi
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans Inscriptional Pahlavi'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 𐭰𐭠𐭫𐭨𐭬𐭩 𐭢𐭧𐭯𐭦𐭣𐭤 𐭡𐭱𐭪𐭲𐭭𐭮 𐭥
 </div>

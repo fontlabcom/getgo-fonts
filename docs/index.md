@@ -60,11 +60,11 @@ license: CC-0 \| Modular narrow display font \| glyphs: 98 \| scripts: Latin \| 
 
 ### GG Boto
 
-[![Vältože бомуще θρώπον çavatečkul](images/botowght-wdth-ital.svg)](botowght-wdth-ital/)
+[![Vältože бомуще θρώπον çavatečkul](images/boto-var.svg)](boto-var/)
 
-[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/boto/boto[wght,wdth,ital].vfj){: .btn target="_blank" }
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/boto/boto-var.vfj){: .btn target="_blank" }
 
-license: Apache \| Font \| glyphs: 3387 \| scripts: Latin, Cyrillic, Greek \| [Read more…](botowght-wdth-ital/)
+license: Apache \| Font \| glyphs: 3387 \| scripts: Latin, Cyrillic, Greek \| [Read more…](boto-var/)
 
 ---
 
@@ -93,22 +93,22 @@ license: OFL \| Variable font with 12 axes in college block style \| glyphs: 563
 
 ### GG Cosm Italic
 
-[![COSMOS ŊŲĦŊŤĮ natural yșœśôá vûūâŧô](images/cosm-italicwght.svg)](cosm-italicwght/)
+[![COSMOS ŊŲĦŊŤĮ natural yșœśôá vûūâŧô](images/cosm-italic-var.svg)](cosm-italic-var/)
 
-[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm-italic[wght].vfj){: .btn target="_blank" }
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm-italic-var.vfj){: .btn target="_blank" }
 
-license: CC-0 \| Font \| glyphs: 340 \| scripts: Latin \| [Read more…](cosm-italicwght/)
+license: CC-0 \| Font \| glyphs: 340 \| scripts: Latin \| [Read more…](cosm-italic-var/)
 
 ---
 
 
 ### GG Cosm
 
-[![WORLD ĖÈØŎXĴ discover nękćzęĥ oșőűng](images/cosmwght.svg)](cosmwght/)
+[![WORLD ĖÈØŎXĴ discover nękćzęĥ oșőűng](images/cosm-var.svg)](cosm-var/)
 
-[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm[wght].vfj){: .btn target="_blank" }
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm-var.vfj){: .btn target="_blank" }
 
-license: CC-0 \| Font \| glyphs: 359 \| scripts: Latin \| [Read more…](cosmwght/)
+license: CC-0 \| Font \| glyphs: 359 \| scripts: Latin \| [Read more…](cosm-var/)
 
 ---
 
@@ -181,11 +181,11 @@ license: CC-0 \| Font \| glyphs: 14769 \| scripts: Han, Hangul, Latin, Canadian 
 
 ### GG Plum
 
-[![CLARITY CĞBJÌĂ flight ẅoîẁĳœ effvgý](images/plumwght.svg)](plumwght/)
+[![CLARITY CĞBJÌĂ flight ẅoîẁĳœ effvgý](images/plum-var.svg)](plum-var/)
 
-[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/plum/plum[wght].vfj){: .btn target="_blank" }
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/plum/plum-var.vfj){: .btn target="_blank" }
 
-license: CC-0 \| Font \| glyphs: 205 \| scripts: Latin \| [Read more…](plumwght/)
+license: CC-0 \| Font \| glyphs: 205 \| scripts: Latin \| [Read more…](plum-var/)
 
 ---
 
@@ -203,22 +203,22 @@ license: OFL \| Multi-script handwritten font that uses single stroke \| glyphs:
 
 ### GG Rafi OFL Italic
 
-[![LIBRE ŽĿŮŸ interface đkūăbņ](images/rafi-italicwght.svg)](rafi-italicwght/)
+[![LIBRE ŽĿŮŸ interface đkūăbņ](images/rafi-italic-var.svg)](rafi-italic-var/)
 
-[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/rafi/rafi-italic[wght].vfj){: .btn target="_blank" }
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/rafi/rafi-italic-var.vfj){: .btn target="_blank" }
 
-license: OFL \| Font \| glyphs: 854 \| scripts: Latin, Greek \| [Read more…](rafi-italicwght/)
+license: OFL \| Font \| glyphs: 854 \| scripts: Latin, Greek \| [Read more…](rafi-italic-var/)
 
 ---
 
 
 ### GG Rafi OFL
 
-[![ÓSITEV TÛĒRGD speaker âdłamÿ ðèŉzæy](images/rafiwght.svg)](rafiwght/)
+[![ÓSITEV TÛĒRGD speaker âdłamÿ ðèŉzæy](images/rafi-var.svg)](rafi-var/)
 
-[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/rafi/rafi[wght].vfj){: .btn target="_blank" }
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/rafi/rafi-var.vfj){: .btn target="_blank" }
 
-license: OFL \| Font \| glyphs: 855 \| scripts: Latin, Greek \| [Read more…](rafiwght/)
+license: OFL \| Font \| glyphs: 855 \| scripts: Latin, Greek \| [Read more…](rafi-var/)
 
 ---
 

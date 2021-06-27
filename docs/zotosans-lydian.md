@@ -5,6 +5,8 @@ title: "Zoto Sans Lydian"
 
 # Zoto Sans Lydian
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans Lydian'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 𐤡𐤠𐤶𐤰𐤫𐤥 𐤣𐤮𐤸𐤬𐤲𐤯 𐤤𐤦𐤪𐤢𐤷𐤴 𐤩𐤧𐤨𐤹𐤱𐤭 𐤵𐤳
 </div>

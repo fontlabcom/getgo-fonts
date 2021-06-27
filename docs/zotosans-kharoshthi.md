@@ -5,6 +5,8 @@ title: "Zoto Sans Kharoshthi"
 
 # Zoto Sans Kharoshthi
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans Kharoshthi'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 𐨙𐨥𐨣𐨦𐨮𐨤 𐨀𐨬𐨐𐨞𐨖𐨠 𐨡𐨟𐨳𐨛𐨰𐨲 𐨯𐨜𐨭𐨒𐨫𐨱 𐨨𐨗𐨢𐨑𐨪𐨧
 </div>

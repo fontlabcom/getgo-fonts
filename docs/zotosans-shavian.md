@@ -5,6 +5,8 @@ title: "Zoto Sans Shavian"
 
 # Zoto Sans Shavian
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans Shavian'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 𐑙𐑷𐑺𐑚𐑶𐑲 𐑳𐑴𐑮𐑤𐑜𐑬 𐑟𐑞𐑥𐑼𐑣𐑭 𐑔𐑵𐑰𐑸𐑻𐑖 𐑢𐑹𐑾𐑿𐑗𐑑
 </div>

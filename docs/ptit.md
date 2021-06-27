@@ -5,6 +5,8 @@ title: "GG Ptit OFL"
 
 # GG Ptit OFL
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'GG Ptit OFL'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 SCRIPT fluids write ķniṟɱ îʑᴽțṵž
 </div>

@@ -5,6 +5,8 @@ title: "Zoto Sans Ugaritic"
 
 # Zoto Sans Ugaritic
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans Ugaritic'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 𐎍𐎒𐎁𐎓𐎔𐎋 𐎄𐎌𐎅𐎛𐎆𐎑 𐎊𐎐𐎜𐎝𐎏𐎘 𐎉𐎈𐎚𐎃𐎖𐎗 𐎇𐎕𐎙𐎀𐎂𐎎
 </div>

@@ -5,6 +5,8 @@ title: "Zoto Sans Linear B"
 
 # Zoto Sans Linear B
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans Linear B'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 𐁃𐃁𐂬𐂼𐂗𐀫 𐀔𐃀𐂌𐂹𐁉𐂳 𐀺𐃍𐃑𐀁𐂘𐃰 𐀦𐃪𐁍𐁆𐁐𐂵 𐂢𐃵𐃣𐃃𐂨𐂫
 </div>

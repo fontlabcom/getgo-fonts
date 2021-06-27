@@ -5,6 +5,8 @@ title: "Zoto Sans Old Persian"
 
 # Zoto Sans Old Persian
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans Old Persian'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 𐎣𐏈𐎽𐎸𐎢𐎻 𐎷𐏊𐎳𐎱𐎵𐎩 𐎨𐏌𐎶𐎬𐎰𐏋 𐎾𐎠𐏀𐎺𐎿𐎦 𐏍𐏉𐎡𐎴𐎼𐎹
 </div>

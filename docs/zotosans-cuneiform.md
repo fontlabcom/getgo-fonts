@@ -5,6 +5,8 @@ title: "Zoto Sans Cuneiform"
 
 # Zoto Sans Cuneiform
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans Cuneiform'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 𒆀𒀵𒈏𒁼𒃠𒂚 𒁱𒄊𒋍𒃈𒅊𒈤 𒆿𒌓𒌥𒌭𒋗𒄵 𒀴𒋬𒅤𒁋𒀕𒍃 𒈿𒅸𒈙𒋊𒄸𒊻
 </div>

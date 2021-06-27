@@ -5,6 +5,8 @@ title: "Zoto Serif Lao"
 
 # Zoto Serif Lao
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Serif Lao'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 ໃຣຯສຕດ ຊຢມໝເຫ ໂນໄຝວແ ໞບຈພະລ ຟກໜຳຮໟ
 </div>

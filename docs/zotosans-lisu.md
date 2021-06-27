@@ -5,6 +5,8 @@ title: "Zoto Sans Lisu"
 
 # Zoto Sans Lisu
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans Lisu'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 ꓞꓣꓓꓩꓑꓶ ꓵꓛꓦꓤꓺꓰ ꓲꓹꓢꓳꓽꓫ ꓱꓐꓝꓚꓒꓧ ꓡꓼꓗꓠꓭꓴ
 </div>

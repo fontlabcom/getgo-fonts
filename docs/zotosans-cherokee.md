@@ -5,6 +5,8 @@ title: "Zoto Sans Cherokee"
 
 # Zoto Sans Cherokee
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans Cherokee'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 ᏓᎲᎮᎻᏛᏱ ᏌᎼᎳᏦᏊᎹ ᎸᏐᏒᏭᏧᏂ ᎿᏏᎠᎣᏚᎷ ᏤᏰᎶᏬᏔᎨ
 </div>

@@ -5,6 +5,8 @@ title: "Zoto Sans Gothic"
 
 # Zoto Sans Gothic
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans Gothic'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 𐍉𐍆𐌱𐌿𐍀𐌾 𐌹𐌶𐍃𐌼𐍈𐍇 𐍂𐌷𐌳𐍄𐌰𐌲 𐌺𐌸𐍅𐌵𐌽𐌻 𐌴
 </div>

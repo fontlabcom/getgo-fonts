@@ -5,6 +5,8 @@ title: "Zoto Sans Inscriptional Parthian"
 
 # Zoto Sans Inscriptional Parthian
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans Inscriptional Parthian'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 𐭊𐭕𐭈𐭃𐭔𐭍 𐭏𐭋𐭆𐭁𐭐𐭂 𐭀𐭄𐭒𐭌𐭎𐭅 𐭓𐭇𐭉𐭑
 </div>

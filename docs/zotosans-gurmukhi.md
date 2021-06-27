@@ -5,6 +5,8 @@ title: "Zoto Sans Gurmukhi"
 
 # Zoto Sans Gurmukhi
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans Gurmukhi'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 ਔਅਗ਼ਘਇਪ ਣੴਆਙਜਥ ਯਡਫ਼ਖ਼ਹਦ ਨਲ਼ਈਞਲਛ ਬਏਕੲਗਭ
 </div>

@@ -5,6 +5,8 @@ title: "Zoto Sans Tai Viet"
 
 # Zoto Sans Tai Viet
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans Tai Viet'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 ꪕꪮꪃꪺꪄꪪ ꪅꪻꪍꪢꪠꪩ ꪔꪆꪶꪭꪯꪋ ꪇꪽꫛꪟꪛꫝ ꪒꪘꪚꪉꪌꪊ
 </div>

@@ -5,6 +5,8 @@ title: "Zoto Sans Historic"
 
 # Zoto Sans Historic
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans Historic'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 ࠀࠁࡀࡁꡀ ꡁ𐀀𐀁𐊀𐊁 𐎀𐎁𐎠𐎡𐒀 𐒁𐡀𐡁𐤀𐤁 𐤠𐤡𐩠𐩡𐬀 𐬁𐭀𐭁𐭠𐭡𐰀𐰁𒀀𒀁𓀀𓀁
 </div>

@@ -5,6 +5,8 @@ title: "Zoto Sans Avestan"
 
 # Zoto Sans Avestan
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans Avestan'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 𐬑𐬂𐬜𐬴𐬢𐬄 𐬖𐬁𐬱𐬭𐬆𐬍 𐬛𐬔𐬡𐬫𐬗𐬵 𐬒𐬦𐬥𐬬𐬊𐬲 𐬘𐬣𐬰𐬏𐬅𐬨
 </div>

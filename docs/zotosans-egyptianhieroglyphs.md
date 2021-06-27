@@ -5,6 +5,8 @@ title: "Zoto Sans Egyptian Hieroglyphs"
 
 # Zoto Sans Egyptian Hieroglyphs
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans Egyptian Hieroglyphs'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 𓁫𓋾𓅷𓆢𓋁𓁗 𓇶𓈓𓋉𓄌𓅞𓈥 𓍪𓅵𓂥𓎮𓎇𓅺 𓋘𓐦𓀮𓅶𓎐𓍼 𓈭𓍙𓐣𓐘𓁳𓅅
 </div>

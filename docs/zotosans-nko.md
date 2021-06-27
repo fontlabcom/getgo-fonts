@@ -5,6 +5,8 @@ title: "Zoto Sans NKo"
 
 # Zoto Sans NKo
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans NKo'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 ߓߪߣߍߑߞ ߕߛߧߘߖߤ ߟߏߵߨߒߠ ߢߎߥߡߴߝ ߔߩߌߙߊߦ
 </div>

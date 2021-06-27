@@ -5,6 +5,8 @@ title: "Zoto Sans Brahmi"
 
 # Zoto Sans Brahmi
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans Brahmi'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 𑀤𑀭𑀬𑀥𑀰𑀉 𑀐𑀨𑀘𑀟𑀫𑀕 𑀗𑀓𑀷𑀣𑀲𑀳 𑀃𑀎𑀒𑀍𑀌𑀦 𑀡𑀋𑀚𑀑𑀊𑀇
 </div>

@@ -5,6 +5,8 @@ title: "Zoto Sans New Tai Lue"
 
 # Zoto Sans New Tai Lue
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans New Tai Lue'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 ᦝᧀᧄᦈᦒᦕ ᧂᦁᧃᦱᦆᧉ ᦙᦗᦉᦵᦡᦇ ᦄᦞᦰᦴᦪᦎ ᧅᦑᦸᦌᦏᦘ
 </div>

@@ -5,6 +5,8 @@ title: "GG Veni"
 
 # GG Veni
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'GG Veni'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 VESTIRO ÂÌDÓŸM quantas ùämõœl elegant
 </div>

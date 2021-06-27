@@ -5,6 +5,8 @@ title: "Zoto Sans Imperial Aramaic"
 
 # Zoto Sans Imperial Aramaic
 
+<small>You can type in the box below to preview the font:</small>
+
 <div contenteditable="true" style="font-family: 'Zoto Sans Imperial Aramaic'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
 𐡑𐡀𐡈𐡉𐡄𐡁 𐡕𐡇𐡋𐡍𐡔𐡓 𐡆𐡎𐡅𐡏𐡒𐡂 𐡌𐡊𐡐𐡃
 </div>

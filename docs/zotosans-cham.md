@@ -11,7 +11,7 @@ title: "Zoto Sans Cham"
 <p spellcheck="false">ꨌꨝꨨꨘꩈꨢ ꨑꨤꨙꩀꨡꩇ ꨕꨅꨠꨍꨦꨒ ꨋꨏꩄꨃꨈꩆ ꨐꨚꨎꨁꨖꨆ</p>
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cham.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cham.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Cham script \| glyphs: 127 \| scripts: Cham
 

@@ -11,7 +11,7 @@ title: "Zoto Serif Lao"
 <p spellcheck="false">ໃຣຯສຕດ ຊຢມໝເຫ ໂນໄຝວແ ໞບຈພະລ ຟກໜຳຮໟ</p>
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-lao.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-lao.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference serif font for the Lao script \| glyphs: 166 \| scripts: Lao
 

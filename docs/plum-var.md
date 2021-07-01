@@ -11,7 +11,7 @@ title: "GG Plum"
 <p spellcheck="false">CLARITY CĞBJÌĂ flight ẅoîẁĳœ effvgý</p>
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/plum/plum-var.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/plum/plum-var.vfj){: .btn .btn-purple target="_blank" }
 
 license: CC-0 \| Humanist sanserif font family with a weight axis \| glyphs: 205 \| scripts: Latin
 

@@ -11,7 +11,7 @@ title: "GG Stroke Grot OFL"
 <p spellcheck="false">PJVNNX TQFBHI wuufªk ldmzea prxhºy</p>
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/stroke-grot/stroke-grot.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/stroke-grot/stroke-grot.vfj){: .btn .btn-purple target="_blank" }
 
 license: OFL \| Single-stroke grotesque sanserif design, for use with Power Brush or Stroke \| glyphs: 132 \| scripts: Latin
 

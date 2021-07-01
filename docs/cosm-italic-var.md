@@ -11,7 +11,7 @@ title: "GG Cosm Italic"
 <p spellcheck="false">COSMOS ŊŲĦŊŤĮ natural yșœśôá vûūâŧô</p>
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm-italic-var.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm-italic-var.vfj){: .btn .btn-purple target="_blank" }
 
 license: CC-0 \| Neo-grotesque sanserif font family with a weight axis, italic version \| glyphs: 340 \| scripts: Latin
 

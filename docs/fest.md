@@ -11,7 +11,7 @@ title: "GG Fest"
 <p spellcheck="false">FESTIVE Hippy orange astound łeľũŧó</p>
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/fest/fest.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/fest/fest.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Festive slab serif font inspired by 1950s hand lettering \| glyphs: 369 \| scripts: Latin
 

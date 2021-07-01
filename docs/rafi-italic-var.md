@@ -11,7 +11,7 @@ title: "GG Rafi OFL Italic"
 <p spellcheck="false">LIBRE ŽĿŮŸ interface đkūăbņ</p>
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/rafi/rafi-italic-var.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/rafi/rafi-italic-var.vfj){: .btn .btn-purple target="_blank" }
 
 license: OFL \| Legible sanserif for UIs and signage with a weight axis, italic version \| glyphs: 854 \| scripts: Latin, Greek
 

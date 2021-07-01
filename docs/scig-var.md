@@ -11,7 +11,7 @@ title: "GG Scig OFL Regular"
 <p spellcheck="false">HELLO ĠRŦȂǺẄ square ǫpøåĝð ąậaģbw</p>
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/scig/scig-var.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/scig/scig-var.vfj){: .btn .btn-purple target="_blank" }
 
 license: OFL \| Rectangular sanserif design with weight, width, slant and contrast axes \| glyphs: 1218 \| scripts: Latin, Cyrillic
 

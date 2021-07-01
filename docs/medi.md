@@ -11,7 +11,7 @@ title: "GG Medi"
 <p spellcheck="false">XLJWDB XAPQJK oilmfd eurnco evsywc</p>
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/medi/medi.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/medi/medi.vfj){: .btn .btn-purple target="_blank" }
 
 license: CC-0 \| Didone serif font \| glyphs: 103 \| scripts: Latin
 

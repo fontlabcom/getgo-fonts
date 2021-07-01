@@ -11,7 +11,7 @@ title: "Zoto Serif Georgian"
 <p spellcheck="false">ჁჼჅႧႶႴႲ ⴟშვⴌⴔⴠ ⴤⴆჰⴀⴈⴎ ⴟჶⴊⴚლგⴌ</p>
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-georgian.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-georgian.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference serif font for the Georgian script \| glyphs: 127 \| scripts: Georgian, Armenian
 

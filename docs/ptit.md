@@ -11,7 +11,7 @@ title: "GG Ptit OFL"
 <p spellcheck="false">SCRIPT fluids write ķniṟɱ îʑᴽțṵž</p>
 </div>
 
-[Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/ptit/ptit.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/ptit/ptit.vfj){: .btn .btn-purple target="_blank" }
 
 license: OFL \| Multi-script handwritten font that uses single stroke \| glyphs: 4760 \| scripts: Latin, Greek, Cyrillic, Katakana, Cherokee
 

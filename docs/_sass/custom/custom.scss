@@ -22,3 +22,22 @@ h2 {
 #main-content-wrap {
     top: 24px;
 }
+
+@media (min-width: 50rem) and (min-width: 31.25rem) .nav-list .nav-list-item {
+    font-size: 1em !important;
+}
+
+@media (min-width: 50rem) .nav-list .nav-list-item {
+    font-size: 1em !important;
+}
+
+@media (min-width: 31.25rem) .nav-list .nav-list-item {
+    font-size: 1em !important;
+}
+
+@media (min-width: 50rem) .nav-list .nav-list-item .nav-list-link {
+    min-height: 1.6rem;
+    line-height: 1.5rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+}

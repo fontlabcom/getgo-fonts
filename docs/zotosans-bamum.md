@@ -8,8 +8,7 @@ title: "Zoto Sans Bamum"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Bamum';">
-𖦺ꚯꛀꛂ𖡖𖠟 𖢇𖧶𖤣𖡎𖢯𖧷 𖦢𖣙ꛚ𖥌ꚴ𖢏 𖣮𖨅𖦿𖧀𖥵𖢱 𖠓ꛆ𖢴ꛎ𖣯𖦊
-{: spellcheck="false" }
+<p spellcheck="false">𖦺ꚯꛀꛂ𖡖𖠟 𖢇𖧶𖤣𖡎𖢯𖧷 𖦢𖣙ꛚ𖥌ꚴ𖢏 𖣮𖨅𖦿𖧀𖥵𖢱 𖠓ꛆ𖢴ꛎ𖣯𖦊</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-bamum.vfj){: .btn .btn-purple target="_blank" }

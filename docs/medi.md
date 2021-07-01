@@ -8,8 +8,7 @@ title: "GG Medi"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'GG Medi';">
-XLJWDB XAPQJK oilmfd eurnco evsywc
-{: spellcheck="false" }
+<p spellcheck="false">XLJWDB XAPQJK oilmfd eurnco evsywc</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/medi/medi.vfj){: .btn .btn-purple target="_blank" }

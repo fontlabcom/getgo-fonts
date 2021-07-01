@@ -8,8 +8,7 @@ title: "Zoto Sans Kharoshthi"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Kharoshthi';">
-𐨙𐨥𐨣𐨦𐨮𐨤 𐨀𐨬𐨐𐨞𐨖𐨠 𐨡𐨟𐨳𐨛𐨰𐨲 𐨯𐨜𐨭𐨒𐨫𐨱 𐨨𐨗𐨢𐨑𐨪𐨧
-{: spellcheck="false" }
+<p spellcheck="false">𐨙𐨥𐨣𐨦𐨮𐨤 𐨀𐨬𐨐𐨞𐨖𐨠 𐨡𐨟𐨳𐨛𐨰𐨲 𐨯𐨜𐨭𐨒𐨫𐨱 𐨨𐨗𐨢𐨑𐨪𐨧</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-kharoshthi.vfj){: .btn .btn-purple target="_blank" }

@@ -8,8 +8,7 @@ title: "Zoto Sans Historic"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Historic';">
-ࠀࠁࡀࡁꡀ ꡁ𐀀𐀁𐊀𐊁 𐎀𐎁𐎠𐎡𐒀 𐒁𐡀𐡁𐤀𐤁 𐤠𐤡𐩠𐩡𐬀 𐬁𐭀𐭁𐭠𐭡𐰀𐰁𒀀𒀁𓀀𓀁
-{: spellcheck="false" }
+<p spellcheck="false">ࠀࠁࡀࡁꡀ ꡁ𐀀𐀁𐊀𐊁 𐎀𐎁𐎠𐎡𐒀 𐒁𐡀𐡁𐤀𐤁 𐤠𐤡𐩠𐩡𐬀 𐬁𐭀𐭁𐭠𐭡𐰀𐰁𒀀𒀁𓀀𓀁</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-historic.vfj){: .btn .btn-purple target="_blank" }

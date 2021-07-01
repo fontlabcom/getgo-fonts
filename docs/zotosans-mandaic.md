@@ -8,8 +8,7 @@ title: "Zoto Sans Mandaic"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Mandaic';">
-ࡗࡆࡌࡒࡁࡇ ࡊࡉࡋࡎࡖࡈ ࡏࡔࡍࡂࡄࡑ ࡓࡀࡅࡐࡃࡘ ࡕ
-{: spellcheck="false" }
+<p spellcheck="false">ࡗࡆࡌࡒࡁࡇ ࡊࡉࡋࡎࡖࡈ ࡏࡔࡍࡂࡄࡑ ࡓࡀࡅࡐࡃࡘ ࡕ</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-mandaic.vfj){: .btn .btn-purple target="_blank" }

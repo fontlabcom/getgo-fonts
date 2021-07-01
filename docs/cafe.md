@@ -8,8 +8,7 @@ title: "GG Cafe"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'GG Cafe';">
-FRESH DIRECT espresso first ļbĩẅńà
-{: spellcheck="false" }
+<p spellcheck="false">FRESH DIRECT espresso first ļbĩẅńà</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cafe/cafe.vfj){: .btn .btn-purple target="_blank" }

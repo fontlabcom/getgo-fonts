@@ -8,8 +8,7 @@ title: "Zoto Sans Tagalog"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Tagalog';">
-ᜋᜐᜂᜊᜏᜈ ᜁᜃᜀᜑᜄᜇ ᜅᜎᜉᜌᜆ
-{: spellcheck="false" }
+<p spellcheck="false">ᜋᜐᜂᜊᜏᜈ ᜁᜃᜀᜑᜄᜇ ᜅᜎᜉᜌᜆ</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tagalog.vfj){: .btn .btn-purple target="_blank" }

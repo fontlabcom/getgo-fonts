@@ -8,8 +8,7 @@ title: "GG Rafi OFL Italic"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'GG Rafi OFL Italic';">
-LIBRE ŽĿŮŸ interface đkūăbņ
-{: spellcheck="false" }
+<p spellcheck="false">LIBRE ŽĿŮŸ interface đkūăbņ</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/rafi/rafi-italic-var.vfj){: .btn .btn-purple target="_blank" }

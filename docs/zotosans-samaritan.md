@@ -8,8 +8,7 @@ title: "Zoto Sans Samaritan"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Samaritan';">
-ࠎࠑࠃࠔࠕࠁ ࠚࠇࠐࠤࠆࠓ ࠄࠌࠍࠅࠋࠂ ࠏࠈࠉࠒࠨࠀ ࠊ
-{: spellcheck="false" }
+<p spellcheck="false">ࠎࠑࠃࠔࠕࠁ ࠚࠇࠐࠤࠆࠓ ࠄࠌࠍࠅࠋࠂ ࠏࠈࠉࠒࠨࠀ ࠊ</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-samaritan.vfj){: .btn .btn-purple target="_blank" }

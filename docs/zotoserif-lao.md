@@ -8,8 +8,7 @@ title: "Zoto Serif Lao"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Serif Lao';">
-ໃຣຯສຕດ ຊຢມໝເຫ ໂນໄຝວແ ໞບຈພະລ ຟກໜຳຮໟ
-{: spellcheck="false" }
+<p spellcheck="false">ໃຣຯສຕດ ຊຢມໝເຫ ໂນໄຝວແ ໞບຈພະລ ຟກໜຳຮໟ</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-lao.vfj){: .btn .btn-purple target="_blank" }

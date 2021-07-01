@@ -8,8 +8,7 @@ title: "Zoto Sans Rejang"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Rejang';">
-ꤶꥀꤱꤺꤻꤵ ꤳꥂꥁꤴꥃꤸ ꤼꥄꥅꤾꤹꤿ ꤽꤲꤰꥆꤷ
-{: spellcheck="false" }
+<p spellcheck="false">ꤶꥀꤱꤺꤻꤵ ꤳꥂꥁꤴꥃꤸ ꤼꥄꥅꤾꤹꤿ ꤽꤲꤰꥆꤷ</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-rejang.vfj){: .btn .btn-purple target="_blank" }

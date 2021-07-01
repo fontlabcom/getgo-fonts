@@ -8,8 +8,7 @@ title: "Zoto Sans Javanese"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Javanese';">
-ꦅꦲꦈꦠꦞꦕ ꦪꦉꦚꦜꦣꦯ ꦧꦋꦇꦙꦥꦛ ꦆꦦꦡꦔꦫꦭ ꦩꦬꦖꦏꦝꦢ
-{: spellcheck="false" }
+<p spellcheck="false">ꦅꦲꦈꦠꦞꦕ ꦪꦉꦚꦜꦣꦯ ꦧꦋꦇꦙꦥꦛ ꦆꦦꦡꦔꦫꦭ ꦩꦬꦖꦏꦝꦢ</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-javanese.vfj){: .btn .btn-purple target="_blank" }

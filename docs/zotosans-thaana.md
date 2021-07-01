@@ -8,8 +8,7 @@ title: "Zoto Sans Thaana"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Thaana';">
-ޘޢޚޝމޕ ލޱފވޔޖ ޣސބށޙޥ ޠޅޓޏޗޤ ކތހޛޡރ
-{: spellcheck="false" }
+<p spellcheck="false">ޘޢޚޝމޕ ލޱފވޔޖ ޣސބށޙޥ ޠޅޓޏޗޤ ކތހޛޡރ</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-thaana.vfj){: .btn .btn-purple target="_blank" }

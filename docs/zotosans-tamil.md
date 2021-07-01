@@ -8,8 +8,7 @@ title: "Zoto Sans Tamil"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Tamil';">
-ஶஹௐஈஞட ஓணஎஙளய தஊஔஉஆற மசஒநவஸ ஏஐகழஜஷ
-{: spellcheck="false" }
+<p spellcheck="false">ஶஹௐஈஞட ஓணஎஙளய தஊஔஉஆற மசஒநவஸ ஏஐகழஜஷ</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tamil.vfj){: .btn .btn-purple target="_blank" }

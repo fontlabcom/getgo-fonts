@@ -8,8 +8,7 @@ title: "Zoto Sans Armenian"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Armenian';">
-ԼՃԻԶԹՆ ՑԻՖՐՂՌ ւզթսգղ ժյﬔվմն փկդխկց
-{: spellcheck="false" }
+<p spellcheck="false">ԼՃԻԶԹՆ ՑԻՖՐՂՌ ւզթսգղ ժյﬔվմն փկդխկց</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-armenian.vfj){: .btn .btn-purple target="_blank" }

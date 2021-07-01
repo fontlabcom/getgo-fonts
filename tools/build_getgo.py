@@ -289,8 +289,7 @@ title: "{self.full_name}"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: '{self.full_name}';">
-{self.metadata["sample_text"]}
-{{: spellcheck="false" }}
+<p spellcheck="false">{self.metadata["sample_text"]}</p>
 </div>
 
 [Download FontLab VFJ]({download_url}){{: .btn .btn-purple target="_blank" }}

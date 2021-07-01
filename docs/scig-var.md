@@ -8,8 +8,7 @@ title: "GG Scig OFL Regular"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'GG Scig OFL Regular';">
-HELLO ĠRŦȂǺẄ square ǫpøåĝð ąậaģbw
-{: spellcheck="false" }
+<p spellcheck="false">HELLO ĠRŦȂǺẄ square ǫpøåĝð ąậaģbw</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/scig/scig-var.vfj){: .btn .btn-purple target="_blank" }

@@ -8,8 +8,7 @@ title: "Zoto Sans Canadian Aboriginal"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Canadian Aboriginal';">
-ᓿᒩᗰᒺᓙᘈ ᐳᗛᙸᔣᗊᐴ ᐨᕸᕂᒮᘂᔴ ᗝᒝᗿᘗᐧᖵ ᖀᖴᗄᐸᒌᑾ
-{: spellcheck="false" }
+<p spellcheck="false">ᓿᒩᗰᒺᓙᘈ ᐳᗛᙸᔣᗊᐴ ᐨᕸᕂᒮᘂᔴ ᗝᒝᗿᘗᐧᖵ ᖀᖴᗄᐸᒌᑾ</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-canadianaboriginal.vfj){: .btn .btn-purple target="_blank" }

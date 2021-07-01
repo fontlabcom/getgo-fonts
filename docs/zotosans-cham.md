@@ -8,8 +8,7 @@ title: "Zoto Sans Cham"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Cham';">
-ꨌꨝꨨꨘꩈꨢ ꨑꨤꨙꩀꨡꩇ ꨕꨅꨠꨍꨦꨒ ꨋꨏꩄꨃꨈꩆ ꨐꨚꨎꨁꨖꨆ
-{: spellcheck="false" }
+<p spellcheck="false">ꨌꨝꨨꨘꩈꨢ ꨑꨤꨙꩀꨡꩇ ꨕꨅꨠꨍꨦꨒ ꨋꨏꩄꨃꨈꩆ ꨐꨚꨎꨁꨖꨆ</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cham.vfj){: .btn .btn-purple target="_blank" }

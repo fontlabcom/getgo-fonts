@@ -8,8 +8,7 @@ title: "Zoto Serif Armenian"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Serif Armenian';">
-ԽՉՒԿՂՅ ՏՂԸՄԵԻ էէզըքգ նբյթփպ թցզՙձծ
-{: spellcheck="false" }
+<p spellcheck="false">ԽՉՒԿՂՅ ՏՂԸՄԵԻ էէզըքգ նբյթփպ թցզՙձծ</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-armenian.vfj){: .btn .btn-purple target="_blank" }

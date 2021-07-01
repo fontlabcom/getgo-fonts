@@ -8,8 +8,7 @@ title: "Zoto Sans Brahmi"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Brahmi';">
-𑀤𑀭𑀬𑀥𑀰𑀉 𑀐𑀨𑀘𑀟𑀫𑀕 𑀗𑀓𑀷𑀣𑀲𑀳 𑀃𑀎𑀒𑀍𑀌𑀦 𑀡𑀋𑀚𑀑𑀊𑀇
-{: spellcheck="false" }
+<p spellcheck="false">𑀤𑀭𑀬𑀥𑀰𑀉 𑀐𑀨𑀘𑀟𑀫𑀕 𑀗𑀓𑀷𑀣𑀲𑀳 𑀃𑀎𑀒𑀍𑀌𑀦 𑀡𑀋𑀚𑀑𑀊𑀇</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-brahmi.vfj){: .btn .btn-purple target="_blank" }

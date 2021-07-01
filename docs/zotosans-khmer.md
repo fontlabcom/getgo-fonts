@@ -8,8 +8,7 @@ title: "Zoto Sans Khmer"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Khmer';">
-យខឍឡឣឳ ឱផងទណឥ ឃពកឨឰគ ឮៗជសឲឫ ឌលថឋឧឝ
-{: spellcheck="false" }
+<p spellcheck="false">យខឍឡឣឳ ឱផងទណឥ ឃពកឨឰគ ឮៗជសឲឫ ឌលថឋឧឝ</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-khmer.vfj){: .btn .btn-purple target="_blank" }

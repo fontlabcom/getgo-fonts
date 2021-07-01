@@ -8,8 +8,7 @@ title: "Zoto Sans Buhid"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Buhid';">
-ᝌᝃᝑᝏᝊᝄ ᝎᝍᝇᝀᝂᝉ ᝆᝈᝋᝅᝐᝁ
-{: spellcheck="false" }
+<p spellcheck="false">ᝌᝃᝑᝏᝊᝄ ᝎᝍᝇᝀᝂᝉ ᝆᝈᝋᝅᝐᝁ</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-buhid.vfj){: .btn .btn-purple target="_blank" }

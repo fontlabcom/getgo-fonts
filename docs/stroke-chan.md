@@ -8,8 +8,7 @@ title: "GG Stroke Chan OFL Italic"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'GG Stroke Chan OFL Italic';">
-TLVUBG YKMMIP txnckj qixarh zpyegj
-{: spellcheck="false" }
+<p spellcheck="false">TLVUBG YKMMIP txnckj qixarh zpyegj</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/stroke-chan/stroke-chan.vfj){: .btn .btn-purple target="_blank" }

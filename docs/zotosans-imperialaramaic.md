@@ -8,8 +8,7 @@ title: "Zoto Sans Imperial Aramaic"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Imperial Aramaic';">
-𐡑𐡀𐡈𐡉𐡄𐡁 𐡕𐡇𐡋𐡍𐡔𐡓 𐡆𐡎𐡅𐡏𐡒𐡂 𐡌𐡊𐡐𐡃
-{: spellcheck="false" }
+<p spellcheck="false">𐡑𐡀𐡈𐡉𐡄𐡁 𐡕𐡇𐡋𐡍𐡔𐡓 𐡆𐡎𐡅𐡏𐡒𐡂 𐡌𐡊𐡐𐡃</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-imperialaramaic.vfj){: .btn .btn-purple target="_blank" }

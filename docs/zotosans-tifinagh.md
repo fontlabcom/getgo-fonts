@@ -8,8 +8,7 @@ title: "Zoto Sans Tifinagh"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Tifinagh';">
-ⴲⵢⵑⴿⴺⵉ ⵆⵅⵤⵕⴸⵞ ⴼⴵⴻⵍⵃⵄ ⵈⵐⴳⵛⵌⵖ ⵣⴴⵧⵓⵏⴹ
-{: spellcheck="false" }
+<p spellcheck="false">ⴲⵢⵑⴿⴺⵉ ⵆⵅⵤⵕⴸⵞ ⴼⴵⴻⵍⵃⵄ ⵈⵐⴳⵛⵌⵖ ⵣⴴⵧⵓⵏⴹ</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tifinagh.vfj){: .btn .btn-purple target="_blank" }

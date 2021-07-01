@@ -8,8 +8,7 @@ title: "Zoto Sans Georgian"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Georgian';">
-ႣჀႽჂ ႭႸႺႱ ⴇზⴂⴄჺⴊ ⴊფაⴥⴡⴌ ⴤჟღⴄსⴇ
-{: spellcheck="false" }
+<p spellcheck="false">ႣჀႽჂ ႭႸႺႱ ⴇზⴂⴄჺⴊ ⴊფაⴥⴡⴌ ⴤჟღⴄსⴇ</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-georgian.vfj){: .btn .btn-purple target="_blank" }

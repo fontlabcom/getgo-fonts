@@ -8,8 +8,7 @@ title: "Zoto Sans Cypriot"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Cypriot';">
-𐠼𐠐𐠣𐠅𐠎𐠱 𐠩𐠍𐠪𐠢𐠦𐠮 𐠤𐠬𐠲𐠌𐠔𐠰 𐠕𐠞𐠡𐠝𐠖𐠊 𐠒𐠠𐠀𐠨𐠭𐠟
-{: spellcheck="false" }
+<p spellcheck="false">𐠼𐠐𐠣𐠅𐠎𐠱 𐠩𐠍𐠪𐠢𐠦𐠮 𐠤𐠬𐠲𐠌𐠔𐠰 𐠕𐠞𐠡𐠝𐠖𐠊 𐠒𐠠𐠀𐠨𐠭𐠟</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cypriot.vfj){: .btn .btn-purple target="_blank" }

@@ -8,8 +8,7 @@ title: "Zoto Sans Hebrew"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Hebrew';">
-ןפרטּזּשׂ לּאָקמּיּשּׂ זףתעהּךּ אﬠךהװתּ כּײַﭏﬦוּבֿ
-{: spellcheck="false" }
+<p spellcheck="false">ןפרטּזּשׂ לּאָקמּיּשּׂ זףתעהּךּ אﬠךהװתּ כּײַﭏﬦוּבֿ</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-hebrew.vfj){: .btn .btn-purple target="_blank" }

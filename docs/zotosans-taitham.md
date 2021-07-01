@@ -8,8 +8,7 @@ title: "Zoto Sans Tai Tham"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Tai Tham';">
-ᨻᩈᨾᩁᨫᩓ ᨿᩃᩊᨯᩒᨹ ᨤᩏᨭᩀᨳᨢ ᨡᨧᨲᨺᨵᩌ ᨸᩎᨩᨶᩅᨨ
-{: spellcheck="false" }
+<p spellcheck="false">ᨻᩈᨾᩁᨫᩓ ᨿᩃᩊᨯᩒᨹ ᨤᩏᨭᩀᨳᨢ ᨡᨧᨲᨺᨵᩌ ᨸᩎᨩᨶᩅᨨ</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-taitham.vfj){: .btn .btn-purple target="_blank" }

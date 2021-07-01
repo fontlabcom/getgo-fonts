@@ -8,8 +8,7 @@ title: "Zoto Sans Linear B"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Linear B';">
-𐁃𐃁𐂬𐂼𐂗𐀫 𐀔𐃀𐂌𐂹𐁉𐂳 𐀺𐃍𐃑𐀁𐂘𐃰 𐀦𐃪𐁍𐁆𐁐𐂵 𐂢𐃵𐃣𐃃𐂨𐂫
-{: spellcheck="false" }
+<p spellcheck="false">𐁃𐃁𐂬𐂼𐂗𐀫 𐀔𐃀𐂌𐂹𐁉𐂳 𐀺𐃍𐃑𐀁𐂘𐃰 𐀦𐃪𐁍𐁆𐁐𐂵 𐂢𐃵𐃣𐃃𐂨𐂫</p>
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-linearb.vfj){: .btn .btn-purple target="_blank" }

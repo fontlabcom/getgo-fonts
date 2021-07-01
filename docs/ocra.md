@@ -8,7 +8,8 @@ title: "GG Ocra"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'GG Ocra';">
-KYXIZW PKOJG bpxhzb ｳｴｵｶｷ vlegms{: spellcheck="false" }
+KYXIZW PKOJG bpxhzb ｳｴｵｶｷ vlegms
+{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/ocra/ocra.vfj){: .btn .btn-purple target="_blank" }

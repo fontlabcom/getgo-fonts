@@ -8,7 +8,8 @@ title: "Zoto Sans Lao"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Lao';">
-ບໃຜລາອ ຫຽຟະຂຄ ຍຣມຳສຈ ໟໆເປຕໝ ພຢງທໜກ{: spellcheck="false" }
+ບໃຜລາອ ຫຽຟະຂຄ ຍຣມຳສຈ ໟໆເປຕໝ ພຢງທໜກ
+{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-lao.vfj){: .btn .btn-purple target="_blank" }

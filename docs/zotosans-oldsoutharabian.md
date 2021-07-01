@@ -8,7 +8,8 @@ title: "Zoto Sans Old South Arabian"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Old South Arabian';">
-𐩧𐩣𐩳𐩡𐩺𐩻 𐩷𐩰𐩫𐩸𐩶𐩮 𐩴𐩱𐩥𐩢𐩭𐩵 𐩪𐩬𐩨𐩩𐩼𐩦 𐩹𐩯𐩠𐩲𐩤{: spellcheck="false" }
+𐩧𐩣𐩳𐩡𐩺𐩻 𐩷𐩰𐩫𐩸𐩶𐩮 𐩴𐩱𐩥𐩢𐩭𐩵 𐩪𐩬𐩨𐩩𐩼𐩦 𐩹𐩯𐩠𐩲𐩤
+{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-oldsoutharabian.vfj){: .btn .btn-purple target="_blank" }

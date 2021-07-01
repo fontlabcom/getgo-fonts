@@ -8,7 +8,8 @@ title: "Zoto Sans Inscriptional Parthian"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Inscriptional Parthian';">
-𐭊𐭕𐭈𐭃𐭔𐭍 𐭏𐭋𐭆𐭁𐭐𐭂 𐭀𐭄𐭒𐭌𐭎𐭅 𐭓𐭇𐭉𐭑{: spellcheck="false" }
+𐭊𐭕𐭈𐭃𐭔𐭍 𐭏𐭋𐭆𐭁𐭐𐭂 𐭀𐭄𐭒𐭌𐭎𐭅 𐭓𐭇𐭉𐭑
+{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalparthian.vfj){: .btn .btn-purple target="_blank" }

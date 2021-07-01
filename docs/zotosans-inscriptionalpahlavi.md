@@ -8,7 +8,8 @@ title: "Zoto Sans Inscriptional Pahlavi"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Inscriptional Pahlavi';">
-𐭰𐭠𐭫𐭨𐭬𐭩 𐭢𐭧𐭯𐭦𐭣𐭤 𐭡𐭱𐭪𐭲𐭭𐭮 𐭥{: spellcheck="false" }
+𐭰𐭠𐭫𐭨𐭬𐭩 𐭢𐭧𐭯𐭦𐭣𐭤 𐭡𐭱𐭪𐭲𐭭𐭮 𐭥
+{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalpahlavi.vfj){: .btn .btn-purple target="_blank" }

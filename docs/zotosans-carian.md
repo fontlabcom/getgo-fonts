@@ -8,7 +8,8 @@ title: "Zoto Sans Carian"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Carian';">
-𐊨𐋁𐊭𐊦𐊳𐊤 𐊱𐋋𐋅𐋎𐋂𐊿 𐋏𐊾𐊢𐊵𐋆𐊠 𐋇𐊡𐊽𐋃𐊣𐊹 𐊬𐊸𐊫𐊷𐊩𐊻{: spellcheck="false" }
+𐊨𐋁𐊭𐊦𐊳𐊤 𐊱𐋋𐋅𐋎𐋂𐊿 𐋏𐊾𐊢𐊵𐋆𐊠 𐋇𐊡𐊽𐋃𐊣𐊹 𐊬𐊸𐊫𐊷𐊩𐊻
+{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-carian.vfj){: .btn .btn-purple target="_blank" }

@@ -8,7 +8,8 @@ title: "Zoto Sans Tai Viet"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Tai Viet';">
-ꪕꪮꪃꪺꪄꪪ ꪅꪻꪍꪢꪠꪩ ꪔꪆꪶꪭꪯꪋ ꪇꪽꫛꪟꪛꫝ ꪒꪘꪚꪉꪌꪊ{: spellcheck="false" }
+ꪕꪮꪃꪺꪄꪪ ꪅꪻꪍꪢꪠꪩ ꪔꪆꪶꪭꪯꪋ ꪇꪽꫛꪟꪛꫝ ꪒꪘꪚꪉꪌꪊ
+{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-taiviet.vfj){: .btn .btn-purple target="_blank" }

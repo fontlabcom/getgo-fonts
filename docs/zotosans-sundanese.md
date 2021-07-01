@@ -8,7 +8,8 @@ title: "Zoto Sans Sundanese"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Sundanese';">
-ᮙᮍᮮᮜᮠᮗ ᮅᮞᮚᮒᮑᮯ ᮌᮻᮘᮛᮃᮽ ᮇᮟᮎᮕᮏᮊ ᮓᮺᮝᮄᮆᮋ{: spellcheck="false" }
+ᮙᮍᮮᮜᮠᮗ ᮅᮞᮚᮒᮑᮯ ᮌᮻᮘᮛᮃᮽ ᮇᮟᮎᮕᮏᮊ ᮓᮺᮝᮄᮆᮋ
+{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-sundanese.vfj){: .btn .btn-purple target="_blank" }

@@ -8,7 +8,8 @@ title: "Zoto Sans Balinese"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Balinese';">
-ᬰᬋᬘᬎᬓᬮ ᭊᬉᬥᬫᬌᬯ ᬪᬠᬲᭋᭅᬡ ᬑᬊᬭᬒᬨᬅ ᬧᬇᬗᬍᬩᭆ{: spellcheck="false" }
+ᬰᬋᬘᬎᬓᬮ ᭊᬉᬥᬫᬌᬯ ᬪᬠᬲᭋᭅᬡ ᬑᬊᬭᬒᬨᬅ ᬧᬇᬗᬍᬩᭆ
+{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-balinese.vfj){: .btn .btn-purple target="_blank" }

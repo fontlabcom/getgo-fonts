@@ -8,7 +8,8 @@ title: "Zoto Sans Ogham"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Ogham';">
-ᚔᚚᚍᚋᚈᚐ ᚉᚏᚕᚅᚆᚂ ᚖᚑᚎᚗᚘᚊ ᚁᚇᚓᚄᚌᚒ ᚙᚃ{: spellcheck="false" }
+ᚔᚚᚍᚋᚈᚐ ᚉᚏᚕᚅᚆᚂ ᚖᚑᚎᚗᚘᚊ ᚁᚇᚓᚄᚌᚒ ᚙᚃ
+{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-ogham.vfj){: .btn .btn-purple target="_blank" }

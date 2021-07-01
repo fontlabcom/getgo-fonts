@@ -8,7 +8,8 @@ title: "Zoto Sans Gothic"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Gothic';">
-𐍉𐍆𐌱𐌿𐍀𐌾 𐌹𐌶𐍃𐌼𐍈𐍇 𐍂𐌷𐌳𐍄𐌰𐌲 𐌺𐌸𐍅𐌵𐌽𐌻 𐌴{: spellcheck="false" }
+𐍉𐍆𐌱𐌿𐍀𐌾 𐌹𐌶𐍃𐌼𐍈𐍇 𐍂𐌷𐌳𐍄𐌰𐌲 𐌺𐌸𐍅𐌵𐌽𐌻 𐌴
+{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-gothic.vfj){: .btn .btn-purple target="_blank" }

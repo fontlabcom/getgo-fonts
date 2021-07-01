@@ -8,7 +8,8 @@ title: "GG Boto"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'GG Boto';">
-Vältože бомуще θρώπον çavatečkul{: spellcheck="false" }
+Vältože бомуще θρώπον çavatečkul
+{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/boto/boto-var.vfj){: .btn .btn-purple target="_blank" }

@@ -8,7 +8,8 @@ title: "GG Ptit OFL"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'GG Ptit OFL';">
-SCRIPT fluids write ķniṟɱ îʑᴽțṵž{: spellcheck="false" }
+SCRIPT fluids write ķniṟɱ îʑᴽțṵž
+{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/ptit/ptit.vfj){: .btn .btn-purple target="_blank" }

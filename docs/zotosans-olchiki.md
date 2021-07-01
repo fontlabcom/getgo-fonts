@@ -8,7 +8,8 @@ title: "Zoto Sans Ol Chiki"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Ol Chiki';">
-ᱦᱫᱳᱰᱽᱜ ᱮᱧᱢᱝᱛᱶ ᱡᱯᱞᱹᱴᱣ ᱥᱱᱵᱷᱠᱭ ᱸᱬᱺᱲᱤᱪ{: spellcheck="false" }
+ᱦᱫᱳᱰᱽᱜ ᱮᱧᱢᱝᱛᱶ ᱡᱯᱞᱹᱴᱣ ᱥᱱᱵᱷᱠᱭ ᱸᱬᱺᱲᱤᱪ
+{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-olchiki.vfj){: .btn .btn-purple target="_blank" }

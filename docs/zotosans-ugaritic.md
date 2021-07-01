@@ -8,7 +8,8 @@ title: "Zoto Sans Ugaritic"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Ugaritic';">
-𐎍𐎒𐎁𐎓𐎔𐎋 𐎄𐎌𐎅𐎛𐎆𐎑 𐎊𐎐𐎜𐎝𐎏𐎘 𐎉𐎈𐎚𐎃𐎖𐎗 𐎇𐎕𐎙𐎀𐎂𐎎{: spellcheck="false" }
+𐎍𐎒𐎁𐎓𐎔𐎋 𐎄𐎌𐎅𐎛𐎆𐎑 𐎊𐎐𐎜𐎝𐎏𐎘 𐎉𐎈𐎚𐎃𐎖𐎗 𐎇𐎕𐎙𐎀𐎂𐎎
+{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-ugaritic.vfj){: .btn .btn-purple target="_blank" }

@@ -8,7 +8,8 @@ title: "Zoto Sans Phoenician"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Phoenician';">
-𐤏𐤋𐤕𐤑𐤐𐤆 𐤉𐤔𐤍𐤅𐤒𐤄 𐤂𐤇𐤃𐤓𐤀𐤈 𐤁𐤊𐤎𐤌{: spellcheck="false" }
+𐤏𐤋𐤕𐤑𐤐𐤆 𐤉𐤔𐤍𐤅𐤒𐤄 𐤂𐤇𐤃𐤓𐤀𐤈 𐤁𐤊𐤎𐤌
+{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-phoenician.vfj){: .btn .btn-purple target="_blank" }

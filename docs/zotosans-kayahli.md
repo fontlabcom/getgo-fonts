@@ -8,7 +8,8 @@ title: "Zoto Sans Kayah Li"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Kayah Li';">
-ꤢꤜꤊꤍꤠꤝ ꤒꤥꤟꤖꤐꤛ ꤋꤡꤌꤑꤞꤔ ꤚꤙꤎꤕꤏꤤ ꤘꤣꤓꤗ{: spellcheck="false" }
+ꤢꤜꤊꤍꤠꤝ ꤒꤥꤟꤖꤐꤛ ꤋꤡꤌꤑꤞꤔ ꤚꤙꤎꤕꤏꤤ ꤘꤣꤓꤗ
+{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-kayahli.vfj){: .btn .btn-purple target="_blank" }

@@ -8,7 +8,8 @@ title: "Zoto Sans Shavian"
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Shavian';">
-𐑙𐑷𐑺𐑚𐑶𐑲 𐑳𐑴𐑮𐑤𐑜𐑬 𐑟𐑞𐑥𐑼𐑣𐑭 𐑔𐑵𐑰𐑸𐑻𐑖 𐑢𐑹𐑾𐑿𐑗𐑑{: spellcheck="false" }
+𐑙𐑷𐑺𐑚𐑶𐑲 𐑳𐑴𐑮𐑤𐑜𐑬 𐑟𐑞𐑥𐑼𐑣𐑭 𐑔𐑵𐑰𐑸𐑻𐑖 𐑢𐑹𐑾𐑿𐑗𐑑
+{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-shavian.vfj){: .btn .btn-purple target="_blank" }

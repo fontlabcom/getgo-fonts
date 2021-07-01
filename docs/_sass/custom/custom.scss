@@ -65,11 +65,17 @@ div.texteditor {
     color: black;
     margin: 1.5rem 0 1.5rem 0;
     line-height: 1.4em;
-    border-width: 0px;
+    border-width: 1px;
     border-radius: 4px;
     padding: 0.3rem 1rem;
-    background-color: rgba(1, 1, 1, 0.03);
-    p {
+    border-style: solid;
+    border-color: rgba(1, 1, 1, 0.03);
+    p: ;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    {
         margin: 0px;
     }
 }

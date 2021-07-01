@@ -37,7 +37,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 ---
 
 
-[GG Hint](../illustrations/hint.png)
+[![GG Hint](../illustrations/hint.png)](../illustrations/hint.png){: .fancybox data-caption='GG Hint' data-fancybox='getgo'}
 
 
 ## Character map

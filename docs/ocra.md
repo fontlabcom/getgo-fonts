@@ -41,7 +41,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 ---
 
 
-[GG Ocra](../illustrations/ocra.png)
+[![GG Ocra](../illustrations/ocra.png)](../illustrations/ocra.png){: .fancybox data-caption='GG Ocra' data-fancybox='getgo'}
 
 
 ## Character map

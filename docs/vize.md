@@ -41,7 +41,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 ---
 
 
-[GG Vize](../illustrations/vize.png)
+[![GG Vize](../illustrations/vize.png)](../illustrations/vize.png){: .fancybox data-caption='GG Vize' data-fancybox='getgo'}
 
 
 ## Character map

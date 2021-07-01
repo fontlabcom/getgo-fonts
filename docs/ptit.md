@@ -46,7 +46,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 ---
 
 
-[GG Ptit OFL](../illustrations/ptit.png)
+[![GG Ptit OFL](../illustrations/ptit.png)](../illustrations/ptit.png){: .fancybox data-caption='GG Ptit OFL' data-fancybox='getgo'}
 
 
 ## Character map

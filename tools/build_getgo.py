@@ -275,7 +275,7 @@ class GetGoFont(object):
 
             illu = f"""
 
-[{self.metadata["full_name"]}]({illu_link})
+[![{self.metadata["full_name"]}]({illu_link})]({illu_link}){{: .fancybox data-caption='{self.metadata["full_name"]}' data-fancybox='getgo'}}
 
 """
 

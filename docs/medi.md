@@ -40,7 +40,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 ---
 
 
-[GG Medi](../illustrations/medi.png)
+[![GG Medi](../illustrations/medi.png)](../illustrations/medi.png){: .fancybox data-caption='GG Medi' data-fancybox='getgo'}
 
 
 ## Character map

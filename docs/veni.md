@@ -40,7 +40,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 ---
 
 
-[GG Veni](../illustrations/veni.png)
+[![GG Veni](../illustrations/veni.png)](../illustrations/veni.png){: .fancybox data-caption='GG Veni' data-fancybox='getgo'}
 
 
 ## Character map

@@ -41,7 +41,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 ---
 
 
-[GG Stroke Chan OFL Italic](../illustrations/stroke-chan.png)
+[![GG Stroke Chan OFL Italic](../illustrations/stroke-chan.png)](../illustrations/stroke-chan.png){: .fancybox data-caption='GG Stroke Chan OFL Italic' data-fancybox='getgo'}
 
 
 ## Character map

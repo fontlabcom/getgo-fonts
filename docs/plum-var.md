@@ -41,7 +41,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 ---
 
 
-[GG Plum](../illustrations/plum-var.png)
+[![GG Plum](../illustrations/plum-var.png)](../illustrations/plum-var.png){: .fancybox data-caption='GG Plum' data-fancybox='getgo'}
 
 
 ## Character map

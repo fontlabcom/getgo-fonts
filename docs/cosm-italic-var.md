@@ -40,7 +40,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 ---
 
 
-[GG Cosm Italic](../illustrations/cosm-italic-var.png)
+[![GG Cosm Italic](../illustrations/cosm-italic-var.png)](../illustrations/cosm-italic-var.png){: .fancybox data-caption='GG Cosm Italic' data-fancybox='getgo'}
 
 
 ## Character map

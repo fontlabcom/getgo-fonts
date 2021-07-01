@@ -189,7 +189,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 ---
 
 
-[GG Pixa](../illustrations/pixa.png)
+[![GG Pixa](../illustrations/pixa.png)](../illustrations/pixa.png){: .fancybox data-caption='GG Pixa' data-fancybox='getgo'}
 
 
 ## Character map

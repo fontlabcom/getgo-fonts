@@ -42,7 +42,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 ---
 
 
-[GG Rafi OFL Italic](../illustrations/rafi-italic-var.png)
+[![GG Rafi OFL Italic](../illustrations/rafi-italic-var.png)](../illustrations/rafi-italic-var.png){: .fancybox data-caption='GG Rafi OFL Italic' data-fancybox='getgo'}
 
 
 ## Character map

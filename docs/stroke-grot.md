@@ -42,7 +42,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 ---
 
 
-[GG Stroke Grot OFL](../illustrations/stroke-grot.png)
+[![GG Stroke Grot OFL](../illustrations/stroke-grot.png)](../illustrations/stroke-grot.png){: .fancybox data-caption='GG Stroke Grot OFL' data-fancybox='getgo'}
 
 
 ## Character map

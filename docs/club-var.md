@@ -42,7 +42,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 ---
 
 
-[GG Club OFL](../illustrations/club-var.png)
+[![GG Club OFL](../illustrations/club-var.png)](../illustrations/club-var.png){: .fancybox data-caption='GG Club OFL' data-fancybox='getgo'}
 
 
 ## Character map

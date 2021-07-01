@@ -3,11 +3,11 @@ layout: default
 title: "GG Stroke Chan OFL Italic"
 ---
 
+# GG Stroke Chan OFL Italic
+
 
 [![GG Stroke Chan OFL Italic](../illustrations/stroke-chan.png)](../illustrations/stroke-chan.png){: .fancybox data-caption='GG Stroke Chan OFL Italic' data-fancybox='getgo'}
 
-
-# GG Stroke Chan OFL Italic
 
 <small>You can type in the box below to preview the font:</small>
 

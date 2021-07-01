@@ -3,11 +3,11 @@ layout: default
 title: "GG Deco"
 ---
 
+# GG Deco
+
 
 [![GG Deco](../illustrations/deco.png)](../illustrations/deco.png){: .fancybox data-caption='GG Deco' data-fancybox='getgo'}
 
-
-# GG Deco
 
 <small>You can type in the box below to preview the font:</small>
 

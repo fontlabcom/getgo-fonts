@@ -3,11 +3,11 @@ layout: default
 title: "GG Ptit OFL"
 ---
 
+# GG Ptit OFL
+
 
 [![GG Ptit OFL](../illustrations/ptit.png)](../illustrations/ptit.png){: .fancybox data-caption='GG Ptit OFL' data-fancybox='getgo'}
 
-
-# GG Ptit OFL
 
 <small>You can type in the box below to preview the font:</small>
 

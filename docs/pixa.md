@@ -3,11 +3,11 @@ layout: default
 title: "GG Pixa"
 ---
 
+# GG Pixa
+
 
 [![GG Pixa](../illustrations/pixa.png)](../illustrations/pixa.png){: .fancybox data-caption='GG Pixa' data-fancybox='getgo'}
 
-
-# GG Pixa
 
 <small>You can type in the box below to preview the font:</small>
 

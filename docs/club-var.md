@@ -3,11 +3,11 @@ layout: default
 title: "GG Club OFL"
 ---
 
+# GG Club OFL
+
 
 [![GG Club OFL](../illustrations/club-var.png)](../illustrations/club-var.png){: .fancybox data-caption='GG Club OFL' data-fancybox='getgo'}
 
-
-# GG Club OFL
 
 <small>You can type in the box below to preview the font:</small>
 

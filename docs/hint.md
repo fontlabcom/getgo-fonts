@@ -3,11 +3,11 @@ layout: default
 title: "GG Hint"
 ---
 
+# GG Hint
+
 
 [![GG Hint](../illustrations/hint.png)](../illustrations/hint.png){: .fancybox data-caption='GG Hint' data-fancybox='getgo'}
 
-
-# GG Hint
 
 <small>You can type in the box below to preview the font:</small>
 

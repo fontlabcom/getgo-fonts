@@ -3,11 +3,11 @@ layout: default
 title: "GG Ocra"
 ---
 
+# GG Ocra
+
 
 [![GG Ocra](../illustrations/ocra.png)](../illustrations/ocra.png){: .fancybox data-caption='GG Ocra' data-fancybox='getgo'}
 
-
-# GG Ocra
 
 <small>You can type in the box below to preview the font:</small>
 

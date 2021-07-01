@@ -3,11 +3,11 @@ layout: default
 title: "GG Plum"
 ---
 
+# GG Plum
+
 
 [![GG Plum](../illustrations/plum-var.png)](../illustrations/plum-var.png){: .fancybox data-caption='GG Plum' data-fancybox='getgo'}
 
-
-# GG Plum
 
 <small>You can type in the box below to preview the font:</small>
 

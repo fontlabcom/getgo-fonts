@@ -3,11 +3,11 @@ layout: default
 title: "GG Cosm Italic"
 ---
 
+# GG Cosm Italic
+
 
 [![GG Cosm Italic](../illustrations/cosm-italic-var.png)](../illustrations/cosm-italic-var.png){: .fancybox data-caption='GG Cosm Italic' data-fancybox='getgo'}
 
-
-# GG Cosm Italic
 
 <small>You can type in the box below to preview the font:</small>
 

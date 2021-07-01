@@ -3,11 +3,11 @@ layout: default
 title: "GG Rafi OFL Italic"
 ---
 
+# GG Rafi OFL Italic
+
 
 [![GG Rafi OFL Italic](../illustrations/rafi-italic-var.png)](../illustrations/rafi-italic-var.png){: .fancybox data-caption='GG Rafi OFL Italic' data-fancybox='getgo'}
 
-
-# GG Rafi OFL Italic
 
 <small>You can type in the box below to preview the font:</small>
 

@@ -3,11 +3,11 @@ layout: default
 title: "GG Vize"
 ---
 
+# GG Vize
+
 
 [![GG Vize](../illustrations/vize.png)](../illustrations/vize.png){: .fancybox data-caption='GG Vize' data-fancybox='getgo'}
 
-
-# GG Vize
 
 <small>You can type in the box below to preview the font:</small>
 

@@ -3,11 +3,11 @@ layout: default
 title: "GG Star"
 ---
 
+# GG Star
+
 
 [![GG Star](../illustrations/star.png)](../illustrations/star.png){: .fancybox data-caption='GG Star' data-fancybox='getgo'}
 
-
-# GG Star
 
 <small>You can type in the box below to preview the font:</small>
 

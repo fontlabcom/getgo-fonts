@@ -3,11 +3,11 @@ layout: default
 title: "GG Cosm"
 ---
 
+# GG Cosm
+
 
 [![GG Cosm](../illustrations/cosm-var.png)](../illustrations/cosm-var.png){: .fancybox data-caption='GG Cosm' data-fancybox='getgo'}
 
-
-# GG Cosm
 
 <small>You can type in the box below to preview the font:</small>
 

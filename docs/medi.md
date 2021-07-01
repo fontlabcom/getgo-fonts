@@ -3,11 +3,11 @@ layout: default
 title: "GG Medi"
 ---
 
+# GG Medi
+
 
 [![GG Medi](../illustrations/medi.png)](../illustrations/medi.png){: .fancybox data-caption='GG Medi' data-fancybox='getgo'}
 
-
-# GG Medi
 
 <small>You can type in the box below to preview the font:</small>
 

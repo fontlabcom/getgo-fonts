@@ -2,7 +2,12 @@ full_name: GG Boto
 family_name: GG Boto
 copyright: Copyright 2011 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Grotesque sanserif design with the width, weight and italic axis
+categories:
+- Variable
+- Sans
+- Multilingual
+- Italic
 scripts:
 - Latin
 - Cyrillic

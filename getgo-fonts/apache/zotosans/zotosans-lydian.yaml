@@ -2,7 +2,10 @@ full_name: Zoto Sans Lydian
 family_name: Zoto Sans Lydian
 copyright: Copyright 2012 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Lydian script
+categories:
+- Reference
+- Sans
 scripts:
 - Lydian
 sample_text: 𐤡𐤠𐤶𐤰𐤫𐤥 𐤣𐤮𐤸𐤬𐤲𐤯 𐤤𐤦𐤪𐤢𐤷𐤴 𐤩𐤧𐤨𐤹𐤱𐤭 𐤵𐤳

@@ -2,7 +2,10 @@ full_name: Zoto Sans Cuneiform
 family_name: Zoto Sans Cuneiform
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Cuneiform script
+categories:
+- Reference
+- Sans
 scripts:
 - Cuneiform
 sample_text: 𒆀𒀵𒈏𒁼𒃠𒂚 𒁱𒄊𒋍𒃈𒅊𒈤 𒆿𒌓𒌥𒌭𒋗𒄵 𒀴𒋬𒅤𒁋𒀕𒍃 𒈿𒅸𒈙𒋊𒄸𒊻

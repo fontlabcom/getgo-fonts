@@ -13,7 +13,7 @@ title: "Zoto Sans Ogham"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-ogham.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 33 \| scripts: Ogham
+license: Apache \| Reference sans font for the Ogham script \| glyphs: 33 \| scripts: Ogham
 
 ---
 

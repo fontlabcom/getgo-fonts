@@ -2,7 +2,10 @@ full_name: Zoto Sans Tagbanwa
 family_name: Zoto Sans Tagbanwa
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Tagbanwa script
+categories:
+- Reference
+- Sans
 scripts:
 - Tagbanwa
 sample_text: ᝰᝣᝯᝪᝨᝤ ᝦᝠᝡᝥᝢᝧ ᝫᝮᝬᝩ

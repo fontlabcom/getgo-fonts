@@ -2,7 +2,10 @@ full_name: Zoto Sans New Tai Lue
 family_name: Zoto Sans New Tai Lue
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the New Tai Lue script
+categories:
+- Reference
+- Sans
 scripts:
 - New Tai Lue
 sample_text: ᦝᧀᧄᦈᦒᦕ ᧂᦁᧃᦱᦆᧉ ᦙᦗᦉᦵᦡᦇ ᦄᦞᦰᦴᦪᦎ ᧅᦑᦸᦌᦏᦘ

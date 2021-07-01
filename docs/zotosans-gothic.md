@@ -13,7 +13,7 @@ title: "Zoto Sans Gothic"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-gothic.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 43 \| scripts: Gothic
+license: Apache \| Reference sans font for the Gothic script \| glyphs: 43 \| scripts: Gothic
 
 ---
 

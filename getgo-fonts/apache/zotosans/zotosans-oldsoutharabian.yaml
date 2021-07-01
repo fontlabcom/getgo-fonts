@@ -2,7 +2,10 @@ full_name: Zoto Sans Old South Arabian
 family_name: Zoto Sans Old South Arabian
 copyright: Copyright 2011 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Old South Arabian script
+categories:
+- Reference
+- Sans
 scripts:
 - Old South Arabian
 sample_text: 𐩧𐩣𐩳𐩡𐩺𐩻 𐩷𐩰𐩫𐩸𐩶𐩮 𐩴𐩱𐩥𐩢𐩭𐩵 𐩪𐩬𐩨𐩩𐩼𐩦 𐩹𐩯𐩠𐩲𐩤

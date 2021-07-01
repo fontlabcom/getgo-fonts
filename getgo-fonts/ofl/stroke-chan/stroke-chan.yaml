@@ -2,7 +2,11 @@ full_name: GG Stroke Chan OFL Italic
 family_name: GG Stroke Chan OFL
 copyright: Copyright 2013 The Alegreya Sans Project Authors (https://github.com/huertatipografica/Alegreya-Sans)
 license: OFL
-description: Font
+description: Single-stroke italic design in chancery style, for use with Power Brush or Stroke
+categories:
+- Sans
+- Italic
+- Single-stroke
 scripts:
 - Latin
 sample_text: TLVUBG YKMMIP txnckj qixarh zpyegj

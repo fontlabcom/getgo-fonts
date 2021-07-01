@@ -2,7 +2,10 @@ full_name: Zoto Sans Ugaritic
 family_name: Zoto Sans Ugaritic
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Ugaritic script
+categories:
+- Reference
+- Sans
 scripts:
 - Ugaritic
 sample_text: 𐎍𐎒𐎁𐎓𐎔𐎋 𐎄𐎌𐎅𐎛𐎆𐎑 𐎊𐎐𐎜𐎝𐎏𐎘 𐎉𐎈𐎚𐎃𐎖𐎗 𐎇𐎕𐎙𐎀𐎂𐎎

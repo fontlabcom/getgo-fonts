@@ -13,7 +13,7 @@ title: "Zoto Sans Tai Le"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-taile.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 55 \| scripts: Tai Le
+license: Apache \| Reference sans font for the Tai Le script \| glyphs: 55 \| scripts: Tai Le
 
 ---
 

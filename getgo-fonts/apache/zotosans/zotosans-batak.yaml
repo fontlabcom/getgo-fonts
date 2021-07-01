@@ -2,7 +2,10 @@ full_name: Zoto Sans Batak
 family_name: Zoto Sans Batak
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Batak script
+categories:
+- Reference
+- Sans
 scripts:
 - Batak
 sample_text: ᯓᯇᯆᯂᯠᯑ ᯗᯍᯝᯣᯖᯛ ᯅᯈᯎᯡᯃᯜ ᯀᯊᯄᯘᯤᯙ ᯔᯉᯥᯚᯁᯏ

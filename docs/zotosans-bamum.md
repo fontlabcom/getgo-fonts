@@ -13,7 +13,7 @@ title: "Zoto Sans Bamum"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-bamum.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 661 \| scripts: Bamum
+license: Apache \| Reference sans font for the Bamum script \| glyphs: 661 \| scripts: Bamum
 
 ---
 

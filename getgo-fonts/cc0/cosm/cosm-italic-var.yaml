@@ -2,7 +2,11 @@ full_name: GG Cosm Italic
 family_name: GG Cosm
 copyright: No Rights Reserved.
 license: CC-0
-description: Font
+description: Neo-grotesque sanserif font family with a weight axis, italic version
+categories:
+- Variable
+- Sans
+- Italic
 scripts:
 - Latin
 sample_text: COSMOS ŊŲĦŊŤĮ natural yșœśôá vûūâŧô

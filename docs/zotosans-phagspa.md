@@ -13,7 +13,7 @@ title: "Zoto Sans Phags Pa"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-phagspa.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 382 \| scripts: Phags Pa, Mongolian
+license: Apache \| Reference sans font for the Phags-pa script \| glyphs: 382 \| scripts: Phags Pa, Mongolian
 
 ---
 

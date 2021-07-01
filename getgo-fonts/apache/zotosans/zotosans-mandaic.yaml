@@ -2,7 +2,10 @@ full_name: Zoto Sans Mandaic
 family_name: Zoto Sans Mandaic
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Mandaic script
+categories:
+- Reference
+- Sans
 scripts:
 - Mandaic
 sample_text: ࡗࡆࡌࡒࡁࡇ ࡊࡉࡋࡎࡖࡈ ࡏࡔࡍࡂࡄࡑ ࡓࡀࡅࡐࡃࡘ ࡕ

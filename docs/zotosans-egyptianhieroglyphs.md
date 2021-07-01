@@ -13,7 +13,7 @@ title: "Zoto Sans Egyptian Hieroglyphs"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-egyptianhieroglyphs.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 1075 \| scripts: Egyptian Hieroglyphs
+license: Apache \| Reference sans font for the Egyptian Hieroglyphs script \| glyphs: 1075 \| scripts: Egyptian Hieroglyphs
 
 ---
 

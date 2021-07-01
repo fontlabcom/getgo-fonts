@@ -13,7 +13,7 @@ title: "Zoto Sans Buginese"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-buginese.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 63 \| scripts: Buginese
+license: Apache \| Reference sans font for the Buginese script \| glyphs: 63 \| scripts: Buginese
 
 ---
 

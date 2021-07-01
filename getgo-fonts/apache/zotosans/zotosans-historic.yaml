@@ -2,7 +2,10 @@ full_name: Zoto Sans Historic
 family_name: Zoto Sans Historic
 copyright: Copyright 2012 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for several historic scripts
+categories:
+- Reference
+- Sans
 scripts:
 - Egyptian Hieroglyphs
 - Cuneiform

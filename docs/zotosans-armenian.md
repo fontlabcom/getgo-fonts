@@ -13,14 +13,14 @@ title: "Zoto Sans Armenian"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-armenian.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 98 \| scripts: Armenian
+license: Apache \| Reference sans font for the Armenian script \| glyphs: 98 \| scripts: Armenian
 
 ---
 
 
 ## Zoto Sans Armenian
 
-Zoto Sans Armenian is a design for the Armenian script.
+Zoto Sans Armenian is a sanserif design for the Armenian script.
 
 It contains 98 glyphs and 2 OpenType features, and supports 97 characters from the Unicode blocks: Armenian, Alphabetic Presentation Forms.
 

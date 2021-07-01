@@ -13,7 +13,7 @@ title: "GG Vize"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/vize/vize.vfj){: .btn .btn-purple target="_blank" }
 
-license: CC-0 \| Font \| glyphs: 103 \| scripts: Latin
+license: CC-0 \| Renaissance humanist sanserif font \| glyphs: 103 \| scripts: Latin
 
 ---
 

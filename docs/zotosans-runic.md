@@ -13,7 +13,7 @@ title: "Zoto Sans Runic"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-runic.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 85 \| scripts: Runic
+license: Apache \| Reference sans font for the Runic script \| glyphs: 85 \| scripts: Runic
 
 ---
 

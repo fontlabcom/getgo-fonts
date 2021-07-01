@@ -13,7 +13,7 @@ title: "Zoto Sans Saurashtra"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-saurashtra.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 93 \| scripts: Saurashtra
+license: Apache \| Reference sans font for the Saurasthra script \| glyphs: 93 \| scripts: Saurashtra
 
 ---
 

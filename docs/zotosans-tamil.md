@@ -13,7 +13,7 @@ title: "Zoto Sans Tamil"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tamil.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 215 \| scripts: Tamil
+license: Apache \| Reference sans font for the Tamil script \| glyphs: 215 \| scripts: Tamil
 
 ---
 

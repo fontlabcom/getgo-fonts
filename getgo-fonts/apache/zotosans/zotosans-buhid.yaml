@@ -2,7 +2,10 @@ full_name: Zoto Sans Buhid
 family_name: Zoto Sans Buhid
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Buhid script
+categories:
+- Reference
+- Sans
 scripts:
 - Buhid
 sample_text: ᝌᝃᝑᝏᝊᝄ ᝎᝍᝇᝀᝂᝉ ᝆᝈᝋᝅᝐᝁ

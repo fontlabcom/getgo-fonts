@@ -13,7 +13,7 @@ title: "GG Veni"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/veni/veni.vfj){: .btn .btn-purple target="_blank" }
 
-license: CC-0 \| Font \| glyphs: 199 \| scripts: Latin
+license: CC-0 \| Renaissance serif font \| glyphs: 199 \| scripts: Latin
 
 ---
 

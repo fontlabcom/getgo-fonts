@@ -2,7 +2,10 @@ full_name: Zoto Sans Gurmukhi
 family_name: Zoto Sans Gurmukhi
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Gurmukhi script
+categories:
+- Reference
+- Sans
 scripts:
 - Gurmukhi
 sample_text: ਔਅਗ਼ਘਇਪ ਣੴਆਙਜਥ ਯਡਫ਼ਖ਼ਹਦ ਨਲ਼ਈਞਲਛ ਬਏਕੲਗਭ

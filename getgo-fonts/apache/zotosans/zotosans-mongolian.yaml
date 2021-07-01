@@ -2,7 +2,10 @@ full_name: Zoto Sans Mongolian
 family_name: Zoto Sans Mongolian
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Mongolian script
+categories:
+- Reference
+- Sans
 scripts:
 - Mongolian
 sample_text: ᡙᡇᠷᡬᢃᠠ ᢖᠱᠽᠩᡞᡏ ᢢᠬᢙᡮᠫᠥ ᠼᢨᠾᠰᢎᡲ ᢉᢛᢝᢋᠮᡓ

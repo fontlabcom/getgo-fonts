@@ -2,7 +2,10 @@ full_name: Zoto Sans Linear B
 family_name: Zoto Sans Linear B
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Linear B script
+categories:
+- Reference
+- Sans
 scripts:
 - Linear B
 sample_text: 𐁃𐃁𐂬𐂼𐂗𐀫 𐀔𐃀𐂌𐂹𐁉𐂳 𐀺𐃍𐃑𐀁𐂘𐃰 𐀦𐃪𐁍𐁆𐁐𐂵 𐂢𐃵𐃣𐃃𐂨𐂫

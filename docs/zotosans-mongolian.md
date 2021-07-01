@@ -13,7 +13,7 @@ title: "Zoto Sans Mongolian"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-mongolian.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 1511 \| scripts: Mongolian
+license: Apache \| Reference sans font for the Mongolian script \| glyphs: 1511 \| scripts: Mongolian
 
 ---
 

@@ -2,7 +2,10 @@ full_name: Zoto Sans Samaritan
 family_name: Zoto Sans Samaritan
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Samaritan script
+categories:
+- Reference
+- Sans
 scripts:
 - Samaritan
 sample_text: ࠎࠑࠃࠔࠕࠁ ࠚࠇࠐࠤࠆࠓ ࠄࠌࠍࠅࠋࠂ ࠏࠈࠉࠒࠨࠀ ࠊ

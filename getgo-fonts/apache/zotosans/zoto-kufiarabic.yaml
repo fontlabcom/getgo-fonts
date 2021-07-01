@@ -2,7 +2,10 @@ full_name: Zoto Kufi Arabic
 family_name: Zoto Kufi Arabic
 copyright: Copyright 2010 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference font for the Arabic script in the Kufi style
+categories:
+- Reference
+- Sans
 scripts:
 - Arabic
 sample_text: ﻹݬݣڙﺯﭘ ﹾﺂښێﹲۯ ۮڦﭖﺤﮌظ ڰګﺊذﮭڢ ۉﺠحﭧﭭﭽ

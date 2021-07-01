@@ -1,8 +1,11 @@
-license: OFL
-description: Variable font with 12 axes in college block style
 full_name: GG Club OFL
 family_name: GG Club OFL
 copyright: 'Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name '
+license: OFL
+description: Variable font with 12 axes in college block style
+categories:
+- Variable
+- Slab
 scripts:
 - Latin
 - Greek

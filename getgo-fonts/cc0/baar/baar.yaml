@@ -3,6 +3,8 @@ family_name: GG Baar
 copyright: Copyright Echo Heo 2021
 license: CC-0
 description: Modular narrow display font
+categories:
+- Display
 scripts:
 - Latin
 sample_text: DECODE MYSTERY observe greatest rubrum

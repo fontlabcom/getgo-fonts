@@ -2,7 +2,10 @@ full_name: Zoto Sans Lisu
 family_name: Zoto Sans Lisu
 copyright: Copyright 2012 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Lisu script
+categories:
+- Reference
+- Sans
 scripts:
 - Lisu
 sample_text: ꓞꓣꓓꓩꓑꓶ ꓵꓛꓦꓤꓺꓰ ꓲꓹꓢꓳꓽꓫ ꓱꓐꓝꓚꓒꓧ ꓡꓼꓗꓠꓭꓴ

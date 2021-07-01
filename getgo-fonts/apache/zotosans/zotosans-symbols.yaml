@@ -2,7 +2,10 @@ full_name: Zoto Sans Symbols
 family_name: Zoto Sans Symbols
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference symbol font
+categories:
+- Reference
+- Symbol
 scripts:
 - Braille
 - Greek

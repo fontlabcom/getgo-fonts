@@ -2,7 +2,10 @@ full_name: Zoto Sans NKo
 family_name: Zoto Sans NKo
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Nko script
+categories:
+- Reference
+- Sans
 scripts:
 - Nko
 - Arabic

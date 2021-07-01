@@ -13,7 +13,7 @@ title: "Zoto Sans Georgian"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-georgian.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 127 \| scripts: Georgian, Armenian
+license: Apache \| Reference sans font for the Georgian script \| glyphs: 127 \| scripts: Georgian, Armenian
 
 ---
 

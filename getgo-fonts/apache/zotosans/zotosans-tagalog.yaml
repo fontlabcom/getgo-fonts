@@ -2,7 +2,10 @@ full_name: Zoto Sans Tagalog
 family_name: Zoto Sans Tagalog
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Tagalog script
+categories:
+- Reference
+- Sans
 scripts:
 - Tagalog
 sample_text: ᜋᜐᜂᜊᜏᜈ ᜁᜃᜀᜑᜄᜇ ᜅᜎᜉᜌᜆ

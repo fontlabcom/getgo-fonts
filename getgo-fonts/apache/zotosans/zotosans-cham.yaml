@@ -2,7 +2,10 @@ full_name: Zoto Sans Cham
 family_name: Zoto Sans Cham
 copyright: Copyright 2012 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Cham script
+categories:
+- Reference
+- Sans
 scripts:
 - Cham
 sample_text: ꨌꨝꨨꨘꩈꨢ ꨑꨤꨙꩀꨡꩇ ꨕꨅꨠꨍꨦꨒ ꨋꨏꩄꨃꨈꩆ ꨐꨚꨎꨁꨖꨆ

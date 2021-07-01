@@ -2,7 +2,10 @@ full_name: Zoto Sans Vai
 family_name: Zoto Sans Vai
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Vai script
+categories:
+- Reference
+- Sans
 scripts:
 - Vai
 sample_text: ꗌꕥꗍꕟꔆꕭ ꖡꔈꗚꗝꔴꖒ ꗦꔚꖏꕣꔼꕀ ꔋꕷꖢꕽꕑꗛ ꔳꘁꗮꖱꗫꖫ

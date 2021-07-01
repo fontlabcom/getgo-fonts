@@ -13,7 +13,7 @@ title: "Zoto Sans Linear B"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-linearb.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 272 \| scripts: Linear B
+license: Apache \| Reference sans font for the Linear B script \| glyphs: 272 \| scripts: Linear B
 
 ---
 

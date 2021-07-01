@@ -13,7 +13,7 @@ title: "Zoto Sans Javanese"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-javanese.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 155 \| scripts: Javanese
+license: Apache \| Reference sans font for the Javanese script \| glyphs: 155 \| scripts: Javanese
 
 ---
 

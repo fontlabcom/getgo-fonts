@@ -13,7 +13,7 @@ title: "Zoto Sans Cypriot"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cypriot.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 59 \| scripts: Cypriot
+license: Apache \| Reference sans font for the Cypriot script \| glyphs: 59 \| scripts: Cypriot
 
 ---
 

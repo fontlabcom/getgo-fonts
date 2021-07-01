@@ -2,7 +2,9 @@ full_name: GG Veni
 family_name: GG Veni
 copyright: No Rights Reserved.
 license: CC-0
-description: Font
+description: Renaissance serif font
+categories:
+- Serif
 scripts:
 - Latin
 sample_text: VESTIRO ÂÌDÓŸM quantas ùämõœl elegant

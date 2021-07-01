@@ -2,7 +2,10 @@ full_name: Zoto Sans Canadian Aboriginal
 family_name: Zoto Sans Canadian Aboriginal
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Canadian Aboriginal syllabics
+categories:
+- Reference
+- Sans
 scripts:
 - Canadian Aboriginal
 - Latin

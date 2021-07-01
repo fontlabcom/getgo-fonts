@@ -2,7 +2,10 @@ full_name: GG Pixa
 family_name: GG Pixa
 copyright: Copyright Khalfani 2017
 license: CC-0
-description: Font
+description: Quirky pixel font with 14 pixels tall letters, for 28 writing systems
+categories:
+- Pixel
+- Multilingual
 scripts:
 - Han
 - Hangul

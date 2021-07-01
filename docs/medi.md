@@ -13,7 +13,7 @@ title: "GG Medi"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/medi/medi.vfj){: .btn .btn-purple target="_blank" }
 
-license: CC-0 \| Font \| glyphs: 103 \| scripts: Latin
+license: CC-0 \| Didone serif font \| glyphs: 103 \| scripts: Latin
 
 ---
 

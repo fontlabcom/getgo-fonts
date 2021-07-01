@@ -2,7 +2,10 @@ full_name: Zoto Sans Thaana
 family_name: Zoto Sans Thaana
 copyright: Copyright 2014 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Thaana script
+categories:
+- Reference
+- Sans
 scripts:
 - Thaana
 - Arabic

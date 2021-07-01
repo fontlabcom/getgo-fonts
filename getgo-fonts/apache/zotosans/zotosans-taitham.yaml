@@ -2,7 +2,10 @@ full_name: Zoto Sans Tai Tham
 family_name: Zoto Sans Tai Tham
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Tai Tham script
+categories:
+- Reference
+- Sans
 scripts:
 - Tai Tham
 sample_text: ᨻᩈᨾᩁᨫᩓ ᨿᩃᩊᨯᩒᨹ ᨤᩏᨭᩀᨳᨢ ᨡᨧᨲᨺᨵᩌ ᨸᩎᨩᨶᩅᨨ

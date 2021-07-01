@@ -13,7 +13,7 @@ title: "Zoto Sans Meetei Mayek"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-meeteimayek.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 91 \| scripts: Meetei Mayek
+license: Apache \| Reference sans font for the Meetei Mayek script \| glyphs: 91 \| scripts: Meetei Mayek
 
 ---
 

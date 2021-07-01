@@ -13,7 +13,7 @@ title: "GG Cosm"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm-var.vfj){: .btn .btn-purple target="_blank" }
 
-license: CC-0 \| Font \| glyphs: 359 \| scripts: Latin
+license: CC-0 \| Neo-grotesque sanserif font family with a weight axis, upright version \| glyphs: 359 \| scripts: Latin
 
 ---
 

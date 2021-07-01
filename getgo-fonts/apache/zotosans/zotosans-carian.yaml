@@ -2,7 +2,10 @@ full_name: Zoto Sans Carian
 family_name: Zoto Sans Carian
 copyright: Copyright 2012 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Carian script
+categories:
+- Reference
+- Sans
 scripts:
 - Carian
 sample_text: 𐊨𐋁𐊭𐊦𐊳𐊤 𐊱𐋋𐋅𐋎𐋂𐊿 𐋏𐊾𐊢𐊵𐋆𐊠 𐋇𐊡𐊽𐋃𐊣𐊹 𐊬𐊸𐊫𐊷𐊩𐊻

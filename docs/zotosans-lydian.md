@@ -13,7 +13,7 @@ title: "Zoto Sans Lydian"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-lydian.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 31 \| scripts: Lydian
+license: Apache \| Reference sans font for the Lydian script \| glyphs: 31 \| scripts: Lydian
 
 ---
 

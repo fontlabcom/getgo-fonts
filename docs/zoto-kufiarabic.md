@@ -13,7 +13,7 @@ title: "Zoto Kufi Arabic"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zoto-kufiarabic.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 762 \| scripts: Arabic
+license: Apache \| Reference font for the Arabic script in the Kufi style \| glyphs: 762 \| scripts: Arabic
 
 ---
 

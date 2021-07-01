@@ -5,7 +5,8 @@
         "copyright": "Copyright Echo Heo 2021",
         "license": "CC-0",
         "description": "Modular narrow display font",
-        "scripts": [
+        "categories": [
+            "Display",
             "Latin"
         ],
         "sample_text": "DECODE MYSTERY observe greatest rubrum",
@@ -22,11 +23,15 @@
         "family_name": "GG Boto",
         "copyright": "Copyright 2011 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Latin",
+        "description": "Grotesque sanserif design with the width, weight and italic axis",
+        "categories": [
             "Cyrillic",
-            "Greek"
+            "Greek",
+            "Italic",
+            "Latin",
+            "Multilingual",
+            "Sans",
+            "Variable"
         ],
         "sample_text": "Vältože бомуще θρώπον çavatečkul",
         "url": {
@@ -43,9 +48,10 @@
         "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\nhttp://www.apache.org/licenses/LICENSE-2.0.html",
         "license": "Apache",
         "description": "Signpainter-style flat brush script font",
-        "scripts": [
+        "categories": [
+            "Greek",
             "Latin",
-            "Greek"
+            "Script"
         ],
         "sample_text": "FRESH DIRECT espresso first ļbĩẅńà",
         "url": {
@@ -57,14 +63,16 @@
         }
     },
     "GG Club OFL": {
-        "license": "OFL",
-        "description": "Variable font with 12 axes in college block style",
         "full_name": "GG Club OFL",
         "family_name": "GG Club OFL",
         "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name ",
-        "scripts": [
+        "license": "OFL",
+        "description": "Variable font with 12 axes in college block style",
+        "categories": [
+            "Greek",
             "Latin",
-            "Greek"
+            "Slab",
+            "Variable"
         ],
         "sample_text": "CLUB ŞẎLOP sports ħěbmṍģ ḝæŧlāť",
         "url": {
@@ -80,9 +88,12 @@
         "family_name": "GG Cosm",
         "copyright": "No Rights Reserved.",
         "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin"
+        "description": "Neo-grotesque sanserif font family with a weight axis, italic version",
+        "categories": [
+            "Italic",
+            "Latin",
+            "Sans",
+            "Variable"
         ],
         "sample_text": "COSMOS ŊŲĦŊŤĮ natural yșœśôá vûūâŧô",
         "url": {
@@ -98,9 +109,11 @@
         "family_name": "GG Cosm",
         "copyright": "No Rights Reserved.",
         "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin"
+        "description": "Neo-grotesque sanserif font family with a weight axis, upright version",
+        "categories": [
+            "Latin",
+            "Sans",
+            "Variable"
         ],
         "sample_text": "WORLD ĖÈØŎXĴ discover nękćzęĥ oșőűng",
         "url": {
@@ -116,9 +129,10 @@
         "family_name": "GG Deco",
         "copyright": "No Rights Reserved.",
         "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin"
+        "description": "Geometric art deco sanserif font",
+        "categories": [
+            "Latin",
+            "Sans"
         ],
         "sample_text": "RIDSNC QUAMJV zifwlz matknh bopfxc",
         "url": {
@@ -135,8 +149,10 @@
         "copyright": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\nhttp://www.apache.org/licenses/LICENSE-2.0.html",
         "license": "Apache",
         "description": "Festive slab serif font inspired by 1950s hand lettering",
-        "scripts": [
-            "Latin"
+        "categories": [
+            "Latin",
+            "Lettering",
+            "Slab"
         ],
         "sample_text": "FESTIVE Hippy orange astound łeľũŧó",
         "url": {
@@ -153,9 +169,11 @@
         "copyright": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\nhttp://www.apache.org/licenses/LICENSE-2.0.html",
         "license": "Apache",
         "description": "Unicase sanserif design with pixel-perfect manual TrueType Hinting (TTH)",
-        "scripts": [
+        "categories": [
+            "Greek",
+            "Hinting",
             "Latin",
-            "Greek"
+            "Sans"
         ],
         "sample_text": "REVOLT Revolt revolt ĦBŦĒC bĉţėŷľ",
         "url": {
@@ -171,9 +189,10 @@
         "family_name": "GG Medi",
         "copyright": "No Rights Reserved.",
         "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin"
+        "description": "Didone serif font",
+        "categories": [
+            "Latin",
+            "Serif"
         ],
         "sample_text": "XLJWDB XAPQJK oilmfd eurnco evsywc",
         "url": {
@@ -189,10 +208,11 @@
         "family_name": "GG Ocra",
         "copyright": "OCR-AK, 2018 Retorillo (CC0)\nOCR-A, 2018 Jonh Sauter (CC0)\nOCR-BKxStd, 2010 force4u (CC0)",
         "license": "CC-0",
-        "description": "Font",
-        "scripts": [
+        "description": "Simple OCR-A (Latin) and OCR-BK (Japanese) font",
+        "categories": [
+            "Katakana",
             "Latin",
-            "Katakana"
+            "Monospace"
         ],
         "sample_text": "KYXIZW PKOJG bpxhzb ｳｴｵｶｷ vlegms",
         "url": {
@@ -208,36 +228,38 @@
         "family_name": "GG Pixa",
         "copyright": "Copyright Khalfani 2017",
         "license": "CC-0",
-        "description": "Font",
-        "scripts": [
+        "description": "Quirky pixel font with 14 pixels tall letters, for 28 writing systems",
+        "categories": [
+            "Arabic",
+            "Armenian",
+            "Bengali",
+            "Bopomofo",
+            "Braille",
+            "Canadian Aboriginal",
+            "Cherokee",
+            "Coptic",
+            "Cyrillic",
+            "Devanagari",
+            "Greek",
             "Han",
             "Hangul",
-            "Latin",
-            "Canadian Aboriginal",
-            "Greek",
-            "Cyrillic",
-            "Arabic",
-            "Katakana",
-            "Myanmar",
-            "Coptic",
-            "Devanagari",
-            "Cherokee",
-            "Armenian",
-            "Hiragana",
             "Hebrew",
-            "Runic",
-            "Bengali",
-            "Syriac",
-            "Thai",
-            "Braille",
-            "Tamil",
-            "Tifinagh",
+            "Hiragana",
+            "Katakana",
+            "Latin",
+            "Malayalam",
+            "Multilingual",
+            "Myanmar",
             "Nko",
-            "Thaana",
-            "Tibetan",
             "Ogham",
-            "Bopomofo",
-            "Malayalam"
+            "Pixel",
+            "Runic",
+            "Syriac",
+            "Tamil",
+            "Thaana",
+            "Thai",
+            "Tibetan",
+            "Tifinagh"
         ],
         "sample_text": "A˪̀ͰϢЀ Ա֑؆܀ހߊऀ ঀஂഀกༀကᄀ Ꭰ᐀ ᚠ⠀ ⴰ⺔ぁァ",
         "url": {
@@ -253,9 +275,11 @@
         "family_name": "GG Plum",
         "copyright": "",
         "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin"
+        "description": "Humanist sanserif font family with a weight axis",
+        "categories": [
+            "Latin",
+            "Sans",
+            "Variable"
         ],
         "sample_text": "CLARITY CĞBJÌĂ flight ẅoîẁĳœ effvgý",
         "url": {
@@ -272,12 +296,15 @@
         "copyright": "Copyright (c) 2009-2015, Philippe Cochy,,,(http://pecita.eu),\nwith Reserved Font Name Pecita.",
         "license": "OFL",
         "description": "Multi-script handwritten font that uses single stroke",
-        "scripts": [
-            "Latin",
-            "Greek",
+        "categories": [
+            "Cherokee",
             "Cyrillic",
+            "Greek",
             "Katakana",
-            "Cherokee"
+            "Latin",
+            "Multilingual",
+            "Script",
+            "Single-stroke"
         ],
         "sample_text": "SCRIPT fluids write ķniṟɱ îʑᴽțṵž",
         "url": {
@@ -293,10 +320,14 @@
         "family_name": "GG Rafi OFL",
         "copyright": "Firava derives from Fira Sans, copyright © 2012-2015, The Mozilla Foundation and Telefonica S.A.",
         "license": "OFL",
-        "description": "Font",
-        "scripts": [
+        "description": "Legible sanserif for UIs and signage with a weight axis, italic version",
+        "categories": [
+            "Greek",
+            "Italic",
             "Latin",
-            "Greek"
+            "Multilingual",
+            "Sans",
+            "Variable"
         ],
         "sample_text": "LIBRE ŽĿŮŸ interface đkūăbņ",
         "url": {
@@ -312,10 +343,13 @@
         "family_name": "GG Rafi OFL",
         "copyright": "Firava derives from Fira Sans, copyright © 2012-2015, The Mozilla Foundation and Telefonica S.A.",
         "license": "OFL",
-        "description": "Font",
-        "scripts": [
+        "description": "Legible sanserif for UIs and signage with a weight axis, italic version",
+        "categories": [
+            "Greek",
             "Latin",
-            "Greek"
+            "Multilingual",
+            "Sans",
+            "Variable"
         ],
         "sample_text": "ÓSITEV TÛĒRGD speaker âdłamÿ ðèŉzæy",
         "url": {
@@ -331,10 +365,14 @@
         "family_name": "GG Scig OFL",
         "copyright": "Copyright 2019, 2020 Font Detective LLC. https://github.com/tphinney/science-gothic",
         "license": "OFL",
-        "description": "Font",
-        "scripts": [
+        "description": "Rectangular sanserif design with weight, width, slant and contrast axes",
+        "categories": [
+            "Cyrillic",
+            "Italic",
             "Latin",
-            "Cyrillic"
+            "Multilingual",
+            "Sans",
+            "Variable"
         ],
         "sample_text": "HELLO ĠRŦȂǺẄ square ǫpøåĝð ąậaģbw",
         "url": {
@@ -350,9 +388,10 @@
         "family_name": "GG Star",
         "copyright": "Copyright Dmitriy Sychiov 2021\n“Daily Double” by “Quinn Davis” (https://fontstruct.com/fontstructors/show/1507185/sonicfontshd)",
         "license": "CC-0",
-        "description": "Font",
-        "scripts": [
+        "description": "Narrow retro sci-fi display font",
+        "categories": [
             "Cyrillic",
+            "Display",
             "Latin"
         ],
         "sample_text": "QUEST СЪРГУЮ imagine зфоляч ицщиач",
@@ -369,9 +408,12 @@
         "family_name": "GG Stroke Chan OFL",
         "copyright": "Copyright 2013 The Alegreya Sans Project Authors (https://github.com/huertatipografica/Alegreya-Sans)",
         "license": "OFL",
-        "description": "Font",
-        "scripts": [
-            "Latin"
+        "description": "Single-stroke italic design in chancery style, for use with Power Brush or Stroke",
+        "categories": [
+            "Italic",
+            "Latin",
+            "Sans",
+            "Single-stroke"
         ],
         "sample_text": "TLVUBG YKMMIP txnckj qixarh zpyegj",
         "url": {
@@ -387,9 +429,11 @@
         "family_name": "GG Stroke Grot OFL",
         "copyright": "Copyright © 2015 by Wei Huang.  All rights reserved.",
         "license": "OFL",
-        "description": "Font",
-        "scripts": [
-            "Latin"
+        "description": "Single-stroke grotesque sanserif design, for use with Power Brush or Stroke",
+        "categories": [
+            "Latin",
+            "Sans",
+            "Single-stroke"
         ],
         "sample_text": "PJVNNX TQFBHI wuufªk ldmzea prxhºy",
         "url": {
@@ -405,9 +449,10 @@
         "family_name": "GG Veni",
         "copyright": "No Rights Reserved.",
         "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin"
+        "description": "Renaissance serif font",
+        "categories": [
+            "Latin",
+            "Serif"
         ],
         "sample_text": "VESTIRO ÂÌDÓŸM quantas ùämõœl elegant",
         "url": {
@@ -423,9 +468,10 @@
         "family_name": "GG Vize",
         "copyright": "No Rights Reserved.",
         "license": "CC-0",
-        "description": "Font",
-        "scripts": [
-            "Latin"
+        "description": "Renaissance humanist sanserif font",
+        "categories": [
+            "Latin",
+            "Serif"
         ],
         "sample_text": "CAPITAL QUEST fashion cuisine elegant",
         "url": {
@@ -441,8 +487,12 @@
         "family_name": "Zoto Emoji",
         "copyright": "Digitized data copyright © 2011, Google Corporation.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [],
+        "description": "Reference font for Emoji symbols",
+        "categories": [
+            "Emoji",
+            "Reference",
+            "Symbol"
+        ],
         "sample_text": "🎡💄🀄🈴😱🐞 🇰🈚👺🍉2🍃 🔨🐣👠🌟🎯✈ 🍪😁 🎈🍸🌼 🍷📧🐔󾓩🏄👶",
         "url": {
             "vfj": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/getgo-fonts/apache/zotoemoji/zoto-emoji.vfj",
@@ -457,9 +507,11 @@
         "family_name": "Zoto Kufi Arabic",
         "copyright": "Copyright 2010 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Arabic"
+        "description": "Reference font for the Arabic script in the Kufi style",
+        "categories": [
+            "Arabic",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ﻹݬݣڙﺯﭘ ﹾﺂښێﹲۯ ۮڦﭖﺤﮌظ ڰګﺊذﮭڢ ۉﺠحﭧﭭﭽ",
         "url": {
@@ -475,9 +527,11 @@
         "family_name": "Zoto Sans Armenian",
         "copyright": "Copyright 2014 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Armenian"
+        "description": "Reference sans font for the Armenian script",
+        "categories": [
+            "Armenian",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ԼՃԻԶԹՆ ՑԻՖՐՂՌ ւզթսգղ ժյﬔվմն փկդխկց",
         "url": {
@@ -493,9 +547,11 @@
         "family_name": "Zoto Sans Avestan",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Avestan"
+        "description": "Reference sans font for the Avestan script",
+        "categories": [
+            "Avestan",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𐬑𐬂𐬜𐬴𐬢𐬄 𐬖𐬁𐬱𐬭𐬆𐬍 𐬛𐬔𐬡𐬫𐬗𐬵 𐬒𐬦𐬥𐬬𐬊𐬲 𐬘𐬣𐬰𐬏𐬅𐬨",
         "url": {
@@ -511,9 +567,11 @@
         "family_name": "Zoto Sans Balinese",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Balinese"
+        "description": "Reference sans font for the Balinese script",
+        "categories": [
+            "Balinese",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ᬰᬋᬘᬎᬓᬮ ᭊᬉᬥᬫᬌᬯ ᬪᬠᬲᭋᭅᬡ ᬑᬊᬭᬒᬨᬅ ᬧᬇᬗᬍᬩᭆ",
         "url": {
@@ -529,9 +587,11 @@
         "family_name": "Zoto Sans Bamum",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Bamum"
+        "description": "Reference sans font for the Bamum script",
+        "categories": [
+            "Bamum",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𖦺ꚯꛀꛂ𖡖𖠟 𖢇𖧶𖤣𖡎𖢯𖧷 𖦢𖣙ꛚ𖥌ꚴ𖢏 𖣮𖨅𖦿𖧀𖥵𖢱 𖠓ꛆ𖢴ꛎ𖣯𖦊",
         "url": {
@@ -547,9 +607,11 @@
         "family_name": "Zoto Sans Batak",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Batak"
+        "description": "Reference sans font for the Batak script",
+        "categories": [
+            "Batak",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ᯓᯇᯆᯂᯠᯑ ᯗᯍᯝᯣᯖᯛ ᯅᯈᯎᯡᯃᯜ ᯀᯊᯄᯘᯤᯙ ᯔᯉᯥᯚᯁᯏ",
         "url": {
@@ -565,9 +627,11 @@
         "family_name": "Zoto Sans Brahmi",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Brahmi"
+        "description": "Reference sans font for the Brahmi script",
+        "categories": [
+            "Brahmi",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𑀤𑀭𑀬𑀥𑀰𑀉 𑀐𑀨𑀘𑀟𑀫𑀕 𑀗𑀓𑀷𑀣𑀲𑀳 𑀃𑀎𑀒𑀍𑀌𑀦 𑀡𑀋𑀚𑀑𑀊𑀇",
         "url": {
@@ -583,9 +647,11 @@
         "family_name": "Zoto Sans Buginese",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Buginese"
+        "description": "Reference sans font for the Buginese script",
+        "categories": [
+            "Buginese",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ᨐᨁᨖᨆᨋᨍ ᨕᨇᨑᨂᨌᨏ ᨃᨉᨓᨈᨒᨅ ᨎᨀᨊᨄᨔ",
         "url": {
@@ -601,9 +667,11 @@
         "family_name": "Zoto Sans Buhid",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Buhid"
+        "description": "Reference sans font for the Buhid script",
+        "categories": [
+            "Buhid",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ᝌᝃᝑᝏᝊᝄ ᝎᝍᝇᝀᝂᝉ ᝆᝈᝋᝅᝐᝁ",
         "url": {
@@ -619,10 +687,12 @@
         "family_name": "Zoto Sans Canadian Aboriginal",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference sans font for the Canadian Aboriginal syllabics",
+        "categories": [
             "Canadian Aboriginal",
-            "Latin"
+            "Latin",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ᓿᒩᗰᒺᓙᘈ ᐳᗛᙸᔣᗊᐴ ᐨᕸᕂᒮᘂᔴ ᗝᒝᗿᘗᐧᖵ ᖀᖴᗄᐸᒌᑾ",
         "url": {
@@ -638,9 +708,11 @@
         "family_name": "Zoto Sans Carian",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Carian"
+        "description": "Reference sans font for the Carian script",
+        "categories": [
+            "Carian",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𐊨𐋁𐊭𐊦𐊳𐊤 𐊱𐋋𐋅𐋎𐋂𐊿 𐋏𐊾𐊢𐊵𐋆𐊠 𐋇𐊡𐊽𐋃𐊣𐊹 𐊬𐊸𐊫𐊷𐊩𐊻",
         "url": {
@@ -656,9 +728,11 @@
         "family_name": "Zoto Sans Cham",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Cham"
+        "description": "Reference sans font for the Cham script",
+        "categories": [
+            "Cham",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ꨌꨝꨨꨘꩈꨢ ꨑꨤꨙꩀꨡꩇ ꨕꨅꨠꨍꨦꨒ ꨋꨏꩄꨃꨈꩆ ꨐꨚꨎꨁꨖꨆ",
         "url": {
@@ -674,9 +748,11 @@
         "family_name": "Zoto Sans Cherokee",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Cherokee"
+        "description": "Reference sans font for the Cherokee script",
+        "categories": [
+            "Cherokee",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ᏓᎲᎮᎻᏛᏱ ᏌᎼᎳᏦᏊᎹ ᎸᏐᏒᏭᏧᏂ ᎿᏏᎠᎣᏚᎷ ᏤᏰᎶᏬᏔᎨ",
         "url": {
@@ -692,10 +768,12 @@
         "family_name": "Zoto Sans Coptic",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference sans font for the Coptic script",
+        "categories": [
             "Coptic",
-            "Latin"
+            "Latin",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ⲰⲮⲄⳜⲜⳄ ⲦⲤⲢϮⲶⳠ ⲽⲫⲭⳗⲿⳳ ⲃⳇⲃⲏⳃⳗ ϫⳁⲅⲽⲉⲩ",
         "url": {
@@ -711,9 +789,11 @@
         "family_name": "Zoto Sans Cuneiform",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Cuneiform"
+        "description": "Reference sans font for the Cuneiform script",
+        "categories": [
+            "Cuneiform",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𒆀𒀵𒈏𒁼𒃠𒂚 𒁱𒄊𒋍𒃈𒅊𒈤 𒆿𒌓𒌥𒌭𒋗𒄵 𒀴𒋬𒅤𒁋𒀕𒍃 𒈿𒅸𒈙𒋊𒄸𒊻",
         "url": {
@@ -729,9 +809,11 @@
         "family_name": "Zoto Sans Cypriot",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Cypriot"
+        "description": "Reference sans font for the Cypriot script",
+        "categories": [
+            "Cypriot",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𐠼𐠐𐠣𐠅𐠎𐠱 𐠩𐠍𐠪𐠢𐠦𐠮 𐠤𐠬𐠲𐠌𐠔𐠰 𐠕𐠞𐠡𐠝𐠖𐠊 𐠒𐠠𐠀𐠨𐠭𐠟",
         "url": {
@@ -747,9 +829,11 @@
         "family_name": "Zoto Sans Deseret",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Deseret"
+        "description": "Reference sans font for the Deseret script",
+        "categories": [
+            "Deseret",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𐐈𐐔𐐟𐐚𐐢𐐌 𐐜𐐀𐐒𐐖𐐈𐐇 𐐹𐐷𐐮𐑅𐐫𐐵 𐐬𐐩𐐵𐐾𐑌𐐯 𐑏𐐸𐐬𐐽𐐱𐑏",
         "url": {
@@ -765,9 +849,11 @@
         "family_name": "Zoto Sans Egyptian Hieroglyphs",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Egyptian Hieroglyphs"
+        "description": "Reference sans font for the Egyptian Hieroglyphs script",
+        "categories": [
+            "Egyptian Hieroglyphs",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𓁫𓋾𓅷𓆢𓋁𓁗 𓇶𓈓𓋉𓄌𓅞𓈥 𓍪𓅵𓂥𓎮𓎇𓅺 𓋘𓐦𓀮𓅶𓎐𓍼 𓈭𓍙𓐣𓐘𓁳𓅅",
         "url": {
@@ -783,9 +869,11 @@
         "family_name": "Zoto Sans Ethiopic",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Ethiopic"
+        "description": "Reference sans font for the Ethiopic script",
+        "categories": [
+            "Ethiopic",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ⷞⶌኻዝጼዬ ዑቿⷀጴሠሂ ᎍቊዃቾዔሃ ፑጆⷙቶⶉⶳ ጜየቀꬥጽቱ",
         "url": {
@@ -801,10 +889,12 @@
         "family_name": "Zoto Sans Georgian",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference sans font for the Georgian script",
+        "categories": [
+            "Armenian",
             "Georgian",
-            "Armenian"
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ႣჀႽჂ ႭႸႺႱ ⴇზⴂⴄჺⴊ ⴊფაⴥⴡⴌ ⴤჟღⴄსⴇ",
         "url": {
@@ -820,9 +910,11 @@
         "family_name": "Zoto Sans Glagolitic",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Glagolitic"
+        "description": "Reference sans font for the Glagolitic script",
+        "categories": [
+            "Glagolitic",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ⰋⰤⰗⰁⰇⰏ ⰆⰥⰃⰒⰛⰍ ⰵⱍⰴⱑⰰⱎ ⱐⱏⱀⱗⱚⱑ ⰺⰽⱆⱊⱇⱌ",
         "url": {
@@ -838,9 +930,11 @@
         "family_name": "Zoto Sans Gothic",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Gothic"
+        "description": "Reference sans font for the Gothic script",
+        "categories": [
+            "Gothic",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𐍉𐍆𐌱𐌿𐍀𐌾 𐌹𐌶𐍃𐌼𐍈𐍇 𐍂𐌷𐌳𐍄𐌰𐌲 𐌺𐌸𐍅𐌵𐌽𐌻 𐌴",
         "url": {
@@ -856,9 +950,11 @@
         "family_name": "Zoto Sans Gurmukhi",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Gurmukhi"
+        "description": "Reference sans font for the Gurmukhi script",
+        "categories": [
+            "Gurmukhi",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ਔਅਗ਼ਘਇਪ ਣੴਆਙਜਥ ਯਡਫ਼ਖ਼ਹਦ ਨਲ਼ਈਞਲਛ ਬਏਕੲਗਭ",
         "url": {
@@ -874,9 +970,11 @@
         "family_name": "Zoto Sans Hanunoo",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Hanunoo"
+        "description": "Reference sans font for the Hanunoo script",
+        "categories": [
+            "Hanunoo",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ᜣᜢᜬᜮᜡᜥ ᜦᜩᜱᜫᜤᜰ ᜠᜪᜨᜧᜯᜭ",
         "url": {
@@ -892,9 +990,11 @@
         "family_name": "Zoto Sans Hebrew",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Hebrew"
+        "description": "Reference sans font for the Hebrew script",
+        "categories": [
+            "Hebrew",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ןפרטּזּשׂ לּאָקמּיּשּׂ זףתעהּךּ אﬠךהװתּ כּײַﭏﬦוּבֿ",
         "url": {
@@ -910,28 +1010,30 @@
         "family_name": "Zoto Sans Historic",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Egyptian Hieroglyphs",
-            "Cuneiform",
-            "Linear B",
-            "Latin",
-            "Old Turkic",
-            "Samaritan",
+        "description": "Reference sans font for several historic scripts",
+        "categories": [
             "Avestan",
-            "Phags Pa",
             "Carian",
-            "Old Persian",
-            "Ugaritic",
-            "Osmanya",
-            "Old South Arabian",
-            "Mandaic",
+            "Cuneiform",
+            "Egyptian Hieroglyphs",
+            "Imperial Aramaic",
+            "Inscriptional Pahlavi",
+            "Inscriptional Parthian",
+            "Latin",
+            "Linear B",
             "Lycian",
             "Lydian",
-            "Imperial Aramaic",
+            "Mandaic",
+            "Old Persian",
+            "Old South Arabian",
+            "Old Turkic",
+            "Osmanya",
+            "Phags Pa",
             "Phoenician",
-            "Inscriptional Parthian",
-            "Inscriptional Pahlavi"
+            "Reference",
+            "Samaritan",
+            "Sans",
+            "Ugaritic"
         ],
         "sample_text": "ࠀࠁࡀࡁꡀ ꡁ𐀀𐀁𐊀𐊁 𐎀𐎁𐎠𐎡𐒀 𐒁𐡀𐡁𐤀𐤁 𐤠𐤡𐩠𐩡𐬀 𐬁𐭀𐭁𐭠𐭡𐰀𐰁𒀀𒀁𓀀𓀁",
         "url": {
@@ -947,9 +1049,11 @@
         "family_name": "Zoto Sans Imperial Aramaic",
         "copyright": "Copyright 2011 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Imperial Aramaic"
+        "description": "Reference sans font for the Imperial Aramaic script",
+        "categories": [
+            "Imperial Aramaic",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𐡑𐡀𐡈𐡉𐡄𐡁 𐡕𐡇𐡋𐡍𐡔𐡓 𐡆𐡎𐡅𐡏𐡒𐡂 𐡌𐡊𐡐𐡃",
         "url": {
@@ -965,9 +1069,11 @@
         "family_name": "Zoto Sans Inscriptional Pahlavi",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Inscriptional Pahlavi"
+        "description": "Reference sans font for the Inscriptional Pahlavi script",
+        "categories": [
+            "Inscriptional Pahlavi",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𐭰𐭠𐭫𐭨𐭬𐭩 𐭢𐭧𐭯𐭦𐭣𐭤 𐭡𐭱𐭪𐭲𐭭𐭮 𐭥",
         "url": {
@@ -983,9 +1089,11 @@
         "family_name": "Zoto Sans Inscriptional Parthian",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Inscriptional Parthian"
+        "description": "Reference sans font for the Inscriptional Parthian script",
+        "categories": [
+            "Inscriptional Parthian",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𐭊𐭕𐭈𐭃𐭔𐭍 𐭏𐭋𐭆𐭁𐭐𐭂 𐭀𐭄𐭒𐭌𐭎𐭅 𐭓𐭇𐭉𐭑",
         "url": {
@@ -1001,9 +1109,11 @@
         "family_name": "Zoto Sans Javanese",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Javanese"
+        "description": "Reference sans font for the Javanese script",
+        "categories": [
+            "Javanese",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ꦅꦲꦈꦠꦞꦕ ꦪꦉꦚꦜꦣꦯ ꦧꦋꦇꦙꦥꦛ ꦆꦦꦡꦔꦫꦭ ꦩꦬꦖꦏꦝꦢ",
         "url": {
@@ -1019,9 +1129,11 @@
         "family_name": "Zoto Sans Kayah Li",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Kayah Li"
+        "description": "Reference sans font for the Kayah Li script",
+        "categories": [
+            "Kayah Li",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ꤢꤜꤊꤍꤠꤝ ꤒꤥꤟꤖꤐꤛ ꤋꤡꤌꤑꤞꤔ ꤚꤙꤎꤕꤏꤤ ꤘꤣꤓꤗ",
         "url": {
@@ -1037,9 +1149,11 @@
         "family_name": "Zoto Sans Kharoshthi",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Kharoshthi"
+        "description": "Reference sans font for the Kharoshthi script",
+        "categories": [
+            "Kharoshthi",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𐨙𐨥𐨣𐨦𐨮𐨤 𐨀𐨬𐨐𐨞𐨖𐨠 𐨡𐨟𐨳𐨛𐨰𐨲 𐨯𐨜𐨭𐨒𐨫𐨱 𐨨𐨗𐨢𐨑𐨪𐨧",
         "url": {
@@ -1055,9 +1169,11 @@
         "family_name": "Zoto Sans Khmer",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Khmer"
+        "description": "Reference sans font for the Khmer script",
+        "categories": [
+            "Khmer",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "យខឍឡឣឳ ឱផងទណឥ ឃពកឨឰគ ឮៗជសឲឫ ឌលថឋឧឝ",
         "url": {
@@ -1073,9 +1189,11 @@
         "family_name": "Zoto Sans Lao",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Lao"
+        "description": "Reference sans font for the Lao script",
+        "categories": [
+            "Lao",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ບໃຜລາອ ຫຽຟະຂຄ ຍຣມຳສຈ ໟໆເປຕໝ ພຢງທໜກ",
         "url": {
@@ -1091,9 +1209,11 @@
         "family_name": "Zoto Sans Limbu",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Limbu"
+        "description": "Reference sans font for the Limbu script",
+        "categories": [
+            "Limbu",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ᤌᤖᤓᤁᤕᤃ ᤐᤒᤚᤏᤛᤗ ᤑᤈᤎᤄᤅᤀ ᤜᤍᤆᤂᤔᤘ ᤊᤇᤋᤙᤉ",
         "url": {
@@ -1109,9 +1229,11 @@
         "family_name": "Zoto Sans Linear B",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Linear B"
+        "description": "Reference sans font for the Linear B script",
+        "categories": [
+            "Linear B",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𐁃𐃁𐂬𐂼𐂗𐀫 𐀔𐃀𐂌𐂹𐁉𐂳 𐀺𐃍𐃑𐀁𐂘𐃰 𐀦𐃪𐁍𐁆𐁐𐂵 𐂢𐃵𐃣𐃃𐂨𐂫",
         "url": {
@@ -1127,9 +1249,11 @@
         "family_name": "Zoto Sans Lisu",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Lisu"
+        "description": "Reference sans font for the Lisu script",
+        "categories": [
+            "Lisu",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ꓞꓣꓓꓩꓑꓶ ꓵꓛꓦꓤꓺꓰ ꓲꓹꓢꓳꓽꓫ ꓱꓐꓝꓚꓒꓧ ꓡꓼꓗꓠꓭꓴ",
         "url": {
@@ -1145,9 +1269,11 @@
         "family_name": "Zoto Sans Lycian",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Lycian"
+        "description": "Reference sans font for the Lycian script",
+        "categories": [
+            "Lycian",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𐊜𐊀𐊖𐊙𐊋𐊊 𐊂𐊐𐊛𐊓𐊆𐊑 𐊔𐊗𐊄𐊍𐊘𐊃 𐊕𐊌𐊒𐊉𐊁𐊚 𐊈𐊅𐊎𐊏𐊇",
         "url": {
@@ -1163,9 +1289,11 @@
         "family_name": "Zoto Sans Lydian",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Lydian"
+        "description": "Reference sans font for the Lydian script",
+        "categories": [
+            "Lydian",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𐤡𐤠𐤶𐤰𐤫𐤥 𐤣𐤮𐤸𐤬𐤲𐤯 𐤤𐤦𐤪𐤢𐤷𐤴 𐤩𐤧𐤨𐤹𐤱𐤭 𐤵𐤳",
         "url": {
@@ -1181,9 +1309,11 @@
         "family_name": "Zoto Sans Mandaic",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Mandaic"
+        "description": "Reference sans font for the Mandaic script",
+        "categories": [
+            "Mandaic",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ࡗࡆࡌࡒࡁࡇ ࡊࡉࡋࡎࡖࡈ ࡏࡔࡍࡂࡄࡑ ࡓࡀࡅࡐࡃࡘ ࡕ",
         "url": {
@@ -1199,9 +1329,11 @@
         "family_name": "Zoto Sans Meetei Mayek",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Meetei Mayek"
+        "description": "Reference sans font for the Meetei Mayek script",
+        "categories": [
+            "Meetei Mayek",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ꫢꯐꫧꯝꯂꫡ ꯒꫠꯇꯙꯎꯋ ꯡꯍꫲꯈꫦꯏ ꯔꯕꫩꯜꯛꯖ ꯅꫥꯠꯢꯄꯗ",
         "url": {
@@ -1217,9 +1349,11 @@
         "family_name": "Zoto Sans Mongolian",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Mongolian"
+        "description": "Reference sans font for the Mongolian script",
+        "categories": [
+            "Mongolian",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ᡙᡇᠷᡬᢃᠠ ᢖᠱᠽᠩᡞᡏ ᢢᠬᢙᡮᠫᠥ ᠼᢨᠾᠰᢎᡲ ᢉᢛᢝᢋᠮᡓ",
         "url": {
@@ -1235,9 +1369,11 @@
         "family_name": "Zoto Sans New Tai Lue",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "New Tai Lue"
+        "description": "Reference sans font for the New Tai Lue script",
+        "categories": [
+            "New Tai Lue",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ᦝᧀᧄᦈᦒᦕ ᧂᦁᧃᦱᦆᧉ ᦙᦗᦉᦵᦡᦇ ᦄᦞᦰᦴᦪᦎ ᧅᦑᦸᦌᦏᦘ",
         "url": {
@@ -1253,10 +1389,12 @@
         "family_name": "Zoto Sans NKo",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference sans font for the Nko script",
+        "categories": [
+            "Arabic",
             "Nko",
-            "Arabic"
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ߓߪߣߍߑߞ ߕߛߧߘߖߤ ߟߏߵߨߒߠ ߢߎߥߡߴߝ ߔߩߌߙߊߦ",
         "url": {
@@ -1272,9 +1410,11 @@
         "family_name": "Zoto Sans Ogham",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Ogham"
+        "description": "Reference sans font for the Ogham script",
+        "categories": [
+            "Ogham",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ᚔᚚᚍᚋᚈᚐ ᚉᚏᚕᚅᚆᚂ ᚖᚑᚎᚗᚘᚊ ᚁᚇᚓᚄᚌᚒ ᚙᚃ",
         "url": {
@@ -1290,9 +1430,11 @@
         "family_name": "Zoto Sans Ol Chiki",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Ol Chiki"
+        "description": "Reference sans font for the Ol Chiki script",
+        "categories": [
+            "Ol Chiki",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ᱦᱫᱳᱰᱽᱜ ᱮᱧᱢᱝᱛᱶ ᱡᱯᱞᱹᱴᱣ ᱥᱱᱵᱷᱠᱭ ᱸᱬᱺᱲᱤᱪ",
         "url": {
@@ -1308,9 +1450,11 @@
         "family_name": "Zoto Sans Old Italic",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Old Italic"
+        "description": "Reference sans font for the Old Italic script",
+        "categories": [
+            "Old Italic",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𐌏𐌉𐌆𐌊𐌙𐌜 𐌇𐌞𐌕𐌎𐌀𐌚 𐌃𐌁𐌓𐌅𐌋𐌔 𐌘𐌌𐌛𐌖𐌍𐌈 𐌄𐌝𐌐𐌂𐌗𐌑",
         "url": {
@@ -1326,9 +1470,11 @@
         "family_name": "Zoto Sans Old Persian",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Old Persian"
+        "description": "Reference sans font for the Old Persian script",
+        "categories": [
+            "Old Persian",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𐎣𐏈𐎽𐎸𐎢𐎻 𐎷𐏊𐎳𐎱𐎵𐎩 𐎨𐏌𐎶𐎬𐎰𐏋 𐎾𐎠𐏀𐎺𐎿𐎦 𐏍𐏉𐎡𐎴𐎼𐎹",
         "url": {
@@ -1344,9 +1490,11 @@
         "family_name": "Zoto Sans Old South Arabian",
         "copyright": "Copyright 2011 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Old South Arabian"
+        "description": "Reference sans font for the Old South Arabian script",
+        "categories": [
+            "Old South Arabian",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𐩧𐩣𐩳𐩡𐩺𐩻 𐩷𐩰𐩫𐩸𐩶𐩮 𐩴𐩱𐩥𐩢𐩭𐩵 𐩪𐩬𐩨𐩩𐩼𐩦 𐩹𐩯𐩠𐩲𐩤",
         "url": {
@@ -1362,9 +1510,11 @@
         "family_name": "Zoto Sans Old Turkic",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Old Turkic"
+        "description": "Reference sans font for the Old Turkic script",
+        "categories": [
+            "Old Turkic",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𐰥𐱁𐰶𐰢𐰯𐰐 𐰋𐰪𐰚𐰈𐰛𐰗 𐰳𐰝𐰖𐰊𐱆𐰽 𐰬𐰺𐰨𐰘𐰟𐰦 𐱅𐰼𐰁𐰹𐰙𐱀",
         "url": {
@@ -1380,9 +1530,11 @@
         "family_name": "Zoto Sans Osmanya",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Osmanya"
+        "description": "Reference sans font for the Osmanya script",
+        "categories": [
+            "Osmanya",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𐒌𐒆𐒓𐒈𐒊𐒚 𐒒𐒉𐒙𐒀𐒑𐒘 𐒖𐒅𐒃𐒄𐒕𐒝 𐒇𐒍𐒏𐒋𐒗𐒜 𐒛𐒐𐒔𐒁𐒂𐒎",
         "url": {
@@ -1398,10 +1550,12 @@
         "family_name": "Zoto Sans Phags Pa",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference sans font for the Phags-pa script",
+        "categories": [
+            "Mongolian",
             "Phags Pa",
-            "Mongolian"
+            "Reference",
+            "Sans"
         ],
         "sample_text": "ꡜꡤꡩꡕꡏꡂ ꡐꡗꡡꡯꡭꡓ ꡖꡘꡑꡉꡧꡟ ꡇꡁꡰꡄꡲꡥ ꡀꡆꡌꡙꡪꡠ",
         "url": {
@@ -1417,9 +1571,11 @@
         "family_name": "Zoto Sans Phoenician",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Phoenician"
+        "description": "Reference sans font for the Phoenician script",
+        "categories": [
+            "Phoenician",
+            "Reference",
+            "Sans"
         ],
         "sample_text": "𐤏𐤋𐤕𐤑𐤐𐤆 𐤉𐤔𐤍𐤅𐤒𐤄 𐤂𐤇𐤃𐤓𐤀𐤈 𐤁𐤊𐤎𐤌",
         "url": {
@@ -1435,9 +1591,11 @@
         "family_name": "Zoto Sans Rejang",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Rejang"
+        "description": "Reference sans font for the Rejang script",
+        "categories": [
+            "Reference",
+            "Rejang",
+            "Sans"
         ],
         "sample_text": "ꤶꥀꤱꤺꤻꤵ ꤳꥂꥁꤴꥃꤸ ꤼꥄꥅꤾꤹꤿ ꤽꤲꤰꥆꤷ",
         "url": {
@@ -1453,9 +1611,11 @@
         "family_name": "Zoto Sans Runic",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Runic"
+        "description": "Reference sans font for the Runic script",
+        "categories": [
+            "Reference",
+            "Runic",
+            "Sans"
         ],
         "sample_text": "ᛗᛠᛌᚴᚠᛊ ᛢᛍᛅᛐᚵᛦ ᚪᛡᚽᛣᚲᛉ ᛤᚥᛖᚢᛘᚧ ᛥᚾᛔᛏᚿᚷ",
         "url": {
@@ -1471,9 +1631,11 @@
         "family_name": "Zoto Sans Samaritan",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Samaritan"
+        "description": "Reference sans font for the Samaritan script",
+        "categories": [
+            "Reference",
+            "Samaritan",
+            "Sans"
         ],
         "sample_text": "ࠎࠑࠃࠔࠕࠁ ࠚࠇࠐࠤࠆࠓ ࠄࠌࠍࠅࠋࠂ ࠏࠈࠉࠒࠨࠀ ࠊ",
         "url": {
@@ -1489,8 +1651,10 @@
         "family_name": "Zoto Sans Saurashtra",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference sans font for the Saurasthra script",
+        "categories": [
+            "Reference",
+            "Sans",
             "Saurashtra"
         ],
         "sample_text": "ꢘꢉꢓꢛꢤꢔ ꢧꢰꢕꢋꢙꢩ ꢮꢬꢊꢑꢡꢨ ꢃꢂꢫꢖꢞꢣ ꢲꢦꢯꢌꢠꢱ",
@@ -1507,8 +1671,10 @@
         "family_name": "Zoto Sans Shavian",
         "copyright": "Copyright 2011 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference sans font for the Shavian script",
+        "categories": [
+            "Reference",
+            "Sans",
             "Shavian"
         ],
         "sample_text": "𐑙𐑷𐑺𐑚𐑶𐑲 𐑳𐑴𐑮𐑤𐑜𐑬 𐑟𐑞𐑥𐑼𐑣𐑭 𐑔𐑵𐑰𐑸𐑻𐑖 𐑢𐑹𐑾𐑿𐑗𐑑",
@@ -1525,8 +1691,10 @@
         "family_name": "Zoto Sans Sundanese",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference sans font for the Sundanese script",
+        "categories": [
+            "Reference",
+            "Sans",
             "Sundanese"
         ],
         "sample_text": "ᮙᮍᮮᮜᮠᮗ ᮅᮞᮚᮒᮑᮯ ᮌᮻᮘᮛᮃᮽ ᮇᮟᮎᮕᮏᮊ ᮓᮺᮝᮄᮆᮋ",
@@ -1543,8 +1711,10 @@
         "family_name": "Zoto Sans Syloti Nagri",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference sans font for the Syloti Nagri script",
+        "categories": [
+            "Reference",
+            "Sans",
             "Syloti Nagri"
         ],
         "sample_text": "ꠅꠏꠙꠒꠍꠡ ꠠꠑꠢꠘꠉꠇ ꠔꠚꠓꠐꠈꠕ ꠖꠌꠀꠁꠊꠎ ꠛꠄꠃꠝꠗꠟ",
@@ -1561,10 +1731,12 @@
         "family_name": "Zoto Sans Symbols",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference symbol font",
+        "categories": [
             "Braille",
-            "Greek"
+            "Greek",
+            "Reference",
+            "Symbol"
         ],
         "sample_text": "⛈꜐➊𝐛ℐ𝛶 ⎶𝜷➇⠭𝈷⩛ 🁁𝒱⍹𝞝𝛍⓾ ⎠ℼ🂧⤖⦖⏕ ⍃𝛕⪃𝑬𝜀⥆",
         "url": {
@@ -1580,8 +1752,10 @@
         "family_name": "Zoto Sans Tagalog",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference sans font for the Tagalog script",
+        "categories": [
+            "Reference",
+            "Sans",
             "Tagalog"
         ],
         "sample_text": "ᜋᜐᜂᜊᜏᜈ ᜁᜃᜀᜑᜄᜇ ᜅᜎᜉᜌᜆ",
@@ -1598,8 +1772,10 @@
         "family_name": "Zoto Sans Tagbanwa",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference sans font for the Tagbanwa script",
+        "categories": [
+            "Reference",
+            "Sans",
             "Tagbanwa"
         ],
         "sample_text": "ᝰᝣᝯᝪᝨᝤ ᝦᝠᝡᝥᝢᝧ ᝫᝮᝬᝩ",
@@ -1616,8 +1792,10 @@
         "family_name": "Zoto Sans Tai Le",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference sans font for the Tai Le script",
+        "categories": [
+            "Reference",
+            "Sans",
             "Tai Le"
         ],
         "sample_text": "ᥑᥪᥗᥢᥤᥡ ᥘᥥᥱᥩᥝᥔ ᥜᥣᥟᥬᥲᥙ ᥒᥴᥠᥖᥭᥕ ᥞᥳᥫᥨᥧᥚ",
@@ -1634,8 +1812,10 @@
         "family_name": "Zoto Sans Tai Tham",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference sans font for the Tai Tham script",
+        "categories": [
+            "Reference",
+            "Sans",
             "Tai Tham"
         ],
         "sample_text": "ᨻᩈᨾᩁᨫᩓ ᨿᩃᩊᨯᩒᨹ ᨤᩏᨭᩀᨳᨢ ᨡᨧᨲᨺᨵᩌ ᨸᩎᨩᨶᩅᨨ",
@@ -1652,10 +1832,12 @@
         "family_name": "Zoto Sans Tai Viet",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Tai Viet",
-            "Latin"
+        "description": "Reference sans font for the Tai Viet script",
+        "categories": [
+            "Latin",
+            "Reference",
+            "Sans",
+            "Tai Viet"
         ],
         "sample_text": "ꪕꪮꪃꪺꪄꪪ ꪅꪻꪍꪢꪠꪩ ꪔꪆꪶꪭꪯꪋ ꪇꪽꫛꪟꪛꫝ ꪒꪘꪚꪉꪌꪊ",
         "url": {
@@ -1671,8 +1853,10 @@
         "family_name": "Zoto Sans Tamil",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference sans font for the Tamil script",
+        "categories": [
+            "Reference",
+            "Sans",
             "Tamil"
         ],
         "sample_text": "ஶஹௐஈஞட ஓணஎஙளய தஊஔஉஆற மசஒநவஸ ஏஐகழஜஷ",
@@ -1689,10 +1873,12 @@
         "family_name": "Zoto Sans Thaana",
         "copyright": "Copyright 2014 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Thaana",
-            "Arabic"
+        "description": "Reference sans font for the Thaana script",
+        "categories": [
+            "Arabic",
+            "Reference",
+            "Sans",
+            "Thaana"
         ],
         "sample_text": "ޘޢޚޝމޕ ލޱފވޔޖ ޣސބށޙޥ ޠޅޓޏޗޤ ކތހޛޡރ",
         "url": {
@@ -1708,8 +1894,10 @@
         "family_name": "Zoto Sans Tifinagh",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference sans font for the Tifinagh script",
+        "categories": [
+            "Reference",
+            "Sans",
             "Tifinagh"
         ],
         "sample_text": "ⴲⵢⵑⴿⴺⵉ ⵆⵅⵤⵕⴸⵞ ⴼⴵⴻⵍⵃⵄ ⵈⵐⴳⵛⵌⵖ ⵣⴴⵧⵓⵏⴹ",
@@ -1726,8 +1914,10 @@
         "family_name": "Zoto Sans Ugaritic",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference sans font for the Ugaritic script",
+        "categories": [
+            "Reference",
+            "Sans",
             "Ugaritic"
         ],
         "sample_text": "𐎍𐎒𐎁𐎓𐎔𐎋 𐎄𐎌𐎅𐎛𐎆𐎑 𐎊𐎐𐎜𐎝𐎏𐎘 𐎉𐎈𐎚𐎃𐎖𐎗 𐎇𐎕𐎙𐎀𐎂𐎎",
@@ -1744,8 +1934,10 @@
         "family_name": "Zoto Sans Vai",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference sans font for the Vai script",
+        "categories": [
+            "Reference",
+            "Sans",
             "Vai"
         ],
         "sample_text": "ꗌꕥꗍꕟꔆꕭ ꖡꔈꗚꗝꔴꖒ ꗦꔚꖏꕣꔼꕀ ꔋꕷꖢꕽꕑꗛ ꔳꘁꗮꖱꗫꖫ",
@@ -1762,8 +1954,10 @@
         "family_name": "Zoto Sans Yi",
         "copyright": "Copyright 2013 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference sans font for the Yi script",
+        "categories": [
+            "Reference",
+            "Sans",
             "Yi"
         ],
         "sample_text": "ꋅꁪꁳꃬꂘꏦ ꅫꐕꌉꆂꉨꆌ ꆣꆋꋆꅐꆿꅠ ꎫꄇꅙꌤꋻꅱ ꉀꎲꇵꂭꋸꅝ",
@@ -1780,9 +1974,11 @@
         "family_name": "Zoto Serif Armenian",
         "copyright": "Copyright 2014 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Armenian"
+        "description": "Reference serif font for the Armenian script",
+        "categories": [
+            "Armenian",
+            "Reference",
+            "Serif"
         ],
         "sample_text": "ԽՉՒԿՂՅ ՏՂԸՄԵԻ էէզըքգ նբյթփպ թցզՙձծ",
         "url": {
@@ -1798,10 +1994,12 @@
         "family_name": "Zoto Serif Georgian",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
+        "description": "Reference serif font for the Georgian script",
+        "categories": [
+            "Armenian",
             "Georgian",
-            "Armenian"
+            "Reference",
+            "Serif"
         ],
         "sample_text": "ჁჼჅႧႶႴႲ ⴟშვⴌⴔⴠ ⴤⴆჰⴀⴈⴎ ⴟჶⴊⴚლგⴌ",
         "url": {
@@ -1817,9 +2015,11 @@
         "family_name": "Zoto Serif Khmer",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Khmer"
+        "description": "Reference serif font for the Khmer script",
+        "categories": [
+            "Khmer",
+            "Reference",
+            "Serif"
         ],
         "sample_text": "ឲយរឦញណ ឫខឥហសឭ ឳគងបឌឍ ថឧឈៗនធ ឡឆឯជឬឞ",
         "url": {
@@ -1835,9 +2035,11 @@
         "family_name": "Zoto Serif Lao",
         "copyright": "Copyright 2012 Google Inc. All Rights Reserved.",
         "license": "Apache",
-        "description": "Font",
-        "scripts": [
-            "Lao"
+        "description": "Reference serif font for the Lao script",
+        "categories": [
+            "Lao",
+            "Reference",
+            "Serif"
         ],
         "sample_text": "ໃຣຯສຕດ ຊຢມໝເຫ ໂນໄຝວແ ໞບຈພະລ ຟກໜຳຮໟ",
         "url": {

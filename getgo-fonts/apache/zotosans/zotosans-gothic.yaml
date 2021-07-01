@@ -2,7 +2,10 @@ full_name: Zoto Sans Gothic
 family_name: Zoto Sans Gothic
 copyright: Copyright 2012 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Gothic script
+categories:
+- Reference
+- Sans
 scripts:
 - Gothic
 sample_text: 𐍉𐍆𐌱𐌿𐍀𐌾 𐌹𐌶𐍃𐌼𐍈𐍇 𐍂𐌷𐌳𐍄𐌰𐌲 𐌺𐌸𐍅𐌵𐌽𐌻 𐌴

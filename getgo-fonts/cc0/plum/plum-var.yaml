@@ -2,7 +2,10 @@ full_name: GG Plum
 family_name: GG Plum
 copyright: ""
 license: CC-0
-description: Font
+description: Humanist sanserif font family with a weight axis
+categories:
+- Variable
+- Sans
 scripts:
 - Latin
 sample_text: CLARITY CĞBJÌĂ flight ẅoîẁĳœ effvgý

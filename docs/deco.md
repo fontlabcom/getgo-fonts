@@ -13,7 +13,7 @@ title: "GG Deco"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/deco/deco.vfj){: .btn .btn-purple target="_blank" }
 
-license: CC-0 \| Font \| glyphs: 104 \| scripts: Latin
+license: CC-0 \| Geometric art deco sanserif font \| glyphs: 104 \| scripts: Latin
 
 ---
 

@@ -13,7 +13,7 @@ title: "Zoto Sans Kharoshthi"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-kharoshthi.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 133 \| scripts: Kharoshthi
+license: Apache \| Reference sans font for the Kharoshthi script \| glyphs: 133 \| scripts: Kharoshthi
 
 ---
 

@@ -13,7 +13,7 @@ title: "Zoto Sans Shavian"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-shavian.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 52 \| scripts: Shavian
+license: Apache \| Reference sans font for the Shavian script \| glyphs: 52 \| scripts: Shavian
 
 ---
 

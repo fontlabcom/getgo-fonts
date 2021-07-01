@@ -2,7 +2,10 @@ full_name: Zoto Sans Khmer
 family_name: Zoto Sans Khmer
 copyright: Copyright 2012 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Khmer script
+categories:
+- Reference
+- Sans
 scripts:
 - Khmer
 sample_text: យខឍឡឣឳ ឱផងទណឥ ឃពកឨឰគ ឮៗជសឲឫ ឌលថឋឧឝ

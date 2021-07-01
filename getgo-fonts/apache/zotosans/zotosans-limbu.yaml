@@ -2,7 +2,10 @@ full_name: Zoto Sans Limbu
 family_name: Zoto Sans Limbu
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Limbu script
+categories:
+- Reference
+- Sans
 scripts:
 - Limbu
 sample_text: ᤌᤖᤓᤁᤕᤃ ᤐᤒᤚᤏᤛᤗ ᤑᤈᤎᤄᤅᤀ ᤜᤍᤆᤂᤔᤘ ᤊᤇᤋᤙᤉ

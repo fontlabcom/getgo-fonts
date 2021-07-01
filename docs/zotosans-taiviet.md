@@ -13,7 +13,7 @@ title: "Zoto Sans Tai Viet"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-taiviet.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 81 \| scripts: Tai Viet, Latin
+license: Apache \| Reference sans font for the Tai Viet script \| glyphs: 81 \| scripts: Tai Viet, Latin
 
 ---
 

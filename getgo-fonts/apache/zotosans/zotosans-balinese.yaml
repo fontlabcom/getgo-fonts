@@ -2,7 +2,10 @@ full_name: Zoto Sans Balinese
 family_name: Zoto Sans Balinese
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Balinese script
+categories:
+- Reference
+- Sans
 scripts:
 - Balinese
 sample_text: ᬰᬋᬘᬎᬓᬮ ᭊᬉᬥᬫᬌᬯ ᬪᬠᬲᭋᭅᬡ ᬑᬊᬭᬒᬨᬅ ᬧᬇᬗᬍᬩᭆ

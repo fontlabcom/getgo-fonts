@@ -2,7 +2,10 @@ full_name: Zoto Sans Old Persian
 family_name: Zoto Sans Old Persian
 copyright: Copyright 2012 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Old Persian script
+categories:
+- Reference
+- Sans
 scripts:
 - Old Persian
 sample_text: 𐎣𐏈𐎽𐎸𐎢𐎻 𐎷𐏊𐎳𐎱𐎵𐎩 𐎨𐏌𐎶𐎬𐎰𐏋 𐎾𐎠𐏀𐎺𐎿𐎦 𐏍𐏉𐎡𐎴𐎼𐎹

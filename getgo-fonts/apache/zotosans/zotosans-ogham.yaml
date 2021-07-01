@@ -2,7 +2,10 @@ full_name: Zoto Sans Ogham
 family_name: Zoto Sans Ogham
 copyright: Copyright 2012 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Ogham script
+categories:
+- Reference
+- Sans
 scripts:
 - Ogham
 sample_text: ᚔᚚᚍᚋᚈᚐ ᚉᚏᚕᚅᚆᚂ ᚖᚑᚎᚗᚘᚊ ᚁᚇᚓᚄᚌᚒ ᚙᚃ

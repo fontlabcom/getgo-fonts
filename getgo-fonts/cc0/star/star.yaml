@@ -4,7 +4,9 @@ copyright: |-
   Copyright Dmitriy Sychiov 2021
   “Daily Double” by “Quinn Davis” (https://fontstruct.com/fontstructors/show/1507185/sonicfontshd)
 license: CC-0
-description: Font
+description: Narrow retro sci-fi display font
+categories:
+- Display
 scripts:
 - Cyrillic
 - Latin

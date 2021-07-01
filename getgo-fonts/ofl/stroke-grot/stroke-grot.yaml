@@ -2,7 +2,10 @@ full_name: GG Stroke Grot OFL
 family_name: GG Stroke Grot OFL
 copyright: Copyright © 2015 by Wei Huang.  All rights reserved.
 license: OFL
-description: Font
+description: Single-stroke grotesque sanserif design, for use with Power Brush or Stroke
+categories:
+- Sans
+- Single-stroke
 scripts:
 - Latin
 sample_text: PJVNNX TQFBHI wuufªk ldmzea prxhºy

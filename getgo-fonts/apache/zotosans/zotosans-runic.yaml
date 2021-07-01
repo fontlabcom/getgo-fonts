@@ -2,7 +2,10 @@ full_name: Zoto Sans Runic
 family_name: Zoto Sans Runic
 copyright: Copyright 2012 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Runic script
+categories:
+- Reference
+- Sans
 scripts:
 - Runic
 sample_text: ᛗᛠᛌᚴᚠᛊ ᛢᛍᛅᛐᚵᛦ ᚪᛡᚽᛣᚲᛉ ᛤᚥᛖᚢᛘᚧ ᛥᚾᛔᛏᚿᚷ

@@ -2,7 +2,10 @@ full_name: Zoto Sans Tai Le
 family_name: Zoto Sans Tai Le
 copyright: Copyright 2012 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Tai Le script
+categories:
+- Reference
+- Sans
 scripts:
 - Tai Le
 sample_text: ᥑᥪᥗᥢᥤᥡ ᥘᥥᥱᥩᥝᥔ ᥜᥣᥟᥬᥲᥙ ᥒᥴᥠᥖᥭᥕ ᥞᥳᥫᥨᥧᥚ

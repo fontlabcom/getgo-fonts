@@ -13,7 +13,7 @@ title: "GG Scig OFL Regular"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/scig/scig-var.vfj){: .btn .btn-purple target="_blank" }
 
-license: OFL \| Font \| glyphs: 1218 \| scripts: Latin, Cyrillic
+license: OFL \| Rectangular sanserif design with weight, width, slant and contrast axes \| glyphs: 1218 \| scripts: Latin, Cyrillic
 
 ---
 

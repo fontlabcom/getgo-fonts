@@ -2,7 +2,10 @@ full_name: Zoto Sans Sundanese
 family_name: Zoto Sans Sundanese
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Sundanese script
+categories:
+- Reference
+- Sans
 scripts:
 - Sundanese
 sample_text: ᮙᮍᮮᮜᮠᮗ ᮅᮞᮚᮒᮑᮯ ᮌᮻᮘᮛᮃᮽ ᮇᮟᮎᮕᮏᮊ ᮓᮺᮝᮄᮆᮋ

@@ -2,7 +2,10 @@ full_name: Zoto Sans Javanese
 family_name: Zoto Sans Javanese
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Javanese script
+categories:
+- Reference
+- Sans
 scripts:
 - Javanese
 sample_text: ꦅꦲꦈꦠꦞꦕ ꦪꦉꦚꦜꦣꦯ ꦧꦋꦇꦙꦥꦛ ꦆꦦꦡꦔꦫꦭ ꦩꦬꦖꦏꦝꦢ

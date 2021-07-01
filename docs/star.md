@@ -13,7 +13,7 @@ title: "GG Star"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/star/star.vfj){: .btn .btn-purple target="_blank" }
 
-license: CC-0 \| Font \| glyphs: 144 \| scripts: Cyrillic, Latin
+license: CC-0 \| Narrow retro sci-fi display font \| glyphs: 144 \| scripts: Cyrillic, Latin
 
 ---
 

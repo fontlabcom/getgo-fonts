@@ -5,7 +5,9 @@ copyright: |-
   OCR-A, 2018 Jonh Sauter (CC0)
   OCR-BKxStd, 2010 force4u (CC0)
 license: CC-0
-description: Font
+description: Simple OCR-A (Latin) and OCR-BK (Japanese) font
+categories:
+- Monospace
 scripts:
 - Latin
 - Katakana

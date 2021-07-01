@@ -13,7 +13,7 @@ title: "Zoto Sans Inscriptional Pahlavi"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalpahlavi.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 34 \| scripts: Inscriptional Pahlavi
+license: Apache \| Reference sans font for the Inscriptional Pahlavi script \| glyphs: 34 \| scripts: Inscriptional Pahlavi
 
 ---
 

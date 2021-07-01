@@ -13,7 +13,7 @@ title: "Zoto Sans NKo"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-nko.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 174 \| scripts: Nko, Arabic
+license: Apache \| Reference sans font for the Nko script \| glyphs: 174 \| scripts: Nko, Arabic
 
 ---
 

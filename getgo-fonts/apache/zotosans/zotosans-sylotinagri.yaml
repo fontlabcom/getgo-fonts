@@ -2,7 +2,10 @@ full_name: Zoto Sans Syloti Nagri
 family_name: Zoto Sans Syloti Nagri
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Syloti Nagri script
+categories:
+- Reference
+- Sans
 scripts:
 - Syloti Nagri
 sample_text: ꠅꠏꠙꠒꠍꠡ ꠠꠑꠢꠘꠉꠇ ꠔꠚꠓꠐꠈꠕ ꠖꠌꠀꠁꠊꠎ ꠛꠄꠃꠝꠗꠟ

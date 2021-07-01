@@ -2,7 +2,10 @@ full_name: Zoto Sans Ethiopic
 family_name: Zoto Sans Ethiopic
 copyright: Copyright 2012 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Ethiopic script
+categories:
+- Reference
+- Sans
 scripts:
 - Ethiopic
 sample_text: ⷞⶌኻዝጼዬ ዑቿⷀጴሠሂ ᎍቊዃቾዔሃ ፑጆⷙቶⶉⶳ ጜየቀꬥጽቱ

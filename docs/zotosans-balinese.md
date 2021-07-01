@@ -13,7 +13,7 @@ title: "Zoto Sans Balinese"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-balinese.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 182 \| scripts: Balinese
+license: Apache \| Reference sans font for the Balinese script \| glyphs: 182 \| scripts: Balinese
 
 ---
 

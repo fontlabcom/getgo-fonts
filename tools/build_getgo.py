@@ -370,6 +370,12 @@ class GetGoDocs(object):
             self.data[fo.metadata['full_name']] = OrderedDict()
             drec = self.data[fo.metadata['full_name']]
             drec.update(fo.metadata)
+            drec['categories'] = sorted(
+                list(drec.get('categories', [])) +
+                list(drec.get('scripts', []))
+                )
+            if 'scripts' in drec:
+                del drec['scripts']
             drec['url'] = OrderedDict()
             drec['url']['vfj'] = fo.get_download_url(fo.vfj_path)
             drec['url']['ttf'] = fo.get_download_url(fo.ttf_path)

@@ -13,7 +13,7 @@ title: "Zoto Sans Deseret"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-deseret.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 84 \| scripts: Deseret
+license: Apache \| Reference sans font for the Deseret script \| glyphs: 84 \| scripts: Deseret
 
 ---
 

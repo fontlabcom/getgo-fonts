@@ -13,7 +13,7 @@ title: "Zoto Sans Syloti Nagri"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-sylotinagri.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 85 \| scripts: Syloti Nagri
+license: Apache \| Reference sans font for the Syloti Nagri script \| glyphs: 85 \| scripts: Syloti Nagri
 
 ---
 

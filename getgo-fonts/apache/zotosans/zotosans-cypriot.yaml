@@ -2,7 +2,10 @@ full_name: Zoto Sans Cypriot
 family_name: Zoto Sans Cypriot
 copyright: Copyright 2012 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Cypriot script
+categories:
+- Reference
+- Sans
 scripts:
 - Cypriot
 sample_text: 𐠼𐠐𐠣𐠅𐠎𐠱 𐠩𐠍𐠪𐠢𐠦𐠮 𐠤𐠬𐠲𐠌𐠔𐠰 𐠕𐠞𐠡𐠝𐠖𐠊 𐠒𐠠𐠀𐠨𐠭𐠟

@@ -2,7 +2,10 @@ full_name: Zoto Sans Yi
 family_name: Zoto Sans Yi
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Yi script
+categories:
+- Reference
+- Sans
 scripts:
 - Yi
 sample_text: ꋅꁪꁳꃬꂘꏦ ꅫꐕꌉꆂꉨꆌ ꆣꆋꋆꅐꆿꅠ ꎫꄇꅙꌤꋻꅱ ꉀꎲꇵꂭꋸꅝ

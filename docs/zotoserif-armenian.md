@@ -13,7 +13,7 @@ title: "Zoto Serif Armenian"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-armenian.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 98 \| scripts: Armenian
+license: Apache \| Reference serif font for the Armenian script \| glyphs: 98 \| scripts: Armenian
 
 ---
 

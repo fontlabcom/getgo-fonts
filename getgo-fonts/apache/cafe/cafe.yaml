@@ -5,6 +5,8 @@ copyright: |-
   http://www.apache.org/licenses/LICENSE-2.0.html
 license: Apache
 description: Signpainter-style flat brush script font
+categories:
+- Script
 scripts:
 - Latin
 - Greek

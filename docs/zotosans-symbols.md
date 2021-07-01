@@ -13,7 +13,7 @@ title: "Zoto Sans Symbols"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-symbols.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 5126 \| scripts: Braille, Greek
+license: Apache \| Reference symbol font \| glyphs: 5126 \| scripts: Braille, Greek
 
 ---
 

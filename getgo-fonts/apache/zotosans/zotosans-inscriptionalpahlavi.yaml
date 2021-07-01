@@ -2,7 +2,10 @@ full_name: Zoto Sans Inscriptional Pahlavi
 family_name: Zoto Sans Inscriptional Pahlavi
 copyright: Copyright 2012 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Inscriptional Pahlavi script
+categories:
+- Reference
+- Sans
 scripts:
 - Inscriptional Pahlavi
 sample_text: 𐭰𐭠𐭫𐭨𐭬𐭩 𐭢𐭧𐭯𐭦𐭣𐭤 𐭡𐭱𐭪𐭲𐭭𐭮 𐭥

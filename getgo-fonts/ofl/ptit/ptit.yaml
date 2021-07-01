@@ -5,6 +5,10 @@ copyright: |-
   with Reserved Font Name Pecita.
 license: OFL
 description: Multi-script handwritten font that uses single stroke
+categories:
+- Script
+- Multilingual
+- Single-stroke
 scripts:
 - Latin
 - Greek

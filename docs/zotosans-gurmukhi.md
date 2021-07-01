@@ -13,7 +13,7 @@ title: "Zoto Sans Gurmukhi"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-gurmukhi.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 301 \| scripts: Gurmukhi
+license: Apache \| Reference sans font for the Gurmukhi script \| glyphs: 301 \| scripts: Gurmukhi
 
 ---
 

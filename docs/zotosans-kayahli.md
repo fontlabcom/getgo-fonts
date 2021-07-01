@@ -13,7 +13,7 @@ title: "Zoto Sans Kayah Li"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-kayahli.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 54 \| scripts: Kayah Li
+license: Apache \| Reference sans font for the Kayah Li script \| glyphs: 54 \| scripts: Kayah Li
 
 ---
 

@@ -2,7 +2,10 @@ full_name: Zoto Sans Meetei Mayek
 family_name: Zoto Sans Meetei Mayek
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Meetei Mayek script
+categories:
+- Reference
+- Sans
 scripts:
 - Meetei Mayek
 sample_text: ꫢꯐꫧꯝꯂꫡ ꯒꫠꯇꯙꯎꯋ ꯡꯍꫲꯈꫦꯏ ꯔꯕꫩꯜꯛꯖ ꯅꫥꯠꯢꯄꯗ

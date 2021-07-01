@@ -13,7 +13,7 @@ title: "Zoto Sans Avestan"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-avestan.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 73 \| scripts: Avestan
+license: Apache \| Reference sans font for the Avestan script \| glyphs: 73 \| scripts: Avestan
 
 ---
 

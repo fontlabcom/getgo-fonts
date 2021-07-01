@@ -13,7 +13,7 @@ title: "Zoto Sans Cuneiform"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cuneiform.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 986 \| scripts: Cuneiform
+license: Apache \| Reference sans font for the Cuneiform script \| glyphs: 986 \| scripts: Cuneiform
 
 ---
 

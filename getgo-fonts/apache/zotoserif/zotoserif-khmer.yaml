@@ -2,7 +2,10 @@ full_name: Zoto Serif Khmer
 family_name: Zoto Serif Khmer
 copyright: Copyright 2012 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference serif font for the Khmer script
+categories:
+- Reference
+- Serif
 scripts:
 - Khmer
 sample_text: ឲយរឦញណ ឫខឥហសឭ ឳគងបឌឍ ថឧឈៗនធ ឡឆឯជឬឞ

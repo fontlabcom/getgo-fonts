@@ -13,7 +13,7 @@ title: "Zoto Sans Ugaritic"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-ugaritic.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 35 \| scripts: Ugaritic
+license: Apache \| Reference sans font for the Ugaritic script \| glyphs: 35 \| scripts: Ugaritic
 
 ---
 

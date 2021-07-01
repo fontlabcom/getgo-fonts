@@ -2,7 +2,10 @@ full_name: Zoto Sans Buginese
 family_name: Zoto Sans Buginese
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Buginese script
+categories:
+- Reference
+- Sans
 scripts:
 - Buginese
 sample_text: ᨐᨁᨖᨆᨋᨍ ᨕᨇᨑᨂᨌᨏ ᨃᨉᨓᨈᨒᨅ ᨎᨀᨊᨄᨔ

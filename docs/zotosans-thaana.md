@@ -13,7 +13,7 @@ title: "Zoto Sans Thaana"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-thaana.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 95 \| scripts: Thaana, Arabic
+license: Apache \| Reference sans font for the Thaana script \| glyphs: 95 \| scripts: Thaana, Arabic
 
 ---
 

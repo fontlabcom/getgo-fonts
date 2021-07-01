@@ -13,7 +13,7 @@ title: "Zoto Sans Phoenician"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-phoenician.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 33 \| scripts: Phoenician
+license: Apache \| Reference sans font for the Phoenician script \| glyphs: 33 \| scripts: Phoenician
 
 ---
 

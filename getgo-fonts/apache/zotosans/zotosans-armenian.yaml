@@ -2,7 +2,10 @@ full_name: Zoto Sans Armenian
 family_name: Zoto Sans Armenian
 copyright: Copyright 2014 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Armenian script
+categories:
+- Reference
+- Sans
 scripts:
 - Armenian
 sample_text: ԼՃԻԶԹՆ ՑԻՖՐՂՌ ւզթսգղ ժյﬔվմն փկդխկց

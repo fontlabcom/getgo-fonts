@@ -13,7 +13,7 @@ title: "Zoto Emoji"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoemoji/zoto-emoji.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 771 \| scripts: 
+license: Apache \| Reference font for Emoji symbols \| glyphs: 771 \| scripts: 
 
 ---
 

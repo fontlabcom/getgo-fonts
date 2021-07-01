@@ -2,7 +2,10 @@ full_name: Zoto Sans Phoenician
 family_name: Zoto Sans Phoenician
 copyright: Copyright 2012 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Phoenician script
+categories:
+- Reference
+- Sans
 scripts:
 - Phoenician
 sample_text: 𐤏𐤋𐤕𐤑𐤐𐤆 𐤉𐤔𐤍𐤅𐤒𐤄 𐤂𐤇𐤃𐤓𐤀𐤈 𐤁𐤊𐤎𐤌

@@ -13,7 +13,7 @@ title: "Zoto Serif Khmer"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-khmer.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 378 \| scripts: Khmer
+license: Apache \| Reference serif font for the Khmer script \| glyphs: 378 \| scripts: Khmer
 
 ---
 

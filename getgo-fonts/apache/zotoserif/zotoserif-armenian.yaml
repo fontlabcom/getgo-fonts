@@ -2,7 +2,10 @@ full_name: Zoto Serif Armenian
 family_name: Zoto Serif Armenian
 copyright: Copyright 2014 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference serif font for the Armenian script
+categories:
+- Reference
+- Serif
 scripts:
 - Armenian
 sample_text: ԽՉՒԿՂՅ ՏՂԸՄԵԻ էէզըքգ նբյթփպ թցզՙձծ

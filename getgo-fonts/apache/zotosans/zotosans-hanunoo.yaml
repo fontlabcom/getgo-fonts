@@ -2,7 +2,10 @@ full_name: Zoto Sans Hanunoo
 family_name: Zoto Sans Hanunoo
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Hanunoo script
+categories:
+- Reference
+- Sans
 scripts:
 - Hanunoo
 sample_text: ᜣᜢᜬᜮᜡᜥ ᜦᜩᜱᜫᜤᜰ ᜠᜪᜨᜧᜯᜭ

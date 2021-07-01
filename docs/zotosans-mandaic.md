@@ -13,7 +13,7 @@ title: "Zoto Sans Mandaic"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-mandaic.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 128 \| scripts: Mandaic
+license: Apache \| Reference sans font for the Mandaic script \| glyphs: 128 \| scripts: Mandaic
 
 ---
 

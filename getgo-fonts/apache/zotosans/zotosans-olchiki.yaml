@@ -2,7 +2,10 @@ full_name: Zoto Sans Ol Chiki
 family_name: Zoto Sans Ol Chiki
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Ol Chiki script
+categories:
+- Reference
+- Sans
 scripts:
 - Ol Chiki
 sample_text: ᱦᱫᱳᱰᱽᱜ ᱮᱧᱢᱝᱛᱶ ᱡᱯᱞᱹᱴᱣ ᱥᱱᱵᱷᱠᱭ ᱸᱬᱺᱲᱤᱪ

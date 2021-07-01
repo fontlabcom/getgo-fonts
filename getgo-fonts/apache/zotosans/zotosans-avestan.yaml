@@ -2,7 +2,10 @@ full_name: Zoto Sans Avestan
 family_name: Zoto Sans Avestan
 copyright: Copyright 2013 Google Inc. All Rights Reserved.
 license: Apache
-description: Font
+description: Reference sans font for the Avestan script
+categories:
+- Reference
+- Sans
 scripts:
 - Avestan
 sample_text: 𐬑𐬂𐬜𐬴𐬢𐬄 𐬖𐬁𐬱𐬭𐬆𐬍 𐬛𐬔𐬡𐬫𐬗𐬵 𐬒𐬦𐬥𐬬𐬊𐬲 𐬘𐬣𐬰𐬏𐬅𐬨

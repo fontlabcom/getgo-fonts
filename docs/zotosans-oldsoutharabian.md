@@ -13,7 +13,7 @@ title: "Zoto Sans Old South Arabian"
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-oldsoutharabian.vfj){: .btn .btn-purple target="_blank" }
 
-license: Apache \| Font \| glyphs: 36 \| scripts: Old South Arabian
+license: Apache \| Reference sans font for the Old South Arabian script \| glyphs: 36 \| scripts: Old South Arabian
 
 ---
 

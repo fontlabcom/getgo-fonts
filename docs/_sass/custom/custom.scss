@@ -71,6 +71,9 @@ div.texteditor {
     border-style: solid;
     border-color: rgba(1, 1, 1, 0.03);
     margin: 0px;
+    p {
+        margin: 0px;
+    }
 }
 
 .main-content h1:first-child {

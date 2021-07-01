@@ -1,5 +1,5 @@
-@import 'fonts';
-@import 'https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,600;1,400;1,600&family=Inter:wght@400;500;600&family=Roboto+Mono:ital@0;1&family=Work+Sans:wght@300;400;500&family=Roboto+Condensed:wght@300;400;700&display=swap';
+@import "fonts";
+@import "https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,600;1,400;1,600&family=Inter:wght@400;500;600&family=Roboto+Mono:ital@0;1&family=Work+Sans:wght@300;400;500&family=Roboto+Condensed:wght@300;400;700&display=swap";
 body {
     font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
@@ -7,12 +7,6 @@ body {
 h1,
 h2 {
     font-family: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-}
-
-@media only screen and (min-width: 800px) {
-    .site-header {
-        display: none;
-    }
 }
 
 #main-header .search {
@@ -23,21 +17,32 @@ h2 {
     top: 24px;
 }
 
-@media (min-width: 50rem) and (min-width: 31.25rem) .nav-list .nav-list-item {
-    font-size: 1em !important;
+@media only screen and (min-width: 800px) {
+    .site-header {
+        display: none;
+    }
 }
 
-@media (min-width: 50rem) .nav-list .nav-list-item {
-    font-size: 1em !important;
+@media (min-width: 50rem) and (min-width: 31.25rem) {
+    .nav-list .nav-list-item {
+        font-size: 1em !important;
+    }
 }
 
-@media (min-width: 31.25rem) .nav-list .nav-list-item {
-    font-size: 1em !important;
+@media (min-width: 50rem) {
+    .nav-list .nav-list-item {
+        font-size: 1em !important;
+    }
+    .nav-list .nav-list-item .nav-list-link {
+        min-height: 1.6rem;
+        line-height: 1.5rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
+    }
 }
 
-@media (min-width: 50rem) .nav-list .nav-list-item .nav-list-link {
-    min-height: 1.6rem;
-    line-height: 1.5rem;
-    padding-right: 2rem;
-    padding-left: 2rem;
+@media (min-width: 31.25rem) {
+    .nav-list .nav-list-item {
+        font-size: 1em !important;
+    }
 }

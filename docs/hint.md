@@ -3,6 +3,10 @@ layout: default
 title: "GG Hint"
 ---
 
+
+[![GG Hint](../illustrations/hint.png)](../illustrations/hint.png){: .fancybox data-caption='GG Hint' data-fancybox='getgo'}
+
+
 # GG Hint
 
 <small>You can type in the box below to preview the font:</small>
@@ -35,10 +39,6 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 
 ---
-
-
-[![GG Hint](../illustrations/hint.png)](../illustrations/hint.png){: .fancybox data-caption='GG Hint' data-fancybox='getgo'}
-
 
 ## Character map
 

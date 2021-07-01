@@ -3,6 +3,10 @@ layout: default
 title: "GG Cafe"
 ---
 
+
+[![GG Cafe](../illustrations/cafe.png)](../illustrations/cafe.png){: .fancybox data-caption='GG Cafe' data-fancybox='getgo'}
+
+
 # GG Cafe
 
 <small>You can type in the box below to preview the font:</small>
@@ -35,10 +39,6 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 
 ---
-
-
-[![GG Cafe](../illustrations/cafe.png)](../illustrations/cafe.png){: .fancybox data-caption='GG Cafe' data-fancybox='getgo'}
-
 
 ## Character map
 

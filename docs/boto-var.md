@@ -3,6 +3,10 @@ layout: default
 title: "GG Boto"
 ---
 
+
+[![GG Boto](../illustrations/boto-var.png)](../illustrations/boto-var.png){: .fancybox data-caption='GG Boto' data-fancybox='getgo'}
+
+
 # GG Boto
 
 <small>You can type in the box below to preview the font:</small>
@@ -37,10 +41,6 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 
 ---
-
-
-[![GG Boto](../illustrations/boto-var.png)](../illustrations/boto-var.png){: .fancybox data-caption='GG Boto' data-fancybox='getgo'}
-
 
 ## Character map
 

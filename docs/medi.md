@@ -3,6 +3,10 @@ layout: default
 title: "GG Medi"
 ---
 
+
+[![GG Medi](../illustrations/medi.png)](../illustrations/medi.png){: .fancybox data-caption='GG Medi' data-fancybox='getgo'}
+
+
 # GG Medi
 
 <small>You can type in the box below to preview the font:</small>
@@ -38,10 +42,6 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 
 ---
-
-
-[![GG Medi](../illustrations/medi.png)](../illustrations/medi.png){: .fancybox data-caption='GG Medi' data-fancybox='getgo'}
-
 
 ## Character map
 

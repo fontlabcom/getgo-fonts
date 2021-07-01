@@ -283,7 +283,7 @@ class GetGoFont(object):
 layout: default
 title: "{self.full_name}"
 ---
-
+{illu}
 # {self.full_name}
 
 <small>You can type in the box below to preview the font:</small>
@@ -301,7 +301,7 @@ title: "{self.full_name}"
 {md_article}
 
 ---
-{illu}
+
 ## Character map
 
 <div style="font-family: '{self.full_name}'; font-size: 2em;">

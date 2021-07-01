@@ -3,6 +3,10 @@ layout: default
 title: "GG Rafi OFL"
 ---
 
+
+[![GG Rafi OFL](../illustrations/rafi-var.png)](../illustrations/rafi-var.png){: .fancybox data-caption='GG Rafi OFL' data-fancybox='getgo'}
+
+
 # GG Rafi OFL
 
 <small>You can type in the box below to preview the font:</small>
@@ -40,10 +44,6 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 
 ---
-
-
-[![GG Rafi OFL](../illustrations/rafi-var.png)](../illustrations/rafi-var.png){: .fancybox data-caption='GG Rafi OFL' data-fancybox='getgo'}
-
 
 ## Character map
 

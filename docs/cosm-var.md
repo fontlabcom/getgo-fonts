@@ -3,6 +3,10 @@ layout: default
 title: "GG Cosm"
 ---
 
+
+[![GG Cosm](../illustrations/cosm-var.png)](../illustrations/cosm-var.png){: .fancybox data-caption='GG Cosm' data-fancybox='getgo'}
+
+
 # GG Cosm
 
 <small>You can type in the box below to preview the font:</small>
@@ -38,10 +42,6 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 
 ---
-
-
-[![GG Cosm](../illustrations/cosm-var.png)](../illustrations/cosm-var.png){: .fancybox data-caption='GG Cosm' data-fancybox='getgo'}
-
 
 ## Character map
 

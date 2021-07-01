@@ -3,6 +3,10 @@ layout: default
 title: "GG Veni"
 ---
 
+
+[![GG Veni](../illustrations/veni.png)](../illustrations/veni.png){: .fancybox data-caption='GG Veni' data-fancybox='getgo'}
+
+
 # GG Veni
 
 <small>You can type in the box below to preview the font:</small>
@@ -38,10 +42,6 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 
 ---
-
-
-[![GG Veni](../illustrations/veni.png)](../illustrations/veni.png){: .fancybox data-caption='GG Veni' data-fancybox='getgo'}
-
 
 ## Character map
 

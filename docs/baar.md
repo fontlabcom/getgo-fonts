@@ -3,6 +3,10 @@ layout: default
 title: "GG Baar"
 ---
 
+
+[![GG Baar](../illustrations/baar.png)](../illustrations/baar.png){: .fancybox data-caption='GG Baar' data-fancybox='getgo'}
+
+
 # GG Baar
 
 <small>You can type in the box below to preview the font:</small>
@@ -38,10 +42,6 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 
 ---
-
-
-[![GG Baar](../illustrations/baar.png)](../illustrations/baar.png){: .fancybox data-caption='GG Baar' data-fancybox='getgo'}
-
 
 ## Character map
 

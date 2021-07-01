@@ -3,6 +3,10 @@ layout: default
 title: "GG Fest"
 ---
 
+
+[![GG Fest](../illustrations/fest.png)](../illustrations/fest.png){: .fancybox data-caption='GG Fest' data-fancybox='getgo'}
+
+
 # GG Fest
 
 <small>You can type in the box below to preview the font:</small>
@@ -35,10 +39,6 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 
 ---
-
-
-[![GG Fest](../illustrations/fest.png)](../illustrations/fest.png){: .fancybox data-caption='GG Fest' data-fancybox='getgo'}
-
 
 ## Character map
 

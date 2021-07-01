@@ -3,6 +3,10 @@ layout: default
 title: "GG Pixa"
 ---
 
+
+[![GG Pixa](../illustrations/pixa.png)](../illustrations/pixa.png){: .fancybox data-caption='GG Pixa' data-fancybox='getgo'}
+
+
 # GG Pixa
 
 <small>You can type in the box below to preview the font:</small>
@@ -187,10 +191,6 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 
 ---
-
-
-[![GG Pixa](../illustrations/pixa.png)](../illustrations/pixa.png){: .fancybox data-caption='GG Pixa' data-fancybox='getgo'}
-
 
 ## Character map
 

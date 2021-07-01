@@ -3,6 +3,10 @@ layout: default
 title: "GG Stroke Grot OFL"
 ---
 
+
+[![GG Stroke Grot OFL](../illustrations/stroke-grot.png)](../illustrations/stroke-grot.png){: .fancybox data-caption='GG Stroke Grot OFL' data-fancybox='getgo'}
+
+
 # GG Stroke Grot OFL
 
 <small>You can type in the box below to preview the font:</small>
@@ -40,10 +44,6 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 
 ---
-
-
-[![GG Stroke Grot OFL](../illustrations/stroke-grot.png)](../illustrations/stroke-grot.png){: .fancybox data-caption='GG Stroke Grot OFL' data-fancybox='getgo'}
-
 
 ## Character map
 

@@ -3,6 +3,10 @@ layout: default
 title: "GG Plum"
 ---
 
+
+[![GG Plum](../illustrations/plum-var.png)](../illustrations/plum-var.png){: .fancybox data-caption='GG Plum' data-fancybox='getgo'}
+
+
 # GG Plum
 
 <small>You can type in the box below to preview the font:</small>
@@ -39,10 +43,6 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 
 ---
-
-
-[![GG Plum](../illustrations/plum-var.png)](../illustrations/plum-var.png){: .fancybox data-caption='GG Plum' data-fancybox='getgo'}
-
 
 ## Character map
 

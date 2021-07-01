@@ -3,6 +3,10 @@ layout: default
 title: "GG Star"
 ---
 
+
+[![GG Star](../illustrations/star.png)](../illustrations/star.png){: .fancybox data-caption='GG Star' data-fancybox='getgo'}
+
+
 # GG Star
 
 <small>You can type in the box below to preview the font:</small>
@@ -39,10 +43,6 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 
 ---
-
-
-[![GG Star](../illustrations/star.png)](../illustrations/star.png){: .fancybox data-caption='GG Star' data-fancybox='getgo'}
-
 
 ## Character map
 

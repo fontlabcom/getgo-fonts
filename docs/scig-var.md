@@ -3,6 +3,10 @@ layout: default
 title: "GG Scig OFL Regular"
 ---
 
+
+[![GG Scig OFL Regular](../illustrations/scig-var.png)](../illustrations/scig-var.png){: .fancybox data-caption='GG Scig OFL Regular' data-fancybox='getgo'}
+
+
 # GG Scig OFL Regular
 
 <small>You can type in the box below to preview the font:</small>
@@ -40,10 +44,6 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 
 ---
-
-
-[![GG Scig OFL Regular](../illustrations/scig-var.png)](../illustrations/scig-var.png){: .fancybox data-caption='GG Scig OFL Regular' data-fancybox='getgo'}
-
 
 ## Character map
 

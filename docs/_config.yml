@@ -26,4 +26,4 @@ search:
   rel_url: true
   button: true
 
-footer_content: "Site copyright &copy; 2021 <a target='_blank' href='https://www.fontlab.com/'>Fontlab Ltd</a>. Fonts are copyright of their respective rights owners. See license details for each font. "
+footer_content: "Visit the <a href="https://github.com/fontlabcom/getgo-fonts/">GetGo Fonts repository</a> to report any <a href="https://github.com/fontlabcom/getgo-fonts/issues">issues</a>. Site copyright &copy; 2021 <a target='_blank' href='https://www.fontlab.com/'>Fontlab Ltd</a>. Fonts are copyright of their respective rights owners. See license details for each font. "

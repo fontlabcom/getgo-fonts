@@ -5,10 +5,6 @@ title: "GG Boto"
 
 # GG Boto
 
-
-[![GG Boto](../illustrations/boto-var.png)](../illustrations/boto-var.png){: .fancybox data-caption='GG Boto' data-fancybox='getgo'}
-
-
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" style="font-family: 'GG Boto'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
@@ -20,6 +16,10 @@ Vältože бомуще θρώπον çavatečkul
 license: Apache \| Font \| glyphs: 3387 \| scripts: Latin, Cyrillic, Greek
 
 ---
+
+
+[![GG Boto](../illustrations/boto-var.png)](../illustrations/boto-var.png){: .fancybox data-caption='GG Boto' data-fancybox='getgo'}
+
 
 
 ## GG Boto

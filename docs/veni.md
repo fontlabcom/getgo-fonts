@@ -5,10 +5,6 @@ title: "GG Veni"
 
 # GG Veni
 
-
-[![GG Veni](../illustrations/veni.png)](../illustrations/veni.png){: .fancybox data-caption='GG Veni' data-fancybox='getgo'}
-
-
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" style="font-family: 'GG Veni'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
@@ -20,6 +16,10 @@ VESTIRO ÂÌDÓŸM quantas ùämõœl elegant
 license: CC-0 \| Font \| glyphs: 199 \| scripts: Latin
 
 ---
+
+
+[![GG Veni](../illustrations/veni.png)](../illustrations/veni.png){: .fancybox data-caption='GG Veni' data-fancybox='getgo'}
+
 
 ## GG Veni
 

@@ -5,10 +5,6 @@ title: "GG Cafe"
 
 # GG Cafe
 
-
-[![GG Cafe](../illustrations/cafe.png)](../illustrations/cafe.png){: .fancybox data-caption='GG Cafe' data-fancybox='getgo'}
-
-
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" style="font-family: 'GG Cafe'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
@@ -20,6 +16,10 @@ FRESH DIRECT espresso first ļbĩẅńà
 license: Apache \| Signpainter-style flat brush script font \| glyphs: 372 \| scripts: Latin, Greek
 
 ---
+
+
+[![GG Cafe](../illustrations/cafe.png)](../illustrations/cafe.png){: .fancybox data-caption='GG Cafe' data-fancybox='getgo'}
+
 
 
 ## GG Cafe

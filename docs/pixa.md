@@ -5,10 +5,6 @@ title: "GG Pixa"
 
 # GG Pixa
 
-
-[![GG Pixa](../illustrations/pixa.png)](../illustrations/pixa.png){: .fancybox data-caption='GG Pixa' data-fancybox='getgo'}
-
-
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" style="font-family: 'GG Pixa'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
@@ -20,6 +16,10 @@ A˪̀ͰϢЀ Ա֑؆܀ހߊऀ ঀஂഀกༀကᄀ Ꭰ᐀ ᚠ⠀ ⴰ⺔ぁァ
 license: CC-0 \| Font \| glyphs: 14769 \| scripts: Han, Hangul, Latin, Canadian Aboriginal, Greek, Cyrillic, Arabic, Katakana, Myanmar, Coptic, Devanagari, Cherokee, Armenian, Hiragana, Hebrew, Runic, Bengali, Syriac, Thai, Braille, Tamil, Tifinagh, Nko, Thaana, Tibetan, Ogham, Bopomofo, Malayalam
 
 ---
+
+
+[![GG Pixa](../illustrations/pixa.png)](../illustrations/pixa.png){: .fancybox data-caption='GG Pixa' data-fancybox='getgo'}
+
 
 
 ## GG Pixa

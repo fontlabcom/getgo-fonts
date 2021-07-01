@@ -5,10 +5,6 @@ title: "GG Baar"
 
 # GG Baar
 
-
-[![GG Baar](../illustrations/baar.png)](../illustrations/baar.png){: .fancybox data-caption='GG Baar' data-fancybox='getgo'}
-
-
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" style="font-family: 'GG Baar'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
@@ -20,6 +16,10 @@ DECODE MYSTERY observe greatest rubrum
 license: CC-0 \| Modular narrow display font \| glyphs: 98 \| scripts: Latin
 
 ---
+
+
+[![GG Baar](../illustrations/baar.png)](../illustrations/baar.png){: .fancybox data-caption='GG Baar' data-fancybox='getgo'}
+
 
 ## GG Baar
 

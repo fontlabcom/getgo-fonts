@@ -5,10 +5,6 @@ title: "GG Stroke Chan OFL Italic"
 
 # GG Stroke Chan OFL Italic
 
-
-[![GG Stroke Chan OFL Italic](../illustrations/stroke-chan.png)](../illustrations/stroke-chan.png){: .fancybox data-caption='GG Stroke Chan OFL Italic' data-fancybox='getgo'}
-
-
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" style="font-family: 'GG Stroke Chan OFL Italic'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
@@ -20,6 +16,10 @@ TLVUBG YKMMIP txnckj qixarh zpyegj
 license: OFL \| Font \| glyphs: 106 \| scripts: Latin
 
 ---
+
+
+[![GG Stroke Chan OFL Italic](../illustrations/stroke-chan.png)](../illustrations/stroke-chan.png){: .fancybox data-caption='GG Stroke Chan OFL Italic' data-fancybox='getgo'}
+
 
 ## GG Stroke Chan OFL Italic
 

@@ -5,10 +5,6 @@ title: "GG Deco"
 
 # GG Deco
 
-
-[![GG Deco](../illustrations/deco.png)](../illustrations/deco.png){: .fancybox data-caption='GG Deco' data-fancybox='getgo'}
-
-
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" style="font-family: 'GG Deco'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
@@ -20,6 +16,10 @@ RIDSNC QUAMJV zifwlz matknh bopfxc
 license: CC-0 \| Font \| glyphs: 104 \| scripts: Latin
 
 ---
+
+
+[![GG Deco](../illustrations/deco.png)](../illustrations/deco.png){: .fancybox data-caption='GG Deco' data-fancybox='getgo'}
+
 
 ## GG Deco
 

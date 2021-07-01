@@ -5,10 +5,6 @@ title: "GG Fest"
 
 # GG Fest
 
-
-[![GG Fest](../illustrations/fest.png)](../illustrations/fest.png){: .fancybox data-caption='GG Fest' data-fancybox='getgo'}
-
-
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" style="font-family: 'GG Fest'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
@@ -20,6 +16,10 @@ FESTIVE Hippy orange astound łeľũŧó
 license: Apache \| Festive slab serif font inspired by 1950s hand lettering \| glyphs: 369 \| scripts: Latin
 
 ---
+
+
+[![GG Fest](../illustrations/fest.png)](../illustrations/fest.png){: .fancybox data-caption='GG Fest' data-fancybox='getgo'}
+
 
 
 ## GG Fest

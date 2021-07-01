@@ -5,10 +5,6 @@ title: "GG Rafi OFL Italic"
 
 # GG Rafi OFL Italic
 
-
-[![GG Rafi OFL Italic](../illustrations/rafi-italic-var.png)](../illustrations/rafi-italic-var.png){: .fancybox data-caption='GG Rafi OFL Italic' data-fancybox='getgo'}
-
-
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" style="font-family: 'GG Rafi OFL Italic'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
@@ -20,6 +16,10 @@ LIBRE ŽĿŮŸ interface đkūăbņ
 license: OFL \| Font \| glyphs: 854 \| scripts: Latin, Greek
 
 ---
+
+
+[![GG Rafi OFL Italic](../illustrations/rafi-italic-var.png)](../illustrations/rafi-italic-var.png){: .fancybox data-caption='GG Rafi OFL Italic' data-fancybox='getgo'}
+
 
 
 ## GG Rafi Italic OFL

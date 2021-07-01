@@ -5,10 +5,6 @@ title: "GG Club OFL"
 
 # GG Club OFL
 
-
-[![GG Club OFL](../illustrations/club-var.png)](../illustrations/club-var.png){: .fancybox data-caption='GG Club OFL' data-fancybox='getgo'}
-
-
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" style="font-family: 'GG Club OFL'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
@@ -20,6 +16,10 @@ CLUB ŞẎLOP sports ħěbmṍģ ḝæŧlāť
 license: OFL \| Variable font with 12 axes in college block style \| glyphs: 563 \| scripts: Latin, Greek
 
 ---
+
+
+[![GG Club OFL](../illustrations/club-var.png)](../illustrations/club-var.png){: .fancybox data-caption='GG Club OFL' data-fancybox='getgo'}
+
 
 
 ## GG Club OFL

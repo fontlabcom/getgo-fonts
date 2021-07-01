@@ -5,10 +5,6 @@ title: "GG Scig OFL Regular"
 
 # GG Scig OFL Regular
 
-
-[![GG Scig OFL Regular](../illustrations/scig-var.png)](../illustrations/scig-var.png){: .fancybox data-caption='GG Scig OFL Regular' data-fancybox='getgo'}
-
-
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" style="font-family: 'GG Scig OFL Regular'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
@@ -20,6 +16,10 @@ HELLO ĠRŦȂǺẄ square ǫpøåĝð ąậaģbw
 license: OFL \| Font \| glyphs: 1218 \| scripts: Latin, Cyrillic
 
 ---
+
+
+[![GG Scig OFL Regular](../illustrations/scig-var.png)](../illustrations/scig-var.png){: .fancybox data-caption='GG Scig OFL Regular' data-fancybox='getgo'}
+
 
 
 ## GG Scig OFL

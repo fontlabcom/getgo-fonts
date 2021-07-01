@@ -5,10 +5,6 @@ title: "GG Rafi OFL"
 
 # GG Rafi OFL
 
-
-[![GG Rafi OFL](../illustrations/rafi-var.png)](../illustrations/rafi-var.png){: .fancybox data-caption='GG Rafi OFL' data-fancybox='getgo'}
-
-
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" style="font-family: 'GG Rafi OFL'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
@@ -20,6 +16,10 @@ title: "GG Rafi OFL"
 license: OFL \| Font \| glyphs: 855 \| scripts: Latin, Greek
 
 ---
+
+
+[![GG Rafi OFL](../illustrations/rafi-var.png)](../illustrations/rafi-var.png){: .fancybox data-caption='GG Rafi OFL' data-fancybox='getgo'}
+
 
 
 # GG Rafi OFL

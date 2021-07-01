@@ -5,10 +5,6 @@ title: "GG Star"
 
 # GG Star
 
-
-[![GG Star](../illustrations/star.png)](../illustrations/star.png){: .fancybox data-caption='GG Star' data-fancybox='getgo'}
-
-
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" style="font-family: 'GG Star'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
@@ -20,6 +16,10 @@ QUEST СЪРГУЮ imagine зфоляч ицщиач
 license: CC-0 \| Font \| glyphs: 144 \| scripts: Cyrillic, Latin
 
 ---
+
+
+[![GG Star](../illustrations/star.png)](../illustrations/star.png){: .fancybox data-caption='GG Star' data-fancybox='getgo'}
+
 
 
 ## GG Star

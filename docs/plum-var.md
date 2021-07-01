@@ -5,10 +5,6 @@ title: "GG Plum"
 
 # GG Plum
 
-
-[![GG Plum](../illustrations/plum-var.png)](../illustrations/plum-var.png){: .fancybox data-caption='GG Plum' data-fancybox='getgo'}
-
-
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" style="font-family: 'GG Plum'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
@@ -20,6 +16,10 @@ CLARITY CĞBJÌĂ flight ẅoîẁĳœ effvgý
 license: CC-0 \| Font \| glyphs: 205 \| scripts: Latin
 
 ---
+
+
+[![GG Plum](../illustrations/plum-var.png)](../illustrations/plum-var.png){: .fancybox data-caption='GG Plum' data-fancybox='getgo'}
+
 
 
 ## GG Plum

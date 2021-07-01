@@ -5,10 +5,6 @@ title: "GG Ptit OFL"
 
 # GG Ptit OFL
 
-
-[![GG Ptit OFL](../illustrations/ptit.png)](../illustrations/ptit.png){: .fancybox data-caption='GG Ptit OFL' data-fancybox='getgo'}
-
-
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" style="font-family: 'GG Ptit OFL'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
@@ -20,6 +16,10 @@ SCRIPT fluids write ķniṟɱ îʑᴽțṵž
 license: OFL \| Multi-script handwritten font that uses single stroke \| glyphs: 4760 \| scripts: Latin, Greek, Cyrillic, Katakana, Cherokee
 
 ---
+
+
+[![GG Ptit OFL](../illustrations/ptit.png)](../illustrations/ptit.png){: .fancybox data-caption='GG Ptit OFL' data-fancybox='getgo'}
+
 
 ## GG Ptit OFL
 

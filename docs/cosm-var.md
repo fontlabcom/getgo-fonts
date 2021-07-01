@@ -5,10 +5,6 @@ title: "GG Cosm"
 
 # GG Cosm
 
-
-[![GG Cosm](../illustrations/cosm-var.png)](../illustrations/cosm-var.png){: .fancybox data-caption='GG Cosm' data-fancybox='getgo'}
-
-
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" style="font-family: 'GG Cosm'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
@@ -20,6 +16,10 @@ WORLD ĖÈØŎXĴ discover nękćzęĥ oșőűng
 license: CC-0 \| Font \| glyphs: 359 \| scripts: Latin
 
 ---
+
+
+[![GG Cosm](../illustrations/cosm-var.png)](../illustrations/cosm-var.png){: .fancybox data-caption='GG Cosm' data-fancybox='getgo'}
+
 
 ## GG Cosm
 

@@ -5,10 +5,6 @@ title: "GG Ocra"
 
 # GG Ocra
 
-
-[![GG Ocra](../illustrations/ocra.png)](../illustrations/ocra.png){: .fancybox data-caption='GG Ocra' data-fancybox='getgo'}
-
-
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" style="font-family: 'GG Ocra'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
@@ -20,6 +16,10 @@ KYXIZW PKOJG bpxhzb ｳｴｵｶｷ vlegms
 license: CC-0 \| Font \| glyphs: 177 \| scripts: Latin, Katakana
 
 ---
+
+
+[![GG Ocra](../illustrations/ocra.png)](../illustrations/ocra.png){: .fancybox data-caption='GG Ocra' data-fancybox='getgo'}
+
 
 
 ## GG Ocra

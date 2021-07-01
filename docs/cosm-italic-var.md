@@ -5,10 +5,6 @@ title: "GG Cosm Italic"
 
 # GG Cosm Italic
 
-
-[![GG Cosm Italic](../illustrations/cosm-italic-var.png)](../illustrations/cosm-italic-var.png){: .fancybox data-caption='GG Cosm Italic' data-fancybox='getgo'}
-
-
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" style="font-family: 'GG Cosm Italic'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
@@ -20,6 +16,10 @@ COSMOS ŊŲĦŊŤĮ natural yșœśôá vûūâŧô
 license: CC-0 \| Font \| glyphs: 340 \| scripts: Latin
 
 ---
+
+
+[![GG Cosm Italic](../illustrations/cosm-italic-var.png)](../illustrations/cosm-italic-var.png){: .fancybox data-caption='GG Cosm Italic' data-fancybox='getgo'}
+
 
 ## GG Cosm
 

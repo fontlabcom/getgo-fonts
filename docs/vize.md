@@ -5,10 +5,6 @@ title: "GG Vize"
 
 # GG Vize
 
-
-[![GG Vize](../illustrations/vize.png)](../illustrations/vize.png){: .fancybox data-caption='GG Vize' data-fancybox='getgo'}
-
-
 <small>You can type in the box below to preview the font:</small>
 
 <div contenteditable="true" style="font-family: 'GG Vize'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
@@ -20,6 +16,10 @@ CAPITAL QUEST fashion cuisine elegant
 license: CC-0 \| Font \| glyphs: 103 \| scripts: Latin
 
 ---
+
+
+[![GG Vize](../illustrations/vize.png)](../illustrations/vize.png){: .fancybox data-caption='GG Vize' data-fancybox='getgo'}
+
 
 
 ## GG Vize

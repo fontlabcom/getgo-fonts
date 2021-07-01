@@ -7,8 +7,8 @@ title: "Zoto Sans Meetei Mayek"
 
 <small>You can type in the box below to preview the font:</small>
 
-<div contenteditable="true" style="font-family: 'Zoto Sans Meetei Mayek'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
-ꫢꯐꫧꯝꯂꫡ ꯒꫠꯇꯙꯎꯋ ꯡꯍꫲꯈꫦꯏ ꯔꯕꫩꯜꯛꯖ ꯅꫥꯠꯢꯄꯗ
+<div contenteditable="true" class="texteditor" style="font-family: 'Zoto Sans Meetei Mayek';">
+ꫢꯐꫧꯝꯂꫡ ꯒꫠꯇꯙꯎꯋ ꯡꯍꫲꯈꫦꯏ ꯔꯕꫩꯜꯛꯖ ꯅꫥꯠꯢꯄꯗ{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-meeteimayek.vfj){: .btn .btn-purple target="_blank" }

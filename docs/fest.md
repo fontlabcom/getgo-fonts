@@ -7,8 +7,8 @@ title: "GG Fest"
 
 <small>You can type in the box below to preview the font:</small>
 
-<div contenteditable="true" style="font-family: 'GG Fest'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
-FESTIVE Hippy orange astound łeľũŧó
+<div contenteditable="true" class="texteditor" style="font-family: 'GG Fest';">
+FESTIVE Hippy orange astound łeľũŧó{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/fest/fest.vfj){: .btn .btn-purple target="_blank" }

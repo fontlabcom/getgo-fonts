@@ -7,8 +7,8 @@ title: "GG Plum"
 
 <small>You can type in the box below to preview the font:</small>
 
-<div contenteditable="true" style="font-family: 'GG Plum'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
-CLARITY CĞBJÌĂ flight ẅoîẁĳœ effvgý
+<div contenteditable="true" class="texteditor" style="font-family: 'GG Plum';">
+CLARITY CĞBJÌĂ flight ẅoîẁĳœ effvgý{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/plum/plum-var.vfj){: .btn .btn-purple target="_blank" }

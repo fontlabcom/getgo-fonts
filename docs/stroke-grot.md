@@ -7,8 +7,8 @@ title: "GG Stroke Grot OFL"
 
 <small>You can type in the box below to preview the font:</small>
 
-<div contenteditable="true" style="font-family: 'GG Stroke Grot OFL'; font-size: 4em; color:black; margin: 0.5em 0 0.5em 0; line-height: 1.4em;">
-PJVNNX TQFBHI wuufªk ldmzea prxhºy
+<div contenteditable="true" class="texteditor" style="font-family: 'GG Stroke Grot OFL';">
+PJVNNX TQFBHI wuufªk ldmzea prxhºy{: spellcheck="false" }
 </div>
 
 [Download FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/stroke-grot/stroke-grot.vfj){: .btn .btn-purple target="_blank" }

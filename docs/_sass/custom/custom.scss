@@ -53,6 +53,23 @@ footer.site-footer {
     display: none;
 }
 
-a.fancybox img {
-    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+a.fancybox {
+    cursor: zoom-in;
+    img {
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+    }
+}
+
+div.texteditor {
+    font-size: 4em;
+    color: black;
+    margin: 0.5rem 0 0.5rem 0;
+    line-height: 1.4em;
+    border-width: 0px;
+    border-radius: 4px;
+    background-color: rgba(1, 1, 1, 0.03);
+    p {
+        margin: 0px;
+    }
+    ;
 }

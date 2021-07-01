@@ -40,6 +40,10 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
+
+[GG Star](../illustrations/star.png)
+
+
 ## Character map
 
 <div style="font-family: 'GG Star'; font-size: 2em;">

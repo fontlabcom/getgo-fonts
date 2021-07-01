@@ -41,6 +41,10 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
+
+[GG Scig OFL Regular](../illustrations/scig-var.png)
+
+
 ## Character map
 
 <div style="font-family: 'GG Scig OFL Regular'; font-size: 2em;">

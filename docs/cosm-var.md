@@ -39,6 +39,10 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
+
+[GG Cosm](../illustrations/cosm-var.png)
+
+
 ## Character map
 
 <div style="font-family: 'GG Cosm'; font-size: 2em;">

@@ -41,6 +41,10 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
+
+[GG Stroke Grot OFL](../illustrations/stroke-grot.png)
+
+
 ## Character map
 
 <div style="font-family: 'GG Stroke Grot OFL'; font-size: 2em;">

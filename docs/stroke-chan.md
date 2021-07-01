@@ -40,6 +40,10 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
+
+[GG Stroke Chan OFL Italic](../illustrations/stroke-chan.png)
+
+
 ## Character map
 
 <div style="font-family: 'GG Stroke Chan OFL Italic'; font-size: 2em;">

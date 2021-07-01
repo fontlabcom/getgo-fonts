@@ -52,6 +52,9 @@ class GetGoFont(object):
         self.svg_path = Path(
             self.folders['images'], self.page_url + '.svg'
         ).resolve()
+        self.illu_path = Path(
+            self.folders['illu'], self.page_url + '.png'
+        ).resolve()
         self.png_path = Path(
             self.folders['images'], self.page_url + '.png'
         ).resolve()
@@ -264,6 +267,18 @@ class GetGoFont(object):
 ---
 """
 
+        illu = ''
+        if self.illu_path.is_file():
+            illu_link = str(self.illu_path).replace(
+                str(self.folders['docs']) + '/', '../'
+            )
+
+            illu = f"""
+
+[{self.metadata["full_name"]}]({illu_link})
+
+"""
+
         self.font_md += f"""---
 layout: default
 title: "{self.full_name}"
@@ -286,7 +301,7 @@ title: "{self.full_name}"
 {md_article}
 
 ---
-
+{illu}
 ## Character map
 
 <div style="font-family: '{self.full_name}'; font-size: 2em;">
@@ -320,6 +335,7 @@ class GetGoDocs(object):
         self.folders['md'] = Path(self.folders['root'], 'srcdocs').resolve()
         self.folders['docs'] = Path(self.folders['root'], 'docs').resolve()
         self.folders['woff'] = Path(self.folders['docs'], 'fonts').resolve()
+        self.folders['illu'] = Path(self.folders['docs'], 'illustrations').resolve()
         self.folders['images'] = Path(self.folders['docs'], 'images').resolve()
         self.folders['css'] = Path(self.folders['docs'], '_sass', 'custom').resolve()
 

@@ -36,6 +36,10 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
+
+[GG Cafe](../illustrations/cafe.png)
+
+
 ## Character map
 
 <div style="font-family: 'GG Cafe'; font-size: 2em;">

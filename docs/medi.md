@@ -39,6 +39,10 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
+
+[GG Medi](../illustrations/medi.png)
+
+
 ## Character map
 
 <div style="font-family: 'GG Medi'; font-size: 2em;">

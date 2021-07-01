@@ -39,6 +39,10 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
+
+[GG Deco](../illustrations/deco.png)
+
+
 ## Character map
 
 <div style="font-family: 'GG Deco'; font-size: 2em;">

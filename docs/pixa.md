@@ -188,6 +188,10 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
+
+[GG Pixa](../illustrations/pixa.png)
+
+
 ## Character map
 
 <div style="font-family: 'GG Pixa'; font-size: 2em;">

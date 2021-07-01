@@ -11,12 +11,6 @@
             "name":"mask",
             "flags":13,
             "advanceWidth":2048,
-            "elements":[
-              {
-                "elementData":{
-                }
-              }
-            ],
             "color":"#000096"
           },
           {
@@ -18258,10 +18252,10 @@
       ]
     },
     "info":{
-      "tfn":"Yellowtail",
-      "sgn":"Yellowtail",
-      "creationDate":"2011/07/17 09:29:00",
-      "copyright":"Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+      "tfn":"GG Cafe",
+      "sgn":"GG Cafe",
+      "creationDate":"2011/07/17 10:29:00",
+      "copyright":"Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\nhttp://www.apache.org/licenses/LICENSE-2.0.html",
       "trademark":"Yellowtail is a trademark of Astigmatic (AOETI).",
       "designer":"Astigmatic (AOETI)",
       "designerURL":"http://www.astigmatic.com/",
@@ -18269,7 +18263,7 @@
       "licenseURL":"http://www.apache.org/licenses/LICENSE-2.0",
       "manufacturer":"Astigmatic (AOETI)",
       "manufacturerURL":"http://www.astigmatic.com/",
-      "description":"Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+      "description":"Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\nhttp://www.apache.org/licenses/LICENSE-2.0.html",
       "vendorID":"AOEF",
       "versionMajor":1,
       "versionMinor":0,
@@ -18283,7 +18277,7 @@
     "meta":{
       "metaCreator":true,
       "metaFormatVersion":8,
-      "metaBuild":"7840"
+      "metaBuild":"7649"
     },
     "settings":{
       "settings.RoundCoordinates":"round"
@@ -18293,9 +18287,9 @@
         "fontMaster":{
           "name":"Regular",
           "tsn":"Regular",
-          "sgn":"Yellowtail",
-          "ffn":"Yellowtail",
-          "psn":"Yellowtail",
+          "sgn":"GG Cafe",
+          "ffn":"GG Cafe ",
+          "psn":"GGCafe",
           "weight_name":"Regular",
           "width_name":"Normal",
           "slope_name":"Plain",
@@ -18309,7 +18303,7 @@
           "safeTop":1990,
           "safeBottom":617,
           "underlineThickness":41,
-          "underlinePosition":-251.5,
+          "underlinePosition":-252,
           "inktrapLen":4,
           "panose":"2 0 5 6 0 0 0 2 0 3",
           "guidelines":[
@@ -18334,36 +18328,11 @@
             {
               "name":"f4",
               "style":"custom",
-              "center":"145 0",
-              "vector":"66 100"
+              "vertical":true,
+              "position":145,
+              "delta":200
             }
           ],
-          "mask":{
-            "layer":{
-              "name":"mask",
-              "flags":15,
-              "advanceWidth":0,
-              "guidelines":[
-                {
-                  "horizontal":true,
-                  "position":623
-                },
-                {
-                  "horizontal":true,
-                  "position":1235
-                },
-                {
-                  "horizontal":true,
-                  "position":889
-                },
-                {
-                  "center":"145 0",
-                  "vector":"66 100"
-                }
-              ],
-              "color":"#ff0000"
-            }
-          },
           "otherData":{
             "DistanceX":102,
             "DistanceY":102,
@@ -18371,12 +18340,12 @@
             "HintingMaxV":512,
             "HintingMinH":41,
             "HintingMinV":41,
-            "OS2UseTypoMetrics":false,
+            "OS2UseTypoMetrics":0,
             "ProcessLoops":false,
             "TtHinter":1,
             "TtHorizSmoothing":0,
             "TtNoSmoothing":16,
-            "TtaFamilyAlign":false,
+            "TtaFamilyAlign":0,
             "TtaHintComposites":true,
             "TtaHintingLimit":200,
             "TtaHintingRangeMax":50,

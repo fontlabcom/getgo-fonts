@@ -40,6 +40,10 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
+
+[GG Ocra](../illustrations/ocra.png)
+
+
 ## Character map
 
 <div style="font-family: 'GG Ocra'; font-size: 2em;">

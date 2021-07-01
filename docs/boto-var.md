@@ -38,6 +38,10 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
+
+[GG Boto](../illustrations/boto-var.png)
+
+
 ## Character map
 
 <div style="font-family: 'GG Boto'; font-size: 2em;">

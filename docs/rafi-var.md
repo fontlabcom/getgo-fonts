@@ -41,6 +41,10 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
+
+[GG Rafi OFL](../illustrations/rafi-var.png)
+
+
 ## Character map
 
 <div style="font-family: 'GG Rafi OFL'; font-size: 2em;">

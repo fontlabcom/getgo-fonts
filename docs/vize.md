@@ -40,6 +40,10 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
+
+[GG Vize](../illustrations/vize.png)
+
+
 ## Character map
 
 <div style="font-family: 'GG Vize'; font-size: 2em;">

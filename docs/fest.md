@@ -36,6 +36,10 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
+
+[GG Fest](../illustrations/fest.png)
+
+
 ## Character map
 
 <div style="font-family: 'GG Fest'; font-size: 2em;">

@@ -41,6 +41,10 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ---
 
+
+[GG Rafi OFL Italic](../illustrations/rafi-italic-var.png)
+
+
 ## Character map
 
 <div style="font-family: 'GG Rafi OFL Italic'; font-size: 2em;">

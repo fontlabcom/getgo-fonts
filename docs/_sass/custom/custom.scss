@@ -25,17 +25,19 @@ h2 {
 
 @media (min-width: 50rem) and (min-width: 31.25rem) {
     .nav-list .nav-list-item {
-        font-size: 1em !important;
+        font-size: 13px !important;
     }
 }
 
 @media (min-width: 50rem) {
     .nav-list .nav-list-item {
-        font-size: 1em !important;
+        font-size: 13px !important;
     }
     .nav-list .nav-list-item .nav-list-link {
-        min-height: 1.6rem;
-        line-height: 1.5rem;
+        min-height: 1.3em;
+        line-height: 1.2em;
+        padding-top: 2px;
+        padding-bottom: 2px;
         padding-right: 2rem;
         padding-left: 2rem;
     }
@@ -43,6 +45,6 @@ h2 {
 
 @media (min-width: 31.25rem) {
     .nav-list .nav-list-item {
-        font-size: 1em !important;
+        font-size: 13px !important;
     }
 }

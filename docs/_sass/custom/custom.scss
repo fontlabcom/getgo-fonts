@@ -63,7 +63,7 @@ a.fancybox {
 div.texteditor {
     font-size: 4em;
     color: black;
-    margin: 0.5rem 0 0.5rem 0;
+    margin: 1.5rem 0 1.5rem 0;
     line-height: 1.4em;
     border-width: 0px;
     border-radius: 4px;
@@ -72,4 +72,9 @@ div.texteditor {
     p {
         margin: 0px;
     }
+}
+
+.main-content h1:first-child,
+{
+    margin-top: 2rem;
 }

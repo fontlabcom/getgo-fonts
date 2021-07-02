@@ -15,6 +15,9 @@ collections:
     permalink: /:path/
 permalink: pretty
 
+ga_tracking: UA-313999-1
+ga_tracking_anonymize_ip: false
+
 search_enabled: true
 
 search:

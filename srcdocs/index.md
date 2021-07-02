@@ -1,9 +1,17 @@
 
 # GetGo Fonts
 
-The GetGo fonts are suitable for starting your own font project in FontLab.
+Scratching your head to start a font? FontLab 7 gives you a head start. With 99 free template fonts, we’re guiding you from the get-go! GetGo Fonts for FontLab is a carefully curated collection of quality typeface designs available in FontLab’s native VFJ format.
+
+[![Until 7/7/2021: Save 21% off FontLab 7 & start your typeface with 99 free GetGo fonts](illustrations/fontlab-getgo-1480-getgo21.png)](https://store.fontlab.com/index.php?option=com_mijoshop&view=category&path=54){: target="_blank" }
+
+The 99 free designs range from simple Latin sanserif and serif designs, include display and script fonts, and boast several massive multi-axis variable font projects.
+
+But that’s not all! The Zoto fonts (based on the Noto global font collection) give you ready-to-use templates for over 70 writing systems (scripts) from around the world (Cyrillic, Greek, Arabic, emoji, and many others). Those fonts include the right glyph sets and OpenType features. The GetGo collection even bundles a few single-stroke (skeleton) fonts, on which you can experiment with FontLab’s live calligraphic Power Brush.
 
 ## Licenses
+
+You may create your own fonts based on these fonts, and you may incorporate portions of these fonts into your own fonts. Each GetGo font is available under one of three licenses.
 
 ### CC-0
 
@@ -13,7 +21,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ### Apache
 
-If the font is licensed under the [Apache License v2.0](https://www.apache.org/licenses/LICENSE-2.0.txt): 
+If the font is licensed under the [Apache License v2.0](https://www.apache.org/licenses/LICENSE-2.0.txt):
 
 You may create your own fonts based on this font, and you may incorporate portions of this font into your own font. You may publish your own font under any license, including a commercial license, but you must:
 

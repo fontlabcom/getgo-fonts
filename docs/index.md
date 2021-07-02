@@ -6,9 +6,15 @@ nav_order: 1
 
 # GetGo Fonts for FontLab
 
-The GetGo Fonts for FontLab is a collection of font files, which are suitable for starting your own font project in [FontLab](https://www.fontlab.com/font-editor/fontlab/).
+Scratching your head to start a font? [FontLab 7](https://www.fontlab.com/font-editor/fontlab/) gives you a head start. With 99 free template fonts, we’re guiding you from the get-go! GetGo Fonts for FontLab is a carefully curated collection of quality typeface designs available in FontLab’s native VFJ format.
 
-The fonts are licensed under CC-0 (public domain), Apache or OFL, and are available for download in the FontLab VFJ format. They support a variety of writing systems and design styles, and the collection is growing!
+[![Until 7/7/2021: Save 21% off FontLab 7 & start your typeface with 99 free GetGo fonts](illustrations/fontlab-getgo-1480-getgo21.png)](https://store.fontlab.com/index.php?option=com_mijoshop&view=category&path=54){: target="_blank" }
+
+The 99 free designs range from simple Latin sanserif and serif designs, include display and script fonts, and boast several massive multi-axis variable font projects.
+
+But that’s not all! The Zoto fonts (based on the Noto global font collection) give you ready-to-use templates for over 70 writing systems (scripts) from around the world (Cyrillic, Greek, Arabic, emoji, and many others). Those fonts include the right glyph sets and OpenType features. The GetGo collection even bundles a few single-stroke (skeleton) fonts, on which you can experiment with FontLab’s live calligraphic Power Brush.
+
+You may create your own fonts based on these fonts, and you may incorporate portions of these fonts into your own fonts. Each GetGo font is available under one of three licenses: CC-0 (public domain), Apache or OFL. You can download them in the FontLab VFJ format and open them in [FontLab 7](https://www.fontlab.com/font-editor/fontlab/). The collection is growing! 
 
 ## Download
 

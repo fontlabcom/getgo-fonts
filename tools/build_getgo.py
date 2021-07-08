@@ -258,7 +258,7 @@ class GetGoFont(object):
 
 ### {self.full_name}
 
-[![{self.metadata["sample_text"]}]({svg_link})]({self.page_url + '/'})
+[![{self.metadata["sample_text"]}]({svg_link})]({self.page_url + '/'}){{: .fancybox data-caption="{self.full_name}" data-fancybox="getgo"}}
 
 [Download zipped FontLab VFJ]({download_url}){{: .btn target="_blank" }}
 

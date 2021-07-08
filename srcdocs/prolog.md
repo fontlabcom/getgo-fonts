@@ -8,7 +8,7 @@ nav_order: 1
 
 Scratching your head to start a font? [FontLab 7](https://www.fontlab.com/font-editor/fontlab/) gives you a head start. With 99 free template fonts, we’re guiding you from the get-go! GetGo Fonts for FontLab is a carefully curated collection of quality typeface designs available in FontLab’s native VFJ format.
 
-![Start your font with one of the 99 free GetGo Fonts for FontLab](illustrations/fontlab-getgo-poster-1920x880.svg)
+![Start your font with one of the 99 free GetGo Fonts for FontLab](illustrations/fontlab-getgo-poster-1920x880.svg){: .fancybox data-caption='GetGo Fonts' data-fancybox='getgo'}
 
 The 99 free designs range from simple Latin sanserif and serif designs, include display and script fonts, and boast several massive multi-axis variable font projects.
 

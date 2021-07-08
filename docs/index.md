@@ -8,7 +8,7 @@ nav_order: 1
 
 Scratching your head to start a font? [FontLab 7](https://www.fontlab.com/font-editor/fontlab/) gives you a head start. With 99 free template fonts, we’re guiding you from the get-go! GetGo Fonts for FontLab is a carefully curated collection of quality typeface designs available in FontLab’s native VFJ format.
 
-![Start your font with one of the 99 free GetGo Fonts for FontLab](illustrations/fontlab-getgo-poster-1920x880.svg)
+![Start your font with one of the 99 free GetGo Fonts for FontLab](illustrations/fontlab-getgo-poster-1920x880.svg){: .fancybox data-caption='GetGo Fonts' data-fancybox='getgo'}
 
 The 99 free designs range from simple Latin sanserif and serif designs, include display and script fonts, and boast several massive multi-axis variable font projects.
 
@@ -55,7 +55,7 @@ You may create your own fonts based on this font, and you may incorporate portio
 
 ### GG Baar
 
-[![DECODE MYSTERY observe greatest rubrum](images/baar.svg)](baar/)
+[![DECODE MYSTERY observe greatest rubrum](images/baar.svg)](baar/){: .fancybox data-caption="GG Baar" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/baar/baar.vfj){: .btn target="_blank" }
 
@@ -66,7 +66,7 @@ license: CC-0 \| Modular narrow display font \| glyphs: 98 \| scripts: Latin \| 
 
 ### GG Boto
 
-[![Vältože бомуще θρώπον çavatečkul](images/boto-var.svg)](boto-var/)
+[![Vältože бомуще θρώπον çavatečkul](images/boto-var.svg)](boto-var/){: .fancybox data-caption="GG Boto" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/boto/boto-var.vfj){: .btn target="_blank" }
 
@@ -77,7 +77,7 @@ license: Apache \| Grotesque sanserif design with the width, weight and italic a
 
 ### GG Cafe
 
-[![FRESH DIRECT espresso first ļbĩẅńà](images/cafe.svg)](cafe/)
+[![FRESH DIRECT espresso first ļbĩẅńà](images/cafe.svg)](cafe/){: .fancybox data-caption="GG Cafe" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cafe/cafe.vfj){: .btn target="_blank" }
 
@@ -88,7 +88,7 @@ license: Apache \| Signpainter-style flat brush script font \| glyphs: 372 \| sc
 
 ### GG Club OFL
 
-[![CLUB ŞẎLOP sports ħěbmṍģ ḝæŧlāť](images/club-var.svg)](club-var/)
+[![CLUB ŞẎLOP sports ħěbmṍģ ḝæŧlāť](images/club-var.svg)](club-var/){: .fancybox data-caption="GG Club OFL" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/club/club-var.vfj){: .btn target="_blank" }
 
@@ -99,7 +99,7 @@ license: OFL \| Variable font with 12 axes in college block style \| glyphs: 563
 
 ### GG Cosm Italic
 
-[![COSMOS ŊŲĦŊŤĮ natural yșœśôá vûūâŧô](images/cosm-italic-var.svg)](cosm-italic-var/)
+[![COSMOS ŊŲĦŊŤĮ natural yșœśôá vûūâŧô](images/cosm-italic-var.svg)](cosm-italic-var/){: .fancybox data-caption="GG Cosm Italic" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm-italic-var.vfj){: .btn target="_blank" }
 
@@ -110,7 +110,7 @@ license: CC-0 \| Neo-grotesque sanserif font family with a weight axis, italic v
 
 ### GG Cosm
 
-[![WORLD ĖÈØŎXĴ discover nękćzęĥ oșőűng](images/cosm-var.svg)](cosm-var/)
+[![WORLD ĖÈØŎXĴ discover nękćzęĥ oșőűng](images/cosm-var.svg)](cosm-var/){: .fancybox data-caption="GG Cosm" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm-var.vfj){: .btn target="_blank" }
 
@@ -121,7 +121,7 @@ license: CC-0 \| Neo-grotesque sanserif font family with a weight axis, upright 
 
 ### GG Deco
 
-[![RIDSNC QUAMJV zifwlz matknh bopfxc](images/deco.svg)](deco/)
+[![RIDSNC QUAMJV zifwlz matknh bopfxc](images/deco.svg)](deco/){: .fancybox data-caption="GG Deco" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/deco/deco.vfj){: .btn target="_blank" }
 
@@ -132,7 +132,7 @@ license: CC-0 \| Geometric art deco sanserif font \| glyphs: 104 \| scripts: Lat
 
 ### GG Fest
 
-[![FESTIVE Hippy orange astound łeľũŧó](images/fest.svg)](fest/)
+[![FESTIVE Hippy orange astound łeľũŧó](images/fest.svg)](fest/){: .fancybox data-caption="GG Fest" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/fest/fest.vfj){: .btn target="_blank" }
 
@@ -143,7 +143,7 @@ license: Apache \| Festive slab serif font inspired by 1950s hand lettering \| g
 
 ### GG Hint
 
-[![REVOLT Revolt revolt ĦBŦĒC bĉţėŷľ](images/hint.svg)](hint/)
+[![REVOLT Revolt revolt ĦBŦĒC bĉţėŷľ](images/hint.svg)](hint/){: .fancybox data-caption="GG Hint" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/hint/hint.vfj){: .btn target="_blank" }
 
@@ -154,7 +154,7 @@ license: Apache \| Unicase sanserif design with pixel-perfect manual TrueType Hi
 
 ### GG Medi
 
-[![XLJWDB XAPQJK oilmfd eurnco evsywc](images/medi.svg)](medi/)
+[![XLJWDB XAPQJK oilmfd eurnco evsywc](images/medi.svg)](medi/){: .fancybox data-caption="GG Medi" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/medi/medi.vfj){: .btn target="_blank" }
 
@@ -165,7 +165,7 @@ license: CC-0 \| Didone serif font \| glyphs: 103 \| scripts: Latin \| [Read mor
 
 ### GG Ocra
 
-[![KYXIZW PKOJG bpxhzb ｳｴｵｶｷ vlegms](images/ocra.svg)](ocra/)
+[![KYXIZW PKOJG bpxhzb ｳｴｵｶｷ vlegms](images/ocra.svg)](ocra/){: .fancybox data-caption="GG Ocra" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/ocra/ocra.vfj){: .btn target="_blank" }
 
@@ -176,7 +176,7 @@ license: CC-0 \| Simple OCR-A (Latin) and OCR-BK (Japanese) font \| glyphs: 177 
 
 ### GG Pixa
 
-[![A˪̀ͰϢЀ Ա֑؆܀ހߊऀ ঀஂഀกༀကᄀ Ꭰ᐀ ᚠ⠀ ⴰ⺔ぁァ](images/pixa.svg)](pixa/)
+[![A˪̀ͰϢЀ Ա֑؆܀ހߊऀ ঀஂഀกༀကᄀ Ꭰ᐀ ᚠ⠀ ⴰ⺔ぁァ](images/pixa.svg)](pixa/){: .fancybox data-caption="GG Pixa" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/pixa/pixa.vfj){: .btn target="_blank" }
 
@@ -187,7 +187,7 @@ license: CC-0 \| Quirky pixel font with 14 pixels tall letters, for 28 writing s
 
 ### GG Plum
 
-[![CLARITY CĞBJÌĂ flight ẅoîẁĳœ effvgý](images/plum-var.svg)](plum-var/)
+[![CLARITY CĞBJÌĂ flight ẅoîẁĳœ effvgý](images/plum-var.svg)](plum-var/){: .fancybox data-caption="GG Plum" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/plum/plum-var.vfj){: .btn target="_blank" }
 
@@ -198,7 +198,7 @@ license: CC-0 \| Humanist sanserif font family with a weight axis \| glyphs: 205
 
 ### GG Ptit OFL
 
-[![SCRIPT fluids write ķniṟɱ îʑᴽțṵž](images/ptit.svg)](ptit/)
+[![SCRIPT fluids write ķniṟɱ îʑᴽțṵž](images/ptit.svg)](ptit/){: .fancybox data-caption="GG Ptit OFL" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/ptit/ptit.vfj){: .btn target="_blank" }
 
@@ -209,7 +209,7 @@ license: OFL \| Multi-script handwritten font that uses single stroke \| glyphs:
 
 ### GG Rafi OFL Italic
 
-[![LIBRE ŽĿŮŸ interface đkūăbņ](images/rafi-italic-var.svg)](rafi-italic-var/)
+[![LIBRE ŽĿŮŸ interface đkūăbņ](images/rafi-italic-var.svg)](rafi-italic-var/){: .fancybox data-caption="GG Rafi OFL Italic" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/rafi/rafi-italic-var.vfj){: .btn target="_blank" }
 
@@ -220,7 +220,7 @@ license: OFL \| Legible sanserif for UIs and signage with a weight axis, italic 
 
 ### GG Rafi OFL
 
-[![ÓSITEV TÛĒRGD speaker âdłamÿ ðèŉzæy](images/rafi-var.svg)](rafi-var/)
+[![ÓSITEV TÛĒRGD speaker âdłamÿ ðèŉzæy](images/rafi-var.svg)](rafi-var/){: .fancybox data-caption="GG Rafi OFL" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/rafi/rafi-var.vfj){: .btn target="_blank" }
 
@@ -231,7 +231,7 @@ license: OFL \| Legible sanserif for UIs and signage with a weight axis, italic 
 
 ### GG Scig OFL Regular
 
-[![HELLO ĠRŦȂǺẄ square ǫpøåĝð ąậaģbw](images/scig-var.svg)](scig-var/)
+[![HELLO ĠRŦȂǺẄ square ǫpøåĝð ąậaģbw](images/scig-var.svg)](scig-var/){: .fancybox data-caption="GG Scig OFL Regular" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/scig/scig-var.vfj){: .btn target="_blank" }
 
@@ -242,7 +242,7 @@ license: OFL \| Rectangular sanserif design with weight, width, slant and contra
 
 ### GG Star
 
-[![QUEST СЪРГУЮ imagine зфоляч ицщиач](images/star.svg)](star/)
+[![QUEST СЪРГУЮ imagine зфоляч ицщиач](images/star.svg)](star/){: .fancybox data-caption="GG Star" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/star/star.vfj){: .btn target="_blank" }
 
@@ -253,7 +253,7 @@ license: CC-0 \| Narrow retro sci-fi display font \| glyphs: 144 \| scripts: Cyr
 
 ### GG Stroke Chan OFL Italic
 
-[![TLVUBG YKMMIP txnckj qixarh zpyegj](images/stroke-chan.svg)](stroke-chan/)
+[![TLVUBG YKMMIP txnckj qixarh zpyegj](images/stroke-chan.svg)](stroke-chan/){: .fancybox data-caption="GG Stroke Chan OFL Italic" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/stroke-chan/stroke-chan.vfj){: .btn target="_blank" }
 
@@ -264,7 +264,7 @@ license: OFL \| Single-stroke italic design in chancery style, for use with Powe
 
 ### GG Stroke Grot OFL
 
-[![PJVNNX TQFBHI wuufªk ldmzea prxhºy](images/stroke-grot.svg)](stroke-grot/)
+[![PJVNNX TQFBHI wuufªk ldmzea prxhºy](images/stroke-grot.svg)](stroke-grot/){: .fancybox data-caption="GG Stroke Grot OFL" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/ofl/stroke-grot/stroke-grot.vfj){: .btn target="_blank" }
 
@@ -275,7 +275,7 @@ license: OFL \| Single-stroke grotesque sanserif design, for use with Power Brus
 
 ### GG Veni
 
-[![VESTIRO ÂÌDÓŸM quantas ùämõœl elegant](images/veni.svg)](veni/)
+[![VESTIRO ÂÌDÓŸM quantas ùämõœl elegant](images/veni.svg)](veni/){: .fancybox data-caption="GG Veni" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/veni/veni.vfj){: .btn target="_blank" }
 
@@ -286,7 +286,7 @@ license: CC-0 \| Renaissance serif font \| glyphs: 199 \| scripts: Latin \| [Rea
 
 ### GG Vize
 
-[![CAPITAL QUEST fashion cuisine elegant](images/vize.svg)](vize/)
+[![CAPITAL QUEST fashion cuisine elegant](images/vize.svg)](vize/){: .fancybox data-caption="GG Vize" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/vize/vize.vfj){: .btn target="_blank" }
 
@@ -297,7 +297,7 @@ license: CC-0 \| Renaissance humanist sanserif font \| glyphs: 103 \| scripts: L
 
 ### Zoto Emoji
 
-[![🎡💄🀄🈴😱🐞 🇰🈚👺🍉2🍃 🔨🐣👠🌟🎯✈ 🍪😁 🎈🍸🌼 🍷📧🐔󾓩🏄👶](images/zoto-emoji.svg)](zoto-emoji/)
+[![🎡💄🀄🈴😱🐞 🇰🈚👺🍉2🍃 🔨🐣👠🌟🎯✈ 🍪😁 🎈🍸🌼 🍷📧🐔󾓩🏄👶](images/zoto-emoji.svg)](zoto-emoji/){: .fancybox data-caption="Zoto Emoji" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoemoji/zoto-emoji.vfj){: .btn target="_blank" }
 
@@ -308,7 +308,7 @@ license: Apache \| Reference font for Emoji symbols \| glyphs: 771 \| scripts:  
 
 ### Zoto Kufi Arabic
 
-[![ﻹݬݣڙﺯﭘ ﹾﺂښێﹲۯ ۮڦﭖﺤﮌظ ڰګﺊذﮭڢ ۉﺠحﭧﭭﭽ](images/zoto-kufiarabic.svg)](zoto-kufiarabic/)
+[![ﻹݬݣڙﺯﭘ ﹾﺂښێﹲۯ ۮڦﭖﺤﮌظ ڰګﺊذﮭڢ ۉﺠحﭧﭭﭽ](images/zoto-kufiarabic.svg)](zoto-kufiarabic/){: .fancybox data-caption="Zoto Kufi Arabic" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zoto-kufiarabic.vfj){: .btn target="_blank" }
 
@@ -319,7 +319,7 @@ license: Apache \| Reference font for the Arabic script in the Kufi style \| gly
 
 ### Zoto Sans Armenian
 
-[![ԼՃԻԶԹՆ ՑԻՖՐՂՌ ւզթսգղ ժյﬔվմն փկդխկց](images/zotosans-armenian.svg)](zotosans-armenian/)
+[![ԼՃԻԶԹՆ ՑԻՖՐՂՌ ւզթսգղ ժյﬔվմն փկդխկց](images/zotosans-armenian.svg)](zotosans-armenian/){: .fancybox data-caption="Zoto Sans Armenian" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-armenian.vfj){: .btn target="_blank" }
 
@@ -330,7 +330,7 @@ license: Apache \| Reference sans font for the Armenian script \| glyphs: 98 \| 
 
 ### Zoto Sans Avestan
 
-[![𐬑𐬂𐬜𐬴𐬢𐬄 𐬖𐬁𐬱𐬭𐬆𐬍 𐬛𐬔𐬡𐬫𐬗𐬵 𐬒𐬦𐬥𐬬𐬊𐬲 𐬘𐬣𐬰𐬏𐬅𐬨](images/zotosans-avestan.svg)](zotosans-avestan/)
+[![𐬑𐬂𐬜𐬴𐬢𐬄 𐬖𐬁𐬱𐬭𐬆𐬍 𐬛𐬔𐬡𐬫𐬗𐬵 𐬒𐬦𐬥𐬬𐬊𐬲 𐬘𐬣𐬰𐬏𐬅𐬨](images/zotosans-avestan.svg)](zotosans-avestan/){: .fancybox data-caption="Zoto Sans Avestan" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-avestan.vfj){: .btn target="_blank" }
 
@@ -341,7 +341,7 @@ license: Apache \| Reference sans font for the Avestan script \| glyphs: 73 \| s
 
 ### Zoto Sans Balinese
 
-[![ᬰᬋᬘᬎᬓᬮ ᭊᬉᬥᬫᬌᬯ ᬪᬠᬲᭋᭅᬡ ᬑᬊᬭᬒᬨᬅ ᬧᬇᬗᬍᬩᭆ](images/zotosans-balinese.svg)](zotosans-balinese/)
+[![ᬰᬋᬘᬎᬓᬮ ᭊᬉᬥᬫᬌᬯ ᬪᬠᬲᭋᭅᬡ ᬑᬊᬭᬒᬨᬅ ᬧᬇᬗᬍᬩᭆ](images/zotosans-balinese.svg)](zotosans-balinese/){: .fancybox data-caption="Zoto Sans Balinese" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-balinese.vfj){: .btn target="_blank" }
 
@@ -352,7 +352,7 @@ license: Apache \| Reference sans font for the Balinese script \| glyphs: 182 \|
 
 ### Zoto Sans Bamum
 
-[![𖦺ꚯꛀꛂ𖡖𖠟 𖢇𖧶𖤣𖡎𖢯𖧷 𖦢𖣙ꛚ𖥌ꚴ𖢏 𖣮𖨅𖦿𖧀𖥵𖢱 𖠓ꛆ𖢴ꛎ𖣯𖦊](images/zotosans-bamum.svg)](zotosans-bamum/)
+[![𖦺ꚯꛀꛂ𖡖𖠟 𖢇𖧶𖤣𖡎𖢯𖧷 𖦢𖣙ꛚ𖥌ꚴ𖢏 𖣮𖨅𖦿𖧀𖥵𖢱 𖠓ꛆ𖢴ꛎ𖣯𖦊](images/zotosans-bamum.svg)](zotosans-bamum/){: .fancybox data-caption="Zoto Sans Bamum" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-bamum.vfj){: .btn target="_blank" }
 
@@ -363,7 +363,7 @@ license: Apache \| Reference sans font for the Bamum script \| glyphs: 661 \| sc
 
 ### Zoto Sans Batak
 
-[![ᯓᯇᯆᯂᯠᯑ ᯗᯍᯝᯣᯖᯛ ᯅᯈᯎᯡᯃᯜ ᯀᯊᯄᯘᯤᯙ ᯔᯉᯥᯚᯁᯏ](images/zotosans-batak.svg)](zotosans-batak/)
+[![ᯓᯇᯆᯂᯠᯑ ᯗᯍᯝᯣᯖᯛ ᯅᯈᯎᯡᯃᯜ ᯀᯊᯄᯘᯤᯙ ᯔᯉᯥᯚᯁᯏ](images/zotosans-batak.svg)](zotosans-batak/){: .fancybox data-caption="Zoto Sans Batak" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-batak.vfj){: .btn target="_blank" }
 
@@ -374,7 +374,7 @@ license: Apache \| Reference sans font for the Batak script \| glyphs: 61 \| scr
 
 ### Zoto Sans Brahmi
 
-[![𑀤𑀭𑀬𑀥𑀰𑀉 𑀐𑀨𑀘𑀟𑀫𑀕 𑀗𑀓𑀷𑀣𑀲𑀳 𑀃𑀎𑀒𑀍𑀌𑀦 𑀡𑀋𑀚𑀑𑀊𑀇](images/zotosans-brahmi.svg)](zotosans-brahmi/)
+[![𑀤𑀭𑀬𑀥𑀰𑀉 𑀐𑀨𑀘𑀟𑀫𑀕 𑀗𑀓𑀷𑀣𑀲𑀳 𑀃𑀎𑀒𑀍𑀌𑀦 𑀡𑀋𑀚𑀑𑀊𑀇](images/zotosans-brahmi.svg)](zotosans-brahmi/){: .fancybox data-caption="Zoto Sans Brahmi" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-brahmi.vfj){: .btn target="_blank" }
 
@@ -385,7 +385,7 @@ license: Apache \| Reference sans font for the Brahmi script \| glyphs: 182 \| s
 
 ### Zoto Sans Buginese
 
-[![ᨐᨁᨖᨆᨋᨍ ᨕᨇᨑᨂᨌᨏ ᨃᨉᨓᨈᨒᨅ ᨎᨀᨊᨄᨔ](images/zotosans-buginese.svg)](zotosans-buginese/)
+[![ᨐᨁᨖᨆᨋᨍ ᨕᨇᨑᨂᨌᨏ ᨃᨉᨓᨈᨒᨅ ᨎᨀᨊᨄᨔ](images/zotosans-buginese.svg)](zotosans-buginese/){: .fancybox data-caption="Zoto Sans Buginese" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-buginese.vfj){: .btn target="_blank" }
 
@@ -396,7 +396,7 @@ license: Apache \| Reference sans font for the Buginese script \| glyphs: 63 \| 
 
 ### Zoto Sans Buhid
 
-[![ᝌᝃᝑᝏᝊᝄ ᝎᝍᝇᝀᝂᝉ ᝆᝈᝋᝅᝐᝁ](images/zotosans-buhid.svg)](zotosans-buhid/)
+[![ᝌᝃᝑᝏᝊᝄ ᝎᝍᝇᝀᝂᝉ ᝆᝈᝋᝅᝐᝁ](images/zotosans-buhid.svg)](zotosans-buhid/){: .fancybox data-caption="Zoto Sans Buhid" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-buhid.vfj){: .btn target="_blank" }
 
@@ -407,7 +407,7 @@ license: Apache \| Reference sans font for the Buhid script \| glyphs: 39 \| scr
 
 ### Zoto Sans Canadian Aboriginal
 
-[![ᓿᒩᗰᒺᓙᘈ ᐳᗛᙸᔣᗊᐴ ᐨᕸᕂᒮᘂᔴ ᗝᒝᗿᘗᐧᖵ ᖀᖴᗄᐸᒌᑾ](images/zotosans-canadianaboriginal.svg)](zotosans-canadianaboriginal/)
+[![ᓿᒩᗰᒺᓙᘈ ᐳᗛᙸᔣᗊᐴ ᐨᕸᕂᒮᘂᔴ ᗝᒝᗿᘗᐧᖵ ᖀᖴᗄᐸᒌᑾ](images/zotosans-canadianaboriginal.svg)](zotosans-canadianaboriginal/){: .fancybox data-caption="Zoto Sans Canadian Aboriginal" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-canadianaboriginal.vfj){: .btn target="_blank" }
 
@@ -418,7 +418,7 @@ license: Apache \| Reference sans font for the Canadian Aboriginal syllabics \| 
 
 ### Zoto Sans Carian
 
-[![𐊨𐋁𐊭𐊦𐊳𐊤 𐊱𐋋𐋅𐋎𐋂𐊿 𐋏𐊾𐊢𐊵𐋆𐊠 𐋇𐊡𐊽𐋃𐊣𐊹 𐊬𐊸𐊫𐊷𐊩𐊻](images/zotosans-carian.svg)](zotosans-carian/)
+[![𐊨𐋁𐊭𐊦𐊳𐊤 𐊱𐋋𐋅𐋎𐋂𐊿 𐋏𐊾𐊢𐊵𐋆𐊠 𐋇𐊡𐊽𐋃𐊣𐊹 𐊬𐊸𐊫𐊷𐊩𐊻](images/zotosans-carian.svg)](zotosans-carian/){: .fancybox data-caption="Zoto Sans Carian" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-carian.vfj){: .btn target="_blank" }
 
@@ -429,7 +429,7 @@ license: Apache \| Reference sans font for the Carian script \| glyphs: 53 \| sc
 
 ### Zoto Sans Cham
 
-[![ꨌꨝꨨꨘꩈꨢ ꨑꨤꨙꩀꨡꩇ ꨕꨅꨠꨍꨦꨒ ꨋꨏꩄꨃꨈꩆ ꨐꨚꨎꨁꨖꨆ](images/zotosans-cham.svg)](zotosans-cham/)
+[![ꨌꨝꨨꨘꩈꨢ ꨑꨤꨙꩀꨡꩇ ꨕꨅꨠꨍꨦꨒ ꨋꨏꩄꨃꨈꩆ ꨐꨚꨎꨁꨖꨆ](images/zotosans-cham.svg)](zotosans-cham/){: .fancybox data-caption="Zoto Sans Cham" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cham.vfj){: .btn target="_blank" }
 
@@ -440,7 +440,7 @@ license: Apache \| Reference sans font for the Cham script \| glyphs: 127 \| scr
 
 ### Zoto Sans Cherokee
 
-[![ᏓᎲᎮᎻᏛᏱ ᏌᎼᎳᏦᏊᎹ ᎸᏐᏒᏭᏧᏂ ᎿᏏᎠᎣᏚᎷ ᏤᏰᎶᏬᏔᎨ](images/zotosans-cherokee.svg)](zotosans-cherokee/)
+[![ᏓᎲᎮᎻᏛᏱ ᏌᎼᎳᏦᏊᎹ ᎸᏐᏒᏭᏧᏂ ᎿᏏᎠᎣᏚᎷ ᏤᏰᎶᏬᏔᎨ](images/zotosans-cherokee.svg)](zotosans-cherokee/){: .fancybox data-caption="Zoto Sans Cherokee" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cherokee.vfj){: .btn target="_blank" }
 
@@ -451,7 +451,7 @@ license: Apache \| Reference sans font for the Cherokee script \| glyphs: 89 \| 
 
 ### Zoto Sans Coptic
 
-[![ⲰⲮⲄⳜⲜⳄ ⲦⲤⲢϮⲶⳠ ⲽⲫⲭⳗⲿⳳ ⲃⳇⲃⲏⳃⳗ ϫⳁⲅⲽⲉⲩ](images/zotosans-coptic.svg)](zotosans-coptic/)
+[![ⲰⲮⲄⳜⲜⳄ ⲦⲤⲢϮⲶⳠ ⲽⲫⲭⳗⲿⳳ ⲃⳇⲃⲏⳃⳗ ϫⳁⲅⲽⲉⲩ](images/zotosans-coptic.svg)](zotosans-coptic/){: .fancybox data-caption="Zoto Sans Coptic" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-coptic.vfj){: .btn target="_blank" }
 
@@ -462,7 +462,7 @@ license: Apache \| Reference sans font for the Coptic script \| glyphs: 190 \| s
 
 ### Zoto Sans Cuneiform
 
-[![𒆀𒀵𒈏𒁼𒃠𒂚 𒁱𒄊𒋍𒃈𒅊𒈤 𒆿𒌓𒌥𒌭𒋗𒄵 𒀴𒋬𒅤𒁋𒀕𒍃 𒈿𒅸𒈙𒋊𒄸𒊻](images/zotosans-cuneiform.svg)](zotosans-cuneiform/)
+[![𒆀𒀵𒈏𒁼𒃠𒂚 𒁱𒄊𒋍𒃈𒅊𒈤 𒆿𒌓𒌥𒌭𒋗𒄵 𒀴𒋬𒅤𒁋𒀕𒍃 𒈿𒅸𒈙𒋊𒄸𒊻](images/zotosans-cuneiform.svg)](zotosans-cuneiform/){: .fancybox data-caption="Zoto Sans Cuneiform" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cuneiform.vfj){: .btn target="_blank" }
 
@@ -473,7 +473,7 @@ license: Apache \| Reference sans font for the Cuneiform script \| glyphs: 986 \
 
 ### Zoto Sans Cypriot
 
-[![𐠼𐠐𐠣𐠅𐠎𐠱 𐠩𐠍𐠪𐠢𐠦𐠮 𐠤𐠬𐠲𐠌𐠔𐠰 𐠕𐠞𐠡𐠝𐠖𐠊 𐠒𐠠𐠀𐠨𐠭𐠟](images/zotosans-cypriot.svg)](zotosans-cypriot/)
+[![𐠼𐠐𐠣𐠅𐠎𐠱 𐠩𐠍𐠪𐠢𐠦𐠮 𐠤𐠬𐠲𐠌𐠔𐠰 𐠕𐠞𐠡𐠝𐠖𐠊 𐠒𐠠𐠀𐠨𐠭𐠟](images/zotosans-cypriot.svg)](zotosans-cypriot/){: .fancybox data-caption="Zoto Sans Cypriot" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-cypriot.vfj){: .btn target="_blank" }
 
@@ -484,7 +484,7 @@ license: Apache \| Reference sans font for the Cypriot script \| glyphs: 59 \| s
 
 ### Zoto Sans Deseret
 
-[![𐐈𐐔𐐟𐐚𐐢𐐌 𐐜𐐀𐐒𐐖𐐈𐐇 𐐹𐐷𐐮𐑅𐐫𐐵 𐐬𐐩𐐵𐐾𐑌𐐯 𐑏𐐸𐐬𐐽𐐱𐑏](images/zotosans-deseret.svg)](zotosans-deseret/)
+[![𐐈𐐔𐐟𐐚𐐢𐐌 𐐜𐐀𐐒𐐖𐐈𐐇 𐐹𐐷𐐮𐑅𐐫𐐵 𐐬𐐩𐐵𐐾𐑌𐐯 𐑏𐐸𐐬𐐽𐐱𐑏](images/zotosans-deseret.svg)](zotosans-deseret/){: .fancybox data-caption="Zoto Sans Deseret" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-deseret.vfj){: .btn target="_blank" }
 
@@ -495,7 +495,7 @@ license: Apache \| Reference sans font for the Deseret script \| glyphs: 84 \| s
 
 ### Zoto Sans Egyptian Hieroglyphs
 
-[![𓁫𓋾𓅷𓆢𓋁𓁗 𓇶𓈓𓋉𓄌𓅞𓈥 𓍪𓅵𓂥𓎮𓎇𓅺 𓋘𓐦𓀮𓅶𓎐𓍼 𓈭𓍙𓐣𓐘𓁳𓅅](images/zotosans-egyptianhieroglyphs.svg)](zotosans-egyptianhieroglyphs/)
+[![𓁫𓋾𓅷𓆢𓋁𓁗 𓇶𓈓𓋉𓄌𓅞𓈥 𓍪𓅵𓂥𓎮𓎇𓅺 𓋘𓐦𓀮𓅶𓎐𓍼 𓈭𓍙𓐣𓐘𓁳𓅅](images/zotosans-egyptianhieroglyphs.svg)](zotosans-egyptianhieroglyphs/){: .fancybox data-caption="Zoto Sans Egyptian Hieroglyphs" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-egyptianhieroglyphs.vfj){: .btn target="_blank" }
 
@@ -506,7 +506,7 @@ license: Apache \| Reference sans font for the Egyptian Hieroglyphs script \| gl
 
 ### Zoto Sans Ethiopic
 
-[![ⷞⶌኻዝጼዬ ዑቿⷀጴሠሂ ᎍቊዃቾዔሃ ፑጆⷙቶⶉⶳ ጜየቀꬥጽቱ](images/zotosans-ethiopic.svg)](zotosans-ethiopic/)
+[![ⷞⶌኻዝጼዬ ዑቿⷀጴሠሂ ᎍቊዃቾዔሃ ፑጆⷙቶⶉⶳ ጜየቀꬥጽቱ](images/zotosans-ethiopic.svg)](zotosans-ethiopic/){: .fancybox data-caption="Zoto Sans Ethiopic" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-ethiopic.vfj){: .btn target="_blank" }
 
@@ -517,7 +517,7 @@ license: Apache \| Reference sans font for the Ethiopic script \| glyphs: 559 \|
 
 ### Zoto Sans Georgian
 
-[![ႣჀႽჂ ႭႸႺႱ ⴇზⴂⴄჺⴊ ⴊფაⴥⴡⴌ ⴤჟღⴄსⴇ](images/zotosans-georgian.svg)](zotosans-georgian/)
+[![ႣჀႽჂ ႭႸႺႱ ⴇზⴂⴄჺⴊ ⴊფაⴥⴡⴌ ⴤჟღⴄსⴇ](images/zotosans-georgian.svg)](zotosans-georgian/){: .fancybox data-caption="Zoto Sans Georgian" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-georgian.vfj){: .btn target="_blank" }
 
@@ -528,7 +528,7 @@ license: Apache \| Reference sans font for the Georgian script \| glyphs: 127 \|
 
 ### Zoto Sans Glagolitic
 
-[![ⰋⰤⰗⰁⰇⰏ ⰆⰥⰃⰒⰛⰍ ⰵⱍⰴⱑⰰⱎ ⱐⱏⱀⱗⱚⱑ ⰺⰽⱆⱊⱇⱌ](images/zotosans-glagolitic.svg)](zotosans-glagolitic/)
+[![ⰋⰤⰗⰁⰇⰏ ⰆⰥⰃⰒⰛⰍ ⰵⱍⰴⱑⰰⱎ ⱐⱏⱀⱗⱚⱑ ⰺⰽⱆⱊⱇⱌ](images/zotosans-glagolitic.svg)](zotosans-glagolitic/){: .fancybox data-caption="Zoto Sans Glagolitic" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-glagolitic.vfj){: .btn target="_blank" }
 
@@ -539,7 +539,7 @@ license: Apache \| Reference sans font for the Glagolitic script \| glyphs: 98 \
 
 ### Zoto Sans Gothic
 
-[![𐍉𐍆𐌱𐌿𐍀𐌾 𐌹𐌶𐍃𐌼𐍈𐍇 𐍂𐌷𐌳𐍄𐌰𐌲 𐌺𐌸𐍅𐌵𐌽𐌻 𐌴](images/zotosans-gothic.svg)](zotosans-gothic/)
+[![𐍉𐍆𐌱𐌿𐍀𐌾 𐌹𐌶𐍃𐌼𐍈𐍇 𐍂𐌷𐌳𐍄𐌰𐌲 𐌺𐌸𐍅𐌵𐌽𐌻 𐌴](images/zotosans-gothic.svg)](zotosans-gothic/){: .fancybox data-caption="Zoto Sans Gothic" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-gothic.vfj){: .btn target="_blank" }
 
@@ -550,7 +550,7 @@ license: Apache \| Reference sans font for the Gothic script \| glyphs: 43 \| sc
 
 ### Zoto Sans Gurmukhi
 
-[![ਔਅਗ਼ਘਇਪ ਣੴਆਙਜਥ ਯਡਫ਼ਖ਼ਹਦ ਨਲ਼ਈਞਲਛ ਬਏਕੲਗਭ](images/zotosans-gurmukhi.svg)](zotosans-gurmukhi/)
+[![ਔਅਗ਼ਘਇਪ ਣੴਆਙਜਥ ਯਡਫ਼ਖ਼ਹਦ ਨਲ਼ਈਞਲਛ ਬਏਕੲਗਭ](images/zotosans-gurmukhi.svg)](zotosans-gurmukhi/){: .fancybox data-caption="Zoto Sans Gurmukhi" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-gurmukhi.vfj){: .btn target="_blank" }
 
@@ -561,7 +561,7 @@ license: Apache \| Reference sans font for the Gurmukhi script \| glyphs: 301 \|
 
 ### Zoto Sans Hanunoo
 
-[![ᜣᜢᜬᜮᜡᜥ ᜦᜩᜱᜫᜤᜰ ᜠᜪᜨᜧᜯᜭ](images/zotosans-hanunoo.svg)](zotosans-hanunoo/)
+[![ᜣᜢᜬᜮᜡᜥ ᜦᜩᜱᜫᜤᜰ ᜠᜪᜨᜧᜯᜭ](images/zotosans-hanunoo.svg)](zotosans-hanunoo/){: .fancybox data-caption="Zoto Sans Hanunoo" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-hanunoo.vfj){: .btn target="_blank" }
 
@@ -572,7 +572,7 @@ license: Apache \| Reference sans font for the Hanunoo script \| glyphs: 43 \| s
 
 ### Zoto Sans Hebrew
 
-[![ןפרטּזּשׂ לּאָקמּיּשּׂ זףתעהּךּ אﬠךהװתּ כּײַﭏﬦוּבֿ](images/zotosans-hebrew.svg)](zotosans-hebrew/)
+[![ןפרטּזּשׂ לּאָקמּיּשּׂ זףתעהּךּ אﬠךהװתּ כּײַﭏﬦוּבֿ](images/zotosans-hebrew.svg)](zotosans-hebrew/){: .fancybox data-caption="Zoto Sans Hebrew" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-hebrew.vfj){: .btn target="_blank" }
 
@@ -583,7 +583,7 @@ license: Apache \| Reference sans font for the Hebrew script \| glyphs: 155 \| s
 
 ### Zoto Sans Historic
 
-[![ࠀࠁࡀࡁꡀ ꡁ𐀀𐀁𐊀𐊁 𐎀𐎁𐎠𐎡𐒀 𐒁𐡀𐡁𐤀𐤁 𐤠𐤡𐩠𐩡𐬀 𐬁𐭀𐭁𐭠𐭡𐰀𐰁𒀀𒀁𓀀𓀁](images/zotosans-historic.svg)](zotosans-historic/)
+[![ࠀࠁࡀࡁꡀ ꡁ𐀀𐀁𐊀𐊁 𐎀𐎁𐎠𐎡𐒀 𐒁𐡀𐡁𐤀𐤁 𐤠𐤡𐩠𐩡𐬀 𐬁𐭀𐭁𐭠𐭡𐰀𐰁𒀀𒀁𓀀𓀁](images/zotosans-historic.svg)](zotosans-historic/){: .fancybox data-caption="Zoto Sans Historic" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-historic.vfj){: .btn target="_blank" }
 
@@ -594,7 +594,7 @@ license: Apache \| Reference sans font for several historic scripts \| glyphs: 3
 
 ### Zoto Sans Imperial Aramaic
 
-[![𐡑𐡀𐡈𐡉𐡄𐡁 𐡕𐡇𐡋𐡍𐡔𐡓 𐡆𐡎𐡅𐡏𐡒𐡂 𐡌𐡊𐡐𐡃](images/zotosans-imperialaramaic.svg)](zotosans-imperialaramaic/)
+[![𐡑𐡀𐡈𐡉𐡄𐡁 𐡕𐡇𐡋𐡍𐡔𐡓 𐡆𐡎𐡅𐡏𐡒𐡂 𐡌𐡊𐡐𐡃](images/zotosans-imperialaramaic.svg)](zotosans-imperialaramaic/){: .fancybox data-caption="Zoto Sans Imperial Aramaic" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-imperialaramaic.vfj){: .btn target="_blank" }
 
@@ -605,7 +605,7 @@ license: Apache \| Reference sans font for the Imperial Aramaic script \| glyphs
 
 ### Zoto Sans Inscriptional Pahlavi
 
-[![𐭰𐭠𐭫𐭨𐭬𐭩 𐭢𐭧𐭯𐭦𐭣𐭤 𐭡𐭱𐭪𐭲𐭭𐭮 𐭥](images/zotosans-inscriptionalpahlavi.svg)](zotosans-inscriptionalpahlavi/)
+[![𐭰𐭠𐭫𐭨𐭬𐭩 𐭢𐭧𐭯𐭦𐭣𐭤 𐭡𐭱𐭪𐭲𐭭𐭮 𐭥](images/zotosans-inscriptionalpahlavi.svg)](zotosans-inscriptionalpahlavi/){: .fancybox data-caption="Zoto Sans Inscriptional Pahlavi" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalpahlavi.vfj){: .btn target="_blank" }
 
@@ -616,7 +616,7 @@ license: Apache \| Reference sans font for the Inscriptional Pahlavi script \| g
 
 ### Zoto Sans Inscriptional Parthian
 
-[![𐭊𐭕𐭈𐭃𐭔𐭍 𐭏𐭋𐭆𐭁𐭐𐭂 𐭀𐭄𐭒𐭌𐭎𐭅 𐭓𐭇𐭉𐭑](images/zotosans-inscriptionalparthian.svg)](zotosans-inscriptionalparthian/)
+[![𐭊𐭕𐭈𐭃𐭔𐭍 𐭏𐭋𐭆𐭁𐭐𐭂 𐭀𐭄𐭒𐭌𐭎𐭅 𐭓𐭇𐭉𐭑](images/zotosans-inscriptionalparthian.svg)](zotosans-inscriptionalparthian/){: .fancybox data-caption="Zoto Sans Inscriptional Parthian" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalparthian.vfj){: .btn target="_blank" }
 
@@ -627,7 +627,7 @@ license: Apache \| Reference sans font for the Inscriptional Parthian script \| 
 
 ### Zoto Sans Javanese
 
-[![ꦅꦲꦈꦠꦞꦕ ꦪꦉꦚꦜꦣꦯ ꦧꦋꦇꦙꦥꦛ ꦆꦦꦡꦔꦫꦭ ꦩꦬꦖꦏꦝꦢ](images/zotosans-javanese.svg)](zotosans-javanese/)
+[![ꦅꦲꦈꦠꦞꦕ ꦪꦉꦚꦜꦣꦯ ꦧꦋꦇꦙꦥꦛ ꦆꦦꦡꦔꦫꦭ ꦩꦬꦖꦏꦝꦢ](images/zotosans-javanese.svg)](zotosans-javanese/){: .fancybox data-caption="Zoto Sans Javanese" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-javanese.vfj){: .btn target="_blank" }
 
@@ -638,7 +638,7 @@ license: Apache \| Reference sans font for the Javanese script \| glyphs: 155 \|
 
 ### Zoto Sans Kayah Li
 
-[![ꤢꤜꤊꤍꤠꤝ ꤒꤥꤟꤖꤐꤛ ꤋꤡꤌꤑꤞꤔ ꤚꤙꤎꤕꤏꤤ ꤘꤣꤓꤗ](images/zotosans-kayahli.svg)](zotosans-kayahli/)
+[![ꤢꤜꤊꤍꤠꤝ ꤒꤥꤟꤖꤐꤛ ꤋꤡꤌꤑꤞꤔ ꤚꤙꤎꤕꤏꤤ ꤘꤣꤓꤗ](images/zotosans-kayahli.svg)](zotosans-kayahli/){: .fancybox data-caption="Zoto Sans Kayah Li" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-kayahli.vfj){: .btn target="_blank" }
 
@@ -649,7 +649,7 @@ license: Apache \| Reference sans font for the Kayah Li script \| glyphs: 54 \| 
 
 ### Zoto Sans Kharoshthi
 
-[![𐨙𐨥𐨣𐨦𐨮𐨤 𐨀𐨬𐨐𐨞𐨖𐨠 𐨡𐨟𐨳𐨛𐨰𐨲 𐨯𐨜𐨭𐨒𐨫𐨱 𐨨𐨗𐨢𐨑𐨪𐨧](images/zotosans-kharoshthi.svg)](zotosans-kharoshthi/)
+[![𐨙𐨥𐨣𐨦𐨮𐨤 𐨀𐨬𐨐𐨞𐨖𐨠 𐨡𐨟𐨳𐨛𐨰𐨲 𐨯𐨜𐨭𐨒𐨫𐨱 𐨨𐨗𐨢𐨑𐨪𐨧](images/zotosans-kharoshthi.svg)](zotosans-kharoshthi/){: .fancybox data-caption="Zoto Sans Kharoshthi" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-kharoshthi.vfj){: .btn target="_blank" }
 
@@ -660,7 +660,7 @@ license: Apache \| Reference sans font for the Kharoshthi script \| glyphs: 133 
 
 ### Zoto Sans Khmer
 
-[![យខឍឡឣឳ ឱផងទណឥ ឃពកឨឰគ ឮៗជសឲឫ ឌលថឋឧឝ](images/zotosans-khmer.svg)](zotosans-khmer/)
+[![យខឍឡឣឳ ឱផងទណឥ ឃពកឨឰគ ឮៗជសឲឫ ឌលថឋឧឝ](images/zotosans-khmer.svg)](zotosans-khmer/){: .fancybox data-caption="Zoto Sans Khmer" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-khmer.vfj){: .btn target="_blank" }
 
@@ -671,7 +671,7 @@ license: Apache \| Reference sans font for the Khmer script \| glyphs: 265 \| sc
 
 ### Zoto Sans Lao
 
-[![ບໃຜລາອ ຫຽຟະຂຄ ຍຣມຳສຈ ໟໆເປຕໝ ພຢງທໜກ](images/zotosans-lao.svg)](zotosans-lao/)
+[![ບໃຜລາອ ຫຽຟະຂຄ ຍຣມຳສຈ ໟໆເປຕໝ ພຢງທໜກ](images/zotosans-lao.svg)](zotosans-lao/){: .fancybox data-caption="Zoto Sans Lao" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-lao.vfj){: .btn target="_blank" }
 
@@ -682,7 +682,7 @@ license: Apache \| Reference sans font for the Lao script \| glyphs: 166 \| scri
 
 ### Zoto Sans Limbu
 
-[![ᤌᤖᤓᤁᤕᤃ ᤐᤒᤚᤏᤛᤗ ᤑᤈᤎᤄᤅᤀ ᤜᤍᤆᤂᤔᤘ ᤊᤇᤋᤙᤉ](images/zotosans-limbu.svg)](zotosans-limbu/)
+[![ᤌᤖᤓᤁᤕᤃ ᤐᤒᤚᤏᤛᤗ ᤑᤈᤎᤄᤅᤀ ᤜᤍᤆᤂᤔᤘ ᤊᤇᤋᤙᤉ](images/zotosans-limbu.svg)](zotosans-limbu/){: .fancybox data-caption="Zoto Sans Limbu" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-limbu.vfj){: .btn target="_blank" }
 
@@ -693,7 +693,7 @@ license: Apache \| Reference sans font for the Limbu script \| glyphs: 73 \| scr
 
 ### Zoto Sans Linear B
 
-[![𐁃𐃁𐂬𐂼𐂗𐀫 𐀔𐃀𐂌𐂹𐁉𐂳 𐀺𐃍𐃑𐀁𐂘𐃰 𐀦𐃪𐁍𐁆𐁐𐂵 𐂢𐃵𐃣𐃃𐂨𐂫](images/zotosans-linearb.svg)](zotosans-linearb/)
+[![𐁃𐃁𐂬𐂼𐂗𐀫 𐀔𐃀𐂌𐂹𐁉𐂳 𐀺𐃍𐃑𐀁𐂘𐃰 𐀦𐃪𐁍𐁆𐁐𐂵 𐂢𐃵𐃣𐃃𐂨𐂫](images/zotosans-linearb.svg)](zotosans-linearb/){: .fancybox data-caption="Zoto Sans Linear B" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-linearb.vfj){: .btn target="_blank" }
 
@@ -704,7 +704,7 @@ license: Apache \| Reference sans font for the Linear B script \| glyphs: 272 \|
 
 ### Zoto Sans Lisu
 
-[![ꓞꓣꓓꓩꓑꓶ ꓵꓛꓦꓤꓺꓰ ꓲꓹꓢꓳꓽꓫ ꓱꓐꓝꓚꓒꓧ ꓡꓼꓗꓠꓭꓴ](images/zotosans-lisu.svg)](zotosans-lisu/)
+[![ꓞꓣꓓꓩꓑꓶ ꓵꓛꓦꓤꓺꓰ ꓲꓹꓢꓳꓽꓫ ꓱꓐꓝꓚꓒꓧ ꓡꓼꓗꓠꓭꓴ](images/zotosans-lisu.svg)](zotosans-lisu/){: .fancybox data-caption="Zoto Sans Lisu" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-lisu.vfj){: .btn target="_blank" }
 
@@ -715,7 +715,7 @@ license: Apache \| Reference sans font for the Lisu script \| glyphs: 54 \| scri
 
 ### Zoto Sans Lycian
 
-[![𐊜𐊀𐊖𐊙𐊋𐊊 𐊂𐊐𐊛𐊓𐊆𐊑 𐊔𐊗𐊄𐊍𐊘𐊃 𐊕𐊌𐊒𐊉𐊁𐊚 𐊈𐊅𐊎𐊏𐊇](images/zotosans-lycian.svg)](zotosans-lycian/)
+[![𐊜𐊀𐊖𐊙𐊋𐊊 𐊂𐊐𐊛𐊓𐊆𐊑 𐊔𐊗𐊄𐊍𐊘𐊃 𐊕𐊌𐊒𐊉𐊁𐊚 𐊈𐊅𐊎𐊏𐊇](images/zotosans-lycian.svg)](zotosans-lycian/){: .fancybox data-caption="Zoto Sans Lycian" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-lycian.vfj){: .btn target="_blank" }
 
@@ -726,7 +726,7 @@ license: Apache \| Reference sans font for the Lycian script \| glyphs: 33 \| sc
 
 ### Zoto Sans Lydian
 
-[![𐤡𐤠𐤶𐤰𐤫𐤥 𐤣𐤮𐤸𐤬𐤲𐤯 𐤤𐤦𐤪𐤢𐤷𐤴 𐤩𐤧𐤨𐤹𐤱𐤭 𐤵𐤳](images/zotosans-lydian.svg)](zotosans-lydian/)
+[![𐤡𐤠𐤶𐤰𐤫𐤥 𐤣𐤮𐤸𐤬𐤲𐤯 𐤤𐤦𐤪𐤢𐤷𐤴 𐤩𐤧𐤨𐤹𐤱𐤭 𐤵𐤳](images/zotosans-lydian.svg)](zotosans-lydian/){: .fancybox data-caption="Zoto Sans Lydian" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-lydian.vfj){: .btn target="_blank" }
 
@@ -737,7 +737,7 @@ license: Apache \| Reference sans font for the Lydian script \| glyphs: 31 \| sc
 
 ### Zoto Sans Mandaic
 
-[![ࡗࡆࡌࡒࡁࡇ ࡊࡉࡋࡎࡖࡈ ࡏࡔࡍࡂࡄࡑ ࡓࡀࡅࡐࡃࡘ ࡕ](images/zotosans-mandaic.svg)](zotosans-mandaic/)
+[![ࡗࡆࡌࡒࡁࡇ ࡊࡉࡋࡎࡖࡈ ࡏࡔࡍࡂࡄࡑ ࡓࡀࡅࡐࡃࡘ ࡕ](images/zotosans-mandaic.svg)](zotosans-mandaic/){: .fancybox data-caption="Zoto Sans Mandaic" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-mandaic.vfj){: .btn target="_blank" }
 
@@ -748,7 +748,7 @@ license: Apache \| Reference sans font for the Mandaic script \| glyphs: 128 \| 
 
 ### Zoto Sans Meetei Mayek
 
-[![ꫢꯐꫧꯝꯂꫡ ꯒꫠꯇꯙꯎꯋ ꯡꯍꫲꯈꫦꯏ ꯔꯕꫩꯜꯛꯖ ꯅꫥꯠꯢꯄꯗ](images/zotosans-meeteimayek.svg)](zotosans-meeteimayek/)
+[![ꫢꯐꫧꯝꯂꫡ ꯒꫠꯇꯙꯎꯋ ꯡꯍꫲꯈꫦꯏ ꯔꯕꫩꯜꯛꯖ ꯅꫥꯠꯢꯄꯗ](images/zotosans-meeteimayek.svg)](zotosans-meeteimayek/){: .fancybox data-caption="Zoto Sans Meetei Mayek" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-meeteimayek.vfj){: .btn target="_blank" }
 
@@ -759,7 +759,7 @@ license: Apache \| Reference sans font for the Meetei Mayek script \| glyphs: 91
 
 ### Zoto Sans Mongolian
 
-[![ᡙᡇᠷᡬᢃᠠ ᢖᠱᠽᠩᡞᡏ ᢢᠬᢙᡮᠫᠥ ᠼᢨᠾᠰᢎᡲ ᢉᢛᢝᢋᠮᡓ](images/zotosans-mongolian.svg)](zotosans-mongolian/)
+[![ᡙᡇᠷᡬᢃᠠ ᢖᠱᠽᠩᡞᡏ ᢢᠬᢙᡮᠫᠥ ᠼᢨᠾᠰᢎᡲ ᢉᢛᢝᢋᠮᡓ](images/zotosans-mongolian.svg)](zotosans-mongolian/){: .fancybox data-caption="Zoto Sans Mongolian" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-mongolian.vfj){: .btn target="_blank" }
 
@@ -770,7 +770,7 @@ license: Apache \| Reference sans font for the Mongolian script \| glyphs: 1511 
 
 ### Zoto Sans New Tai Lue
 
-[![ᦝᧀᧄᦈᦒᦕ ᧂᦁᧃᦱᦆᧉ ᦙᦗᦉᦵᦡᦇ ᦄᦞᦰᦴᦪᦎ ᧅᦑᦸᦌᦏᦘ](images/zotosans-newtailue.svg)](zotosans-newtailue/)
+[![ᦝᧀᧄᦈᦒᦕ ᧂᦁᧃᦱᦆᧉ ᦙᦗᦉᦵᦡᦇ ᦄᦞᦰᦴᦪᦎ ᧅᦑᦸᦌᦏᦘ](images/zotosans-newtailue.svg)](zotosans-newtailue/){: .fancybox data-caption="Zoto Sans New Tai Lue" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-newtailue.vfj){: .btn target="_blank" }
 
@@ -781,7 +781,7 @@ license: Apache \| Reference sans font for the New Tai Lue script \| glyphs: 91 
 
 ### Zoto Sans NKo
 
-[![ߓߪߣߍߑߞ ߕߛߧߘߖߤ ߟߏߵߨߒߠ ߢߎߥߡߴߝ ߔߩߌߙߊߦ](images/zotosans-nko.svg)](zotosans-nko/)
+[![ߓߪߣߍߑߞ ߕߛߧߘߖߤ ߟߏߵߨߒߠ ߢߎߥߡߴߝ ߔߩߌߙߊߦ](images/zotosans-nko.svg)](zotosans-nko/){: .fancybox data-caption="Zoto Sans NKo" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-nko.vfj){: .btn target="_blank" }
 
@@ -792,7 +792,7 @@ license: Apache \| Reference sans font for the Nko script \| glyphs: 174 \| scri
 
 ### Zoto Sans Ogham
 
-[![ᚔᚚᚍᚋᚈᚐ ᚉᚏᚕᚅᚆᚂ ᚖᚑᚎᚗᚘᚊ ᚁᚇᚓᚄᚌᚒ ᚙᚃ](images/zotosans-ogham.svg)](zotosans-ogham/)
+[![ᚔᚚᚍᚋᚈᚐ ᚉᚏᚕᚅᚆᚂ ᚖᚑᚎᚗᚘᚊ ᚁᚇᚓᚄᚌᚒ ᚙᚃ](images/zotosans-ogham.svg)](zotosans-ogham/){: .fancybox data-caption="Zoto Sans Ogham" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-ogham.vfj){: .btn target="_blank" }
 
@@ -803,7 +803,7 @@ license: Apache \| Reference sans font for the Ogham script \| glyphs: 33 \| scr
 
 ### Zoto Sans Ol Chiki
 
-[![ᱦᱫᱳᱰᱽᱜ ᱮᱧᱢᱝᱛᱶ ᱡᱯᱞᱹᱴᱣ ᱥᱱᱵᱷᱠᱭ ᱸᱬᱺᱲᱤᱪ](images/zotosans-olchiki.svg)](zotosans-olchiki/)
+[![ᱦᱫᱳᱰᱽᱜ ᱮᱧᱢᱝᱛᱶ ᱡᱯᱞᱹᱴᱣ ᱥᱱᱵᱷᱠᱭ ᱸᱬᱺᱲᱤᱪ](images/zotosans-olchiki.svg)](zotosans-olchiki/){: .fancybox data-caption="Zoto Sans Ol Chiki" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-olchiki.vfj){: .btn target="_blank" }
 
@@ -814,7 +814,7 @@ license: Apache \| Reference sans font for the Ol Chiki script \| glyphs: 52 \| 
 
 ### Zoto Sans Old Italic
 
-[![𐌏𐌉𐌆𐌊𐌙𐌜 𐌇𐌞𐌕𐌎𐌀𐌚 𐌃𐌁𐌓𐌅𐌋𐌔 𐌘𐌌𐌛𐌖𐌍𐌈 𐌄𐌝𐌐𐌂𐌗𐌑](images/zotosans-olditalic.svg)](zotosans-olditalic/)
+[![𐌏𐌉𐌆𐌊𐌙𐌜 𐌇𐌞𐌕𐌎𐌀𐌚 𐌃𐌁𐌓𐌅𐌋𐌔 𐌘𐌌𐌛𐌖𐌍𐌈 𐌄𐌝𐌐𐌂𐌗𐌑](images/zotosans-olditalic.svg)](zotosans-olditalic/){: .fancybox data-caption="Zoto Sans Old Italic" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-olditalic.vfj){: .btn target="_blank" }
 
@@ -825,7 +825,7 @@ license: Apache \| Reference sans font for the Old Italic script \| glyphs: 39 \
 
 ### Zoto Sans Old Persian
 
-[![𐎣𐏈𐎽𐎸𐎢𐎻 𐎷𐏊𐎳𐎱𐎵𐎩 𐎨𐏌𐎶𐎬𐎰𐏋 𐎾𐎠𐏀𐎺𐎿𐎦 𐏍𐏉𐎡𐎴𐎼𐎹](images/zotosans-oldpersian.svg)](zotosans-oldpersian/)
+[![𐎣𐏈𐎽𐎸𐎢𐎻 𐎷𐏊𐎳𐎱𐎵𐎩 𐎨𐏌𐎶𐎬𐎰𐏋 𐎾𐎠𐏀𐎺𐎿𐎦 𐏍𐏉𐎡𐎴𐎼𐎹](images/zotosans-oldpersian.svg)](zotosans-oldpersian/){: .fancybox data-caption="Zoto Sans Old Persian" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-oldpersian.vfj){: .btn target="_blank" }
 
@@ -836,7 +836,7 @@ license: Apache \| Reference sans font for the Old Persian script \| glyphs: 54 
 
 ### Zoto Sans Old South Arabian
 
-[![𐩧𐩣𐩳𐩡𐩺𐩻 𐩷𐩰𐩫𐩸𐩶𐩮 𐩴𐩱𐩥𐩢𐩭𐩵 𐩪𐩬𐩨𐩩𐩼𐩦 𐩹𐩯𐩠𐩲𐩤](images/zotosans-oldsoutharabian.svg)](zotosans-oldsoutharabian/)
+[![𐩧𐩣𐩳𐩡𐩺𐩻 𐩷𐩰𐩫𐩸𐩶𐩮 𐩴𐩱𐩥𐩢𐩭𐩵 𐩪𐩬𐩨𐩩𐩼𐩦 𐩹𐩯𐩠𐩲𐩤](images/zotosans-oldsoutharabian.svg)](zotosans-oldsoutharabian/){: .fancybox data-caption="Zoto Sans Old South Arabian" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-oldsoutharabian.vfj){: .btn target="_blank" }
 
@@ -847,7 +847,7 @@ license: Apache \| Reference sans font for the Old South Arabian script \| glyph
 
 ### Zoto Sans Old Turkic
 
-[![𐰥𐱁𐰶𐰢𐰯𐰐 𐰋𐰪𐰚𐰈𐰛𐰗 𐰳𐰝𐰖𐰊𐱆𐰽 𐰬𐰺𐰨𐰘𐰟𐰦 𐱅𐰼𐰁𐰹𐰙𐱀](images/zotosans-oldturkic.svg)](zotosans-oldturkic/)
+[![𐰥𐱁𐰶𐰢𐰯𐰐 𐰋𐰪𐰚𐰈𐰛𐰗 𐰳𐰝𐰖𐰊𐱆𐰽 𐰬𐰺𐰨𐰘𐰟𐰦 𐱅𐰼𐰁𐰹𐰙𐱀](images/zotosans-oldturkic.svg)](zotosans-oldturkic/){: .fancybox data-caption="Zoto Sans Old Turkic" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-oldturkic.vfj){: .btn target="_blank" }
 
@@ -858,7 +858,7 @@ license: Apache \| Reference sans font for the Old Turkic script \| glyphs: 77 \
 
 ### Zoto Sans Osmanya
 
-[![𐒌𐒆𐒓𐒈𐒊𐒚 𐒒𐒉𐒙𐒀𐒑𐒘 𐒖𐒅𐒃𐒄𐒕𐒝 𐒇𐒍𐒏𐒋𐒗𐒜 𐒛𐒐𐒔𐒁𐒂𐒎](images/zotosans-osmanya.svg)](zotosans-osmanya/)
+[![𐒌𐒆𐒓𐒈𐒊𐒚 𐒒𐒉𐒙𐒀𐒑𐒘 𐒖𐒅𐒃𐒄𐒕𐒝 𐒇𐒍𐒏𐒋𐒗𐒜 𐒛𐒐𐒔𐒁𐒂𐒎](images/zotosans-osmanya.svg)](zotosans-osmanya/){: .fancybox data-caption="Zoto Sans Osmanya" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-osmanya.vfj){: .btn target="_blank" }
 
@@ -869,7 +869,7 @@ license: Apache \| Reference sans font for the Osmanya script \| glyphs: 44 \| s
 
 ### Zoto Sans Phags Pa
 
-[![ꡜꡤꡩꡕꡏꡂ ꡐꡗꡡꡯꡭꡓ ꡖꡘꡑꡉꡧꡟ ꡇꡁꡰꡄꡲꡥ ꡀꡆꡌꡙꡪꡠ](images/zotosans-phagspa.svg)](zotosans-phagspa/)
+[![ꡜꡤꡩꡕꡏꡂ ꡐꡗꡡꡯꡭꡓ ꡖꡘꡑꡉꡧꡟ ꡇꡁꡰꡄꡲꡥ ꡀꡆꡌꡙꡪꡠ](images/zotosans-phagspa.svg)](zotosans-phagspa/){: .fancybox data-caption="Zoto Sans Phags Pa" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-phagspa.vfj){: .btn target="_blank" }
 
@@ -880,7 +880,7 @@ license: Apache \| Reference sans font for the Phags-pa script \| glyphs: 382 \|
 
 ### Zoto Sans Phoenician
 
-[![𐤏𐤋𐤕𐤑𐤐𐤆 𐤉𐤔𐤍𐤅𐤒𐤄 𐤂𐤇𐤃𐤓𐤀𐤈 𐤁𐤊𐤎𐤌](images/zotosans-phoenician.svg)](zotosans-phoenician/)
+[![𐤏𐤋𐤕𐤑𐤐𐤆 𐤉𐤔𐤍𐤅𐤒𐤄 𐤂𐤇𐤃𐤓𐤀𐤈 𐤁𐤊𐤎𐤌](images/zotosans-phoenician.svg)](zotosans-phoenician/){: .fancybox data-caption="Zoto Sans Phoenician" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-phoenician.vfj){: .btn target="_blank" }
 
@@ -891,7 +891,7 @@ license: Apache \| Reference sans font for the Phoenician script \| glyphs: 33 \
 
 ### Zoto Sans Rejang
 
-[![ꤶꥀꤱꤺꤻꤵ ꤳꥂꥁꤴꥃꤸ ꤼꥄꥅꤾꤹꤿ ꤽꤲꤰꥆꤷ](images/zotosans-rejang.svg)](zotosans-rejang/)
+[![ꤶꥀꤱꤺꤻꤵ ꤳꥂꥁꤴꥃꤸ ꤼꥄꥅꤾꤹꤿ ꤽꤲꤰꥆꤷ](images/zotosans-rejang.svg)](zotosans-rejang/){: .fancybox data-caption="Zoto Sans Rejang" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-rejang.vfj){: .btn target="_blank" }
 
@@ -902,7 +902,7 @@ license: Apache \| Reference sans font for the Rejang script \| glyphs: 41 \| sc
 
 ### Zoto Sans Runic
 
-[![ᛗᛠᛌᚴᚠᛊ ᛢᛍᛅᛐᚵᛦ ᚪᛡᚽᛣᚲᛉ ᛤᚥᛖᚢᛘᚧ ᛥᚾᛔᛏᚿᚷ](images/zotosans-runic.svg)](zotosans-runic/)
+[![ᛗᛠᛌᚴᚠᛊ ᛢᛍᛅᛐᚵᛦ ᚪᛡᚽᛣᚲᛉ ᛤᚥᛖᚢᛘᚧ ᛥᚾᛔᛏᚿᚷ](images/zotosans-runic.svg)](zotosans-runic/){: .fancybox data-caption="Zoto Sans Runic" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-runic.vfj){: .btn target="_blank" }
 
@@ -913,7 +913,7 @@ license: Apache \| Reference sans font for the Runic script \| glyphs: 85 \| scr
 
 ### Zoto Sans Samaritan
 
-[![ࠎࠑࠃࠔࠕࠁ ࠚࠇࠐࠤࠆࠓ ࠄࠌࠍࠅࠋࠂ ࠏࠈࠉࠒࠨࠀ ࠊ](images/zotosans-samaritan.svg)](zotosans-samaritan/)
+[![ࠎࠑࠃࠔࠕࠁ ࠚࠇࠐࠤࠆࠓ ࠄࠌࠍࠅࠋࠂ ࠏࠈࠉࠒࠨࠀ ࠊ](images/zotosans-samaritan.svg)](zotosans-samaritan/){: .fancybox data-caption="Zoto Sans Samaritan" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-samaritan.vfj){: .btn target="_blank" }
 
@@ -924,7 +924,7 @@ license: Apache \| Reference sans font for the Samaritan script \| glyphs: 67 \|
 
 ### Zoto Sans Saurashtra
 
-[![ꢘꢉꢓꢛꢤꢔ ꢧꢰꢕꢋꢙꢩ ꢮꢬꢊꢑꢡꢨ ꢃꢂꢫꢖꢞꢣ ꢲꢦꢯꢌꢠꢱ](images/zotosans-saurashtra.svg)](zotosans-saurashtra/)
+[![ꢘꢉꢓꢛꢤꢔ ꢧꢰꢕꢋꢙꢩ ꢮꢬꢊꢑꢡꢨ ꢃꢂꢫꢖꢞꢣ ꢲꢦꢯꢌꢠꢱ](images/zotosans-saurashtra.svg)](zotosans-saurashtra/){: .fancybox data-caption="Zoto Sans Saurashtra" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-saurashtra.vfj){: .btn target="_blank" }
 
@@ -935,7 +935,7 @@ license: Apache \| Reference sans font for the Saurasthra script \| glyphs: 93 \
 
 ### Zoto Sans Shavian
 
-[![𐑙𐑷𐑺𐑚𐑶𐑲 𐑳𐑴𐑮𐑤𐑜𐑬 𐑟𐑞𐑥𐑼𐑣𐑭 𐑔𐑵𐑰𐑸𐑻𐑖 𐑢𐑹𐑾𐑿𐑗𐑑](images/zotosans-shavian.svg)](zotosans-shavian/)
+[![𐑙𐑷𐑺𐑚𐑶𐑲 𐑳𐑴𐑮𐑤𐑜𐑬 𐑟𐑞𐑥𐑼𐑣𐑭 𐑔𐑵𐑰𐑸𐑻𐑖 𐑢𐑹𐑾𐑿𐑗𐑑](images/zotosans-shavian.svg)](zotosans-shavian/){: .fancybox data-caption="Zoto Sans Shavian" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-shavian.vfj){: .btn target="_blank" }
 
@@ -946,7 +946,7 @@ license: Apache \| Reference sans font for the Shavian script \| glyphs: 52 \| s
 
 ### Zoto Sans Sundanese
 
-[![ᮙᮍᮮᮜᮠᮗ ᮅᮞᮚᮒᮑᮯ ᮌᮻᮘᮛᮃᮽ ᮇᮟᮎᮕᮏᮊ ᮓᮺᮝᮄᮆᮋ](images/zotosans-sundanese.svg)](zotosans-sundanese/)
+[![ᮙᮍᮮᮜᮠᮗ ᮅᮞᮚᮒᮑᮯ ᮌᮻᮘᮛᮃᮽ ᮇᮟᮎᮕᮏᮊ ᮓᮺᮝᮄᮆᮋ](images/zotosans-sundanese.svg)](zotosans-sundanese/){: .fancybox data-caption="Zoto Sans Sundanese" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-sundanese.vfj){: .btn target="_blank" }
 
@@ -957,7 +957,7 @@ license: Apache \| Reference sans font for the Sundanese script \| glyphs: 79 \|
 
 ### Zoto Sans Syloti Nagri
 
-[![ꠅꠏꠙꠒꠍꠡ ꠠꠑꠢꠘꠉꠇ ꠔꠚꠓꠐꠈꠕ ꠖꠌꠀꠁꠊꠎ ꠛꠄꠃꠝꠗꠟ](images/zotosans-sylotinagri.svg)](zotosans-sylotinagri/)
+[![ꠅꠏꠙꠒꠍꠡ ꠠꠑꠢꠘꠉꠇ ꠔꠚꠓꠐꠈꠕ ꠖꠌꠀꠁꠊꠎ ꠛꠄꠃꠝꠗꠟ](images/zotosans-sylotinagri.svg)](zotosans-sylotinagri/){: .fancybox data-caption="Zoto Sans Syloti Nagri" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-sylotinagri.vfj){: .btn target="_blank" }
 
@@ -968,7 +968,7 @@ license: Apache \| Reference sans font for the Syloti Nagri script \| glyphs: 85
 
 ### Zoto Sans Symbols
 
-[![⛈꜐➊𝐛ℐ𝛶 ⎶𝜷➇⠭𝈷⩛ 🁁𝒱⍹𝞝𝛍⓾ ⎠ℼ🂧⤖⦖⏕ ⍃𝛕⪃𝑬𝜀⥆](images/zotosans-symbols.svg)](zotosans-symbols/)
+[![⛈꜐➊𝐛ℐ𝛶 ⎶𝜷➇⠭𝈷⩛ 🁁𝒱⍹𝞝𝛍⓾ ⎠ℼ🂧⤖⦖⏕ ⍃𝛕⪃𝑬𝜀⥆](images/zotosans-symbols.svg)](zotosans-symbols/){: .fancybox data-caption="Zoto Sans Symbols" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-symbols.vfj){: .btn target="_blank" }
 
@@ -979,7 +979,7 @@ license: Apache \| Reference symbol font \| glyphs: 5126 \| scripts: Braille, Gr
 
 ### Zoto Sans Tagalog
 
-[![ᜋᜐᜂᜊᜏᜈ ᜁᜃᜀᜑᜄᜇ ᜅᜎᜉᜌᜆ](images/zotosans-tagalog.svg)](zotosans-tagalog/)
+[![ᜋᜐᜂᜊᜏᜈ ᜁᜃᜀᜑᜄᜇ ᜅᜎᜉᜌᜆ](images/zotosans-tagalog.svg)](zotosans-tagalog/){: .fancybox data-caption="Zoto Sans Tagalog" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tagalog.vfj){: .btn target="_blank" }
 
@@ -990,7 +990,7 @@ license: Apache \| Reference sans font for the Tagalog script \| glyphs: 26 \| s
 
 ### Zoto Sans Tagbanwa
 
-[![ᝰᝣᝯᝪᝨᝤ ᝦᝠᝡᝥᝢᝧ ᝫᝮᝬᝩ](images/zotosans-tagbanwa.svg)](zotosans-tagbanwa/)
+[![ᝰᝣᝯᝪᝨᝤ ᝦᝠᝡᝥᝢᝧ ᝫᝮᝬᝩ](images/zotosans-tagbanwa.svg)](zotosans-tagbanwa/){: .fancybox data-caption="Zoto Sans Tagbanwa" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tagbanwa.vfj){: .btn target="_blank" }
 
@@ -1001,7 +1001,7 @@ license: Apache \| Reference sans font for the Tagbanwa script \| glyphs: 24 \| 
 
 ### Zoto Sans Tai Le
 
-[![ᥑᥪᥗᥢᥤᥡ ᥘᥥᥱᥩᥝᥔ ᥜᥣᥟᥬᥲᥙ ᥒᥴᥠᥖᥭᥕ ᥞᥳᥫᥨᥧᥚ](images/zotosans-taile.svg)](zotosans-taile/)
+[![ᥑᥪᥗᥢᥤᥡ ᥘᥥᥱᥩᥝᥔ ᥜᥣᥟᥬᥲᥙ ᥒᥴᥠᥖᥭᥕ ᥞᥳᥫᥨᥧᥚ](images/zotosans-taile.svg)](zotosans-taile/){: .fancybox data-caption="Zoto Sans Tai Le" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-taile.vfj){: .btn target="_blank" }
 
@@ -1012,7 +1012,7 @@ license: Apache \| Reference sans font for the Tai Le script \| glyphs: 55 \| sc
 
 ### Zoto Sans Tai Tham
 
-[![ᨻᩈᨾᩁᨫᩓ ᨿᩃᩊᨯᩒᨹ ᨤᩏᨭᩀᨳᨢ ᨡᨧᨲᨺᨵᩌ ᨸᩎᨩᨶᩅᨨ](images/zotosans-taitham.svg)](zotosans-taitham/)
+[![ᨻᩈᨾᩁᨫᩓ ᨿᩃᩊᨯᩒᨹ ᨤᩏᨭᩀᨳᨢ ᨡᨧᨲᨺᨵᩌ ᨸᩎᨩᨶᩅᨨ](images/zotosans-taitham.svg)](zotosans-taitham/){: .fancybox data-caption="Zoto Sans Tai Tham" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-taitham.vfj){: .btn target="_blank" }
 
@@ -1023,7 +1023,7 @@ license: Apache \| Reference sans font for the Tai Tham script \| glyphs: 231 \|
 
 ### Zoto Sans Tai Viet
 
-[![ꪕꪮꪃꪺꪄꪪ ꪅꪻꪍꪢꪠꪩ ꪔꪆꪶꪭꪯꪋ ꪇꪽꫛꪟꪛꫝ ꪒꪘꪚꪉꪌꪊ](images/zotosans-taiviet.svg)](zotosans-taiviet/)
+[![ꪕꪮꪃꪺꪄꪪ ꪅꪻꪍꪢꪠꪩ ꪔꪆꪶꪭꪯꪋ ꪇꪽꫛꪟꪛꫝ ꪒꪘꪚꪉꪌꪊ](images/zotosans-taiviet.svg)](zotosans-taiviet/){: .fancybox data-caption="Zoto Sans Tai Viet" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-taiviet.vfj){: .btn target="_blank" }
 
@@ -1034,7 +1034,7 @@ license: Apache \| Reference sans font for the Tai Viet script \| glyphs: 81 \| 
 
 ### Zoto Sans Tamil
 
-[![ஶஹௐஈஞட ஓணஎஙளய தஊஔஉஆற மசஒநவஸ ஏஐகழஜஷ](images/zotosans-tamil.svg)](zotosans-tamil/)
+[![ஶஹௐஈஞட ஓணஎஙளய தஊஔஉஆற மசஒநவஸ ஏஐகழஜஷ](images/zotosans-tamil.svg)](zotosans-tamil/){: .fancybox data-caption="Zoto Sans Tamil" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tamil.vfj){: .btn target="_blank" }
 
@@ -1045,7 +1045,7 @@ license: Apache \| Reference sans font for the Tamil script \| glyphs: 215 \| sc
 
 ### Zoto Sans Thaana
 
-[![ޘޢޚޝމޕ ލޱފވޔޖ ޣސބށޙޥ ޠޅޓޏޗޤ ކތހޛޡރ](images/zotosans-thaana.svg)](zotosans-thaana/)
+[![ޘޢޚޝމޕ ލޱފވޔޖ ޣސބށޙޥ ޠޅޓޏޗޤ ކތހޛޡރ](images/zotosans-thaana.svg)](zotosans-thaana/){: .fancybox data-caption="Zoto Sans Thaana" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-thaana.vfj){: .btn target="_blank" }
 
@@ -1056,7 +1056,7 @@ license: Apache \| Reference sans font for the Thaana script \| glyphs: 95 \| sc
 
 ### Zoto Sans Tifinagh
 
-[![ⴲⵢⵑⴿⴺⵉ ⵆⵅⵤⵕⴸⵞ ⴼⴵⴻⵍⵃⵄ ⵈⵐⴳⵛⵌⵖ ⵣⴴⵧⵓⵏⴹ](images/zotosans-tifinagh.svg)](zotosans-tifinagh/)
+[![ⴲⵢⵑⴿⴺⵉ ⵆⵅⵤⵕⴸⵞ ⴼⴵⴻⵍⵃⵄ ⵈⵐⴳⵛⵌⵖ ⵣⴴⵧⵓⵏⴹ](images/zotosans-tifinagh.svg)](zotosans-tifinagh/){: .fancybox data-caption="Zoto Sans Tifinagh" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-tifinagh.vfj){: .btn target="_blank" }
 
@@ -1067,7 +1067,7 @@ license: Apache \| Reference sans font for the Tifinagh script \| glyphs: 101 \|
 
 ### Zoto Sans Ugaritic
 
-[![𐎍𐎒𐎁𐎓𐎔𐎋 𐎄𐎌𐎅𐎛𐎆𐎑 𐎊𐎐𐎜𐎝𐎏𐎘 𐎉𐎈𐎚𐎃𐎖𐎗 𐎇𐎕𐎙𐎀𐎂𐎎](images/zotosans-ugaritic.svg)](zotosans-ugaritic/)
+[![𐎍𐎒𐎁𐎓𐎔𐎋 𐎄𐎌𐎅𐎛𐎆𐎑 𐎊𐎐𐎜𐎝𐎏𐎘 𐎉𐎈𐎚𐎃𐎖𐎗 𐎇𐎕𐎙𐎀𐎂𐎎](images/zotosans-ugaritic.svg)](zotosans-ugaritic/){: .fancybox data-caption="Zoto Sans Ugaritic" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-ugaritic.vfj){: .btn target="_blank" }
 
@@ -1078,7 +1078,7 @@ license: Apache \| Reference sans font for the Ugaritic script \| glyphs: 35 \| 
 
 ### Zoto Sans Vai
 
-[![ꗌꕥꗍꕟꔆꕭ ꖡꔈꗚꗝꔴꖒ ꗦꔚꖏꕣꔼꕀ ꔋꕷꖢꕽꕑꗛ ꔳꘁꗮꖱꗫꖫ](images/zotosans-vai.svg)](zotosans-vai/)
+[![ꗌꕥꗍꕟꔆꕭ ꖡꔈꗚꗝꔴꖒ ꗦꔚꖏꕣꔼꕀ ꔋꕷꖢꕽꕑꗛ ꔳꘁꗮꖱꗫꖫ](images/zotosans-vai.svg)](zotosans-vai/){: .fancybox data-caption="Zoto Sans Vai" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-vai.vfj){: .btn target="_blank" }
 
@@ -1089,7 +1089,7 @@ license: Apache \| Reference sans font for the Vai script \| glyphs: 304 \| scri
 
 ### Zoto Sans Yi
 
-[![ꋅꁪꁳꃬꂘꏦ ꅫꐕꌉꆂꉨꆌ ꆣꆋꋆꅐꆿꅠ ꎫꄇꅙꌤꋻꅱ ꉀꎲꇵꂭꋸꅝ](images/zotosans-yi.svg)](zotosans-yi/)
+[![ꋅꁪꁳꃬꂘꏦ ꅫꐕꌉꆂꉨꆌ ꆣꆋꋆꅐꆿꅠ ꎫꄇꅙꌤꋻꅱ ꉀꎲꇵꂭꋸꅝ](images/zotosans-yi.svg)](zotosans-yi/){: .fancybox data-caption="Zoto Sans Yi" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-yi.vfj){: .btn target="_blank" }
 
@@ -1100,7 +1100,7 @@ license: Apache \| Reference sans font for the Yi script \| glyphs: 1251 \| scri
 
 ### Zoto Serif Armenian
 
-[![ԽՉՒԿՂՅ ՏՂԸՄԵԻ էէզըքգ նբյթփպ թցզՙձծ](images/zotoserif-armenian.svg)](zotoserif-armenian/)
+[![ԽՉՒԿՂՅ ՏՂԸՄԵԻ էէզըքգ նբյթփպ թցզՙձծ](images/zotoserif-armenian.svg)](zotoserif-armenian/){: .fancybox data-caption="Zoto Serif Armenian" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-armenian.vfj){: .btn target="_blank" }
 
@@ -1111,7 +1111,7 @@ license: Apache \| Reference serif font for the Armenian script \| glyphs: 98 \|
 
 ### Zoto Serif Georgian
 
-[![ჁჼჅႧႶႴႲ ⴟშვⴌⴔⴠ ⴤⴆჰⴀⴈⴎ ⴟჶⴊⴚლგⴌ](images/zotoserif-georgian.svg)](zotoserif-georgian/)
+[![ჁჼჅႧႶႴႲ ⴟშვⴌⴔⴠ ⴤⴆჰⴀⴈⴎ ⴟჶⴊⴚლგⴌ](images/zotoserif-georgian.svg)](zotoserif-georgian/){: .fancybox data-caption="Zoto Serif Georgian" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-georgian.vfj){: .btn target="_blank" }
 
@@ -1122,7 +1122,7 @@ license: Apache \| Reference serif font for the Georgian script \| glyphs: 127 \
 
 ### Zoto Serif Khmer
 
-[![ឲយរឦញណ ឫខឥហសឭ ឳគងបឌឍ ថឧឈៗនធ ឡឆឯជឬឞ](images/zotoserif-khmer.svg)](zotoserif-khmer/)
+[![ឲយរឦញណ ឫខឥហសឭ ឳគងបឌឍ ថឧឈៗនធ ឡឆឯជឬឞ](images/zotoserif-khmer.svg)](zotoserif-khmer/){: .fancybox data-caption="Zoto Serif Khmer" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-khmer.vfj){: .btn target="_blank" }
 
@@ -1133,7 +1133,7 @@ license: Apache \| Reference serif font for the Khmer script \| glyphs: 378 \| s
 
 ### Zoto Serif Lao
 
-[![ໃຣຯສຕດ ຊຢມໝເຫ ໂນໄຝວແ ໞບຈພະລ ຟກໜຳຮໟ](images/zotoserif-lao.svg)](zotoserif-lao/)
+[![ໃຣຯສຕດ ຊຢມໝເຫ ໂນໄຝວແ ໞບຈພະລ ຟກໜຳຮໟ](images/zotoserif-lao.svg)](zotoserif-lao/){: .fancybox data-caption="Zoto Serif Lao" data-fancybox="getgo"}
 
 [Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotoserif/zotoserif-lao.vfj){: .btn target="_blank" }
 

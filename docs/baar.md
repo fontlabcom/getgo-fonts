@@ -11,7 +11,7 @@ title: "GG Baar"
 <p spellcheck="false">DECODE MYSTERY observe greatest rubrum</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/cc0/baar/baar.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/cc0/baar/baar.vfj){: .btn .btn-purple target="_blank" }
 
 license: CC-0 \| Modular narrow display font \| glyphs: 98 \| scripts: Latin
 

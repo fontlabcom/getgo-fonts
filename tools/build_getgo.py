@@ -260,7 +260,7 @@ title: "{self.full_name}"
 <p spellcheck="false">{self.metadata["sample_text"]}</p>
 </div>
 
-[Download zipped FontLab VFJ]({download_url}){{: .btn .btn-purple target="_blank" }}
+[Download FontLab VFJ]({download_url}){{: .btn .btn-purple target="_blank" }}
 
 {md_font_description}
 

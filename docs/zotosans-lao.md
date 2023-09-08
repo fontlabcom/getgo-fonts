@@ -11,7 +11,7 @@ title: "Zoto Sans Lao"
 <p spellcheck="false">ບໃຜລາອ ຫຽຟະຂຄ ຍຣມຳສຈ ໟໆເປຕໝ ພຢງທໜກ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-lao.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-lao.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Lao script \| glyphs: 166 \| scripts: Lao
 

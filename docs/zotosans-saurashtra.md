@@ -11,7 +11,7 @@ title: "Zoto Sans Saurashtra"
 <p spellcheck="false">ꢘꢉꢓꢛꢤꢔ ꢧꢰꢕꢋꢙꢩ ꢮꢬꢊꢑꢡꢨ ꢃꢂꢫꢖꢞꢣ ꢲꢦꢯꢌꢠꢱ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-saurashtra.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-saurashtra.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Saurasthra script \| glyphs: 93 \| scripts: Saurashtra
 

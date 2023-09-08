@@ -11,7 +11,7 @@ title: "Zoto Serif Armenian"
 <p spellcheck="false">ԽՉՒԿՂՅ ՏՂԸՄԵԻ էէզըքգ նբյթփպ թցզՙձծ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotoserif/zotoserif-armenian.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotoserif/zotoserif-armenian.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference serif font for the Armenian script \| glyphs: 98 \| scripts: Armenian
 

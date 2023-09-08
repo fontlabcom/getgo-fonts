@@ -11,7 +11,7 @@ title: "Zoto Emoji"
 <p spellcheck="false">🎡💄🀄🈴😱🐞 🇰🈚👺🍉2🍃 🔨🐣👠🌟🎯✈ 🍪😁 🎈🍸🌼 🍷📧🐔󾓩🏄👶</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotoemoji/zoto-emoji.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotoemoji/zoto-emoji.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference font for Emoji symbols \| glyphs: 771 \| scripts: 
 

@@ -11,7 +11,7 @@ title: "Zoto Sans Old South Arabian"
 <p spellcheck="false">𐩧𐩣𐩳𐩡𐩺𐩻 𐩷𐩰𐩫𐩸𐩶𐩮 𐩴𐩱𐩥𐩢𐩭𐩵 𐩪𐩬𐩨𐩩𐩼𐩦 𐩹𐩯𐩠𐩲𐩤</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-oldsoutharabian.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-oldsoutharabian.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Old South Arabian script \| glyphs: 36 \| scripts: Old South Arabian
 

@@ -11,7 +11,7 @@ title: "GG Veni"
 <p spellcheck="false">VESTIRO ÂÌDÓŸM quantas ùämõœl elegant</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/cc0/veni/veni.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/cc0/veni/veni.vfj){: .btn .btn-purple target="_blank" }
 
 license: CC-0 \| Renaissance serif font \| glyphs: 199 \| scripts: Latin
 

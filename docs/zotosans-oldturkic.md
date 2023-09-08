@@ -11,7 +11,7 @@ title: "Zoto Sans Old Turkic"
 <p spellcheck="false">𐰥𐱁𐰶𐰢𐰯𐰐 𐰋𐰪𐰚𐰈𐰛𐰗 𐰳𐰝𐰖𐰊𐱆𐰽 𐰬𐰺𐰨𐰘𐰟𐰦 𐱅𐰼𐰁𐰹𐰙𐱀</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-oldturkic.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-oldturkic.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Old Turkic script \| glyphs: 77 \| scripts: Old Turkic
 

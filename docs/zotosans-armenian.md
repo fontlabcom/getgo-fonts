@@ -11,7 +11,7 @@ title: "Zoto Sans Armenian"
 <p spellcheck="false">ԼՃԻԶԹՆ ՑԻՖՐՂՌ ւզթսգղ ժյﬔվմն փկդխկց</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-armenian.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-armenian.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Armenian script \| glyphs: 98 \| scripts: Armenian
 

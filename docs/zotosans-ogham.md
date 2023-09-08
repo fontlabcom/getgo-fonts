@@ -11,7 +11,7 @@ title: "Zoto Sans Ogham"
 <p spellcheck="false">ᚔᚚᚍᚋᚈᚐ ᚉᚏᚕᚅᚆᚂ ᚖᚑᚎᚗᚘᚊ ᚁᚇᚓᚄᚌᚒ ᚙᚃ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-ogham.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-ogham.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Ogham script \| glyphs: 33 \| scripts: Ogham
 

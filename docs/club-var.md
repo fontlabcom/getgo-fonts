@@ -11,7 +11,7 @@ title: "GG Club OFL"
 <p spellcheck="false">CLUB ŞẎLOP sports ħěbmṍģ ḝæŧlāť</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/ofl/club/club-var.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/ofl/club/club-var.vfj){: .btn .btn-purple target="_blank" }
 
 license: OFL \| Variable font with 12 axes in college block style \| glyphs: 563 \| scripts: Latin, Greek
 

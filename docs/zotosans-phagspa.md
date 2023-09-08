@@ -11,7 +11,7 @@ title: "Zoto Sans Phags Pa"
 <p spellcheck="false">ꡜꡤꡩꡕꡏꡂ ꡐꡗꡡꡯꡭꡓ ꡖꡘꡑꡉꡧꡟ ꡇꡁꡰꡄꡲꡥ ꡀꡆꡌꡙꡪꡠ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-phagspa.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-phagspa.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Phags-pa script \| glyphs: 382 \| scripts: Phags Pa, Mongolian
 

@@ -11,7 +11,7 @@ title: "GG Vize"
 <p spellcheck="false">CAPITAL QUEST fashion cuisine elegant</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/cc0/vize/vize.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/cc0/vize/vize.vfj){: .btn .btn-purple target="_blank" }
 
 license: CC-0 \| Renaissance humanist sanserif font \| glyphs: 103 \| scripts: Latin
 

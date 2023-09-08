@@ -11,7 +11,7 @@ title: "GG Hint"
 <p spellcheck="false">REVOLT Revolt revolt ĦBŦĒC bĉţėŷľ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/hint/hint.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/hint/hint.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Unicase sanserif design with pixel-perfect manual TrueType Hinting (TTH) \| glyphs: 372 \| scripts: Latin, Greek
 

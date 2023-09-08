@@ -11,7 +11,7 @@ title: "Zoto Sans Phoenician"
 <p spellcheck="false">𐤏𐤋𐤕𐤑𐤐𐤆 𐤉𐤔𐤍𐤅𐤒𐤄 𐤂𐤇𐤃𐤓𐤀𐤈 𐤁𐤊𐤎𐤌</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-phoenician.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-phoenician.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Phoenician script \| glyphs: 33 \| scripts: Phoenician
 

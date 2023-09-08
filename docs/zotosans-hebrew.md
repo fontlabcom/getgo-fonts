@@ -11,7 +11,7 @@ title: "Zoto Sans Hebrew"
 <p spellcheck="false">ןפרטּזּשׂ לּאָקמּיּשּׂ זףתעהּךּ אﬠךהװתּ כּײַﭏﬦוּבֿ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-hebrew.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-hebrew.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Hebrew script \| glyphs: 155 \| scripts: Hebrew
 

@@ -11,7 +11,7 @@ title: "GG Star"
 <p spellcheck="false">QUEST СЪРГУЮ imagine зфоляч ицщиач</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/cc0/star/star.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/cc0/star/star.vfj){: .btn .btn-purple target="_blank" }
 
 license: CC-0 \| Narrow retro sci-fi display font \| glyphs: 144 \| scripts: Cyrillic, Latin
 

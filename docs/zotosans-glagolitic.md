@@ -11,7 +11,7 @@ title: "Zoto Sans Glagolitic"
 <p spellcheck="false">ⰋⰤⰗⰁⰇⰏ ⰆⰥⰃⰒⰛⰍ ⰵⱍⰴⱑⰰⱎ ⱐⱏⱀⱗⱚⱑ ⰺⰽⱆⱊⱇⱌ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-glagolitic.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-glagolitic.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Glagolitic script \| glyphs: 98 \| scripts: Glagolitic
 

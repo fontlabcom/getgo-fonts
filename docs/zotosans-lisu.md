@@ -11,7 +11,7 @@ title: "Zoto Sans Lisu"
 <p spellcheck="false">ꓞꓣꓓꓩꓑꓶ ꓵꓛꓦꓤꓺꓰ ꓲꓹꓢꓳꓽꓫ ꓱꓐꓝꓚꓒꓧ ꓡꓼꓗꓠꓭꓴ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-lisu.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-lisu.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Lisu script \| glyphs: 54 \| scripts: Lisu
 

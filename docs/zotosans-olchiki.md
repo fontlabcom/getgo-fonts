@@ -11,7 +11,7 @@ title: "Zoto Sans Ol Chiki"
 <p spellcheck="false">ᱦᱫᱳᱰᱽᱜ ᱮᱧᱢᱝᱛᱶ ᱡᱯᱞᱹᱴᱣ ᱥᱱᱵᱷᱠᱭ ᱸᱬᱺᱲᱤᱪ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-olchiki.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-olchiki.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Ol Chiki script \| glyphs: 52 \| scripts: Ol Chiki
 

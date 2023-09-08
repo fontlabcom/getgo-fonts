@@ -11,7 +11,7 @@ title: "GG Stroke Chan OFL Italic"
 <p spellcheck="false">TLVUBG YKMMIP txnckj qixarh zpyegj</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/ofl/stroke-chan/stroke-chan.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/ofl/stroke-chan/stroke-chan.vfj){: .btn .btn-purple target="_blank" }
 
 license: OFL \| Single-stroke italic design in chancery style, for use with Power Brush or Stroke \| glyphs: 106 \| scripts: Latin
 

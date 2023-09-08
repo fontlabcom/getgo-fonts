@@ -11,7 +11,7 @@ title: "Zoto Sans Meetei Mayek"
 <p spellcheck="false">ꫢꯐꫧꯝꯂꫡ ꯒꫠꯇꯙꯎꯋ ꯡꯍꫲꯈꫦꯏ ꯔꯕꫩꯜꯛꯖ ꯅꫥꯠꯢꯄꯗ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-meeteimayek.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-meeteimayek.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Meetei Mayek script \| glyphs: 91 \| scripts: Meetei Mayek
 

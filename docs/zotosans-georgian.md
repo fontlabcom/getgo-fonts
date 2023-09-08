@@ -11,7 +11,7 @@ title: "Zoto Sans Georgian"
 <p spellcheck="false">ႣჀႽჂ ႭႸႺႱ ⴇზⴂⴄჺⴊ ⴊფაⴥⴡⴌ ⴤჟღⴄსⴇ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-georgian.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-georgian.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Georgian script \| glyphs: 127 \| scripts: Georgian, Armenian
 

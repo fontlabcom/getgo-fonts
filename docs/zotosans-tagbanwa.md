@@ -11,7 +11,7 @@ title: "Zoto Sans Tagbanwa"
 <p spellcheck="false">ᝰᝣᝯᝪᝨᝤ ᝦᝠᝡᝥᝢᝧ ᝫᝮᝬᝩ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-tagbanwa.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-tagbanwa.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Tagbanwa script \| glyphs: 24 \| scripts: Tagbanwa
 

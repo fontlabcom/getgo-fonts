@@ -11,7 +11,7 @@ title: "GG Deco"
 <p spellcheck="false">RIDSNC QUAMJV zifwlz matknh bopfxc</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/cc0/deco/deco.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/cc0/deco/deco.vfj){: .btn .btn-purple target="_blank" }
 
 license: CC-0 \| Geometric art deco sanserif font \| glyphs: 104 \| scripts: Latin
 

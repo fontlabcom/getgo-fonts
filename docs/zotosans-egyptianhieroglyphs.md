@@ -11,7 +11,7 @@ title: "Zoto Sans Egyptian Hieroglyphs"
 <p spellcheck="false">𓁫𓋾𓅷𓆢𓋁𓁗 𓇶𓈓𓋉𓄌𓅞𓈥 𓍪𓅵𓂥𓎮𓎇𓅺 𓋘𓐦𓀮𓅶𓎐𓍼 𓈭𓍙𓐣𓐘𓁳𓅅</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-egyptianhieroglyphs.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-egyptianhieroglyphs.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Egyptian Hieroglyphs script \| glyphs: 1075 \| scripts: Egyptian Hieroglyphs
 

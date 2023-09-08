@@ -11,7 +11,7 @@ title: "Zoto Kufi Arabic"
 <p spellcheck="false">ﻹݬݣڙﺯﭘ ﹾﺂښێﹲۯ ۮڦﭖﺤﮌظ ڰګﺊذﮭڢ ۉﺠحﭧﭭﭽ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zoto-kufiarabic.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zoto-kufiarabic.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference font for the Arabic script in the Kufi style \| glyphs: 762 \| scripts: Arabic
 

@@ -11,7 +11,7 @@ title: "Zoto Sans Balinese"
 <p spellcheck="false">ᬰᬋᬘᬎᬓᬮ ᭊᬉᬥᬫᬌᬯ ᬪᬠᬲᭋᭅᬡ ᬑᬊᬭᬒᬨᬅ ᬧᬇᬗᬍᬩᭆ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-balinese.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-balinese.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Balinese script \| glyphs: 182 \| scripts: Balinese
 

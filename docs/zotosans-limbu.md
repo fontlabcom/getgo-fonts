@@ -11,7 +11,7 @@ title: "Zoto Sans Limbu"
 <p spellcheck="false">ᤌᤖᤓᤁᤕᤃ ᤐᤒᤚᤏᤛᤗ ᤑᤈᤎᤄᤅᤀ ᤜᤍᤆᤂᤔᤘ ᤊᤇᤋᤙᤉ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-limbu.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-limbu.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Limbu script \| glyphs: 73 \| scripts: Limbu
 

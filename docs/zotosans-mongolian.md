@@ -11,7 +11,7 @@ title: "Zoto Sans Mongolian"
 <p spellcheck="false">ᡙᡇᠷᡬᢃᠠ ᢖᠱᠽᠩᡞᡏ ᢢᠬᢙᡮᠫᠥ ᠼᢨᠾᠰᢎᡲ ᢉᢛᢝᢋᠮᡓ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-mongolian.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-mongolian.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Mongolian script \| glyphs: 1511 \| scripts: Mongolian
 

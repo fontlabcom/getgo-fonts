@@ -11,7 +11,7 @@ title: "Zoto Sans Tamil"
 <p spellcheck="false">ஶஹௐஈஞட ஓணஎஙளய தஊஔஉஆற மசஒநவஸ ஏஐகழஜஷ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-tamil.vfj){: .btn .btn-purple target="_blank" }
+[Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-tamil.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Tamil script \| glyphs: 215 \| scripts: Tamil
 

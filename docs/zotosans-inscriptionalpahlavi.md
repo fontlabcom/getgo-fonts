@@ -11,7 +11,7 @@ title: "Zoto Sans Inscriptional Pahlavi"
 <p spellcheck="false">𐭰𐭠𐭫𐭨𐭬𐭩 𐭢𐭧𐭯𐭦𐭣𐭤 𐭡𐭱𐭪𐭲𐭭𐭮 𐭥</p>
 </div>
 
-[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalpahlavi.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-inscriptionalpahlavi.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Inscriptional Pahlavi script \| glyphs: 34 \| scripts: Inscriptional Pahlavi
 

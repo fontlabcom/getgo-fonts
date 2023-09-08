@@ -6,7 +6,7 @@ nav_order: 1
 
 # GetGo Fonts for FontLab
 
-Scratching your head to start a font? [FontLab 7](https://www.fontlab.com/font-editor/fontlab/) gives you a head start. With 99 free template fonts, we’re guiding you from the get-go! GetGo Fonts for FontLab is a carefully curated collection of quality typeface designs available in FontLab’s native VFJ format.
+Scratching your head to start a font? [FontLab 8](https://www.fontlab.com/font-editor/fontlab/) gives you a head start. With 99 free template fonts, we’re guiding you from the get-go! GetGo Fonts for FontLab is a carefully curated collection of quality typeface designs available in FontLab’s native VFJ format.
 
 ![Start your font with one of the 99 free GetGo Fonts for FontLab](illustrations/fontlab-getgo-poster-1920x880.svg)
 
@@ -14,7 +14,7 @@ The 99 free designs range from simple Latin sanserif and serif designs, include 
 
 But that’s not all! The Zoto fonts (based on the Noto global font collection) give you ready-to-use templates for over 70 writing systems (scripts) from around the world (Cyrillic, Greek, Arabic, emoji, and many others). Those fonts include the right glyph sets and OpenType features. The GetGo collection even bundles a few single-stroke (skeleton) fonts, on which you can experiment with FontLab’s live calligraphic Power Brush.
 
-You may create your own fonts based on these fonts, and you may incorporate portions of these fonts into your own fonts. Each GetGo font is available under one of three licenses: CC-0 (public domain), Apache or OFL. You can download them in the FontLab VFJ format and open them in [FontLab 7](https://www.fontlab.com/font-editor/fontlab/). The collection is growing!
+You may create your own fonts based on these fonts, and you may incorporate portions of these fonts into your own fonts. Each GetGo font is available under one of three licenses: CC-0 (public domain), Apache or OFL. You can download them in the FontLab VFJ format and open them in [FontLab 8](https://www.fontlab.com/font-editor/fontlab/). The collection is growing!
 
 ## Download
 

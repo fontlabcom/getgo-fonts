@@ -11,7 +11,7 @@ title: "GG Cosm"
 <p spellcheck="false">WORLD ĖÈØŎXĴ discover nękćzęĥ oșőűng</p>
 </div>
 
-[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/cc0/cosm/cosm-var.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/cc0/cosm/cosm-var.vfj){: .btn .btn-purple target="_blank" }
 
 license: CC-0 \| Neo-grotesque sanserif font family with a weight axis, upright version \| glyphs: 359 \| scripts: Latin
 

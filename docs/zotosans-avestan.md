@@ -11,7 +11,7 @@ title: "Zoto Sans Avestan"
 <p spellcheck="false">𐬑𐬂𐬜𐬴𐬢𐬄 𐬖𐬁𐬱𐬭𐬆𐬍 𐬛𐬔𐬡𐬫𐬗𐬵 𐬒𐬦𐬥𐬬𐬊𐬲 𐬘𐬣𐬰𐬏𐬅𐬨</p>
 </div>
 
-[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-avestan.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-avestan.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Avestan script \| glyphs: 73 \| scripts: Avestan
 

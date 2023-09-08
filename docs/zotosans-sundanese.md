@@ -11,7 +11,7 @@ title: "Zoto Sans Sundanese"
 <p spellcheck="false">ᮙᮍᮮᮜᮠᮗ ᮅᮞᮚᮒᮑᮯ ᮌᮻᮘᮛᮃᮽ ᮇᮟᮎᮕᮏᮊ ᮓᮺᮝᮄᮆᮋ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-sundanese.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-sundanese.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Sundanese script \| glyphs: 79 \| scripts: Sundanese
 

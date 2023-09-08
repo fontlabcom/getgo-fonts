@@ -11,7 +11,7 @@ title: "Zoto Sans Coptic"
 <p spellcheck="false">ⲰⲮⲄⳜⲜⳄ ⲦⲤⲢϮⲶⳠ ⲽⲫⲭⳗⲿⳳ ⲃⳇⲃⲏⳃⳗ ϫⳁⲅⲽⲉⲩ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-coptic.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-coptic.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Coptic script \| glyphs: 190 \| scripts: Coptic, Latin
 

@@ -11,7 +11,7 @@ title: "Zoto Sans Old Italic"
 <p spellcheck="false">𐌏𐌉𐌆𐌊𐌙𐌜 𐌇𐌞𐌕𐌎𐌀𐌚 𐌃𐌁𐌓𐌅𐌋𐌔 𐌘𐌌𐌛𐌖𐌍𐌈 𐌄𐌝𐌐𐌂𐌗𐌑</p>
 </div>
 
-[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-olditalic.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-olditalic.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Old Italic script \| glyphs: 39 \| scripts: Old Italic
 

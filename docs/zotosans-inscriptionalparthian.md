@@ -11,7 +11,7 @@ title: "Zoto Sans Inscriptional Parthian"
 <p spellcheck="false">𐭊𐭕𐭈𐭃𐭔𐭍 𐭏𐭋𐭆𐭁𐭐𐭂 𐭀𐭄𐭒𐭌𐭎𐭅 𐭓𐭇𐭉𐭑</p>
 </div>
 
-[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-inscriptionalparthian.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-inscriptionalparthian.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Inscriptional Parthian script \| glyphs: 45 \| scripts: Inscriptional Parthian
 

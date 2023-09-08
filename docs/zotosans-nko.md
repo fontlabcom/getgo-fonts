@@ -11,7 +11,7 @@ title: "Zoto Sans NKo"
 <p spellcheck="false">ߓߪߣߍߑߞ ߕߛߧߘߖߤ ߟߏߵߨߒߠ ߢߎߥߡߴߝ ߔߩߌߙߊߦ</p>
 </div>
 
-[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-nko.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-nko.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Nko script \| glyphs: 174 \| scripts: Nko, Arabic
 

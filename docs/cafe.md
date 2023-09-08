@@ -11,7 +11,7 @@ title: "GG Cafe"
 <p spellcheck="false">FRESH DIRECT espresso first ļbĩẅńà</p>
 </div>
 
-[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/cafe/cafe.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/cafe/cafe.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Signpainter-style flat brush script font \| glyphs: 372 \| scripts: Latin, Greek
 

@@ -11,7 +11,7 @@ title: "GG Boto"
 <p spellcheck="false">Vältože бомуще θρώπον çavatečkul</p>
 </div>
 
-[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/boto/boto-var.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/boto/boto-var.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Grotesque sanserif design with the width, weight and italic axis \| glyphs: 3387 \| scripts: Latin, Cyrillic, Greek
 

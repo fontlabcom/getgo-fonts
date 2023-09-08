@@ -1,6 +1,6 @@
-CairoSVG>=2.5.2
-fontTools[lxml,ufo,woff,unicode,interpolatable]>=4.24.4
+CairoSVG>=2.7.1
+fontTools[lxml,ufo,woff,unicode,interpolatable]>=4.42.1
 Pillow>=8.2.0
-sh>=1.14.1
-vharfbuzz>=0.1.1
+sh>=2.0.6
+vharfbuzz>=0.2.0
 yaplon>=1.5.7

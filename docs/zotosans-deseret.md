@@ -11,7 +11,7 @@ title: "Zoto Sans Deseret"
 <p spellcheck="false">𐐈𐐔𐐟𐐚𐐢𐐌 𐐜𐐀𐐒𐐖𐐈𐐇 𐐹𐐷𐐮𐑅𐐫𐐵 𐐬𐐩𐐵𐐾𐑌𐐯 𐑏𐐸𐐬𐐽𐐱𐑏</p>
 </div>
 
-[Download zipped FontLab VFJ](https://downgit.github.io/#/home?url=https://github.com/fontlabcom/getgo-fonts/blob/main/getgo-fonts/apache/zotosans/zotosans-deseret.vfj){: .btn .btn-purple target="_blank" }
+[Download zipped FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/apache/zotosans/zotosans-deseret.vfj){: .btn .btn-purple target="_blank" }
 
 license: Apache \| Reference sans font for the Deseret script \| glyphs: 84 \| scripts: Deseret
 

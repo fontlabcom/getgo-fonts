@@ -1,0 +1,46 @@
+# this_file: src_docs/mkdocs.yml
+site_name: GetGo Fonts for FontLab
+site_url: https://fontlabcom.github.io/getgo-fonts/
+docs_dir: md
+site_dir: ../docs
+use_directory_urls: true
+theme:
+  name: materialx
+  custom_dir: overrides
+  font: false
+  features:
+    - navigation.top
+    - navigation.indexes
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: black
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+plugins:
+  - search
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+extra_css:
+  - https://use.typekit.net/gav0zux.css
+  - https://i.fontlab.com/fltheme26/1.0.0/components.css
+  - https://i.fontlab.com/fltheme26/1.0.0/theme.css
+  - css/site.css
+  - css/fonts.css
+extra_javascript:
+  - https://i.fontlab.com/fltheme26/1.0.0/basecoat.js
+  - https://i.fontlab.com/fltheme26/1.0.0/theme.js

@@ -1,0 +1,6 @@
+/* this_file: src_docs/md/css/site.css */
+:root { --md-text-font: "Outfit", system-ui, sans-serif; }
+fontlab-menu { display: block; position: sticky; top: 0; z-index: 100; }
+.md-typeset img { max-width: 100%; height: auto; }
+.md-typeset .texteditor { font-size: clamp(1.4rem, 4vw, 3rem); padding: 1rem; border: 1px solid var(--md-default-fg-color--lightest); border-radius: .25rem; overflow-wrap: anywhere; }
+.fltheme-grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(min(100%,16rem),1fr)); gap: 1rem; }

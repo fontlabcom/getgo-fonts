@@ -18,7 +18,7 @@ You may create your own fonts based on these fonts, and you may incorporate port
 
 ## Download
 
-[Download all fonts](https://github.com/fontlabcom/getgo-fonts/raw/main/getgo-fonts-for-fontlab.zip){: .btn .btn-purple }
+[Download all fonts](https://github.com/fontlabcom/getgo-fonts/raw/main/getgo-fonts-for-fontlab.zip){: .md-button .md-button--primary }
 
 ## Licenses
 

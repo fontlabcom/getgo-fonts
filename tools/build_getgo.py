@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# this_file: tools/build_getgo.py
 """
 """
 
@@ -125,7 +126,7 @@ class GetGoFont(object):
             self.font.save(self.woff_path)
 
     def get_font_css(self):
-        url = str(self.woff_path).replace(str(self.folders["docs"]), str("../.."))
+        url = str(self.woff_path).replace(str(self.folders["docs"]), str(".."))
         return f"""
 
 @font-face {{
@@ -228,7 +229,7 @@ class GetGoFont(object):
 
 [![{self.metadata["sample_text"]}]({svg_link})]({self.page_url + '/'})
 
-[Download FontLab VFJ]({download_url}){{: .btn target="_blank" }}
+[Download FontLab VFJ]({download_url}){{: .md-button target="_blank" }}
 
 {md_font_description} \| [Read more…]({self.page_url + '/'})
 
@@ -260,7 +261,7 @@ title: "{self.full_name}"
 <p spellcheck="false">{self.metadata["sample_text"]}</p>
 </div>
 
-[Download FontLab VFJ]({download_url}){{: .btn .btn-purple target="_blank" }}
+[Download FontLab VFJ]({download_url}){{: .md-button .md-button--primary target="_blank" }}
 
 {md_font_description}
 
@@ -298,11 +299,11 @@ class GetGoDocs(object):
         self.folders["root"] = Path(Path(__file__).parent, "..").resolve()
         self.folders["font"] = Path(self.folders["root"], "getgo-fonts").resolve()
         self.folders["md"] = Path(self.folders["root"], "srcdocs").resolve()
-        self.folders["docs"] = Path(self.folders["root"], "docs").resolve()
+        self.folders["docs"] = Path(self.folders["root"], "src_docs", "md").resolve()
         self.folders["woff"] = Path(self.folders["docs"], "fonts").resolve()
         self.folders["illu"] = Path(self.folders["docs"], "illustrations").resolve()
         self.folders["images"] = Path(self.folders["docs"], "images").resolve()
-        self.folders["css"] = Path(self.folders["docs"], "_sass", "custom").resolve()
+        self.folders["css"] = Path(self.folders["docs"], "css").resolve()
 
         self.url_bases = {}
 
@@ -366,7 +367,7 @@ class GetGoDocs(object):
             with open(fo.md_outpath, "w", encoding="utf-8") as f:
                 f.write(fo.font_md)
 
-        with open(Path(self.folders["css"], "fonts.scss"), "w", encoding="utf-8") as f:
+        with open(Path(self.folders["css"], "fonts.css"), "w", encoding="utf-8") as f:
             f.write(self.font_css)
         with open(Path(self.folders["root"], "fonts.json"), "w", encoding="utf-8") as f:
             ojson.json_dump(self.data, f)

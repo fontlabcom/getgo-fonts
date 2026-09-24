@@ -70,8 +70,8 @@ The September 2026 shared changes cover:
 - Standard MaterialX/Basecoat/daisyUI buttons: 2.5rem height, 1rem horizontal
   padding, .875rem text, weight 600 and 1.25rem line height. Explicit size/shape
   variants remain available.
-- `article.md-typeset > p:last-of-type { padding-bottom: 25vh !important; }`.
-  The old `.md-main .md-content` padding rule was removed.
+- Admonitions have no border or background. Icon, heading and body use a semantic
+  color; body text aligns with the heading. No viewport-based article-end padding.
 - Vexy mobile search uses panel background/text colours, so a transparent global
   header does not make an explicitly opaque search panel transparent.
 

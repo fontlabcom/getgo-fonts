@@ -31560,13 +31560,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "yScale":0.7,
-                  "xOffset":305,
-                  "yOffset":14
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "680 180.6",
+                        "680 285.6",
+                        "340 285.6",
+                        "340 180.6"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -31646,12 +31650,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":293,
-                  "yOffset":-105
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "636 169",
+                        "636 247",
+                        "353 247",
+                        "353 169"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -31699,12 +31708,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":289,
-                  "yOffset":-90
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "613 209",
+                        "613 237",
+                        "364 237",
+                        "364 209"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -31752,12 +31766,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":281,
-                  "yOffset":-90
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "596 221",
+                        "596 223",
+                        "366 223",
+                        "366 221"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -34133,12 +34152,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":-35,
-                  "yOffset":47
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "340 285",
+                        "340 435",
+                        "0 435",
+                        "0 285"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -34190,13 +34214,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "yScale":0.95,
-                  "xOffset":-45,
-                  "yOffset":62
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "298 322.3",
+                        "298 396.4",
+                        "15 396.4",
+                        "15 322.3"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -34217,12 +34245,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":-40,
-                  "yOffset":47
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "284 346",
+                        "284 374",
+                        "35 374",
+                        "35 346"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -34243,12 +34276,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":-30,
-                  "yOffset":49
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "285 360",
+                        "285 362",
+                        "55 362",
+                        "55 360"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -51495,14 +51533,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.3,
-                  "yScale":0.8,
-                  "xOffset":1,
-                  "yOffset":97
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "488.5 287.4",
+                        "488.5 407.4",
+                        "46.5 407.4",
+                        "46.5 287.4"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -51574,14 +51615,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.2,
-                  "yScale":0.95,
-                  "xOffset":22,
-                  "yOffset":50
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "433.6 310.3",
+                        "433.6 384.4",
+                        "94 384.4",
+                        "94 310.3"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -51625,13 +51669,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.1,
-                  "xOffset":35,
-                  "yOffset":30
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "391.4 329",
+                        "391.4 357",
+                        "117.5 357",
+                        "117.5 329"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -51675,13 +51723,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.1,
-                  "xOffset":32,
-                  "yOffset":30
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "378.5 341",
+                        "378.5 343",
+                        "125.5 343",
+                        "125.5 341"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -82602,16 +82654,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xScale":0.8,
-                  "yScale":0.8,
-                  "xOffset":288,
-                  "yOffset":-231
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "400.8 432.2 s",
+                        "348.8 432.2  312 395.4  312 347.4 s",
+                        "312 299.4  348.8 262.6  400.8 262.6 s",
+                        "452.8 262.6  489.6 299.4  489.6 347.4 s",
+                        "489.6 395.4  452.8 432.2 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "anchors":[
@@ -82704,14 +82759,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xOffset":300,
-                  "yOffset":-372
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "394 408 s",
+                        "356 408  330 381  330 345 s",
+                        "330 310  356 283  394 283 s",
+                        "433 283  459 310  459 345 s",
+                        "459 381  433 408 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "guidelines":[
@@ -82768,14 +82828,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xOffset":339,
-                  "yOffset":-366
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "395 365 s",
+                        "379 365  369 353  369 340 s",
+                        "369 327  379 315  395 315 s",
+                        "412 315  421 327  421 340 s",
+                        "421 353  412 365 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "guidelines":[
@@ -82832,14 +82897,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xOffset":357,
-                  "yOffset":-364
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "393 342 s",
+                        "389 342  387 339  387 336 s",
+                        "387 333  389 330  393 330",
+                        "397 330  399 333  399 336 s",
+                        "399 339  397 342 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "guidelines":[
@@ -96892,13 +96962,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "yScale":0.4,
-                  "xOffset":235,
-                  "yOffset":-178
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "610 -82.8",
+                        "610 -22.8",
+                        "270 -22.8",
+                        "270 -82.8"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -97007,13 +97081,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "yScale":0.8,
-                  "xOffset":205,
-                  "yOffset":-305
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "548 -85.8",
+                        "548 -23.4",
+                        "265 -23.4",
+                        "265 -85.8"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -97075,12 +97153,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":195,
-                  "yOffset":-371
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "519 -72",
+                        "519 -44",
+                        "270 -44",
+                        "270 -72"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -97142,12 +97225,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":220,
-                  "yOffset":-371
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "535 -60",
+                        "535 -58",
+                        "305 -58",
+                        "305 -60"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -99861,12 +99949,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "yScale":0.9,
-                  "xOffset":-35
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "340 214.2",
+                        "340 349.2",
+                        "0 349.2",
+                        "0 214.2"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -99887,12 +99980,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "yScale":0.9,
-                  "xOffset":-45
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "298 246.6",
+                        "298 316.8",
+                        "15 316.8",
+                        "15 246.6"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -99913,12 +100011,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":-55,
-                  "yOffset":-30
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "269 269",
+                        "269 297",
+                        "20 297",
+                        "20 269"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -99939,12 +100042,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":-60,
-                  "yOffset":-28
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "255 283",
+                        "255 285",
+                        "25 285",
+                        "25 283"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -102374,13 +102482,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "yScale":0.9,
-                  "xOffset":-35,
-                  "yOffset":90
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "340 304.2",
+                        "340 439.2",
+                        "0 439.2",
+                        "0 304.2"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -102403,13 +102515,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "yScale":0.9,
-                  "xOffset":-45,
-                  "yOffset":90
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "298 336.6",
+                        "298 406.8",
+                        "15 406.8",
+                        "15 336.6"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -102432,12 +102548,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":-55,
-                  "yOffset":60
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "269 359",
+                        "269 387",
+                        "20 387",
+                        "20 359"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -102460,12 +102581,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":-60,
-                  "yOffset":52
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "255 363",
+                        "255 365",
+                        "25 365",
+                        "25 363"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -128351,14 +128477,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.2,
-                  "yScale":0.7,
-                  "xOffset":-14,
-                  "yOffset":59
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "436 225.6",
+                        "436 330.6",
+                        "28 330.6",
+                        "28 225.6"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -128428,14 +128557,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.1,
-                  "yScale":0.9,
-                  "xOffset":-5,
-                  "yOffset":-18
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "372.3 228.6",
+                        "372.3 298.8",
+                        "61 298.8",
+                        "61 228.6"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -128477,12 +128609,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":9,
-                  "yOffset":-43
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "333 256",
+                        "333 284",
+                        "84 284",
+                        "84 256"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -128524,12 +128661,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":10,
-                  "yOffset":-45
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "325 266",
+                        "325 268",
+                        "95 268",
+                        "95 266"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -139446,16 +139588,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb.sc"
-                },
-                "transform":{
-                  "xScale":0.8,
-                  "yScale":0.8,
-                  "xOffset":270,
-                  "yOffset":-264
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "382.8 423.2 s",
+                        "330.8 423.2  294 386.4  294 338.4 s",
+                        "294 290.4  330.8 253.6  382.8 253.6 s",
+                        "434.8 253.6  471.6 290.4  471.6 338.4 s",
+                        "471.6 386.4  434.8 423.2 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#bac000"
@@ -139474,14 +139619,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb.sc"
-                },
-                "transform":{
-                  "xOffset":271,
-                  "yOffset":-432
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "365 378 s",
+                        "327 378  301 351  301 315 s",
+                        "301 280  327 253  365 253 s",
+                        "404 253  430 280  430 315 s",
+                        "430 351  404 378 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#ff34ff"
@@ -139500,14 +139650,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb.sc"
-                },
-                "transform":{
-                  "xOffset":278,
-                  "yOffset":-420
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "334 341 s",
+                        "318 341  308 329  308 316 s",
+                        "308 303  318 291  334 291 s",
+                        "351 291  360 303  360 316 s",
+                        "360 329  351 341 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#1f964d"
@@ -139526,14 +139681,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb.sc"
-                },
-                "transform":{
-                  "xOffset":291,
-                  "yOffset":-445
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "327 291 s",
+                        "323 291  321 288  321 285 s",
+                        "321 282  323 279  327 279",
+                        "331 279  333 282  333 285 s",
+                        "333 288  331 291 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#de4d8a"
@@ -162755,14 +162915,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":0.85,
-                  "yScale":0.5,
-                  "xOffset":275,
-                  "yOffset":36
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "593.75 155",
+                        "593.75 230",
+                        "304.75 230",
+                        "304.75 155"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -162843,14 +163006,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":0.9,
-                  "yScale":0.88,
-                  "xOffset":263,
-                  "yOffset":-106
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "571.7 135.12",
+                        "571.7 203.76",
+                        "317 203.76",
+                        "317 135.12"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -162899,13 +163065,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":0.9,
-                  "xOffset":259,
-                  "yOffset":-146
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "550.6 153",
+                        "550.6 181",
+                        "326.5 181",
+                        "326.5 153"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -162954,14 +163124,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":0.9,
-                  "yScale":0.9,
-                  "xOffset":254,
-                  "yOffset":-114
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "537.5 165.9",
+                        "537.5 167.7",
+                        "330.5 167.7",
+                        "330.5 165.9"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -164148,12 +164321,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":-35,
-                  "yOffset":-13
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "340 225",
+                        "340 375",
+                        "0 375",
+                        "0 225"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -164176,13 +164354,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "yScale":0.95,
-                  "xOffset":-45,
-                  "yOffset":2
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "298 262.3",
+                        "298 336.4",
+                        "15 336.4",
+                        "15 262.3"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -164205,12 +164387,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":-40,
-                  "yOffset":-14
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "284 285",
+                        "284 313",
+                        "35 313",
+                        "35 285"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -164233,12 +164420,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":-30,
-                  "yOffset":-14
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "285 297",
+                        "285 299",
+                        "55 299",
+                        "55 297"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -164460,13 +164652,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "yScale":0.9,
-                  "xOffset":-43,
-                  "yOffset":20
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "332 234.2",
+                        "332 369.2",
+                        "-8 369.2",
+                        "-8 234.2"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -164489,13 +164685,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "yScale":0.95,
-                  "xOffset":-55,
-                  "yOffset":-10
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "288 250.3",
+                        "288 324.4",
+                        "5 324.4",
+                        "5 250.3"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -164518,12 +164718,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":-55,
-                  "yOffset":-10
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "269 289",
+                        "269 317",
+                        "20 317",
+                        "20 289"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -164546,12 +164751,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":-55,
-                  "yOffset":-10
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "260 301",
+                        "260 303",
+                        "30 303",
+                        "30 301"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -165073,13 +165283,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "yScale":0.9,
-                  "xOffset":-35,
-                  "yOffset":20
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "340 234.2",
+                        "340 369.2",
+                        "0 369.2",
+                        "0 234.2"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -165102,12 +165316,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "yScale":0.95,
-                  "xOffset":-45
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "298 260.3",
+                        "298 334.4",
+                        "15 334.4",
+                        "15 260.3"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -165130,12 +165349,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":-40,
-                  "yOffset":-10
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "284 289",
+                        "284 317",
+                        "35 317",
+                        "35 289"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -165158,12 +165382,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":-30,
-                  "yOffset":-10
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "285 301",
+                        "285 303",
+                        "55 303",
+                        "55 301"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -179165,14 +179394,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.3,
-                  "yScale":0.8,
-                  "xOffset":-18,
-                  "yOffset":44
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "469.5 234.4",
+                        "469.5 354.4",
+                        "27.5 354.4",
+                        "27.5 234.4"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -179244,14 +179476,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.1,
-                  "yScale":0.95,
-                  "xOffset":6,
-                  "yOffset":-9
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "383.3 251.3",
+                        "383.3 325.4",
+                        "72 325.4",
+                        "72 251.3"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -179295,13 +179530,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.1,
-                  "xOffset":8,
-                  "yOffset":-31
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "364.4 268",
+                        "364.4 296",
+                        "90.5 296",
+                        "90.5 268"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -179345,13 +179584,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.1,
-                  "xOffset":6,
-                  "yOffset":-29
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "352.5 282",
+                        "352.5 284",
+                        "99.5 284",
+                        "99.5 282"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -179415,13 +179658,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"minus"
-                },
-                "transform":{
-                  "xScale":0.95,
-                  "xOffset":2,
-                  "yOffset":-257
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "467.5 0",
+                        "467.5 150",
+                        "40 150",
+                        "40 0"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -179469,12 +179716,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"minus"
-                },
-                "transform":{
-                  "xOffset":9,
-                  "yOffset":-294
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "447 0",
+                        "447 77",
+                        "71 77",
+                        "71 0"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -179522,12 +179774,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"minus"
-                },
-                "transform":{
-                  "xOffset":13,
-                  "yOffset":-316
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "426 0",
+                        "426 29",
+                        "88 29",
+                        "88 0"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -179575,12 +179832,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"minus"
-                },
-                "transform":{
-                  "xOffset":14,
-                  "yOffset":-330
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "407 0",
+                        "407 2",
+                        "99 2",
+                        "99 0"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -180203,23 +180465,31 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "yScale":0.7,
-                  "xOffset":-35,
-                  "yOffset":224
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "340 390.6",
+                        "340 495.6",
+                        "0 495.6",
+                        "0 390.6"
+                      ]
+                    }
+                  ]
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "yScale":0.7,
-                  "xOffset":-35,
-                  "yOffset":75
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "340 241.6",
+                        "340 346.6",
+                        "0 346.6",
+                        "0 241.6"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -180242,23 +180512,31 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "yScale":0.8,
-                  "xOffset":-45,
-                  "yOffset":189
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "298 408.2",
+                        "298 470.6",
+                        "15 470.6",
+                        "15 408.2"
+                      ]
+                    }
+                  ]
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "yScale":0.8,
-                  "xOffset":-45,
-                  "yOffset":40
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "298 259.2",
+                        "298 321.6",
+                        "15 321.6",
+                        "15 259.2"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -180281,23 +180559,31 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "yScale":0.9,
-                  "xOffset":-40,
-                  "yOffset":159
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "284 428.1",
+                        "284 453.3",
+                        "35 453.3",
+                        "35 428.1"
+                      ]
+                    }
+                  ]
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "yScale":0.9,
-                  "xOffset":-40,
-                  "yOffset":10
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "284 279.1",
+                        "284 304.3",
+                        "35 304.3",
+                        "35 279.1"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -180320,21 +180606,31 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":-30,
-                  "yOffset":124
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "285 435",
+                        "285 437",
+                        "55 437",
+                        "55 435"
+                      ]
+                    }
+                  ]
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xOffset":-30,
-                  "yOffset":-25
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "285 286",
+                        "285 288",
+                        "55 288",
+                        "55 286"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -181890,14 +182186,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.3,
-                  "yScale":0.8,
-                  "xOffset":9,
-                  "yOffset":43
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "496.5 233.4",
+                        "496.5 353.4",
+                        "54.5 353.4",
+                        "54.5 233.4"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -181915,14 +182214,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.3,
-                  "yScale":0.95,
-                  "xOffset":-5,
-                  "yOffset":-8
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "440.9 252.3",
+                        "440.9 326.4",
+                        "73 326.4",
+                        "73 252.3"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -181940,13 +182242,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.3,
-                  "xOffset":-9,
-                  "yOffset":-29
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "412.2 270",
+                        "412.2 298",
+                        "88.5 298",
+                        "88.5 270"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -181964,13 +182270,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.3,
-                  "xOffset":-18,
-                  "yOffset":-35
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "391.5 276",
+                        "391.5 278",
+                        "92.5 278",
+                        "92.5 276"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -202844,14 +203154,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.5,
-                  "yScale":0.8,
-                  "xOffset":-5,
-                  "yOffset":116
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "557.5 306.4",
+                        "557.5 426.4",
+                        "47.5 426.4",
+                        "47.5 306.4"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -202941,14 +203254,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.5,
-                  "yScale":0.9,
-                  "xOffset":-32,
-                  "yOffset":86
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "482.5 332.6",
+                        "482.5 402.8",
+                        "58 402.8",
+                        "58 332.6"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -203000,13 +203316,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.5,
-                  "xOffset":-55,
-                  "yOffset":58
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "431 357",
+                        "431 385",
+                        "57.5 385",
+                        "57.5 357"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -203058,13 +203378,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.5,
-                  "xOffset":-67,
-                  "yOffset":58
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "405.5 369",
+                        "405.5 371",
+                        "60.5 371",
+                        "60.5 369"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -227211,14 +227535,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.3,
-                  "yScale":0.75,
-                  "xOffset":-6,
-                  "yOffset":48
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "481.5 226.5",
+                        "481.5 339",
+                        "39.5 339",
+                        "39.5 226.5"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -227308,14 +227635,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.3,
-                  "yScale":0.85,
-                  "xOffset":-19,
-                  "yOffset":14
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "426.9 246.9",
+                        "426.9 313.2",
+                        "59 313.2",
+                        "59 246.9"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -227367,14 +227697,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.3,
-                  "yScale":0.95,
-                  "xOffset":-41,
-                  "yOffset":-14
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "380.2 270.05",
+                        "380.2 296.65",
+                        "56.5 296.65",
+                        "56.5 270.05"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -227426,13 +227759,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.3,
-                  "xOffset":-48,
-                  "yOffset":-34
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "361.5 277",
+                        "361.5 279",
+                        "62.5 279",
+                        "62.5 277"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -252350,14 +252687,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.3,
-                  "yScale":0.8,
-                  "xOffset":2,
-                  "yOffset":51
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "489.5 241.4",
+                        "489.5 361.4",
+                        "47.5 361.4",
+                        "47.5 241.4"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -252447,14 +252787,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.3,
-                  "yScale":0.9,
-                  "xOffset":-24,
-                  "yOffset":20
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "421.9 266.6",
+                        "421.9 336.8",
+                        "54 336.8",
+                        "54 266.6"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -252506,13 +252849,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.3,
-                  "xOffset":-42,
-                  "yOffset":-9
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "379.2 290",
+                        "379.2 318",
+                        "55.5 318",
+                        "55.5 290"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -252564,13 +252911,17 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"hyphen"
-                },
-                "transform":{
-                  "xScale":1.3,
-                  "xOffset":-55,
-                  "yOffset":-9
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "354.5 302",
+                        "354.5 304",
+                        "55.5 304",
+                        "55.5 302"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -266523,16 +266874,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xScale":0.9,
-                  "yScale":0.9,
-                  "xOffset":260,
-                  "yOffset":-294
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "386.9 452.1 s",
+                        "328.4 452.1  287 410.7  287 356.7 s",
+                        "287 302.7  328.4 261.3  386.9 261.3 s",
+                        "445.4 261.3  486.8 302.7  486.8 356.7 s",
+                        "486.8 410.7  445.4 452.1 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#bac000"
@@ -266549,14 +266903,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xOffset":267,
-                  "yOffset":-374
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "361 406 s",
+                        "323 406  297 379  297 343 s",
+                        "297 308  323 281  361 281 s",
+                        "400 281  426 308  426 343 s",
+                        "426 379  400 406 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#ff34ff"
@@ -266573,14 +266932,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xOffset":292,
-                  "yOffset":-362
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "348 369 s",
+                        "332 369  322 357  322 344 s",
+                        "322 331  332 319  348 319 s",
+                        "365 319  374 331  374 344 s",
+                        "374 357  365 369 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#1f964d"
@@ -266597,14 +266961,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xOffset":307,
-                  "yOffset":-359
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "343 347 s",
+                        "339 347  337 344  337 341 s",
+                        "337 338  339 335  343 335",
+                        "347 335  349 338  349 341 s",
+                        "349 344  347 347 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#de4d8a"
@@ -266628,16 +266997,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xScale":0.9,
-                  "yScale":0.9,
-                  "xOffset":94,
-                  "yOffset":-294
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "220.9 452.1 s",
+                        "162.4 452.1  121 410.7  121 356.7 s",
+                        "121 302.7  162.4 261.3  220.9 261.3 s",
+                        "279.4 261.3  320.8 302.7  320.8 356.7 s",
+                        "320.8 410.7  279.4 452.1 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#bac000"
@@ -266654,14 +267026,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xOffset":135,
-                  "yOffset":-374
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "229 406 s",
+                        "191 406  165 379  165 343 s",
+                        "165 308  191 281  229 281 s",
+                        "268 281  294 308  294 343 s",
+                        "294 379  268 406 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#ff34ff"
@@ -266678,14 +267055,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xOffset":168,
-                  "yOffset":-362
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "224 369 s",
+                        "208 369  198 357  198 344 s",
+                        "198 331  208 319  224 319 s",
+                        "241 319  250 331  250 344 s",
+                        "250 357  241 369 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#1f964d"
@@ -266702,14 +267084,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xOffset":160,
-                  "yOffset":-359
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "196 347 s",
+                        "192 347  190 344  190 341 s",
+                        "190 338  192 335  196 335",
+                        "200 335  202 338  202 341 s",
+                        "202 344  200 347 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#de4d8a"
@@ -285441,16 +285828,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xScale":0.8,
-                  "yScale":0.8,
-                  "xOffset":228,
-                  "yOffset":-315
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "340.8 348.2 s",
+                        "288.8 348.2  252 311.4  252 263.4 s",
+                        "252 215.4  288.8 178.6  340.8 178.6 s",
+                        "392.8 178.6  429.6 215.4  429.6 263.4 s",
+                        "429.6 311.4  392.8 348.2 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#bac000"
@@ -285467,14 +285857,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xOffset":227,
-                  "yOffset":-454
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "321 326 s",
+                        "283 326  257 299  257 263 s",
+                        "257 228  283 201  321 201 s",
+                        "360 201  386 228  386 263 s",
+                        "386 299  360 326 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#ff34ff"
@@ -285491,14 +285886,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xOffset":252,
-                  "yOffset":-447
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "308 284 s",
+                        "292 284  282 272  282 259 s",
+                        "282 246  292 234  308 234 s",
+                        "325 234  334 246  334 259 s",
+                        "334 272  325 284 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#1f964d"
@@ -285515,14 +285915,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xOffset":262,
-                  "yOffset":-441
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "298 265 s",
+                        "294 265  292 262  292 259 s",
+                        "292 256  294 253  298 253",
+                        "302 253  304 256  304 259 s",
+                        "304 262  302 265 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#de4d8a"
@@ -285546,16 +285951,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xScale":0.8,
-                  "yScale":0.8,
-                  "xOffset":63,
-                  "yOffset":-315
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "175.8 348.2 s",
+                        "123.8 348.2  87 311.4  87 263.4 s",
+                        "87 215.4  123.8 178.6  175.8 178.6 s",
+                        "227.8 178.6  264.6 215.4  264.6 263.4 s",
+                        "264.6 311.4  227.8 348.2 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#bac000"
@@ -285572,14 +285980,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xOffset":96,
-                  "yOffset":-454
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "190 326 s",
+                        "152 326  126 299  126 263 s",
+                        "126 228  152 201  190 201 s",
+                        "229 201  255 228  255 263 s",
+                        "255 299  229 326 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#ff34ff"
@@ -285596,14 +286009,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xOffset":138,
-                  "yOffset":-447
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "194 284 s",
+                        "178 284  168 272  168 259 s",
+                        "168 246  178 234  194 234 s",
+                        "211 234  220 246  220 259 s",
+                        "220 272  211 284 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#1f964d"
@@ -285620,14 +286038,19 @@
                 }
               },
               {
-                "component":{
-                  "glyphName":"dotaccentcomb"
-                },
-                "transform":{
-                  "xOffset":175,
-                  "yOffset":-441
-                },
-                "nonSpacing":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "211 265 s",
+                        "207 265  205 262  205 259 s",
+                        "205 256  207 253  211 253",
+                        "215 253  217 256  217 259 s",
+                        "217 262  215 265 c"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#de4d8a"
@@ -368348,24 +368771,30 @@
             "elements":[
               {
                 "elementData":{
-                  "component":{
-                    "glyphName":"minus.dnom"
-                  }
-                },
-                "transform":{
-                  "yScale":0.95,
-                  "yOffset":80
+                  "contours":[
+                    {
+                      "nodes":[
+                        "352 226.3",
+                        "352 322.25",
+                        "48 322.25",
+                        "48 226.3"
+                      ]
+                    }
+                  ]
                 }
               },
               {
                 "elementData":{
-                  "component":{
-                    "glyphName":"minus.dnom"
-                  }
-                },
-                "transform":{
-                  "yScale":0.95,
-                  "yOffset":-61
+                  "contours":[
+                    {
+                      "nodes":[
+                        "352 85.3",
+                        "352 181.25",
+                        "48 181.25",
+                        "48 85.3"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -368381,24 +368810,30 @@
             "elements":[
               {
                 "elementData":{
-                  "component":{
-                    "glyphName":"minus.dnom"
-                  }
-                },
-                "transform":{
-                  "yScale":0.98,
-                  "yOffset":65
+                  "contours":[
+                    {
+                      "nodes":[
+                        "326 232.58",
+                        "326 296.28",
+                        "74 296.28",
+                        "74 232.58"
+                      ]
+                    }
+                  ]
                 }
               },
               {
                 "elementData":{
-                  "component":{
-                    "glyphName":"minus.dnom"
-                  }
-                },
-                "transform":{
-                  "yScale":0.98,
-                  "yOffset":-56
+                  "contours":[
+                    {
+                      "nodes":[
+                        "326 111.58",
+                        "326 175.28",
+                        "74 175.28",
+                        "74 111.58"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -368414,22 +368849,30 @@
             "elements":[
               {
                 "elementData":{
-                  "component":{
-                    "glyphName":"minus.dnom"
-                  }
-                },
-                "transform":{
-                  "yOffset":49
+                  "contours":[
+                    {
+                      "nodes":[
+                        "313 239",
+                        "313 264",
+                        "87 264",
+                        "87 239"
+                      ]
+                    }
+                  ]
                 }
               },
               {
                 "elementData":{
-                  "component":{
-                    "glyphName":"minus.dnom"
-                  }
-                },
-                "transform":{
-                  "yOffset":-44
+                  "contours":[
+                    {
+                      "nodes":[
+                        "313 146",
+                        "313 171",
+                        "87 171",
+                        "87 146"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -368445,22 +368888,30 @@
             "elements":[
               {
                 "elementData":{
-                  "component":{
-                    "glyphName":"minus.dnom"
-                  }
-                },
-                "transform":{
-                  "yOffset":44
+                  "contours":[
+                    {
+                      "nodes":[
+                        "305 246",
+                        "305 248",
+                        "95 248",
+                        "95 246"
+                      ]
+                    }
+                  ]
                 }
               },
               {
                 "elementData":{
-                  "component":{
-                    "glyphName":"minus.dnom"
-                  }
-                },
-                "transform":{
-                  "yOffset":-39
+                  "contours":[
+                    {
+                      "nodes":[
+                        "305 163",
+                        "305 165",
+                        "95 165",
+                        "95 163"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -431250,13 +431701,21 @@
             "elements":[
               {
                 "elementData":{
-                  "component":{
-                    "glyphName":"tildecomb"
-                  }
-                },
-                "transform":{
-                  "yScale":0.9,
-                  "yOffset":80
+                  "contours":[
+                    {
+                      "nodes":[
+                        "289 639.8 s",
+                        "357 639.8  406 696.5  432 762.2",
+                        "339 802.7",
+                        "323 777.5  311 764  287 764 s",
+                        "256 764  235 802.7  171 802.7 s",
+                        "105 802.7  56 746  30 680.3",
+                        "123 639.8",
+                        "139 665  151 678.5  176 678.5 s",
+                        "207 678.5  228 639.8 c"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -431276,9 +431735,21 @@
             "elements":[
               {
                 "elementData":{
-                  "component":{
-                    "glyphName":"tildecomb"
-                  }
+                  "contours":[
+                    {
+                      "nodes":[
+                        "255 656 s",
+                        "300 656  338 685  364 742",
+                        "308 770",
+                        "290 740  275 726  255 726 s",
+                        "218 726  195 774  139 774 s",
+                        "89 774  53 735  30 686",
+                        "86 658",
+                        "102 688  116 704  139 704 s",
+                        "175 704  202 656 c"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -431298,9 +431769,21 @@
             "elements":[
               {
                 "elementData":{
-                  "component":{
-                    "glyphName":"tildecomb"
-                  }
+                  "contours":[
+                    {
+                      "nodes":[
+                        "226 675 s",
+                        "255 675  281 691  303 734",
+                        "284 745",
+                        "262 713  247 702  226 702 s",
+                        "186 702  147 745  108 745 s",
+                        "77 745  51 726  30 694",
+                        "49 683",
+                        "69 708  85 718  108 718 s",
+                        "141 718  177 675 c"
+                      ]
+                    }
+                  ]
                 }
               }
             ],
@@ -431320,9 +431803,21 @@
             "elements":[
               {
                 "elementData":{
-                  "component":{
-                    "glyphName":"tildecomb"
-                  }
+                  "contours":[
+                    {
+                      "nodes":[
+                        "207 686",
+                        "236 686  252 697  273 724",
+                        "271 725",
+                        "251 699  235 688  207 688",
+                        "164 688  134 732  94 732 s",
+                        "68 732  53 721  30 696",
+                        "32 695",
+                        "54 719  69 730  94 730 s",
+                        "132 730  164 686 c"
+                      ]
+                    }
+                  ]
                 }
               }
             ],

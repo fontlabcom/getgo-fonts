@@ -446086,29 +446086,6 @@
     ],
     "axes":[
       {
-        "name":"width",
-        "shortName":"wd",
-        "tag":"wdth",
-        "designMinimum":82,
-        "designMaximum":100,
-        "minimum":62.5,
-        "maximum":100,
-        "default":62.5,
-        "playStart":82,
-        "playEnd":100,
-        "axisGraph":{
-          "82.0":62.5,
-          "86.0":75,
-          "100.0":100
-        },
-        "axisInstances":[
-          {
-            "name":"(Normal)",
-            "value":100
-          }
-        ]
-      },
-      {
         "name":"weight",
         "shortName":"wt",
         "tag":"wght",
@@ -446435,7 +446412,6 @@
           "underlinePosition":-100,
           "panose":"0 0 0 0 0 0 0 0 0 0",
           "location":{
-            "wd":100,
             "wt":1
           },
           "guidelines":[
@@ -456737,7 +456713,6 @@
           "underlinePosition":-100,
           "panose":"0 0 0 0 0 0 0 0 0 0",
           "location":{
-            "wd":100,
             "wt":100
           },
           "guidelines":[
@@ -467054,7 +467029,6 @@
           "underlinePosition":-100,
           "panose":"0 0 0 0 0 0 0 0 0 0",
           "location":{
-            "wd":100,
             "wt":400
           },
           "guidelines":[
@@ -477367,7 +477341,6 @@
           "underlinePosition":-100,
           "panose":"0 0 0 0 0 0 0 0 0 0",
           "location":{
-            "wd":100,
             "wt":900
           },
           "guidelines":[

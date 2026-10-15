@@ -627709,29 +627709,6 @@
             "value":900
           }
         ]
-      },
-      {
-        "name":"width",
-        "shortName":"wd",
-        "tag":"wdth",
-        "designMinimum":82,
-        "designMaximum":100,
-        "minimum":62.5,
-        "maximum":100,
-        "default":62.5,
-        "playStart":82,
-        "playEnd":100,
-        "axisGraph":{
-          "82.0":62.5,
-          "86.0":75,
-          "100.0":100
-        },
-        "axisInstances":[
-          {
-            "name":"(Normal)",
-            "value":100
-          }
-        ]
       }
     ],
     "defaultMaster":"HairlineItalic",
@@ -628005,7 +627982,6 @@
           "italic":true,
           "panose":"0 0 0 0 0 0 0 0 0 0",
           "location":{
-            "wd":100,
             "wt":2
           },
           "guidelines":[
@@ -638107,7 +638083,6 @@
           "italic":true,
           "panose":"0 0 0 0 0 0 0 0 0 0",
           "location":{
-            "wd":100,
             "wt":30
           },
           "guidelines":[
@@ -648331,7 +648306,6 @@
           "italic":true,
           "panose":"0 0 0 0 0 0 0 0 0 0",
           "location":{
-            "wd":100,
             "wt":91
           },
           "guidelines":[
@@ -658555,7 +658529,6 @@
           "italic":true,
           "panose":"0 0 0 0 0 0 0 0 0 0",
           "location":{
-            "wd":100,
             "wt":194
           },
           "guidelines":[

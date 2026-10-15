@@ -320132,6 +320132,521 @@
                 "locked":true
               },
               {
+                "elementData":"commaaccentcomb:BlackItalic",
+                "transform":{
+                  "xOffset":572,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ],
+            "color":"#004080"
+          },
+          {
+            "name":"ItalicOptical",
+            "flags":12,
+            "advanceWidth":630,
+            "elements":[
+              {
+                "elementData":"L:ItalicOptical",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:ItalicOptical",
+                "transform":{
+                  "xOffset":490,
+                  "yOffset":921
+                },
+                "locked":true
+              }
+            ],
+            "color":"#6a8000"
+          },
+          {
+            "name":"ItalicModern",
+            "flags":4,
+            "advanceWidth":582,
+            "elements":[
+              {
+                "elementData":"L:ItalicModern",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:ItalicModern",
+                "transform":{
+                  "xOffset":517,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ],
+            "color":"#550080"
+          },
+          {
+            "name":"BlackItalicModern",
+            "flags":12,
+            "advanceWidth":679,
+            "elements":[
+              {
+                "elementData":"L:BlackItalicModern",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:BlackItalicModern",
+                "transform":{
+                  "xOffset":436,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ],
+            "color":"#006699"
+          },
+          {
+            "name":"BlackCondensedModern",
+            "flags":12,
+            "advanceWidth":679,
+            "advanceHeight":950,
+            "elements":[
+              {
+                "elementData":"L:BlackCondensedModern",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:BlackCondensedModern",
+                "transform":{
+                  "xOffset":443,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ],
+            "color":"#006699"
+          },
+          {
+            "name":"BlackCondensed",
+            "flags":12,
+            "advanceWidth":605,
+            "elements":[
+              {
+                "elementData":"L:BlackCondensed",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:BlackCondensed",
+                "transform":{
+                  "xOffset":394,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ],
+            "color":"#00802a"
+          },
+          {
+            "name":"SLANT",
+            "flags":12,
+            "advanceWidth":529,
+            "elements":[
+              {
+                "elementData":"L:SLANT",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:SLANT",
+                "transform":{
+                  "xOffset":399,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ],
+            "color":"#999900"
+          },
+          {
+            "name":"BlackModern",
+            "flags":0,
+            "advanceWidth":679,
+            "advanceHeight":950,
+            "elements":[
+              {
+                "elementData":"L:BlackModern",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:BlackModern",
+                "transform":{
+                  "xOffset":436,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ],
+            "color":"#006699"
+          },
+          {
+            "name":"YTLC",
+            "flags":0,
+            "advanceWidth":529,
+            "advanceHeight":950,
+            "elements":[
+              {
+                "elementData":"L:YTLC",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:YTLC",
+                "transform":{
+                  "xOffset":258,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ],
+            "color":"#990019"
+          },
+          {
+            "name":"YTDD",
+            "flags":0,
+            "advanceWidth":529,
+            "advanceHeight":950,
+            "elements":[
+              {
+                "elementData":"L:YTDD",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:YTDD",
+                "transform":{
+                  "xOffset":258,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ],
+            "color":"#990019"
+          },
+          {
+            "name":"YTAD",
+            "flags":0,
+            "advanceWidth":529,
+            "advanceHeight":950,
+            "elements":[
+              {
+                "elementData":"L:YTAD",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:YTAD",
+                "transform":{
+                  "xOffset":258,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ],
+            "color":"#990019"
+          },
+          {
+            "name":"YTRA",
+            "flags":0,
+            "advanceWidth":529,
+            "elements":[
+              {
+                "elementData":"L:YTRA",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:YTRA",
+                "transform":{
+                  "xOffset":258,
+                  "yOffset":900
+                },
+                "locked":true
+              }
+            ],
+            "color":"maroon"
+          },
+          {
+            "name":"YOPQ",
+            "flags":0,
+            "advanceWidth":529,
+            "advanceHeight":950,
+            "elements":[
+              {
+                "elementData":"L:YOPQ",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:YOPQ",
+                "transform":{
+                  "xOffset":258,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ],
+            "color":"#990019"
+          },
+          {
+            "name":"GRADE",
+            "flags":0,
+            "advanceWidth":502,
+            "advanceHeight":950,
+            "elements":[
+              {
+                "elementData":"L:GRADE",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:GRADE",
+                "transform":{
+                  "xOffset":278,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ],
+            "color":"#990019"
+          },
+          {
+            "name":"OPTICAL",
+            "flags":0,
+            "advanceWidth":630,
+            "elements":[
+              {
+                "elementData":"L:OPTICAL",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:OPTICAL",
+                "transform":{
+                  "xOffset":327,
+                  "yOffset":921
+                },
+                "locked":true
+              }
+            ],
+            "color":"maroon"
+          },
+          {
+            "name":"LARGO SERIF",
+            "advanceWidth":529,
+            "advanceHeight":950,
+            "elements":[
+              {
+                "elementData":"L:LARGO SERIF",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:LARGO SERIF",
+                "transform":{
+                  "xOffset":258,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ],
+            "color":"#990019"
+          },
+          {
+            "name":"SERIF",
+            "flags":0,
+            "advanceWidth":529,
+            "elements":[
+              {
+                "elementData":"L:SERIF",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:SERIF",
+                "transform":{
+                  "xOffset":258,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ],
+            "color":"#990019"
+          },
+          {
+            "name":"CONTRAST",
+            "flags":0,
+            "advanceWidth":582,
+            "advanceHeight":950,
+            "elements":[
+              {
+                "elementData":"L:CONTRAST",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:CONTRAST",
+                "transform":{
+                  "xOffset":283,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ],
+            "color":"#009919"
+          },
+          {
+            "name":"XOPQ-MAX",
+            "flags":0,
+            "advanceWidth":671,
+            "elements":[
+              {
+                "elementData":"L:XOPQ-MAX",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:XOPQ-MAX",
+                "transform":{
+                  "xOffset":430,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ],
+            "color":"#009919"
+          },
+          {
+            "name":"XOPQ-MIN",
+            "flags":0,
+            "advanceWidth":529,
+            "advanceHeight":950,
+            "elements":[
+              {
+                "elementData":"L:XOPQ-MIN",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:XOPQ-MIN",
+                "transform":{
+                  "xOffset":258,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ],
+            "color":"#990019"
+          },
+          {
+            "name":"XTRA-MAX",
+            "flags":0,
+            "advanceWidth":695,
+            "elements":[
+              {
+                "elementData":"L:XTRA-MAX",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:XTRA-MAX",
+                "transform":{
+                  "xOffset":270,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ],
+            "color":"#550080"
+          },
+          {
+            "name":"XTRA-MIN",
+            "flags":0,
+            "advanceWidth":437,
+            "advanceHeight":950,
+            "elements":[
+              {
+                "elementData":"L:XTRA-MIN",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:XTRA-MIN",
+                "transform":{
+                  "xOffset":205,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ],
+            "color":"maroon"
+          },
+          {
+            "name":"ThinExpandedModern",
+            "advanceWidth":778,
+            "advanceHeight":950,
+            "elements":[
+              {
+                "elementData":"L:ThinExpandedModern",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:ThinExpandedModern",
+                "transform":{
+                  "xOffset":295,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ]
+          },
+          {
+            "name":"ThinCondensedModern",
+            "advanceWidth":515,
+            "advanceHeight":950,
+            "elements":[
+              {
+                "elementData":"L:ThinCondensedModern",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:ThinCondensedModern",
+                "transform":{
+                  "xOffset":230,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ]
+          },
+          {
+            "name":"BlackExpanded",
+            "advanceWidth":863,
+            "advanceHeight":950,
+            "elements":[
+              {
+                "elementData":"L:BlackExpanded",
+                "locked":true
+              },
+              {
+                "elementData":"commaaccentcomb:BlackExpanded",
+                "transform":{
+                  "xOffset":442,
+                  "yOffset":800
+                },
+                "locked":true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"lcaron",
+        "unicode":"013e",
+        "colorFlag":301,
+        "layers":[
+          {
+            "name":"BlackItalic",
+            "colorFlag":301,
+            "flags":12,
+            "advanceWidth":679,
+            "elements":[
+              {
+                "elementData":"l:BlackItalic",
+                "locked":true
+              },
+              {
                 "elementData":{
                   "id":"caroncomb:BlackItalic",
                   "name":"caroncomb",
@@ -320151,8 +320666,7 @@
                   ]
                 },
                 "transform":{
-                  "xOffset":24,
-                  "yOffset":100
+                  "xOffset":16
                 },
                 "locked":true
               }
@@ -320161,11 +320675,12 @@
           },
           {
             "name":"ItalicOptical",
+            "colorFlag":301,
             "flags":12,
             "advanceWidth":630,
             "elements":[
               {
-                "elementData":"L:ItalicOptical",
+                "elementData":"l:ItalicOptical",
                 "locked":true
               },
               {
@@ -320187,696 +320702,6 @@
                     }
                   ]
                 },
-                "transform":{
-                  "xOffset":86,
-                  "yOffset":115
-                },
-                "locked":true
-              }
-            ],
-            "color":"#6a8000"
-          },
-          {
-            "name":"ItalicModern",
-            "flags":4,
-            "advanceWidth":582,
-            "elements":[
-              {
-                "elementData":"L:ItalicModern",
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "id":"caroncomb:ItalicModern",
-                  "name":"caroncomb",
-                  "contours":[
-                    {
-                      "nodes":[
-                        "205 738",
-                        "213 738",
-                        "112 833",
-                        "85 805",
-                        "186 710",
-                        "222 710",
-                        "357 805",
-                        "340 833"
-                      ]
-                    }
-                  ]
-                },
-                "transform":{
-                  "xOffset":65,
-                  "yOffset":100
-                },
-                "locked":true
-              }
-            ],
-            "color":"#550080"
-          },
-          {
-            "name":"BlackItalicModern",
-            "flags":12,
-            "advanceWidth":679,
-            "elements":[
-              {
-                "elementData":"L:BlackItalicModern",
-                "locked":true
-              },
-              {
-                "elementData":"commaaccentcomb:BlackItalicModern",
-                "transform":{
-                  "xOffset":245
-                },
-                "locked":true
-              }
-            ],
-            "color":"#006699"
-          },
-          {
-            "name":"BlackCondensedModern",
-            "flags":12,
-            "advanceWidth":679,
-            "advanceHeight":950,
-            "elements":[
-              {
-                "elementData":"L:BlackCondensedModern",
-                "locked":true
-              },
-              {
-                "elementData":"commaaccentcomb:BlackCondensedModern",
-                "transform":{
-                  "xOffset":245
-                },
-                "locked":true
-              }
-            ],
-            "color":"#006699"
-          },
-          {
-            "name":"BlackCondensed",
-            "flags":12,
-            "advanceWidth":605,
-            "elements":[
-              {
-                "elementData":"L:BlackCondensed",
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "id":"caroncomb:BlackCondensed",
-                  "name":"caroncomb",
-                  "contours":[
-                    {
-                      "nodes":[
-                        "148 834",
-                        "268 834",
-                        "98 966",
-                        "0 839",
-                        "167 710",
-                        "249 710",
-                        "416 839",
-                        "318 966"
-                      ]
-                    }
-                  ]
-                },
-                "transform":{
-                  "xOffset":12,
-                  "yOffset":100
-                },
-                "locked":true
-              }
-            ],
-            "color":"#00802a"
-          },
-          {
-            "name":"SLANT",
-            "flags":12,
-            "advanceWidth":529,
-            "elements":[
-              {
-                "elementData":"L:SLANT",
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "id":"caroncomb:SLANT",
-                  "name":"caroncomb",
-                  "contours":[
-                    {
-                      "nodes":[
-                        "187 735",
-                        "205 735",
-                        "104 813",
-                        "81 786",
-                        "180 710",
-                        "204 710",
-                        "329 786",
-                        "316 813"
-                      ]
-                    }
-                  ]
-                },
-                "transform":{
-                  "xOffset":75,
-                  "yOffset":100
-                },
-                "locked":true
-              }
-            ],
-            "color":"#999900"
-          },
-          {
-            "name":"BlackModern",
-            "flags":0,
-            "advanceWidth":679,
-            "advanceHeight":950,
-            "elements":[
-              {
-                "elementData":"L:BlackModern",
-                "locked":true
-              },
-              {
-                "elementData":"commaaccentcomb:BlackModern",
-                "transform":{
-                  "xOffset":245
-                },
-                "locked":true
-              }
-            ],
-            "color":"#006699"
-          },
-          {
-            "name":"YTLC",
-            "flags":0,
-            "advanceWidth":529,
-            "advanceHeight":950,
-            "elements":[
-              {
-                "elementData":"L:YTLC",
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "id":"caroncomb:YTLC",
-                  "name":"caroncomb",
-                  "contours":[
-                    {
-                      "nodes":[
-                        "115 735",
-                        "133 735",
-                        "18 813",
-                        "0 786",
-                        "112 710",
-                        "136 710",
-                        "248 786",
-                        "230 813"
-                      ]
-                    }
-                  ]
-                },
-                "transform":{
-                  "xOffset":57,
-                  "yOffset":100
-                },
-                "locked":true
-              }
-            ],
-            "color":"#990019"
-          },
-          {
-            "name":"YTDD",
-            "flags":0,
-            "advanceWidth":529,
-            "advanceHeight":950,
-            "elements":[
-              {
-                "elementData":"L:YTDD",
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "id":"caroncomb:YTDD",
-                  "name":"caroncomb",
-                  "contours":[
-                    {
-                      "nodes":[
-                        "115 735",
-                        "133 735",
-                        "18 813",
-                        "0 786",
-                        "112 710",
-                        "136 710",
-                        "248 786",
-                        "230 813"
-                      ]
-                    }
-                  ]
-                },
-                "transform":{
-                  "xOffset":57,
-                  "yOffset":100
-                },
-                "locked":true
-              }
-            ],
-            "color":"#990019"
-          },
-          {
-            "name":"YTAD",
-            "flags":0,
-            "advanceWidth":529,
-            "advanceHeight":950,
-            "elements":[
-              {
-                "elementData":"L:YTAD",
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "id":"caroncomb:YTAD",
-                  "name":"caroncomb",
-                  "contours":[
-                    {
-                      "nodes":[
-                        "115 735",
-                        "133 735",
-                        "18 813",
-                        "0 786",
-                        "112 710",
-                        "136 710",
-                        "248 786",
-                        "230 813"
-                      ]
-                    }
-                  ]
-                },
-                "transform":{
-                  "xOffset":57,
-                  "yOffset":100
-                },
-                "locked":true
-              }
-            ],
-            "color":"#990019"
-          },
-          {
-            "name":"YTRA",
-            "flags":0,
-            "advanceWidth":529,
-            "elements":[
-              {
-                "elementData":"L:YTRA",
-                "locked":true
-              },
-              {
-                "elementData":"commaaccentcomb:YTRA",
-                "transform":{
-                  "xOffset":220
-                },
-                "locked":true
-              }
-            ],
-            "color":"maroon"
-          },
-          {
-            "name":"YOPQ",
-            "flags":0,
-            "advanceWidth":529,
-            "advanceHeight":950,
-            "elements":[
-              {
-                "elementData":"L:YOPQ",
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "id":"caroncomb:YOPQ",
-                  "name":"caroncomb",
-                  "contours":[
-                    {
-                      "nodes":[
-                        "115 735",
-                        "133 735",
-                        "18 813",
-                        "0 786",
-                        "112 710",
-                        "136 710",
-                        "248 786",
-                        "230 813"
-                      ]
-                    }
-                  ]
-                },
-                "transform":{
-                  "xOffset":57,
-                  "yOffset":100
-                },
-                "locked":true
-              }
-            ],
-            "color":"#990019"
-          },
-          {
-            "name":"GRADE",
-            "flags":0,
-            "advanceWidth":502,
-            "advanceHeight":950,
-            "elements":[
-              {
-                "elementData":"L:GRADE",
-                "locked":true
-              },
-              {
-                "elementData":"commaaccentcomb:GRADE",
-                "transform":{
-                  "xOffset":220
-                },
-                "locked":true
-              }
-            ],
-            "color":"#990019"
-          },
-          {
-            "name":"OPTICAL",
-            "flags":0,
-            "advanceWidth":630,
-            "elements":[
-              {
-                "elementData":"L:OPTICAL",
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "id":"caroncomb:OPTICAL",
-                  "name":"caroncomb",
-                  "contours":[
-                    {
-                      "nodes":[
-                        "145 869",
-                        "163 869",
-                        "33 971",
-                        "0 927",
-                        "142 817",
-                        "166 817",
-                        "309 927",
-                        "275 971"
-                      ]
-                    }
-                  ]
-                },
-                "transform":{
-                  "xOffset":66,
-                  "yOffset":115
-                },
-                "locked":true
-              }
-            ],
-            "color":"maroon"
-          },
-          {
-            "name":"LARGO SERIF",
-            "advanceWidth":529,
-            "advanceHeight":950,
-            "elements":[
-              {
-                "elementData":"L:LARGO SERIF",
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "id":"caroncomb:LARGO SERIF",
-                  "name":"caroncomb",
-                  "contours":[
-                    {
-                      "nodes":[
-                        "115 735",
-                        "133 735",
-                        "18 813",
-                        "0 786",
-                        "112 710",
-                        "136 710",
-                        "248 786",
-                        "230 813"
-                      ]
-                    }
-                  ]
-                },
-                "transform":{
-                  "xOffset":57,
-                  "yOffset":100
-                },
-                "locked":true
-              }
-            ],
-            "color":"#990019"
-          },
-          {
-            "name":"SERIF",
-            "flags":0,
-            "advanceWidth":529,
-            "elements":[
-              {
-                "elementData":"L:SERIF",
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "id":"caroncomb:SERIF",
-                  "name":"caroncomb",
-                  "contours":[
-                    {
-                      "nodes":[
-                        "115 735",
-                        "133 735",
-                        "18 813",
-                        "0 786",
-                        "112 710",
-                        "136 710",
-                        "248 786",
-                        "230 813"
-                      ]
-                    }
-                  ]
-                },
-                "transform":{
-                  "xOffset":57,
-                  "yOffset":100
-                },
-                "locked":true
-              }
-            ],
-            "color":"#990019"
-          },
-          {
-            "name":"CONTRAST",
-            "flags":0,
-            "advanceWidth":582,
-            "advanceHeight":950,
-            "elements":[
-              {
-                "elementData":"L:CONTRAST",
-                "locked":true
-              },
-              {
-                "elementData":"commaaccentcomb:CONTRAST",
-                "transform":{
-                  "xOffset":195
-                },
-                "locked":true
-              }
-            ],
-            "color":"#009919"
-          },
-          {
-            "name":"XOPQ-MAX",
-            "flags":0,
-            "advanceWidth":671,
-            "elements":[
-              {
-                "elementData":"L:XOPQ-MAX",
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "id":"caroncomb:XOPQ-MAX",
-                  "name":"caroncomb",
-                  "contours":[
-                    {
-                      "nodes":[
-                        "182 834",
-                        "268 834",
-                        "98 966",
-                        "0 839",
-                        "167 710",
-                        "283 710",
-                        "450 839",
-                        "352 966"
-                      ]
-                    }
-                  ]
-                },
-                "transform":{
-                  "xOffset":5,
-                  "yOffset":100
-                },
-                "locked":true
-              }
-            ],
-            "color":"#009919"
-          },
-          {
-            "name":"XOPQ-MIN",
-            "flags":0,
-            "advanceWidth":529,
-            "advanceHeight":950,
-            "elements":[
-              {
-                "elementData":"L:XOPQ-MIN",
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "id":"caroncomb:XOPQ-MIN",
-                  "name":"caroncomb",
-                  "contours":[
-                    {
-                      "nodes":[
-                        "115 735",
-                        "133 735",
-                        "18 813",
-                        "0 786",
-                        "112 710",
-                        "136 710",
-                        "248 786",
-                        "230 813"
-                      ]
-                    }
-                  ]
-                },
-                "transform":{
-                  "xOffset":57,
-                  "yOffset":100
-                },
-                "locked":true
-              }
-            ],
-            "color":"#990019"
-          },
-          {
-            "name":"XTRA-MAX",
-            "flags":0,
-            "advanceWidth":695,
-            "elements":[
-              {
-                "elementData":"L:XTRA-MAX",
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "id":"caroncomb:XTRA-MAX",
-                  "name":"caroncomb",
-                  "contours":[
-                    {
-                      "nodes":[
-                        "132 738",
-                        "140 738",
-                        "22 833",
-                        "0 805",
-                        "118 710",
-                        "154 710",
-                        "272 805",
-                        "250 833"
-                      ]
-                    }
-                  ]
-                },
-                "transform":{
-                  "xOffset":54,
-                  "yOffset":100
-                },
-                "locked":true
-              }
-            ],
-            "color":"#550080"
-          },
-          {
-            "name":"XTRA-MIN",
-            "flags":0,
-            "advanceWidth":437,
-            "advanceHeight":950,
-            "elements":[
-              {
-                "elementData":"L:XTRA-MIN",
-                "locked":true
-              },
-              {
-                "elementData":{
-                  "id":"caroncomb:XTRA-MIN",
-                  "name":"caroncomb",
-                  "contours":[
-                    {
-                      "nodes":[
-                        "90 735",
-                        "118 735",
-                        "22 813",
-                        "0 786",
-                        "92 710",
-                        "116 710",
-                        "208 786",
-                        "186 813"
-                      ]
-                    }
-                  ]
-                },
-                "transform":{
-                  "xOffset":41,
-                  "yOffset":100
-                },
-                "locked":true
-              }
-            ],
-            "color":"maroon"
-          }
-        ]
-      },
-      {
-        "name":"lcaron",
-        "unicode":"013e",
-        "colorFlag":301,
-        "layers":[
-          {
-            "name":"BlackItalic",
-            "colorFlag":301,
-            "flags":12,
-            "advanceWidth":679,
-            "elements":[
-              {
-                "elementData":"l:BlackItalic",
-                "locked":true
-              },
-              {
-                "elementData":"caroncomb:BlackItalic",
-                "transform":{
-                  "xOffset":16
-                },
-                "locked":true
-              }
-            ],
-            "color":"#004080"
-          },
-          {
-            "name":"ItalicOptical",
-            "colorFlag":301,
-            "flags":12,
-            "advanceWidth":630,
-            "elements":[
-              {
-                "elementData":"l:ItalicOptical",
-                "locked":true
-              },
-              {
-                "elementData":"caroncomb:ItalicOptical",
                 "transform":{
                   "xOffset":92
                 },
@@ -320934,7 +320759,24 @@
                 "locked":true
               },
               {
-                "elementData":"caroncomb:ItalicModern",
+                "elementData":{
+                  "id":"caroncomb:ItalicModern",
+                  "name":"caroncomb",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "205 738",
+                        "213 738",
+                        "112 833",
+                        "85 805",
+                        "186 710",
+                        "222 710",
+                        "357 805",
+                        "340 833"
+                      ]
+                    }
+                  ]
+                },
                 "transform":{
                   "xOffset":47
                 },
@@ -321029,7 +320871,24 @@
                 "locked":true
               },
               {
-                "elementData":"caroncomb:BlackCondensed",
+                "elementData":{
+                  "id":"caroncomb:BlackCondensed",
+                  "name":"caroncomb",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "148 834",
+                        "268 834",
+                        "98 966",
+                        "0 839",
+                        "167 710",
+                        "249 710",
+                        "416 839",
+                        "318 966"
+                      ]
+                    }
+                  ]
+                },
                 "transform":{
                   "xOffset":12
                 },
@@ -416930,7 +416789,24 @@
             "advanceWidth":248,
             "elements":[
               {
-                "elementData":"caroncomb:SLANT",
+                "elementData":{
+                  "id":"caroncomb:SLANT",
+                  "name":"caroncomb",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "187 735",
+                        "205 735",
+                        "104 813",
+                        "81 786",
+                        "180 710",
+                        "204 710",
+                        "329 786",
+                        "316 813"
+                      ]
+                    }
+                  ]
+                },
                 "transform":{
                   "xOffset":53
                 }
@@ -417043,7 +416919,24 @@
             "advanceHeight":950,
             "elements":[
               {
-                "elementData":"caroncomb:YTLC"
+                "elementData":{
+                  "id":"caroncomb:YTLC",
+                  "name":"caroncomb",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "115 735",
+                        "133 735",
+                        "18 813",
+                        "0 786",
+                        "112 710",
+                        "136 710",
+                        "248 786",
+                        "230 813"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "guidelines":[
@@ -417072,7 +416965,24 @@
             "advanceHeight":950,
             "elements":[
               {
-                "elementData":"caroncomb:YTDD"
+                "elementData":{
+                  "id":"caroncomb:YTDD",
+                  "name":"caroncomb",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "115 735",
+                        "133 735",
+                        "18 813",
+                        "0 786",
+                        "112 710",
+                        "136 710",
+                        "248 786",
+                        "230 813"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "guidelines":[
@@ -417101,7 +417011,24 @@
             "advanceHeight":950,
             "elements":[
               {
-                "elementData":"caroncomb:YTAD"
+                "elementData":{
+                  "id":"caroncomb:YTAD",
+                  "name":"caroncomb",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "115 735",
+                        "133 735",
+                        "18 813",
+                        "0 786",
+                        "112 710",
+                        "136 710",
+                        "248 786",
+                        "230 813"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "guidelines":[
@@ -417169,7 +417096,24 @@
             "advanceHeight":950,
             "elements":[
               {
-                "elementData":"caroncomb:YOPQ"
+                "elementData":{
+                  "id":"caroncomb:YOPQ",
+                  "name":"caroncomb",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "115 735",
+                        "133 735",
+                        "18 813",
+                        "0 786",
+                        "112 710",
+                        "136 710",
+                        "248 786",
+                        "230 813"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "guidelines":[
@@ -417243,7 +417187,24 @@
             "advanceWidth":309,
             "elements":[
               {
-                "elementData":"caroncomb:OPTICAL"
+                "elementData":{
+                  "id":"caroncomb:OPTICAL",
+                  "name":"caroncomb",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "145 869",
+                        "163 869",
+                        "33 971",
+                        "0 927",
+                        "142 817",
+                        "166 817",
+                        "309 927",
+                        "275 971"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "guidelines":[
@@ -417271,7 +417232,24 @@
             "advanceHeight":950,
             "elements":[
               {
-                "elementData":"caroncomb:LARGO SERIF"
+                "elementData":{
+                  "id":"caroncomb:LARGO SERIF",
+                  "name":"caroncomb",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "115 735",
+                        "133 735",
+                        "18 813",
+                        "0 786",
+                        "112 710",
+                        "136 710",
+                        "248 786",
+                        "230 813"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "guidelines":[
@@ -417299,7 +417277,24 @@
             "advanceWidth":248,
             "elements":[
               {
-                "elementData":"caroncomb:SERIF"
+                "elementData":{
+                  "id":"caroncomb:SERIF",
+                  "name":"caroncomb",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "115 735",
+                        "133 735",
+                        "18 813",
+                        "0 786",
+                        "112 710",
+                        "136 710",
+                        "248 786",
+                        "230 813"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "guidelines":[
@@ -417367,7 +417362,24 @@
             "advanceWidth":450,
             "elements":[
               {
-                "elementData":"caroncomb:XOPQ-MAX"
+                "elementData":{
+                  "id":"caroncomb:XOPQ-MAX",
+                  "name":"caroncomb",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "182 834",
+                        "268 834",
+                        "98 966",
+                        "0 839",
+                        "167 710",
+                        "283 710",
+                        "450 839",
+                        "352 966"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "anchors":[
@@ -417390,7 +417402,24 @@
             "advanceHeight":950,
             "elements":[
               {
-                "elementData":"caroncomb:XOPQ-MIN"
+                "elementData":{
+                  "id":"caroncomb:XOPQ-MIN",
+                  "name":"caroncomb",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "115 735",
+                        "133 735",
+                        "18 813",
+                        "0 786",
+                        "112 710",
+                        "136 710",
+                        "248 786",
+                        "230 813"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "guidelines":[
@@ -417418,7 +417447,24 @@
             "advanceWidth":272,
             "elements":[
               {
-                "elementData":"caroncomb:XTRA-MAX"
+                "elementData":{
+                  "id":"caroncomb:XTRA-MAX",
+                  "name":"caroncomb",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "132 738",
+                        "140 738",
+                        "22 833",
+                        "0 805",
+                        "118 710",
+                        "154 710",
+                        "272 805",
+                        "250 833"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "anchors":[
@@ -417441,7 +417487,24 @@
             "advanceHeight":950,
             "elements":[
               {
-                "elementData":"caroncomb:XTRA-MIN"
+                "elementData":{
+                  "id":"caroncomb:XTRA-MIN",
+                  "name":"caroncomb",
+                  "contours":[
+                    {
+                      "nodes":[
+                        "90 735",
+                        "118 735",
+                        "22 813",
+                        "0 786",
+                        "92 710",
+                        "116 710",
+                        "208 786",
+                        "186 813"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "anchors":[

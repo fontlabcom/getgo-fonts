@@ -46674,11 +46674,11 @@
           },
           {
             "name":"Light",
-            "value":300
+            "value":350
           },
           {
             "name":"(Regular)",
-            "value":400
+            "value":500
           },
           {
             "name":"SemiBold",
@@ -46686,11 +46686,11 @@
           },
           {
             "name":"Bold",
-            "value":700
+            "value":720
           },
           {
             "name":"Heavy",
-            "value":800
+            "value":810
           },
           {
             "name":"Black",
@@ -46730,7 +46730,7 @@
         "width_name":"Normal",
         "weight":300,
         "location":{
-          "wt":300
+          "wt":350
         }
       },
       {
@@ -46741,7 +46741,7 @@
         "width_name":"Normal",
         "weight":400,
         "location":{
-          "wt":400
+          "wt":500
         }
       },
       {
@@ -46764,7 +46764,7 @@
         "weight":700,
         "bold":true,
         "location":{
-          "wt":700
+          "wt":720
         }
       },
       {
@@ -46773,9 +46773,9 @@
         "sgn":"GetGo Cosm Heavy",
         "weight_name":"Heavy",
         "width_name":"Normal",
-        "weight":900,
+        "weight":800,
         "location":{
-          "wt":800
+          "wt":810
         }
       },
       {

@@ -4,6 +4,10 @@ this_file: CHANGELOG.md
 
 # Changelog
 
+## Release
+
+First tagged release. Includes the issue 106 VFJ export fixes (cosm, rafi, scig, club, stroke-chan), FontLab-generated mark/mkmk in rafi and scig, and the regenerated catalogue, ZIP and website.
+
 ## 2026-10-16: release build (issue 106)
 
 Merged issue-106-vfj-export-fixes and rebuilt the site with tools/build_getgo.py and ./build.sh. fonts.json, getgo-fonts-for-fontlab.zip (99 VFJ + 99 TTF, hashes equal the tree) and docs/ are regenerated. The seven regenerated TTFs have fresh WOFF2 files and specimen images; other fonts' images, specimens and Markdown are unchanged. The family name of scig-var is now "GG Scig OFL" (it follows the VFJ default master). rafi-var and rafi-italic-var list Cyrillic in their script summary.

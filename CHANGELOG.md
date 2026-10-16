@@ -4,6 +4,10 @@ this_file: CHANGELOG.md
 
 # Changelog
 
+## 2026-10-16: release build (issue 106)
+
+Merged issue-106-vfj-export-fixes and rebuilt the site with tools/build_getgo.py and ./build.sh. fonts.json, getgo-fonts-for-fontlab.zip (99 VFJ + 99 TTF, hashes equal the tree) and docs/ are regenerated. The seven regenerated TTFs have fresh WOFF2 files and specimen images; other fonts' images, specimens and Markdown are unchanged. The family name of scig-var is now "GG Scig OFL" (it follows the VFJ default master). rafi-var and rafi-italic-var list Cyrillic in their script summary.
+
 ## 2026-10-16: VFJ export fixes (issue 106, branch issue-106-vfj-export-fixes)
 
 All 99 VFJs were exported natively in FontLab 9.0.9780 (static TTF and OTF, plus Variable TT and Variable PS where a font has axes). 7 failed.

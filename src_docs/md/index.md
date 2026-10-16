@@ -214,7 +214,7 @@ license: OFL \| Multi-script handwritten font that uses single stroke \| glyphs:
 
 [Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/ofl/rafi/rafi-italic-var.vfj){: .md-button target="_blank" }
 
-license: OFL \| Legible sanserif for UIs and signage with a weight axis, italic version \| glyphs: 854 \| scripts: Latin, Greek \| [Read more…](rafi-italic-var/)
+license: OFL \| Legible sanserif for UIs and signage with a weight axis, italic version \| glyphs: 2712 \| scripts: Latin, Greek, Cyrillic \| [Read more…](rafi-italic-var/)
 
 ---
 
@@ -225,12 +225,12 @@ license: OFL \| Legible sanserif for UIs and signage with a weight axis, italic 
 
 [Download FontLab VFJ](https://cdn.jsdelivr.net/gh/fontlabcom/getgo-fonts/getgo-fonts/ofl/rafi/rafi-var.vfj){: .md-button target="_blank" }
 
-license: OFL \| Legible sanserif for UIs and signage with a weight axis, italic version \| glyphs: 855 \| scripts: Latin, Greek \| [Read more…](rafi-var/)
+license: OFL \| Legible sanserif for UIs and signage with a weight axis, italic version \| glyphs: 2702 \| scripts: Latin, Greek, Cyrillic \| [Read more…](rafi-var/)
 
 ---
 
 
-### GG Scig OFL Regular
+### GG Scig OFL
 
 [![HELLO ĠRŦȂǺẄ square ǫpøåĝð ąậaģbw](images/scig-var.svg)](scig-var/)
 

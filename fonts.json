@@ -336,6 +336,7 @@
         "license": "OFL",
         "description": "Legible sanserif for UIs and signage with a weight axis, italic version",
         "categories": [
+            "Cyrillic",
             "Greek",
             "Italic",
             "Latin",
@@ -360,6 +361,7 @@
         "license": "OFL",
         "description": "Legible sanserif for UIs and signage with a weight axis, italic version",
         "categories": [
+            "Cyrillic",
             "Greek",
             "Latin",
             "Multilingual",
@@ -376,8 +378,8 @@
             "png": "https://raw.githubusercontent.com/fontlabcom/getgo-fonts/main/docs/images/rafi-var.png"
         }
     },
-    "GG Scig OFL Regular": {
-        "full_name": "GG Scig OFL Regular",
+    "GG Scig OFL": {
+        "full_name": "GG Scig OFL",
         "family_name": "GG Scig OFL",
         "copyright": "Copyright 2019, 2020 Font Detective LLC. https://github.com/tphinney/science-gothic",
         "license": "OFL",

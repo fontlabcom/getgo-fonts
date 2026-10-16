@@ -4,6 +4,21 @@ this_file: CHANGELOG.md
 
 # Changelog
 
+## Unreleased: incremental catalogue builds
+
+- Updated the catalogue generator for ProperDocs headers, illustration paths
+  and published image URLs; preserved authored script order.
+- Added content-hash invalidation for font assets/pages and ZIP inputs, with
+  a Git bootstrap for fresh checkouts and no writes for unchanged output.
+- Added `--root` for building a separate copy and regression tests.
+  Cold/warm builds of the 99-font main tree leave Git clean and preserve all
+  tracked file mtimes.
+- Fixed specimen SVG viewports and Y-flips for both vharfbuzz output formats;
+  render tests compare the committed specimen structure and visible PNG ink.
+- Fingerprinted the generator and dependencies, added `--force`, recovered
+  gracefully from corrupt caches, and skipped rendering on description edits.
+- Corrected generated ZIP member permissions to 0644.
+
 ## Release
 
 First tagged release. Includes the issue 106 VFJ export fixes (cosm, rafi, scig, club, stroke-chan), FontLab-generated mark/mkmk in rafi and scig, and the regenerated catalogue, ZIP and website.

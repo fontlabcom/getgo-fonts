@@ -321704,24 +321704,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:BlackItalic",
-                "transform":{
-                  "xScale":0.7143,
-                  "yScale":0.7143,
-                  "xOffset":551,
-                  "yOffset":436
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "538.86 436",
+                        "667.43 436",
+                        "694.57 590.29",
+                        "566 590.29"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:BlackItalic",
-                "transform":{
-                  "xScale":0.7143,
-                  "yScale":0.7143,
-                  "xOffset":585,
-                  "yOffset":385
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "572.86 385",
+                        "701.43 385",
+                        "728.57 539.29",
+                        "600 539.29"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#004080"
@@ -321741,20 +321749,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:ItalicOptical",
-                "transform":{
-                  "xOffset":430,
-                  "yOffset":419
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "460 419",
+                        "544 419",
+                        "562 520",
+                        "478 520"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:ItalicOptical",
-                "transform":{
-                  "xOffset":488,
-                  "yOffset":409
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "518 409",
+                        "602 409",
+                        "620 510",
+                        "536 510"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#6a8000"
@@ -321772,24 +321792,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:BlackExpanded",
-                "transform":{
-                  "xScale":0.7143,
-                  "yScale":0.7143,
-                  "xOffset":485,
-                  "yOffset":436
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "535 436",
+                        "663.58 436",
+                        "663.58 590.29",
+                        "535 590.29"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:BlackExpanded",
-                "transform":{
-                  "xScale":0.7143,
-                  "yScale":0.7143,
-                  "xOffset":485,
-                  "yOffset":385
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "535 385",
+                        "663.58 385",
+                        "663.58 539.29",
+                        "535 539.29"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"maroon"
@@ -321809,20 +321837,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:ItalicModern",
-                "transform":{
-                  "xOffset":339,
-                  "yOffset":423
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "367 423",
+                        "457 423",
+                        "476 531",
+                        "386 531"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:ItalicModern",
-                "transform":{
-                  "xOffset":386,
-                  "yOffset":351
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "414 351",
+                        "504 351",
+                        "523 459",
+                        "433 459"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#550080"
@@ -321842,24 +321882,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:BlackItalicModern",
-                "transform":{
-                  "xScale":0.7143,
-                  "yScale":0.7143,
-                  "xOffset":569,
-                  "yOffset":419
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "597.57 419",
+                        "726.15 419",
+                        "726.15 573.29",
+                        "597.57 573.29"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:BlackItalicModern",
-                "transform":{
-                  "xScale":0.7143,
-                  "yScale":0.7143,
-                  "xOffset":569,
-                  "yOffset":368
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "597.57 368",
+                        "726.15 368",
+                        "726.15 522.29",
+                        "597.57 522.29"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#006699"
@@ -321880,24 +321928,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:BlackCondensedModern",
-                "transform":{
-                  "xScale":0.7143,
-                  "yScale":0.7143,
-                  "xOffset":410,
-                  "yOffset":419
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "438.57 419",
+                        "567.15 419",
+                        "567.15 573.29",
+                        "438.57 573.29"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:BlackCondensedModern",
-                "transform":{
-                  "xScale":0.7143,
-                  "yScale":0.7143,
-                  "xOffset":410,
-                  "yOffset":368
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "438.57 368",
+                        "567.15 368",
+                        "567.15 522.29",
+                        "438.57 522.29"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#006699"
@@ -321914,24 +321970,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:BlackCondensed",
-                "transform":{
-                  "xScale":0.7143,
-                  "yScale":0.7143,
-                  "xOffset":369,
-                  "yOffset":436
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "397.57 436",
+                        "526.15 436",
+                        "526.15 590.29",
+                        "397.57 590.29"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:BlackCondensed",
-                "transform":{
-                  "xScale":0.7143,
-                  "yScale":0.7143,
-                  "xOffset":369,
-                  "yOffset":385
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "397.57 385",
+                        "526.15 385",
+                        "526.15 539.29",
+                        "397.57 539.29"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#00802a"
@@ -321951,20 +322015,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:SLANT",
-                "transform":{
-                  "xOffset":311,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "324 369",
+                        "384 369",
+                        "396 441",
+                        "336 441"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:SLANT",
-                "transform":{
-                  "xOffset":371,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "384 369",
+                        "444 369",
+                        "456 441",
+                        "396 441"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#999900"
@@ -321985,20 +322061,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:ThinCondensedModern",
-                "transform":{
-                  "xOffset":213,
-                  "yOffset":423
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "298 423",
+                        "388 423",
+                        "388 531",
+                        "298 531"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:ThinCondensedModern",
-                "transform":{
-                  "xOffset":213,
-                  "yOffset":351
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "298 351",
+                        "388 351",
+                        "388 459",
+                        "298 459"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"maroon"
@@ -322016,20 +322104,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:ThinExpandedModern",
-                "transform":{
-                  "xOffset":318,
-                  "yOffset":423
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "433 423",
+                        "523 423",
+                        "523 531",
+                        "433 531"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:ThinExpandedModern",
-                "transform":{
-                  "xOffset":318,
-                  "yOffset":351
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "433 351",
+                        "523 351",
+                        "523 459",
+                        "433 459"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"maroon"
@@ -322047,24 +322147,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:BlackModern",
-                "transform":{
-                  "xScale":0.7143,
-                  "yScale":0.7143,
-                  "xOffset":437,
-                  "yOffset":419
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "465.57 419",
+                        "594.15 419",
+                        "594.15 573.29",
+                        "465.57 573.29"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:BlackModern",
-                "transform":{
-                  "xScale":0.7143,
-                  "yScale":0.7143,
-                  "xOffset":437,
-                  "yOffset":368
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "465.57 368",
+                        "594.15 368",
+                        "594.15 522.29",
+                        "465.57 522.29"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#006699"
@@ -322082,20 +322190,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:YTLC",
-                "transform":{
-                  "xOffset":259,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "329 369",
+                        "389 369",
+                        "389 441",
+                        "329 441"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:YTLC",
-                "transform":{
-                  "xOffset":259,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "329 369",
+                        "389 369",
+                        "389 441",
+                        "329 441"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#990019"
@@ -322113,20 +322233,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:YTDD",
-                "transform":{
-                  "xOffset":259,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "329 369",
+                        "389 369",
+                        "389 441",
+                        "329 441"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:YTDD",
-                "transform":{
-                  "xOffset":259,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "329 369",
+                        "389 369",
+                        "389 441",
+                        "329 441"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#990019"
@@ -322144,20 +322276,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:YTAD",
-                "transform":{
-                  "xOffset":259,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "329 369",
+                        "389 369",
+                        "389 441",
+                        "329 441"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:YTAD",
-                "transform":{
-                  "xOffset":259,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "329 369",
+                        "389 369",
+                        "389 441",
+                        "329 441"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#990019"
@@ -322174,20 +322318,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:YTRA",
-                "transform":{
-                  "xOffset":259,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "329 369",
+                        "389 369",
+                        "389 441",
+                        "329 441"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:YTRA",
-                "transform":{
-                  "xOffset":259,
-                  "yOffset":419
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "329 419",
+                        "389 419",
+                        "389 491",
+                        "329 491"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"maroon"
@@ -322205,20 +322361,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:YOPQ",
-                "transform":{
-                  "xOffset":259,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "329 369",
+                        "389 369",
+                        "389 441",
+                        "329 441"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:YOPQ",
-                "transform":{
-                  "xOffset":259,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "329 369",
+                        "389 369",
+                        "389 441",
+                        "329 441"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#990019"
@@ -322236,20 +322404,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:GRADE",
-                "transform":{
-                  "xOffset":259,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "321 369",
+                        "397 369",
+                        "397 461",
+                        "321 461"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:GRADE",
-                "transform":{
-                  "xOffset":259,
-                  "yOffset":359
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "321 359",
+                        "397 359",
+                        "397 451",
+                        "321 451"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#990019"
@@ -322266,20 +322446,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:OPTICAL",
-                "transform":{
-                  "xOffset":309,
-                  "yOffset":419
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "396 419",
+                        "480 419",
+                        "480 520",
+                        "396 520"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:OPTICAL",
-                "transform":{
-                  "xOffset":309,
-                  "yOffset":409
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "396 409",
+                        "480 409",
+                        "480 510",
+                        "396 510"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"maroon"
@@ -322296,20 +322488,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:LARGO SERIF",
-                "transform":{
-                  "xOffset":259,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "329 369",
+                        "389 369",
+                        "389 441",
+                        "329 441"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:LARGO SERIF",
-                "transform":{
-                  "xOffset":259,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "329 369",
+                        "389 369",
+                        "389 441",
+                        "329 441"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#990019"
@@ -322326,20 +322530,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:SERIF",
-                "transform":{
-                  "xOffset":259,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "329 369",
+                        "389 369",
+                        "389 441",
+                        "329 441"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:SERIF",
-                "transform":{
-                  "xOffset":259,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "329 369",
+                        "389 369",
+                        "389 441",
+                        "329 441"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#990019"
@@ -322357,20 +322573,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:CONTRAST",
-                "transform":{
-                  "xOffset":265,
-                  "yOffset":423
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "350 423",
+                        "440 423",
+                        "440 531",
+                        "350 531"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:CONTRAST",
-                "transform":{
-                  "xOffset":265,
-                  "yOffset":351
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "350 351",
+                        "440 351",
+                        "440 459",
+                        "350 459"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#009919"
@@ -322387,24 +322615,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:XOPQ-MAX",
-                "transform":{
-                  "xScale":0.7143,
-                  "yScale":0.7143,
-                  "xOffset":432,
-                  "yOffset":436
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "460.57 436",
+                        "589.15 436",
+                        "589.15 590.29",
+                        "460.57 590.29"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:XOPQ-MAX",
-                "transform":{
-                  "xScale":0.7143,
-                  "yScale":0.7143,
-                  "xOffset":432,
-                  "yOffset":385
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "460.57 385",
+                        "589.15 385",
+                        "589.15 539.29",
+                        "460.57 539.29"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#009919"
@@ -322422,20 +322658,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:XOPQ-MIN",
-                "transform":{
-                  "xOffset":259,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "329 369",
+                        "389 369",
+                        "389 441",
+                        "329 441"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:XOPQ-MIN",
-                "transform":{
-                  "xOffset":259,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "329 369",
+                        "389 369",
+                        "389 441",
+                        "329 441"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#990019"
@@ -322452,20 +322700,32 @@
                 "locked":true
               },
               {
-                "elementData":"period:XTRA-MAX",
-                "transform":{
-                  "xOffset":312,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "412 369",
+                        "472 369",
+                        "472 441",
+                        "412 441"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:XTRA-MAX",
-                "transform":{
-                  "xOffset":312,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "412 369",
+                        "472 369",
+                        "472 441",
+                        "412 441"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#550080"
@@ -322483,20 +322743,34 @@
                 "locked":true
               },
               {
-                "elementData":"period:XTRA-MIN",
-                "transform":{
-                  "xOffset":208,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "id":"contour.7",
+                      "nodes":[
+                        "278 369",
+                        "338 369",
+                        "338 441",
+                        "278 441"
+                      ]
+                    }
+                  ]
+                }
               },
               {
-                "elementData":"period:XTRA-MIN",
-                "transform":{
-                  "xOffset":208,
-                  "yOffset":369
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "id":"contour.7",
+                      "nodes":[
+                        "278 369",
+                        "338 369",
+                        "338 441",
+                        "278 441"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"maroon"
@@ -505228,13 +505502,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:BlackItalic",
-                "transform":{
-                  "xScale":0.6101,
-                  "xOffset":177,
-                  "yOffset":-148
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "183.71 242",
+                        "180.66 212",
+                        "662.64 212",
+                        "665.69 242"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#004080"
@@ -505254,13 +505533,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:ItalicOptical",
-                "transform":{
-                  "xScale":0.5387,
-                  "xOffset":210,
-                  "yOffset":-161
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "221.85 288",
+                        "218.62 253",
+                        "598.94 253",
+                        "602.17 288"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#6a8000"
@@ -505281,13 +505565,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:BlackExpanded",
-                "transform":{
-                  "xScale":0.6618,
-                  "xOffset":40,
-                  "yOffset":-148
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "40 242",
+                        "40 212",
+                        "701.8 212",
+                        "701.8 242"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"maroon"
@@ -505307,13 +505596,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:ItalicModern",
-                "transform":{
-                  "xScale":0.5768,
-                  "xOffset":140,
-                  "yOffset":-178
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "146.34 212",
+                        "143.46 182",
+                        "541.45 182",
+                        "544.34 212"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "guidelines":[
@@ -505345,13 +505639,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:BlackItalicModern",
-                "transform":{
-                  "xScale":0.5531,
-                  "xOffset":198,
-                  "yOffset":-178
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "198 212",
+                        "198 182",
+                        "646.01 182",
+                        "646.01 212"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#006699"
@@ -505369,13 +505668,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:BlackCondensedModern",
-                "transform":{
-                  "xScale":0.5531,
-                  "xOffset":66,
-                  "yOffset":-178
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "66 212",
+                        "66 182",
+                        "514.01 182",
+                        "514.01 212"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#006699"
@@ -505392,13 +505696,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:BlackCondensed",
-                "transform":{
-                  "xScale":0.6243,
-                  "xOffset":50,
-                  "yOffset":-148
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "50 242",
+                        "50 212",
+                        "487.01 212",
+                        "487.01 242"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#00802a"
@@ -505418,13 +505727,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:SLANT",
-                "transform":{
-                  "xScale":0.5509,
-                  "xOffset":152,
-                  "yOffset":-161
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "158.06 229",
+                        "155.31 199",
+                        "469.32 199",
+                        "472.07 229"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#999900"
@@ -505445,13 +505759,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:ThinCondensedModern",
-                "transform":{
-                  "xScale":0.5768,
-                  "xOffset":40,
-                  "yOffset":-178
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "40 212",
+                        "40 182",
+                        "380.31 182",
+                        "380.31 212"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"maroon"
@@ -505469,13 +505788,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:ThinExpandedModern",
-                "transform":{
-                  "xScale":0.6285,
-                  "xOffset":46,
-                  "yOffset":-178
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "46 212",
+                        "46 182",
+                        "611.65 182",
+                        "611.65 212"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"maroon"
@@ -505493,13 +505817,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:BlackModern",
-                "transform":{
-                  "xScale":0.5531,
-                  "xOffset":66,
-                  "yOffset":-178
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "66 212",
+                        "66 182",
+                        "514.01 182",
+                        "514.01 212"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#006699"
@@ -505517,13 +505846,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:YTLC",
-                "transform":{
-                  "xScale":0.5509,
-                  "xOffset":100,
-                  "yOffset":-161
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "100 229",
+                        "100 199",
+                        "414.01 199",
+                        "414.01 229"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#990019"
@@ -505541,13 +505875,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:YTDD",
-                "transform":{
-                  "xScale":0.5509,
-                  "xOffset":100,
-                  "yOffset":-161
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "100 229",
+                        "100 199",
+                        "414.01 199",
+                        "414.01 229"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#990019"
@@ -505565,13 +505904,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:YTAD",
-                "transform":{
-                  "xScale":0.5509,
-                  "xOffset":100,
-                  "yOffset":-161
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "100 229",
+                        "100 199",
+                        "414.01 199",
+                        "414.01 229"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#990019"
@@ -505588,13 +505932,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:YTRA",
-                "transform":{
-                  "xScale":0.5509,
-                  "xOffset":100,
-                  "yOffset":-143
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "100 247",
+                        "100 217",
+                        "414.01 217",
+                        "414.01 247"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"maroon"
@@ -505612,13 +505961,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:YOPQ",
-                "transform":{
-                  "xScale":0.5509,
-                  "xOffset":100,
-                  "yOffset":-161
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "100 229",
+                        "100 199",
+                        "414.01 199",
+                        "414.01 229"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#990019"
@@ -505636,13 +505990,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:GRADE",
-                "transform":{
-                  "xScale":0.5387,
-                  "xOffset":76,
-                  "yOffset":-161
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "76 229",
+                        "76 199",
+                        "409.99 199",
+                        "409.99 229"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#990019"
@@ -505662,13 +506021,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:OPTICAL",
-                "transform":{
-                  "xScale":0.5387,
-                  "xOffset":108,
-                  "yOffset":-161
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "108 288",
+                        "108 253",
+                        "488.32 253",
+                        "488.32 288"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"maroon"
@@ -505688,13 +506052,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:LARGO SERIF",
-                "transform":{
-                  "xScale":0.5509,
-                  "xOffset":120,
-                  "yOffset":-161
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "120 229",
+                        "120 199",
+                        "434.01 199",
+                        "434.01 229"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#990019"
@@ -505711,13 +506080,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:SERIF",
-                "transform":{
-                  "xScale":0.5509,
-                  "xOffset":100,
-                  "yOffset":-161
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "100 229",
+                        "100 199",
+                        "414.01 199",
+                        "414.01 229"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#990019"
@@ -505735,13 +506109,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:CONTRAST",
-                "transform":{
-                  "xScale":0.5768,
-                  "xOffset":66,
-                  "yOffset":-178
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "66 212",
+                        "66 182",
+                        "463.99 182",
+                        "463.99 212"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "guidelines":[
@@ -505773,13 +506152,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:XOPQ-MAX",
-                "transform":{
-                  "xScale":0.6101,
-                  "xOffset":60,
-                  "yOffset":-148
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "60 242",
+                        "60 212",
+                        "541.98 212",
+                        "541.98 242"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#009919"
@@ -505797,13 +506181,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:XOPQ-MIN",
-                "transform":{
-                  "xScale":0.5509,
-                  "xOffset":100,
-                  "yOffset":-161
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "100 229",
+                        "100 199",
+                        "414.01 199",
+                        "414.01 229"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#990019"
@@ -505820,13 +506209,18 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:XTRA-MAX",
-                "transform":{
-                  "xScale":0.6026,
-                  "xOffset":80,
-                  "yOffset":-161
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "nodes":[
+                        "80 229",
+                        "80 199",
+                        "550.03 199",
+                        "550.03 229"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"#550080"
@@ -505844,13 +506238,19 @@
                 "locked":true
               },
               {
-                "elementData":"strokelongcomb:XTRA-MIN",
-                "transform":{
-                  "xScale":0.5509,
-                  "xOffset":75,
-                  "yOffset":-161
-                },
-                "locked":true
+                "elementData":{
+                  "contours":[
+                    {
+                      "id":"contour.292",
+                      "nodes":[
+                        "75 229",
+                        "75 199",
+                        "333.92 199",
+                        "333.92 229"
+                      ]
+                    }
+                  ]
+                }
               }
             ],
             "color":"maroon"

@@ -3,7 +3,7 @@
 
 GG Rafi OFL is a legible sanserif design suitable for user interfaces and signage in the Latin, Cyrillic and Greek scripts. It is variable in weight.
 
-It contains 855 glyphs and 24 OpenType features, and supports 460 characters from the Unicode blocks: Latin Extended-A, Latin-1 Supplement, Basic Latin, General Punctuation, Spacing Modifier Letters, Mathematical Operators, Combining Diacritical Marks, Superscripts and Subscripts, Arrows, Latin Extended Additional, Latin Extended-B, Greek and Coptic, Currency Symbols, Letterlike Symbols, Miscellaneous Technical.
+It contains 2702 glyphs and 22 OpenType features, and supports 1694 characters from the Unicode blocks: Cyrillic, Greek Extended, Latin Extended-B, Latin Extended Additional, Latin Extended-A, Greek and Coptic, Basic Latin, Latin-1 Supplement, IPA Extensions, Combining Diacritical Marks, Cyrillic Supplement, Spacing Modifier Letters, General Punctuation, Superscripts and Subscripts, Mathematical Operators, Arrows, Latin Extended-D, Number Forms, Phonetic Extensions, Latin Extended-C, Combining Diacritical Marks Supplement, Letterlike Symbols, Currency Symbols, Miscellaneous Technical, Private Use Area, Miscellaneous Symbols and Arrows, Phonetic Extensions Supplement, Geometric Shapes, Alphabetic Presentation Forms, Dingbats, Miscellaneous Mathematical Symbols-B, Latin Extended-E, Arabic Presentation Forms-B, Miscellaneous Symbols and Pictographs.
 
 ### License
 

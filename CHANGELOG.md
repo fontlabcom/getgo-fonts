@@ -4,7 +4,10 @@ this_file: CHANGELOG.md
 
 # Changelog
 
-## Unreleased
+## v1.0.1 (2026-10-16)
+
+Build script fixes: specimen SVG normalization for current vharfbuzz, cache fingerprint with --force, deterministic ZIP member modes, description-only edits skip re-rendering, corrupt caches fall back to cold builds, no private paths in docs.
+
 
 Incremental catalogue builds.
 

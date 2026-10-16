@@ -4,7 +4,9 @@ this_file: CHANGELOG.md
 
 # Changelog
 
-## Unreleased: incremental catalogue builds
+## Unreleased
+
+Incremental catalogue builds.
 
 - Updated the catalogue generator for ProperDocs headers, illustration paths
   and published image URLs; preserved authored script order.

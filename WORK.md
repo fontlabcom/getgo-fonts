@@ -25,7 +25,7 @@ Deployment/live verification is tracked by fontlab-www-docstheme/consumers.json.
 Done and verified. Re-exported natively; fontTools checks fvar/avar against each axis graph; outline geometry compared before and after; every fixed VFJ reopened in FontLab with the same glyphs and masters. Evidence and full report: fontlab-scripting/verification/issue-106/evidence/vfj-fixes/ and reports/F1-vfj-export-fixes.md.
 
 Open, blocked outside this repository's scope (no executable task here):
-- club-var Lcaron: 3 masters have no layer; the rest use caroncomb (16) or commaaccentcomb (6). Needs an owner design decision. Until then club-var's Variable TT/PS fail and club-var.ttf stays the 2021 build.
-- rafi-italic-var Variable PS: a FontLab defect, the direction correction applied in only one master (fontlab/fl#8507).
-- fonts.json, getgo-fonts-for-fontlab.zip and docs/ still contain the old VFJs. Rebuilding them is the controller's release step; this lane was told not to rebuild the website.
-- Owner notes: cosm graph "800":900; the no-op wdth axis in rafi; club-var SELE range.
+- rafi-italic-var Variable PS: FontLab defect, direction correction applied in one master only (fontlab/fl#8507).
+- mark/mkmk coverage: the shipped variable TTFs were exported with a temporary FontLab profile that creates mark/mkmk (owner-approved; preferences restored and proven identical). FontLab attaches marks only to glyphs that have their own base anchors in every master, so precomposed glyphs (Aacute, …) and spacing accents take no marks, unlike the 2021 binaries. Variable TT coverage vs 2021: rafi-var marks 76 (2021: 42; 23 .sc/.case marks not covered), bases 542 (282 of the 2021 bases not covered); scig-var marks 48 (2021: 74), bases 131 (2021: 770). Static TTF/OTF exports cover more (FontLab copies component anchors there). Closing the gap needs anchors on the precomposed glyphs or a fontTools post-process.
+- fonts.json, getgo-fonts-for-fontlab.zip and docs/: regenerated in the release step (tools/build_getgo.py, then ./build.sh).
+- Owner notes: medi/vize overlapping zones; boto-var CondThin stem items; scig names follow the VFJ's default-master ffn/psn (no "Regular").

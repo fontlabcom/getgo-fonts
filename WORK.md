@@ -4,6 +4,20 @@ this_file: WORK.md
 
 # Work
 
+## 2026-11-23: fly-january 0.1.1
+
+Migrated the sole publication config, `src_docs/mkdocs.yml`, to packaged
+FontLab chrome. Rebuilt `docs/` with `./build.sh --strict` on Python 3.13.
+The build exited 0 with no warnings. All 198 informational directory links
+on the index resolve to the 99 generated font pages.
+
+All 101 HTML routes have the Fly assets, one FontLab menu and footer, and local
+search. The index covers all 100 content pages. All 99 font pages retain an
+editable specimen and a VFJ download link. All 321 published font and image
+files match their sources byte for byte. The catalogue suite passed all 19
+tests with `tools/.venv/bin/python -m unittest discover -s tools/tests -v`.
+Browser verification is reserved for the orchestrator.
+
 ## 2026-10-16: incremental catalogue generator
 
 Fixed `tools/build_getgo.py` against the committed ProperDocs layout. The

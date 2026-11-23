@@ -3,6 +3,12 @@
 name = "getgo-fonts-site"
 version = "1.0.0"
 requires-python = ">=3.12"
-dependencies = ["properdocs==1.6.7", "mkdocs-materialx==10.1.5", "pymdown-extensions>=10.14"]
+dependencies = [
+    "fly-january==0.1.1",
+    "properdocs==1.6.7",
+    "mkdocs==1.6.1",
+    "mkdocs-materialx==10.1.8",
+    "pymdown-extensions==11.0.1",
+]
 [tool.uv]
 package = false

@@ -4,10 +4,10 @@ this_file: DEPENDENCIES.md
 
 # Website dependencies
 
-uv.lock pins ProperDocs 1.6.7, MaterialX 10.1.5 and Python Markdown extensions.
-ProperDocs builds the pages; MaterialX supplies navigation, search and palettes.
-pymdown-extensions supplies fenced code support. Shared Basecoat, prefixed
-daisyUI and browser theme assets come from the versioned FontLab CDN.
+`uv.lock` pins fly-january 0.1.1, ProperDocs 1.6.7, MkDocs 1.6.1,
+MaterialX 10.1.8 and pymdown-extensions 11.0.1. ProperDocs builds the pages.
+Fly supplies the theme assets and FontLab chrome, MaterialX supplies local
+navigation and search, and pymdown-extensions supplies fenced code support.
 
 `tools/requirements.txt` supplies the catalogue generator's separate venv:
 fontTools reads font metadata and creates WOFF2, vharfbuzz shapes specimen text,

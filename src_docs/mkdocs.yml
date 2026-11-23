@@ -5,8 +5,7 @@ docs_dir: md
 site_dir: ../docs
 use_directory_urls: true
 theme:
-  name: materialx
-  custom_dir: overrides
+  name: fly-january
   font: false
   features:
     - navigation.top
@@ -15,18 +14,33 @@ theme:
   palette:
     - scheme: default
       primary: black
-      accent: red
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
       primary: black
-      accent: red
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
 plugins:
   - search
+  - fly
+extra:
+  fly:
+    chrome: fontlab
+    chrome_options:
+      site-label: GetGo Fonts
+      sticky: true
+    hue: cherry
+    links: accent
+    fonts:
+      sources:
+        - typekit:gav0zux
+        - typekit:cmv5add
+        - google:Outfit:wght@100..900
+      roles:
+        body: {family: "'Outfit', system-ui, sans-serif"}
+        em: {style: italic}
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -36,11 +50,5 @@ markdown_extensions:
       permalink: true
   - pymdownx.superfences
 extra_css:
-  - https://use.typekit.net/gav0zux.css
-  - https://i.fontlab.com/fltheme26/1.0.0/components.css
-  - https://i.fontlab.com/fltheme26/1.0.0/theme.css
   - css/site.css
   - css/fonts.css
-extra_javascript:
-  - https://i.fontlab.com/fltheme26/1.0.0/basecoat.js
-  - https://i.fontlab.com/fltheme26/1.0.0/theme.js

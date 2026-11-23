@@ -13,10 +13,9 @@ The fonts are licensed under CC-0 (public domain), Apache or OFL, and are availa
 
 ## Build the website
 
-Run `./build.sh` with uv installed. ProperDocs and MaterialX build the Markdown
-in `src_docs/md/` into `docs/`, which GitHub Pages publishes. The shared theme
-loads from `https://i.fontlab.com/fltheme26/1.0.0/`. Edit source files, then
-rebuild; generated HTML in `docs/` is not the authoring source.
+Run `./build.sh --strict` with uv installed. ProperDocs uses `src_docs/mkdocs.yml`
+and the locked fly-january 0.1.1 theme to build `src_docs/md/` into `docs/`
+for GitHub Pages. The site uses the FontLab menu and footer with local catalogue search.
 
 To regenerate the font catalogue and downloadable ZIP before building the site:
 
@@ -25,7 +24,7 @@ uv venv tools/.venv --python 3.12
 uv pip install --python tools/.venv/bin/python -r tools/requirements.txt
 tools/.venv/bin/python tools/build_getgo.py
 tools/.venv/bin/python -m unittest discover -s tools/tests -v
-./build.sh
+./build.sh --strict
 ```
 
 Cairo must be available to CairoSVG. On Apple Silicon Homebrew installations,
@@ -55,9 +54,5 @@ hashes and browser verification.
 <!-- shared-theme-integration:start -->
 ## Shared FontLab theme integration
 
-This repository is part of the FontLab theme 2026 rollout: getgo font catalogue.
-[THEME.md](THEME.md) documents its source/output boundaries, configuration,
-publication route, control ownership, shared visual changes and verification.
-Use the [public setup guide](https://i.fontlab.com/fltheme26/) and
-[MaterialX starter](https://i.fontlab.com/fltheme26/starter.zip) for new sites.
+For chrome settings, specimen styles and build checks, see [THEME.md](THEME.md).
 <!-- shared-theme-integration:end -->

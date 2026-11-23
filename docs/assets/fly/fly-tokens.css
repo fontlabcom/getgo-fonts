@@ -1,0 +1,742 @@
+/* this_file: theme/fly_january/assets/fly/fly-tokens.css (built by scripts/build-fly.mjs from src/fly/tokens; do not edit) */
+
+  @property --fly-line {
+    syntax: '<length>';
+    inherits: true;
+    initial-value: 0px;
+  }
+  html {
+    font-size: 90%;
+  }
+  @media screen and (min-width: 100em) {
+    html {
+      font-size: 99%;
+    }
+  }
+  @media screen and (min-width: 125em) {
+    html {
+      font-size: 108%;
+    }
+  }
+  :root {
+    --fly-half: 1rem;
+    --fly-line: 2rem;
+  }
+  :root {
+    --fly-size-xs: 0.9722rem;
+    --fly-size-sm: 1.25rem;
+    --fly-size-md: 1.625rem;
+  }
+  :root {
+    --fly-h1-family: 'newsserif-huge-variable', Georgia, serif;
+    --fly-h1-weight: 700;
+    --fly-h1-stretch: normal;
+    --fly-h1-features: normal;
+    --fly-h1-variation: normal;
+    --fly-h1-size: calc(clamp(2.625rem, 6vw, 6rem) * var(--fly-h1-scale));
+    --fly-h1-leading: round(up, 0.8em, 1rem);
+    --fly-h1-tracking: -0.01em;
+    --fly-h1-scale: 1;
+
+    --fly-h2-family: 'grtsk-vf', Arial, sans-serif;
+    --fly-h2-weight: 300;
+    --fly-h2-stretch: normal;
+    --fly-h2-features: normal;
+    --fly-h2-variation: normal;
+    --fly-h2-size: calc(clamp(1.75rem, 1.25rem + 1vw, 2.1875rem) * var(--fly-h2-scale));
+    --fly-h2-leading: round(up, 1em, 1rem);
+    --fly-h2-tracking: -0.02em;
+    --fly-h2-scale: 1;
+
+    --fly-h3-family: var(--fly-nav-family);
+    --fly-h3-weight: 400;
+    --fly-h3-stretch: var(--fly-nav-stretch);
+    --fly-h3-features: normal;
+    --fly-h3-variation: var(--fly-nav-variation);
+    --fly-h3-size: calc(clamp(1.3125rem, 1.125rem + 0.5vw, 1.375rem) * var(--fly-h3-scale));
+    --fly-h3-leading: round(up, 1.3em, 1rem);
+    --fly-h3-tracking: 0;
+    --fly-h3-scale: 1;
+
+    --fly-h4-family: var(--fly-nav-family);
+    --fly-h4-weight: 300;
+    --fly-h4-stretch: var(--fly-nav-stretch);
+    --fly-h4-features: normal;
+    --fly-h4-variation: var(--fly-nav-variation);
+    --fly-h4-size: calc(clamp(1.1875rem, 1rem + 0.5vw, 1.25rem) * var(--fly-h4-scale));
+    --fly-h4-leading: round(up, 1.3em, 1rem);
+    --fly-h4-tracking: 0;
+    --fly-h4-scale: 1;
+
+    --fly-h5-family: var(--fly-h2-family);
+    --fly-h5-weight: 400;
+    --fly-h5-stretch: normal;
+    --fly-h5-features: normal;
+    --fly-h5-variation: normal;
+    --fly-h5-size: calc(clamp(1.75rem, 1.25rem + 1vw, 2.1875rem) * var(--fly-h5-scale));
+    --fly-h5-leading: round(up, 1.1em, 1rem);
+    --fly-h5-tracking: 0;
+    --fly-h5-scale: 1;
+
+    --fly-h6-family: var(--fly-sans-family);
+    --fly-h6-weight: 500;
+    --fly-h6-stretch: var(--fly-sans-stretch);
+    --fly-h6-features: normal;
+    --fly-h6-variation: 'slnt' 0;
+    --fly-h6-size: calc(clamp(1.1875rem, 1rem + 0.5vw, 1.25rem) * var(--fly-h6-scale));
+    --fly-h6-leading: var(--fly-line);
+    --fly-h6-tracking: 0;
+    --fly-h6-scale: 1;
+
+    --fly-body-family: 'sole-serif-small-variable', Georgia, serif;
+    --fly-body-weight: 400;
+    --fly-body-stretch: normal;
+    --fly-body-features: normal;
+    --fly-body-variation: normal;
+    --fly-body-size: calc(var(--fly-size-sm) * var(--fly-body-scale));
+    --fly-body-leading: var(--fly-line);
+    --fly-body-ratio: 1.6;
+    --fly-body-tracking: 0;
+    --fly-body-scale: 1;
+
+    --fly-lead-family: var(--fly-h2-family);
+    --fly-lead-weight: 500;
+    --fly-lead-stretch: normal;
+    --fly-lead-features: normal;
+    --fly-lead-variation: normal;
+    --fly-lead-size: calc(var(--fly-size-md) * var(--fly-lead-scale));
+    --fly-lead-leading: var(--fly-line);
+    --fly-lead-tracking: 0;
+    --fly-lead-scale: 1;
+
+    --fly-nav-family: 'grtsk-vf', Arial, sans-serif;
+    --fly-nav-weight: 400;
+    --fly-nav-stretch: 60%;
+    --fly-nav-features: normal;
+    --fly-nav-variation: 'wdth' 60, 'slnt' 0;
+    --fly-nav-size: calc(var(--fly-size-xs) * var(--fly-nav-scale));
+    --fly-nav-leading: 1.25;
+    --fly-nav-tracking: 0;
+    --fly-nav-scale: 1;
+
+    --fly-table-family: var(--fly-nav-family);
+    --fly-table-weight: 400;
+    --fly-table-stretch: var(--fly-nav-stretch);
+    --fly-table-features: normal;
+    --fly-table-variation: var(--fly-nav-variation);
+    --fly-table-size: calc(var(--fly-size-sm) * var(--fly-table-scale));
+    --fly-table-leading: 1.3;
+    --fly-table-tracking: 0;
+    --fly-table-scale: 1;
+
+    --fly-caption-family: var(--fly-nav-family);
+    --fly-caption-weight: 500;
+    --fly-caption-stretch: var(--fly-nav-stretch);
+    --fly-caption-features: normal;
+    --fly-caption-variation: var(--fly-nav-variation);
+    --fly-caption-size: calc(var(--fly-size-xs) * var(--fly-caption-scale));
+    --fly-caption-leading: 1.35;
+    --fly-caption-tracking: 0;
+    --fly-caption-scale: 1;
+
+    --fly-code-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    --fly-code-weight: 400;
+    --fly-code-stretch: normal;
+    --fly-code-features: normal;
+    --fly-code-variation: normal;
+    --fly-code-size: calc(var(--fly-size-xs) * var(--fly-code-scale));
+    --fly-code-leading: 1.5;
+    --fly-code-tracking: 0;
+    --fly-code-scale: 1;
+
+    --fly-em-family: var(--fly-sans-family);
+    --fly-em-weight: 550;
+    --fly-em-adjust: 0.95;
+    --fly-em-style: normal;
+
+    --fly-strong-family: var(--fly-sans-family);
+    --fly-strong-weight: 550;
+    --fly-strong-adjust: 0.95;
+
+    --fly-mono-family: var(--fly-code-family);
+    --fly-mono-weight: 400;
+    --fly-mono-adjust: 0.95;
+    --fly-sans-family: 'grtsk-vf', Arial, sans-serif;
+    --fly-sans-stretch: 90%;
+    --fly-sans-variation: 'slnt' 0;
+    --fly-sans-adjust: 0.95;
+    --fly-button-family: var(--fly-sans-family);
+    --fly-button-size: 0.9em;
+    --fly-button-weight: 500;
+    --fly-button-tracking: 0.06em;
+    --fly-ui-family: system-ui, sans-serif;
+    --fly-icon-family: 'Material Symbols Outlined';
+    --fly-nav-current-weight: 600;
+    --fly-nav-section-weight: 500;
+  }
+  @media screen and (max-width: 59.984375em) {
+    :root {
+      --fly-h3-weight: 600;
+      --fly-h3-stretch: var(--fly-sans-stretch);
+      --fly-h3-variation: var(--fly-sans-variation);
+      --fly-h4-weight: 500;
+      --fly-h4-stretch: var(--fly-sans-stretch);
+      --fly-h4-variation: var(--fly-sans-variation);
+    }
+  }
+  @supports not (line-height: round(up, 1em, 1rem)) {
+    :root {
+      --fly-h1-leading: 0.8;
+      --fly-h2-leading: 1;
+      --fly-h3-leading: 1.3;
+      --fly-h4-leading: 1.3;
+      --fly-h5-leading: 1.1;
+    }
+  }
+  :root,
+  [data-md-color-scheme='default'] {
+    --fly-paper-1: #e4e4e2;
+    --fly-paper-2: #f1f1ef;
+    --fly-paper-3: #fefefe;
+    --fly-ink: #191917;
+    --fly-quiet: #5c5c58;
+    --fly-edge: #19191729;
+    --fly-rule: #cececb;
+    --fly-hover: #0000000d;
+    --fly-shadow-ink: rgb(0 0 0 / 12%);
+    --fly-bar: #24252a;
+    --fly-bar-drop: #1d1e1f;
+    --fly-bar-ink: #e9e9e6;
+    --fly-key: #f4f4f5;
+    --fly-scrollbar: rgb(128 128 128 / 30%);
+    --fly-scrim: #00000088;
+    --fly-scrim-strong: #000000bb;
+    --fly-gray-1: oklch(95.5% 0.004 95);
+    --fly-gray-2: oklch(91% 0.004 95);
+    --fly-gray-3: oklch(85% 0.004 95);
+    --fly-gray-4: oklch(77% 0.004 95);
+    --fly-gray-5: oklch(67% 0.004 95);
+    --fly-gray-6: oklch(57% 0.004 95);
+    --fly-gray-7: oklch(47% 0.004 95);
+    --fly-gray-8: oklch(37% 0.004 95);
+    --fly-gray-9: oklch(27% 0.004 95);
+    --fly-cherry: oklch(60% 0.231 25);
+    --fly-cherry-soft: oklch(72% 0.131 25);
+    --fly-cherry-deep: oklch(52% 0.194 25);
+    --fly-cherry-tint: oklch(96.5% 0.015 25);
+    --fly-tangerine: oklch(70% 0.181 48);
+    --fly-tangerine-soft: oklch(82% 0.083 48);
+    --fly-tangerine-deep: oklch(56.6% 0.142 48);
+    --fly-tangerine-tint: oklch(96.5% 0.017 48);
+    --fly-amber: oklch(80% 0.158 78);
+    --fly-amber-soft: oklch(92% 0.053 78);
+    --fly-amber-deep: oklch(55.7% 0.107 78);
+    --fly-amber-tint: oklch(96.5% 0.027 78);
+    --fly-lime: oklch(80% 0.199 128);
+    --fly-lime-soft: oklch(92% 0.14 128);
+    --fly-lime-deep: oklch(54.4% 0.131 128);
+    --fly-lime-tint: oklch(96.5% 0.03 128);
+    --fly-emerald: oklch(66% 0.142 160);
+    --fly-emerald-soft: oklch(78% 0.132 160);
+    --fly-emerald-deep: oklch(54% 0.112 160);
+    --fly-emerald-tint: oklch(96.5% 0.03 160);
+    --fly-teal: oklch(62% 0.101 195);
+    --fly-teal-soft: oklch(74% 0.095 195);
+    --fly-teal-deep: oklch(54% 0.085 195);
+    --fly-teal-tint: oklch(96.5% 0.03 195);
+    --fly-sky: oklch(68% 0.129 230);
+    --fly-sky-soft: oklch(80% 0.095 230);
+    --fly-sky-deep: oklch(54.7% 0.1 230);
+    --fly-sky-tint: oklch(96.5% 0.019 230);
+    --fly-cobalt: oklch(56% 0.197 258);
+    --fly-cobalt-soft: oklch(68% 0.128 258);
+    --fly-cobalt-deep: oklch(48% 0.164 258);
+    --fly-cobalt-tint: oklch(96.5% 0.015 258);
+    --fly-indigo: oklch(52% 0.259 278);
+    --fly-indigo-soft: oklch(64% 0.14 278);
+    --fly-indigo-deep: oklch(44% 0.2 278);
+    --fly-indigo-tint: oklch(96.5% 0.015 278);
+    --fly-violet: oklch(56% 0.27 305);
+    --fly-violet-soft: oklch(68% 0.14 305);
+    --fly-violet-deep: oklch(48% 0.2 305);
+    --fly-violet-tint: oklch(96.5% 0.019 305);
+    --fly-magenta: oklch(62% 0.256 340);
+    --fly-magenta-soft: oklch(74% 0.14 340);
+    --fly-magenta-deep: oklch(54% 0.2 340);
+    --fly-magenta-tint: oklch(96.5% 0.021 340);
+    --fly-rose: oklch(68% 0.21 5);
+    --fly-rose-soft: oklch(80% 0.09 5);
+    --fly-rose-deep: oklch(57.9% 0.2 5);
+    --fly-rose-tint: oklch(96.5% 0.016 5);
+  }
+  [data-md-color-scheme='slate'] {
+    --fly-paper-1: #24252a;
+    --fly-paper-2: #24252a;
+    --fly-paper-3: #1d1e1f;
+    --fly-ink: #e9e9e6;
+    --fly-quiet: #a9a9a4;
+    --fly-edge: #000000a0;
+    --fly-rule: #3e3d3b;
+    --fly-hover: #ffffff12;
+    --fly-shadow-ink: rgb(0 0 0 / 12%);
+    --fly-key: #313137;
+    --fly-gray-1: oklch(25% 0.004 95);
+    --fly-gray-2: oklch(30% 0.004 95);
+    --fly-gray-3: oklch(36% 0.004 95);
+    --fly-gray-4: oklch(44% 0.004 95);
+    --fly-gray-5: oklch(53% 0.004 95);
+    --fly-gray-6: oklch(62% 0.004 95);
+    --fly-gray-7: oklch(72% 0.004 95);
+    --fly-gray-8: oklch(82% 0.004 95);
+    --fly-gray-9: oklch(91% 0.004 95);
+    --fly-cherry: oklch(65% 0.212 25);
+    --fly-cherry-soft: oklch(80% 0.097 25);
+    --fly-cherry-deep: oklch(46% 0.168 25);
+    --fly-cherry-tint: oklch(30% 0.05 25);
+    --fly-tangerine: oklch(75% 0.147 48);
+    --fly-tangerine-soft: oklch(81% 0.1 48);
+    --fly-tangerine-deep: oklch(56% 0.137 48);
+    --fly-tangerine-tint: oklch(30% 0.05 48);
+    --fly-amber: oklch(85% 0.124 78);
+    --fly-amber-soft: oklch(91% 0.068 78);
+    --fly-amber-deep: oklch(66% 0.124 78);
+    --fly-amber-tint: oklch(30% 0.05 78);
+    --fly-lime: oklch(85% 0.2 128);
+    --fly-lime-soft: oklch(91% 0.17 128);
+    --fly-lime-deep: oklch(66% 0.155 128);
+    --fly-lime-tint: oklch(30% 0.05 128);
+    --fly-emerald: oklch(71% 0.145 160);
+    --fly-emerald-soft: oklch(80% 0.154 160);
+    --fly-emerald-deep: oklch(52% 0.106 160);
+    --fly-emerald-tint: oklch(30% 0.05 160);
+    --fly-teal: oklch(67% 0.103 195);
+    --fly-teal-soft: oklch(80% 0.116 195);
+    --fly-teal-deep: oklch(48% 0.074 195);
+    --fly-teal-tint: oklch(30% 0.046 195);
+    --fly-sky: oklch(73% 0.131 230);
+    --fly-sky-soft: oklch(80% 0.107 230);
+    --fly-sky-deep: oklch(54% 0.097 230);
+    --fly-sky-tint: oklch(30% 0.05 230);
+    --fly-cobalt: oklch(61% 0.192 258);
+    --fly-cobalt-soft: oklch(80% 0.086 258);
+    --fly-cobalt-deep: oklch(42% 0.14 258);
+    --fly-cobalt-tint: oklch(30% 0.05 258);
+    --fly-indigo: oklch(57% 0.216 278);
+    --fly-indigo-soft: oklch(80% 0.087 278);
+    --fly-indigo-deep: oklch(42% 0.2 278);
+    --fly-indigo-tint: oklch(30% 0.05 278);
+    --fly-violet: oklch(61% 0.24 305);
+    --fly-violet-soft: oklch(80% 0.107 305);
+    --fly-violet-deep: oklch(42% 0.197 305);
+    --fly-violet-tint: oklch(30% 0.05 305);
+    --fly-magenta: oklch(67% 0.25 340);
+    --fly-magenta-soft: oklch(80% 0.133 340);
+    --fly-magenta-deep: oklch(48% 0.188 340);
+    --fly-magenta-tint: oklch(30% 0.05 340);
+    --fly-rose: oklch(73% 0.158 5);
+    --fly-rose-soft: oklch(80% 0.102 5);
+    --fly-rose-deep: oklch(54% 0.195 5);
+    --fly-rose-tint: oklch(30% 0.05 5);
+  }
+  :root,
+  [data-md-color-scheme] {
+    --fly-shadow: -1px 0 3px rgb(0 0 0 / 8%);
+    --fly-shadow-down: 0 2px 6px var(--fly-shadow-ink);
+    --fly-shadow-up: 0 -2px 6px var(--fly-shadow-ink);
+    --fly-drawer-shadow: -2px 0 8px rgb(0 0 0 / 20%);
+  }
+  @supports not (color: oklch(0% 0 0)) {
+    :root,
+    [data-md-color-scheme='default'] {
+      --fly-gray-1: #f1f0ed;
+      --fly-gray-2: #e2e1de;
+      --fly-gray-3: #cececb;
+      --fly-gray-4: #b5b4b1;
+      --fly-gray-5: #969592;
+      --fly-gray-6: #787775;
+      --fly-gray-7: #5b5b58;
+      --fly-gray-8: #40403d;
+      --fly-gray-9: #272624;
+      --fly-cherry: #ea1e2f;
+      --fly-cherry-soft: #eb827a;
+      --fly-cherry-deep: #bf1e28;
+      --fly-cherry-tint: #fef0ee;
+      --fly-tangerine: #f5741d;
+      --fly-tangerine-soft: #f1b495;
+      --fly-tangerine-deep: #b7571a;
+      --fly-tangerine-tint: #fef0ea;
+      --fly-amber: #f5af26;
+      --fly-amber-soft: #f8e1be;
+      --fly-amber-deep: #966b19;
+      --fly-amber-tint: #fef2e0;
+      --fly-lime: #98d425;
+      --fly-lime-soft: #caf68e;
+      --fly-lime-deep: #597d19;
+      --fly-lime-tint: #eef8e2;
+      --fly-emerald: #1eac73;
+      --fly-emerald-soft: #5fd19a;
+      --fly-emerald-deep: #1d8258;
+      --fly-emerald-tint: #e3faed;
+      --fly-teal: #1a9999;
+      --fly-teal-soft: #57bebd;
+      --fly-teal-deep: #1c7e7e;
+      --fly-teal-tint: #ddfafa;
+      --fly-sky: #1fa6d8;
+      --fly-sky-soft: #7ac9ef;
+      --fly-sky-deep: #1d7ba0;
+      --fly-sky-tint: #e7f6fe;
+      --fly-cobalt: #126ee5;
+      --fly-cobalt-soft: #6599e6;
+      --fly-cobalt-deep: #1259b8;
+      --fly-cobalt-tint: #edf4fe;
+      --fly-indigo: #543df8;
+      --fly-indigo-soft: #7981df;
+      --fly-indigo-deep: #4136bc;
+      --fly-indigo-tint: #f1f3fe;
+      --fly-violet: #9b23ef;
+      --fly-violet-soft: #ad80dd;
+      --fly-violet-deep: #792fb5;
+      --fly-violet-tint: #f6f0fe;
+      --fly-magenta: #e01eb5;
+      --fly-magenta-soft: #e486c6;
+      --fly-magenta-deep: #b42c92;
+      --fly-magenta-tint: #feeef8;
+      --fly-rose: #fb4f87;
+      --fly-rose-soft: #f0a6b6;
+      --fly-rose-deep: #d2306a;
+      --fly-rose-tint: #feeff2;
+    }
+
+    [data-md-color-scheme='slate'] {
+      --fly-gray-1: #22221f;
+      --fly-gray-2: #2e2e2c;
+      --fly-gray-3: #3e3d3b;
+      --fly-gray-4: #535250;
+      --fly-gray-5: #6c6c69;
+      --fly-gray-6: #878683;
+      --fly-gray-7: #a5a4a2;
+      --fly-gray-8: #c5c4c1;
+      --fly-gray-9: #e2e1de;
+      --fly-cherry: #f54647;
+      --fly-cherry-soft: #f6a59e;
+      --fly-cherry-deep: #a11b22;
+      --fly-cherry-tint: #442321;
+      --fly-tangerine: #f88e55;
+      --fly-tangerine-soft: #f7ad88;
+      --fly-tangerine-deep: #b3571e;
+      --fly-tangerine-tint: #422617;
+      --fly-amber: #fac36a;
+      --fly-amber-soft: #fbddaf;
+      --fly-amber-deep: #bb8727;
+      --fly-amber-tint: #3c2a0d;
+      --fly-lime: #a7e53d;
+      --fly-lime-soft: #c0f673;
+      --fly-lime-deep: #76a329;
+      --fly-lime-tint: #263316;
+      --fly-emerald: #33bc82;
+      --fly-emerald-soft: #4cdb9b;
+      --fly-emerald-deep: #1e7b53;
+      --fly-emerald-tint: #143525;
+      --fly-teal: #2fa9a9;
+      --fly-teal-soft: #4cd5d5;
+      --fly-teal-deep: #1a6a6a;
+      --fly-teal-tint: #083535;
+      --fly-sky: #34b6ea;
+      --fly-sky-soft: #6ecbf5;
+      --fly-sky-deep: #1f789c;
+      --fly-sky-tint: #0d3242;
+      --fly-cobalt: #2b7ff3;
+      --fly-cobalt-soft: #9bc0f5;
+      --fly-cobalt-deep: #104a97;
+      --fly-cobalt-tint: #1e2e47;
+      --fly-indigo: #615df2;
+      --fly-indigo-soft: #b0b9f6;
+      --fly-indigo-deep: #3d2fb6;
+      --fly-indigo-tint: #282b47;
+      --fly-violet: #a64bf3;
+      --fly-violet-soft: #ceacf5;
+      --fly-violet-deep: #6719a0;
+      --fly-violet-tint: #342742;
+      --fly-magenta: #f03cc4;
+      --fly-magenta-soft: #f69bd9;
+      --fly-magenta-deep: #9c1c7e;
+      --fly-magenta-tint: #3e2336;
+      --fly-rose: #f7799a;
+      --fly-rose-soft: #f6a2b5;
+      --fly-rose-deep: #c3245f;
+      --fly-rose-tint: #43232a;
+    }
+  }
+  :where(:root, [data-md-color-scheme], [data-fly-hue]) {
+    --fly-accent: var(--fly-cobalt);
+    --fly-accent-soft: var(--fly-cobalt-soft);
+    --fly-accent-deep: var(--fly-cobalt-deep);
+    --fly-accent-tint: var(--fly-cobalt-tint);
+    --fly-info: var(--fly-cobalt);
+    --fly-info-soft: var(--fly-cobalt-soft);
+    --fly-info-deep: var(--fly-cobalt-deep);
+    --fly-info-tint: var(--fly-cobalt-tint);
+    --fly-success: var(--fly-emerald);
+    --fly-success-soft: var(--fly-emerald-soft);
+    --fly-success-deep: var(--fly-emerald-deep);
+    --fly-success-tint: var(--fly-emerald-tint);
+    --fly-warning: var(--fly-amber);
+    --fly-warning-soft: var(--fly-amber-soft);
+    --fly-warning-deep: var(--fly-amber-deep);
+    --fly-warning-tint: var(--fly-amber-tint);
+    --fly-danger: var(--fly-cherry);
+    --fly-danger-soft: var(--fly-cherry-soft);
+    --fly-danger-deep: var(--fly-cherry-deep);
+    --fly-danger-tint: var(--fly-cherry-tint);
+    --fly-primary: var(--fly-accent);
+    --fly-primary-soft: var(--fly-accent-soft);
+    --fly-primary-deep: var(--fly-accent-deep);
+    --fly-primary-tint: var(--fly-accent-tint);
+
+    --fly-accent-text: var(--fly-accent-deep);
+    --fly-primary-text: var(--fly-primary-deep);
+    --fly-info-text: var(--fly-info-deep);
+    --fly-success-text: var(--fly-success-deep);
+    --fly-warning-text: var(--fly-warning-deep);
+    --fly-danger-text: var(--fly-danger-deep);
+    --fly-link: var(--fly-accent-text);
+    --fly-focus: var(--fly-accent);
+    --fly-mark: var(--fly-accent-tint);
+    --fly-h1-color: var(--fly-ink);
+
+    --fly-admonition-note: var(--fly-info);
+    --fly-admonition-info: var(--fly-info);
+    --fly-admonition-tip: var(--fly-success);
+    --fly-admonition-success: var(--fly-success);
+    --fly-admonition-warning: var(--fly-warning);
+    --fly-admonition-danger: var(--fly-danger);
+    --fly-admonition-failure: var(--fly-danger);
+    --fly-admonition-bug: var(--fly-danger);
+    --fly-admonition-question: var(--fly-violet);
+    --fly-admonition-example: var(--fly-indigo);
+    --fly-admonition-abstract: var(--fly-teal);
+    --fly-admonition-quote: var(--fly-gray-5);
+  }
+  :where([data-md-color-scheme='slate'], [data-md-color-scheme='slate'] [data-fly-hue]) {
+    --fly-accent-text: var(--fly-accent-soft);
+    --fly-primary-text: var(--fly-primary-soft);
+    --fly-info-text: var(--fly-info-soft);
+    --fly-success-text: var(--fly-success-soft);
+    --fly-warning-text: var(--fly-warning-soft);
+    --fly-danger-text: var(--fly-danger-soft);
+  }
+  :where([data-fly-h1='accent']) {
+    --fly-h1-color: var(--fly-accent-text);
+  }
+  :where([data-fly-links='accent']) {
+    --fly-link-color: var(--fly-link);
+    --fly-link-hover-color: var(--fly-ink);
+  }
+  [data-fly-hue='cherry'] {
+      --fly-accent: var(--fly-cherry);
+      --fly-accent-soft: var(--fly-cherry-soft);
+      --fly-accent-deep: var(--fly-cherry-deep);
+      --fly-accent-tint: var(--fly-cherry-tint);
+  }
+  [data-fly-hue='tangerine'] {
+      --fly-accent: var(--fly-tangerine);
+      --fly-accent-soft: var(--fly-tangerine-soft);
+      --fly-accent-deep: var(--fly-tangerine-deep);
+      --fly-accent-tint: var(--fly-tangerine-tint);
+  }
+  [data-fly-hue='amber'] {
+      --fly-accent: var(--fly-amber);
+      --fly-accent-soft: var(--fly-amber-soft);
+      --fly-accent-deep: var(--fly-amber-deep);
+      --fly-accent-tint: var(--fly-amber-tint);
+  }
+  [data-fly-hue='lime'] {
+      --fly-accent: var(--fly-lime);
+      --fly-accent-soft: var(--fly-lime-soft);
+      --fly-accent-deep: var(--fly-lime-deep);
+      --fly-accent-tint: var(--fly-lime-tint);
+  }
+  [data-fly-hue='emerald'] {
+      --fly-accent: var(--fly-emerald);
+      --fly-accent-soft: var(--fly-emerald-soft);
+      --fly-accent-deep: var(--fly-emerald-deep);
+      --fly-accent-tint: var(--fly-emerald-tint);
+  }
+  [data-fly-hue='teal'] {
+      --fly-accent: var(--fly-teal);
+      --fly-accent-soft: var(--fly-teal-soft);
+      --fly-accent-deep: var(--fly-teal-deep);
+      --fly-accent-tint: var(--fly-teal-tint);
+  }
+  [data-fly-hue='sky'] {
+      --fly-accent: var(--fly-sky);
+      --fly-accent-soft: var(--fly-sky-soft);
+      --fly-accent-deep: var(--fly-sky-deep);
+      --fly-accent-tint: var(--fly-sky-tint);
+  }
+  [data-fly-hue='cobalt'] {
+      --fly-accent: var(--fly-cobalt);
+      --fly-accent-soft: var(--fly-cobalt-soft);
+      --fly-accent-deep: var(--fly-cobalt-deep);
+      --fly-accent-tint: var(--fly-cobalt-tint);
+  }
+  [data-fly-hue='indigo'] {
+      --fly-accent: var(--fly-indigo);
+      --fly-accent-soft: var(--fly-indigo-soft);
+      --fly-accent-deep: var(--fly-indigo-deep);
+      --fly-accent-tint: var(--fly-indigo-tint);
+  }
+  [data-fly-hue='violet'] {
+      --fly-accent: var(--fly-violet);
+      --fly-accent-soft: var(--fly-violet-soft);
+      --fly-accent-deep: var(--fly-violet-deep);
+      --fly-accent-tint: var(--fly-violet-tint);
+  }
+  [data-fly-hue='magenta'] {
+      --fly-accent: var(--fly-magenta);
+      --fly-accent-soft: var(--fly-magenta-soft);
+      --fly-accent-deep: var(--fly-magenta-deep);
+      --fly-accent-tint: var(--fly-magenta-tint);
+  }
+  [data-fly-hue='rose'] {
+      --fly-accent: var(--fly-rose);
+      --fly-accent-soft: var(--fly-rose-soft);
+      --fly-accent-deep: var(--fly-rose-deep);
+      --fly-accent-tint: var(--fly-rose-tint);
+  }
+  [data-fly-hue='gray'] {
+    --fly-accent: var(--fly-gray-6);
+    --fly-accent-soft: var(--fly-gray-4);
+    --fly-accent-deep: var(--fly-gray-8);
+    --fly-accent-tint: var(--fly-gray-1);
+  }
+  [data-md-color-scheme='slate'][data-fly-hue='gray'],
+  [data-md-color-scheme='slate'] [data-fly-hue='gray'] {
+    --fly-accent-soft: var(--fly-gray-8);
+    --fly-accent-deep: var(--fly-gray-4);
+  }
+  :root {
+    --fly-rail: clamp(13.8889rem, 17vw, 25rem);
+    --fly-part-rail: clamp(12.5rem, 15vw, 19.4444rem);
+    --fly-sliver: clamp(4.1667rem, 5vw, 6.9444rem);
+    --fly-l1: var(--fly-rail);
+    --fly-l1-label: 10.0694rem;
+    --fly-l1-reveal: var(--fly-rail);
+    --fly-notch: var(--fly-size-sm);
+    --fly-h1-measure: 16ch;
+    --fly-h2-measure: 20ch;
+    --fly-margin-col: clamp(11.1111rem, 20cqi, 20.8333rem);
+    --fly-post-bar: 16.8rem;
+    --fly-bar-h: 3.8889rem;
+  }
+  @media screen and (min-width: 100em) {
+    body:not(.fly-no-l2) {
+      --fly-rail: var(--fly-part-rail);
+      --fly-l1: var(--fly-rail);
+    }
+  }
+  @media screen and (76.25em <= width < 100em) {
+    :root {
+      --fly-l1: var(--fly-sliver);
+      --fly-l1-reveal: calc(1.1111rem + var(--fly-l1-label) + 1.3889rem);
+    }
+
+    .fly-no-l2 {
+      --fly-l1: var(--fly-rail);
+      --fly-l1-reveal: var(--fly-rail);
+    }
+  }
+  @media screen and (min-width: 60em) and (max-width: 76.234375em) {
+    :root {
+      --fly-l1: var(--fly-rail);
+    }
+  }
+  @media screen and (max-width: 59.984375em) {
+    :root {
+      --fly-l1: 0.5208rem;
+    }
+  }
+  :root,
+  [data-md-color-scheme],
+  [data-fly-hue] {
+    --md-text-font: var(--fly-body-family);
+    --md-code-font: var(--fly-code-family);
+
+    --md-default-fg-color: var(--fly-ink);
+    --md-default-fg-color--light: var(--fly-quiet);
+    --md-default-fg-color--lighter: color-mix(in srgb, var(--fly-ink) 32%, transparent);
+    --md-default-fg-color--lightest: color-mix(in srgb, var(--fly-ink) 7%, transparent);
+    --md-default-fg-color--quote: color-mix(in srgb, var(--fly-ink) 12%, transparent);
+    --md-default-bg-color: var(--fly-paper-3);
+    --md-default-bg-color--light: color-mix(in srgb, var(--fly-paper-3) 70%, transparent);
+    --md-default-bg-color--lighter: color-mix(in srgb, var(--fly-paper-3) 30%, transparent);
+    --md-default-bg-color--lightest: color-mix(in srgb, var(--fly-paper-3) 12%, transparent);
+
+    --md-primary-fg-color: var(--fly-primary);
+    --md-primary-fg-color--light: var(--fly-primary-soft);
+    --md-primary-fg-color--dark: var(--fly-primary-deep);
+    --md-primary-fg-color--transparent: color-mix(in srgb, var(--fly-primary) 10%, transparent);
+    --md-primary-bg-color: var(--fly-bar-ink);
+    --md-primary-bg-color--light: color-mix(in srgb, var(--fly-bar-ink) 70%, transparent);
+    --md-accent-fg-color: var(--fly-accent);
+    --md-accent-fg-color--transparent: color-mix(in srgb, var(--fly-accent) 10%, transparent);
+    --md-accent-bg-color: var(--fly-bar-ink);
+    --md-accent-bg-color--light: color-mix(in srgb, var(--fly-bar-ink) 70%, transparent);
+
+    --md-typeset-color: var(--fly-ink);
+    --md-typeset-a-color: var(--fly-link-color, currentColor);
+    --md-typeset-mark-color: var(--fly-mark);
+    --md-typeset-del-color: color-mix(in srgb, var(--fly-danger) 15%, transparent);
+    --md-typeset-ins-color: color-mix(in srgb, var(--fly-success) 15%, transparent);
+    --md-typeset-kbd-color: var(--fly-paper-2);
+    --md-typeset-kbd-accent-color: var(--fly-paper-3);
+    --md-typeset-kbd-border-color: var(--fly-edge);
+    --md-typeset-table-color: var(--fly-edge);
+    --md-typeset-table-color--light: color-mix(in srgb, var(--fly-ink) 6%, transparent);
+    --md-typeset-table-row-color: var(--fly-hover);
+
+    --md-code-fg-color: var(--fly-ink);
+    --md-code-bg-color: var(--fly-paper-2);
+    --md-code-bg-color--light: color-mix(in srgb, var(--fly-paper-2) 70%, transparent);
+    --md-code-bg-color--lighter: color-mix(in srgb, var(--fly-paper-2) 30%, transparent);
+    --md-code-hl-color: var(--fly-accent);
+    --md-code-hl-color--light: color-mix(in srgb, var(--fly-accent) 10%, transparent);
+    --md-code-hl-number-color: var(--fly-cherry-deep);
+    --md-code-hl-special-color: var(--fly-magenta-deep);
+    --md-code-hl-function-color: var(--fly-violet-deep);
+    --md-code-hl-constant-color: var(--fly-indigo-deep);
+    --md-code-hl-keyword-color: var(--fly-cobalt-deep);
+    --md-code-hl-string-color: var(--fly-emerald-deep);
+
+    --md-admonition-fg-color: var(--fly-ink);
+    --md-admonition-bg-color: var(--fly-paper-3);
+    --md-admonition-color--note: var(--fly-admonition-note);
+    --md-admonition-color--abstract: var(--fly-admonition-abstract);
+    --md-admonition-color--info: var(--fly-admonition-info);
+    --md-admonition-color--tip: var(--fly-admonition-tip);
+    --md-admonition-color--success: var(--fly-admonition-success);
+    --md-admonition-color--question: var(--fly-admonition-question);
+    --md-admonition-color--warning: var(--fly-admonition-warning);
+    --md-admonition-color--failure: var(--fly-admonition-failure);
+    --md-admonition-color--danger: var(--fly-admonition-danger);
+    --md-admonition-color--bug: var(--fly-admonition-bug);
+    --md-admonition-color--example: var(--fly-admonition-example);
+    --md-admonition-color--quote: var(--fly-admonition-quote);
+    --md-warning-fg-color: var(--fly-ink);
+    --md-warning-bg-color: var(--fly-warning-tint);
+
+    --md-footer-fg-color: var(--fly-bar-ink);
+    --md-footer-fg-color--light: color-mix(in srgb, var(--fly-bar-ink) 70%, transparent);
+    --md-footer-fg-color--lighter: color-mix(in srgb, var(--fly-bar-ink) 45%, transparent);
+    --md-footer-bg-color: var(--fly-bar);
+    --md-footer-bg-color--dark: var(--fly-bar-drop);
+  }
+  [data-md-color-scheme='slate'],
+  [data-md-color-scheme='slate'] [data-fly-hue] {
+    --md-code-hl-number-color: var(--fly-cherry-soft);
+    --md-code-hl-special-color: var(--fly-magenta-soft);
+    --md-code-hl-function-color: var(--fly-violet-soft);
+    --md-code-hl-constant-color: var(--fly-indigo-soft);
+    --md-code-hl-keyword-color: var(--fly-cobalt-soft);
+    --md-code-hl-string-color: var(--fly-emerald-soft);
+  }

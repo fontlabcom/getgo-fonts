@@ -6,7 +6,7 @@
 ## Shared theme maintenance
 
 Read [THEME.md](THEME.md) before changing the catalogue theme. Configure
-fly-january 0.3.0 or later in `src_docs/mkdocs.yml`. Keep the FontLab chrome, the bare `search`
+fly-january 0.4.0 or later (remote theme assets) in `src_docs/mkdocs.yml`. Keep the FontLab chrome, the bare `search`
 plugin and local menu/search ownership. Shared theme behavior belongs in
 `fontlab-www-docstheme`. Keep specimen styles in `src_docs/md/css/`.
 Run `./build.sh --strict` and verify the generated `docs/` pages and assets.

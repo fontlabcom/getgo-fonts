@@ -4,7 +4,7 @@ this_file: THEME.md
 
 # GetGo Fonts catalogue theme
 
-ProperDocs builds the catalogue with fly-january 0.3.0 or later.
+ProperDocs builds the catalogue with fly-january 0.4.0 or later (remote theme assets).
 The active configuration is `src_docs/mkdocs.yml`. The `fly` plugin supplies
 the theme assets and maps the bare `search` plugin to MaterialX search.
 
@@ -24,8 +24,8 @@ root when changing catalogue-specific rem lengths.
 
 Run `./build.sh --strict` to rebuild the tracked GitHub Pages site in `docs/`.
 Check the home page and a font page for the Fly stylesheet and scripts under
-`assets/fly/`, one FontLab menu and footer, and the local search field.
+`https://fontlab.dev/fontlab-www-docstheme/fly/latest/`, one FontLab menu and footer, and the local search field.
 Check the search index, editable specimen and VFJ download links.
 
 Package documentation and supported options are in the
-[fly-january 0.3.0 or later](https://pypi.org/project/fly-january/).
+[fly-january 0.4.0 or later (remote theme assets)](https://pypi.org/project/fly-january/).

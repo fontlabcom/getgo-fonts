@@ -4,7 +4,7 @@ name = "getgo-fonts-site"
 version = "1.0.0"
 requires-python = ">=3.12"
 dependencies = [
-    "fly-january==0.2.1",
+    "fly-january>=0.3.0",
     "properdocs==1.6.7",
     "mkdocs==1.6.1",
     "mkdocs-materialx==10.1.8",

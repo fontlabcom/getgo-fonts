@@ -119,12 +119,12 @@
     --fly-nav-tracking: 0;
     --fly-nav-scale: 1;
 
-    --fly-table-family: var(--fly-nav-family);
-    --fly-table-weight: 400;
-    --fly-table-stretch: var(--fly-nav-stretch);
-    --fly-table-features: normal;
-    --fly-table-variation: var(--fly-nav-variation);
-    --fly-table-size: calc(var(--fly-size-sm) * var(--fly-table-scale));
+    --fly-table-family: var(--fly-body-family);
+    --fly-table-weight: var(--fly-body-weight);
+    --fly-table-stretch: var(--fly-body-stretch);
+    --fly-table-features: var(--fly-body-features);
+    --fly-table-variation: var(--fly-body-variation);
+    --fly-table-size: calc(var(--fly-body-size) * 0.9 * var(--fly-table-scale));
     --fly-table-leading: 1.3;
     --fly-table-tracking: 0;
     --fly-table-scale: 1;
@@ -165,10 +165,10 @@
     --fly-sans-stretch: 90%;
     --fly-sans-variation: 'slnt' 0;
     --fly-sans-adjust: 0.95;
-    --fly-button-family: var(--fly-sans-family);
-    --fly-button-size: 0.9em;
-    --fly-button-weight: 500;
-    --fly-button-tracking: 0.06em;
+    --fly-button-family: var(--fly-control-font);
+    --fly-button-size: var(--fly-control-size);
+    --fly-button-weight: var(--fly-control-weight);
+    --fly-button-tracking: normal;
     --fly-ui-family: system-ui, sans-serif;
     --fly-icon-family: 'Material Symbols Outlined';
     --fly-nav-current-weight: 600;
@@ -620,7 +620,6 @@
     --fly-part-rail: clamp(12.5rem, 15vw, 19.4444rem);
     --fly-sliver: clamp(4.1667rem, 5vw, 6.9444rem);
     --fly-l1: var(--fly-rail);
-    --fly-l1-label: 10.0694rem;
     --fly-l1-reveal: var(--fly-rail);
     --fly-notch: var(--fly-size-sm);
     --fly-h1-measure: 16ch;
@@ -637,8 +636,8 @@
   }
   @media screen and (76.25em <= width < 100em) {
     :root {
+      --fly-sliver: 10rem;
       --fly-l1: var(--fly-sliver);
-      --fly-l1-reveal: calc(1.1111rem + var(--fly-l1-label) + 1.3889rem);
     }
 
     .fly-no-l2 {
@@ -739,6 +738,24 @@
     --md-code-hl-constant-color: var(--fly-indigo-soft);
     --md-code-hl-keyword-color: var(--fly-cobalt-soft);
     --md-code-hl-string-color: var(--fly-emerald-soft);
+  }
+  :root {
+    --fly-control-height: max(44px, 3rem);
+    --fly-control-radius: 0.5rem;
+    --fly-control-font: var(--fly-sans-family);
+    --fly-control-size: calc(var(--fly-body-size) * 0.9);
+    --fly-control-weight: 500;
+    --fly-dialog-width: 28rem;
+    --fly-card-padding: var(--fly-half);
+    --fly-card-radius: 0.75rem;
+    --fly-card-title-size: var(--fly-size-md);
+  }
+  :where(:root, [data-md-color-scheme], [data-fly-hue]) {
+    --fly-surface-raised: var(--fly-paper-2);
+    --fly-control-border: color-mix(in srgb, var(--fly-ink) 58%, var(--fly-paper-3));
+    --fly-card-border: color-mix(in srgb, var(--fly-ink) 35%, var(--fly-paper-3));
+    --fly-selection: var(--fly-ink);
+    --fly-focus-ring: var(--fly-accent-text);
   }
   :root:not(#\#):not(#\#) {
     font-variation-settings: var(--fly-sans-variation);
@@ -969,8 +986,18 @@
     }
   }
   @media screen and (76.25em <= width < 100em) {
-    .md-sidebar--primary:not(#\#):not(#\#):not(#\#):not(#\#) .md-nav__link .md-ellipsis {
-      text-overflow: clip;
+    body:not(.fly-no-l2):has(.md-sidebar--secondary .md-nav__link):not(#\#):not(#\#):not(#\#):not(#\#)
+      .md-sidebar--primary .md-nav__link {
+      max-inline-size: calc(var(--fly-l1) - 0.5rem);
+      padding-inline: 0.65rem;
+    }
+
+    body:not(.fly-no-l2):has(.md-sidebar--secondary .md-nav__link):not(#\#):not(#\#):not(#\#):not(#\#)
+      .md-sidebar--primary .md-nav__link .md-ellipsis {
+      white-space: normal;
+      overflow-wrap: break-word;
+      hyphens: auto;
+      overflow: visible;
     }
   }
   @media screen and (min-width: 60em) {
@@ -1102,18 +1129,18 @@
     display: none;
   }
   @media screen and (max-width: 44.984375em) {
-    .md-content__inner:not(#\#):not(#\#):not(#\#):not(#\#) > .tabbed-set .tabbed-labels {
+    .md-content__inner:not(#\#):not(#\#):not(#\#):not(#\#) .tabbed-set .tabbed-labels {
       margin-inline: 0;
       max-width: 100%;
       padding-inline: 0;
       scroll-padding-inline-start: 0;
     }
 
-    .md-content__inner:not(#\#):not(#\#):not(#\#):not(#\#) > .tabbed-set .tabbed-labels::after {
+    .md-content__inner:not(#\#):not(#\#):not(#\#):not(#\#) .tabbed-set .tabbed-labels::after {
       padding-inline: 0;
     }
 
-    .md-content__inner:not(#\#):not(#\#):not(#\#):not(#\#) > .tabbed-set .tabbed-labels ~ .tabbed-control {
+    .md-content__inner:not(#\#):not(#\#):not(#\#):not(#\#) > .tabbed-set > .tabbed-labels ~ .tabbed-control {
       margin-inline: 0;
       padding-inline: 0;
       width: 1.2rem;
@@ -1574,7 +1601,7 @@
     font-weight: inherit;
     line-height: inherit;
   }
-  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) a:where(:not([class^='md-'], [class*=' md-'], .headerlink, [data-fly-plain])):where(:not([data-fly-plain] a)) {
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) a:where(:not([class^='md-'], [class*=' md-'], .headerlink, [data-fly-plain])):where(:not([data-fly-plain] a, .tabbed-labels a, .fltheme-components a:is(.btn, .du-btn, .du-join-item, .badge, .du-badge, .du-tab))) {
     color: var(--fly-link-color, inherit);
     text-decoration: underline;
     text-decoration-thickness: 1px;
@@ -1584,7 +1611,7 @@
     font-size: calc(var(--fly-sans-adjust) * 1em);
     line-height: 1;
   }
-  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) a:where(:not([class^='md-'], [class*=' md-'], .headerlink, [data-fly-plain])):where(:not([data-fly-plain] a)):is(:hover, :focus-visible) {
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) a:where(:not([class^='md-'], [class*=' md-'], .headerlink, [data-fly-plain])):where(:not([data-fly-plain] a, .tabbed-labels a, .fltheme-components a:is(.btn, .du-btn, .du-join-item, .badge, .du-badge, .du-tab))):is(:hover, :focus-visible) {
     color: var(--fly-link-hover-color, var(--fly-link-color, inherit));
   }
   .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) strong {
@@ -1793,7 +1820,7 @@
   .pswp__caption:empty:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) {
     display: none;
   }
-  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) table {
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(table:not([class]), .md-typeset__table > table, .fltheme-components :is(table.table, table.du-table)) {
     font-family: var(--fly-table-family);
     font-size: var(--fly-table-size);
     font-weight: var(--fly-table-weight);
@@ -1802,18 +1829,61 @@
     font-variation-settings: var(--fly-table-variation);
     line-height: var(--fly-table-leading);
     letter-spacing: var(--fly-table-tracking);
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    box-shadow: none;
   }
-  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) table :is(td, th) {
+  .md-typeset:not(#\#) .fltheme-components :is(table.table, table.du-table) {
+    font-family: var(--fly-table-family) !important;
+    font-size: var(--fly-table-size) !important;
+    line-height: var(--fly-table-leading) !important;
+    border: 0 !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(table:not([class]), .md-typeset__table > table, .fltheme-components :is(table.table, table.du-table)) > :is(thead, tbody) > tr {
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(table.table, table.du-table) > :is(thead, tbody) > tr {
+    border: 0 !important;
+    background: transparent !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(table:not([class]), .md-typeset__table > table, .fltheme-components :is(table.table, table.du-table)) > :is(thead, tbody, tfoot) > tr > :is(td, th) {
     padding: 0.4688em 0.625em;
+    border: 0;
+    font-family: var(--fly-table-family);
+    font-size: var(--fly-table-size);
   }
-  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) table th {
-    font-family: var(--fly-caption-family);
+  .md-typeset:not(#\#) .fltheme-components :is(table.table, table.du-table) > :is(thead, tbody, tfoot) > tr > :is(td, th) {
+    padding: 0.4688em 0.625em !important;
+    border: 0 !important;
+    font-family: var(--fly-table-family) !important;
+    font-size: var(--fly-table-size) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(table:not([class]), .md-typeset__table > table, .fltheme-components :is(table.table, table.du-table)) > tbody > tr > :is(td, th) {
+    border-block-start: 1px solid var(--fly-rule);
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(table.table, table.du-table) > tbody > tr > :is(td, th) {
+    border-block-start: 1px solid var(--fly-rule) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(table:not([class]), .md-typeset__table > table, .fltheme-components :is(table.table, table.du-table)) > thead > tr > :is(td, th) {
+    background-color: var(--fly-surface-raised);
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(table.table, table.du-table) > thead > tr > :is(td, th) {
+    background-color: var(--fly-surface-raised) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(table:not([class]), .md-typeset__table > table, .fltheme-components :is(table.table, table.du-table)) > :is(thead, tbody, tfoot) > tr > th {
+    font-family: var(--fly-control-font);
     font-size: var(--fly-caption-size);
-    font-weight: var(--fly-caption-weight);
-    font-stretch: var(--fly-caption-stretch);
-    font-feature-settings: var(--fly-caption-features);
-    font-variation-settings: var(--fly-caption-variation);
-    letter-spacing: var(--fly-caption-tracking);
+    font-weight: 600;
+    font-stretch: var(--fly-sans-stretch);
+    font-variation-settings: normal;
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(table.table, table.du-table) > :is(thead, tbody, tfoot) > tr > th {
+    font-family: var(--fly-control-font) !important;
+    font-size: var(--fly-caption-size) !important;
+    font-weight: 600 !important;
   }
   .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) table :is(td, th) :is(a, strong, em, mark) {
     font-size: inherit;
@@ -1824,18 +1894,98 @@
     font-variation-settings: inherit;
     font-weight: inherit;
   }
-  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.admonition, details) {
-    border: 1px solid var(--fly-edge);
-    background: transparent;
-    box-shadow: none;
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.admonition, details, .fly-callout, .fltheme-components :is(.alert, .du-alert)) {
+    --fly-alert-accent: var(--fly-admonition-note);
   }
-  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.admonition-title, summary) {
-    background: var(--fly-hover);
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.admonition, details):is(.abstract, .summary, .tldr) { --fly-alert-accent: var(--fly-admonition-abstract); }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.admonition, details):is(.question, .help, .faq) { --fly-alert-accent: var(--fly-admonition-question); }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.admonition, details).example { --fly-alert-accent: var(--fly-admonition-example); }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.admonition, details):is(.quote, .cite), .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fly-callout { --fly-alert-accent: var(--fly-admonition-quote); }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.admonition, details):is(.tip, .hint, .important, .success, .check, .done), .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components :is(.du-alert-success, .alert[data-status='success']) { --fly-alert-accent: var(--fly-admonition-success); }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.admonition, details):is(.warning, .caution, .attention), .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components .du-alert-warning { --fly-alert-accent: var(--fly-admonition-warning); }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.admonition, details):is(.failure, .fail, .missing, .danger, .error, .bug), .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components :is(.du-alert-error, .alert[data-variant='destructive']) { --fly-alert-accent: var(--fly-admonition-danger); }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.admonition, details:not(.fltheme-components *), .fly-callout) {
+    padding: var(--fly-card-padding);
+    background: color-mix(in srgb, var(--fly-alert-accent) 7%, var(--fly-surface-raised));
     color: var(--fly-ink);
+    border: 1px solid var(--fly-card-border);
+    border-inline-start: 3px solid var(--fly-alert-accent);
+    border-radius: var(--fly-card-radius);
+    box-shadow: none;
+    text-align: start;
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(.alert, .du-alert) {
+    padding: var(--fly-card-padding) !important;
+    background: color-mix(in srgb, var(--fly-alert-accent) 7%, var(--fly-surface-raised)) !important;
+    color: var(--fly-ink) !important;
+    border: 1px solid var(--fly-card-border) !important;
+    border-inline-start: 3px solid var(--fly-alert-accent) !important;
+    border-radius: var(--fly-card-radius) !important;
+    box-shadow: none !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components :is(.alert, .du-alert) {
+    text-align: start;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components :is(.alert, .du-alert) + :is(.alert, .du-alert), .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .admonition + .admonition {
+    margin-block-start: var(--fly-line);
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(.alert, .du-alert) {
+    display: block !important;
+  }
+  .md-typeset:not(#\#) .fltheme-components .alert:has(> svg),
+  .md-typeset:not(#\#) .fltheme-components .du-alert:has(> svg) {
+    display: grid !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components .alert:has(> svg),
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components .du-alert:has(> svg) {
+    grid-template-columns: auto minmax(0, 1fr);
+    column-gap: var(--fly-half);
+    row-gap: 0;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components :is(.alert, .du-alert) > svg {
+    grid-column: 1;
+    grid-row: 1 / span 2;
+    align-self: start;
+    color: var(--fly-alert-accent);
+  }
+  .md-typeset:not(#\#) :is(.fly-callout, .fltheme-components :is(.alert, .du-alert)), .md-typeset:not(#\#) :is(.fly-callout, .fltheme-components :is(.alert, .du-alert)) :is(section, p, [data-description]) {
+    color: var(--fly-ink) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.fly-callout, .fltheme-components :is(.alert, .du-alert)), .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.fly-callout, .fltheme-components :is(.alert, .du-alert)) :is(section, p, [data-description]) {
+    text-align: start;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.fly-callout, .fltheme-components :is(.alert, .du-alert)) :is(section, p, [data-description]) {
+    margin: 0;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.admonition, details:not(.fltheme-components *)) {
+    font-family: var(--fly-body-family);
+    line-height: var(--fly-body-leading);
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.admonition, details:not(.fltheme-components *)):not(.md-typeset > *) {
+    font-size: var(--fly-body-size);
+  }
+  .md-typeset:not(#\#) :is(.fly-callout, .fltheme-components :is(.alert, .du-alert)) :is(h2, h3, [data-title]) {
+    background: transparent !important;
+    color: var(--fly-ink) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.admonition-title, details:not(.fltheme-components *) > summary) {
+    background: transparent;
+    color: var(--fly-ink);
+    font: 600 1em / var(--fly-body-leading) var(--fly-control-font);
+    margin: 0;
+    padding-block: 0;
+    padding-inline: 1.6em 0;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) details:not(.fltheme-components *) > summary {
+    padding-inline-end: var(--fly-card-padding);
   }
   .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.admonition-title, summary)::before {
     top: 50%;
+    inset-inline-start: 0;
     translate: 0 -50%;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fl-compare .admonition > p:not(.admonition-title) {
+    margin: 0;
   }
   .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .grid {
     grid-template-columns: repeat(auto-fit, minmax(min(100%, max(19.4444rem, (100% - 3 * 0.5556rem) / 4 + 1px)), 1fr));
@@ -1872,17 +2022,208 @@
     font-size: inherit;
     line-height: inherit;
   }
-  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .md-button,
-  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .md-button:focus {
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components {
+    --size-field: calc(var(--fly-control-height) / 10);
+    --radius-field: var(--fly-control-radius);
+    --radius-selector: var(--fly-control-radius);
+    --radius-box: var(--fly-card-radius);
+    --du-border: 1px;
+    --depth: 0;
+    --noise: 0;
+    background-color: transparent;
+  }
+  .md-typeset:not(#\#) :is(
+    .fltheme-components, .fltheme-components :is(.card, .card > section, .du-card-body, .alert, .alert > section, .du-alert, .accordion > details > section, .du-collapse-content, [role='tabpanel'], .du-tab-content),
+    .fltheme-components p:not(.admonition-title, td *, th *, .popover *, .toaster *, .dropdown-menu *, .pagination *),
+    .fly-callout, .fly-callout > p, dialog.fly-dialog, dialog.fly-dialog p
+  ) {
+    font: var(--fly-body-weight) var(--fly-body-size) / var(--fly-body-leading) var(--fly-body-family) !important;
+    font-stretch: var(--fly-body-stretch) !important;
+    font-feature-settings: var(--fly-body-features) !important;
+    font-variation-settings: var(--fly-body-variation) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(
+    .fltheme-components, .fltheme-components :is(.card, .card > section, .du-card-body, .alert, .alert > section, .du-alert, .accordion > details > section, .du-collapse-content, [role='tabpanel'], .du-tab-content),
+    .fltheme-components p:not(.admonition-title, td *, th *, .popover *, .toaster *, .dropdown-menu *, .pagination *),
+    .fly-callout, .fly-callout > p, dialog.fly-dialog, dialog.fly-dialog p
+  ) {
+    letter-spacing: var(--fly-body-tracking);
+  }
+  .md-typeset:not(#\#) :is(
+    .fltheme-components .card > :is(h1, h2, h3, h4, h5, h6),
+    .fltheme-components .card > header > :is(h1, h2, h3, h4, h5, h6, .card-title, [data-title]),
+    .fltheme-components .du-card-title,
+    :is(.fly-callout, dialog.fly-dialog, .fltheme-components :is(.alert, .du-alert, .dialog, .alert-dialog, .du-modal-box)) :is(h2, h3, [data-title])
+  ) {
+    font: 600 var(--fly-card-title-size) / var(--fly-body-leading) var(--fly-control-font) !important;
+    font-stretch: var(--fly-sans-stretch) !important;
+    font-feature-settings: normal !important;
+    font-variation-settings: var(--fly-sans-variation) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(
+    .fltheme-components .card > :is(h1, h2, h3, h4, h5, h6),
+    .fltheme-components .card > header > :is(h1, h2, h3, h4, h5, h6, .card-title, [data-title]),
+    .fltheme-components .du-card-title,
+    :is(.fly-callout, dialog.fly-dialog, .fltheme-components :is(.alert, .du-alert, .dialog, .alert-dialog, .du-modal-box)) :is(h2, h3, [data-title])
+  ) {
+    letter-spacing: normal;
+    margin: 0;
+    text-align: start;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.grid > .card, .grid.cards > ul > li) > :is(h1, h2, h3, h4, h5, h6) {
+    font: 600 var(--fly-card-title-size) / var(--fly-body-leading) var(--fly-control-font);
+    font-stretch: var(--fly-sans-stretch);
+    font-variation-settings: var(--fly-sans-variation);
+    margin: 0;
+    text-align: start;
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(.dropdown-menu, .popover, .toaster, .pagination), .md-typeset:not(#\#) .fltheme-components :is(.dropdown-menu, .popover, .toaster, .pagination) :is(a, p, h2, h3, [role='menuitem'], [data-title], [data-description]) {
+    font-family: var(--fly-control-font) !important;
+  }
+  .md-typeset:not(#\#) .fltheme-components:not([data-fltheme-mode='light'], [data-fltheme-mode='dark']) {
+    --background: var(--fly-paper-3) !important;
+    --foreground: var(--fly-ink) !important;
+    --card: var(--fly-surface-raised) !important;
+    --card-foreground: var(--fly-ink) !important;
+    --popover: var(--fly-surface-raised) !important;
+    --popover-foreground: var(--fly-ink) !important;
+    --primary: var(--fly-selection) !important;
+    --primary-foreground: var(--fly-paper-3) !important;
+    --secondary: var(--fly-surface-raised) !important;
+    --secondary-foreground: var(--fly-ink) !important;
+    --muted: var(--fly-surface-raised) !important;
+    --muted-foreground: var(--fly-quiet) !important;
+    --accent: var(--fly-accent-tint) !important;
+    --accent-foreground: var(--fly-accent-text) !important;
+    --destructive: var(--fly-danger-text) !important;
+    --border: var(--fly-card-border) !important;
+    --input: var(--fly-control-border) !important;
+    --ring: var(--fly-focus-ring) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components:not([data-fltheme-mode='light'], [data-fltheme-mode='dark']) {
+    color: var(--fly-ink);
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(.btn, .badge)[data-variant='destructive']:not(:disabled, [aria-disabled='true']) {
+    background-color: var(--fly-danger-text) !important;
+    color: var(--fly-paper-3) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components[data-fltheme-mode='light'] { color-scheme: light; }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components[data-fltheme-mode='dark'] { color-scheme: dark; }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components:is([data-fltheme-mode='light'], [data-fltheme-mode='dark']) {
+    --fly-ink: var(--foreground);
+    --fly-selection: var(--fly-ink);
+    --fly-paper-3: var(--background);
+    --fly-surface-raised: var(--muted);
+    --fly-quiet: color-mix(in srgb, var(--fly-ink) 74%, var(--fly-paper-3));
+    --fly-hover: color-mix(in srgb, var(--fly-ink) 8%, transparent);
+    --fly-control-border: color-mix(in srgb, var(--fly-ink) 58%, var(--fly-paper-3));
+    --fly-card-border: color-mix(in srgb, var(--fly-ink) 35%, var(--fly-paper-3));
+    --fly-focus-ring: var(--fly-quiet);
+    --fly-accent-text: var(--fly-quiet);
+    --fly-danger-text: light-dark(var(--fly-cherry-deep), var(--fly-cherry-soft));
+    background-color: var(--background);
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components {
+    --color-base-100: var(--background);
+    --color-base-200: var(--muted);
+    --color-base-300: var(--border);
+    --color-base-content: var(--foreground);
+    --color-primary: var(--fly-selection);
+    --color-primary-content: var(--primary-foreground);
+    --color-secondary-content: var(--secondary-foreground);
+    --color-accent-content: var(--accent-foreground);
+    --color-neutral: var(--primary);
+    --color-neutral-content: var(--primary-foreground);
+    --color-info: var(--fly-info-tint);
+    --color-info-content: var(--fly-info-text);
+    --color-success: var(--fly-success-tint);
+    --color-success-content: var(--fly-success-text);
+    --color-warning: var(--fly-warning-tint);
+    --color-warning-content: var(--fly-warning-text);
+    --color-error: var(--fly-danger-tint);
+    --color-error-content: var(--fly-danger-text);
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.md-button, .fltheme-components :is(.btn, .du-btn)) {
+    --fly-button-height: var(--fly-control-height);
+    --fly-button-label-size: var(--fly-button-size);
+    box-sizing: border-box;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    min-block-size: var(--fly-button-height);
+    gap: 0.4em;
+    max-inline-size: 100%;
     font-family: var(--fly-button-family);
-    font-size: var(--fly-button-size);
+    font-size: var(--fly-button-label-size);
     font-weight: var(--fly-button-weight);
-    letter-spacing: var(--fly-button-tracking);
-    text-transform: uppercase;
+    font-stretch: var(--fly-sans-stretch);
+    line-height: 1.2;
     text-decoration: none;
-    padding: 0.7em 1.6em;
+    text-transform: none;
+    letter-spacing: var(--fly-button-tracking);
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(.btn, .du-btn) {
+    block-size: auto !important;
+    min-block-size: var(--fly-button-height) !important;
+    gap: 0.4em !important;
+    font-family: var(--fly-button-family) !important;
+    font-size: var(--fly-button-label-size) !important;
+    font-weight: var(--fly-button-weight) !important;
+    line-height: 1.2 !important;
+    text-decoration: none !important;
+    white-space: normal !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .md-button {
+    border-radius: var(--fly-control-radius);
+  }
+  .md-typeset:not(#\#) .fltheme-components .btn:not(.button-group > *, .du-join-item) {
+    border-radius: var(--fly-control-radius) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.md-button, .fltheme-components :is(.btn, .du-btn)):not(
+    [data-size^='icon'], .du-btn-circle, .du-btn-square
+  ) {
+    padding-block: 0;
+    padding-inline: 0.85rem;
+    white-space: normal;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.md-button, .fltheme-components :is(.btn, .du-btn)):is(
+    [data-size='xs'], [data-size='icon-xs'], .du-btn-xs
+  ) {
+    --fly-button-height: 2rem;
+    --fly-button-label-size: var(--fly-size-xs);
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.md-button, .fltheme-components :is(.btn, .du-btn)):is(
+    [data-size='sm'], [data-size='icon-sm'], .du-btn-sm
+  ) {
+    --fly-button-height: 2.5rem;
+    --fly-button-label-size: var(--fly-size-xs);
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.md-button, .fltheme-components :is(.btn, .du-btn)):is(
+    [data-size='lg'], [data-size='icon-lg'], .du-btn-lg
+  ) {
+    --fly-button-height: 3.5rem;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.md-button, .fltheme-components :is(.btn, .du-btn)):is([data-size='xl'], .du-btn-xl) {
+    --fly-button-height: 4rem;
+    --fly-button-label-size: var(--fly-size-md);
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.md-button, .fltheme-components :is(.btn, .du-btn)):is(
+    [data-size^='icon'], .du-btn-circle, .du-btn-square
+  ) {
+    inline-size: var(--fly-button-height);
+    padding: 0;
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(.btn[data-size^='icon'], .du-btn-circle, .du-btn-square) {
+    inline-size: var(--fly-button-height) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components :is(.btn[data-size^='icon'], .du-btn-circle, .du-btn-square) {
+    padding: 0;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.md-button, .md-button:focus) {
     color: var(--fly-ink);
     background: transparent;
+    border: 0;
     box-shadow: inset 0 0 0 1px var(--fly-ink);
   }
   .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .md-button:hover {
@@ -1890,16 +2231,547 @@
     background: var(--fly-hover);
     box-shadow: inset 0 0 0 1px var(--fly-ink);
   }
-  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .md-button--primary,
-  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .md-button--primary:focus {
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.md-button--primary, .md-button--primary:focus) {
     color: var(--fly-paper-3);
-    background: var(--fly-ink);
+    background: var(--fly-selection);
     box-shadow: inset 0 0 0 1px var(--fly-ink);
   }
   .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .md-button--primary:hover {
     color: var(--fly-paper-3);
     background: var(--fly-quiet);
     box-shadow: inset 0 0 0 1px var(--fly-quiet);
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(.du-btn, .du-join-item.du-btn) {
+    border-width: 1px !important;
+    box-shadow: none !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components :is(.du-btn, .du-join-item.du-btn) {
+    text-shadow: none;
+  }
+  .md-typeset:not(#\#) .fltheme-components .du-btn:not(
+    .du-btn-primary, .du-btn-neutral, .du-btn-secondary, .du-btn-accent, .du-btn-info,
+    .du-btn-success, .du-btn-warning, .du-btn-error, .du-btn-outline, .du-btn-dash,
+    .du-btn-ghost, .du-btn-link, .du-btn-disabled, :disabled, [aria-disabled='true']
+  ) {
+    border-color: var(--fly-control-border) !important;
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(.du-btn-outline, .du-btn-dash, .btn[data-variant='outline']):not(:disabled, [aria-disabled='true'], .du-btn-disabled, .du-btn-active, [aria-pressed='true'], [aria-current='page']) {
+    color: var(--fly-ink) !important;
+    background-color: transparent !important;
+    border-color: var(--fly-control-border) !important;
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(.du-btn-outline, .du-btn-dash, .btn[data-variant='outline']):not(:disabled, [aria-disabled='true'], .du-btn-disabled, .du-btn-active, [aria-pressed='true'], [aria-current='page']):is(:hover, :active) {
+    background-color: var(--fly-hover) !important;
+  }
+  .md-typeset:not(#\#) .fltheme-components .btn[data-variant='secondary'] {
+    border-color: var(--fly-control-border) !important;
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(.du-btn-secondary, .du-btn-accent, .du-btn-info, .du-btn-success, .du-btn-warning, .du-btn-error) {
+    border-color: var(--fly-control-border) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .md-button:is(.du-btn-active, [aria-pressed='true'], [aria-current='page']) {
+    color: var(--fly-paper-3);
+    background-color: var(--fly-selection);
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(.btn, .du-btn):is(.du-btn-active, [aria-pressed='true'], [aria-current='page']) {
+    color: var(--fly-paper-3) !important;
+    background-color: var(--fly-selection) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .md-button:is(:disabled, [aria-disabled='true'], .du-btn-disabled) {
+    opacity: 1;
+    color: var(--fly-quiet);
+    background-color: var(--fly-surface-raised);
+    border: 1px solid var(--fly-card-border);
+    box-shadow: none;
+    cursor: default;
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(.btn, .du-btn):is(:disabled, [aria-disabled='true'], .du-btn-disabled) {
+    opacity: 1 !important;
+    color: var(--fly-quiet) !important;
+    background-color: var(--fly-surface-raised) !important;
+    border: 1px solid var(--fly-card-border) !important;
+    box-shadow: none !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components :is(.btn, .du-btn):is(:disabled, [aria-disabled='true'], .du-btn-disabled) {
+    cursor: default;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fly-form {
+    font-family: var(--fly-control-font);
+    font-size: var(--fly-control-size);
+    line-height: 1.4;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components, .fly-form) :is(label, legend):not(.du-btn, .du-tab) {
+    color: var(--fly-ink) !important;
+    font-family: var(--fly-control-font) !important;
+    font-size: var(--fly-control-size) !important;
+    font-weight: var(--fly-control-weight) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.fltheme-components, .fly-form) label:has(> input:is([type='checkbox'], [type='radio'])) {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    min-block-size: 2rem;
+    width: fit-content;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.fltheme-components, .fly-form) :is(fieldset, .du-fieldset) {
+    min-inline-size: 0;
+    padding: 0.5rem var(--fly-card-padding);
+    border: 1px solid var(--fly-card-border);
+    border-radius: var(--fly-card-radius);
+    font-size: inherit;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.fltheme-components, .fly-form) :is(.description, .du-label:not(label), small) {
+    color: var(--fly-quiet);
+    font-size: var(--fly-size-xs);
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.fltheme-components, .fly-form) :is([role='alert'], [data-error]):not(.alert, .du-alert) {
+    color: var(--fly-danger-text);
+  }
+  .md-typeset:not(#\#) :is(
+    .fltheme-components :is(.du-input, .du-select, .du-textarea, input.input, .textarea, select.select, .select > button):not([type='checkbox'], [type='radio'], [type='range']),
+    .fly-form :is(input:not([type='checkbox'], [type='radio'], [type='range'], [type='hidden']), select, textarea)
+  ) {
+    min-block-size: var(--fly-control-height) !important;
+    background-color: var(--fly-paper-3) !important;
+    border: 1px solid var(--fly-control-border) !important;
+    color: var(--fly-ink) !important;
+    box-shadow: none !important;
+    font-family: var(--fly-control-font) !important;
+    font-size: var(--fly-control-size) !important;
+    font-weight: var(--fly-control-weight) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(
+    .fltheme-components :is(.du-input, .du-select, .du-textarea, input.input, .textarea, select.select, .select > button):not([type='checkbox'], [type='radio'], [type='range']),
+    .fly-form :is(input:not([type='checkbox'], [type='radio'], [type='range'], [type='hidden']), select, textarea)
+  ) {
+    box-sizing: border-box;
+    max-inline-size: 100%;
+    padding-inline-start: 0.7rem;
+    line-height: 1.25;
+  }
+  .md-typeset:not(#\#) :is(
+    .fltheme-components :is(.du-input, .du-select, .du-textarea, input.input, .textarea, select.select, .select > button),
+    .fly-form :is(input, select, textarea)
+  ):not(.du-join-item, [type='checkbox'], [type='radio'], [type='range']) {
+    border-radius: var(--fly-control-radius) !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components input.du-input, .fltheme-components input.input, .fly-form input):not(
+    [type='checkbox'], [type='radio'], [type='range'], [type='hidden']
+  ) {
+    block-size: var(--fly-control-height) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.fltheme-components, .fly-form) :is(input, textarea)::placeholder {
+    color: var(--fly-quiet);
+    opacity: 1;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components, .fly-form) :is(input, select, textarea, button)[aria-invalid='true'] {
+    border-color: var(--fly-danger-text) !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components textarea:is(.textarea, .du-textarea), .fly-form textarea):not([hidden]) {
+    block-size: auto !important;
+    min-block-size: calc(3lh + 1rem + 2px) !important;
+    padding-block: 0.5rem !important;
+    line-height: 1.4 !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.fltheme-components textarea:is(.textarea, .du-textarea), .fly-form textarea):not([hidden]) {
+    field-sizing: fixed;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components, .fly-form) select:not([multiple], [size]:not([size='1'])) {
+    appearance: none !important;
+    padding-inline-end: 2.4rem !important;
+    background-image:
+      linear-gradient(45deg, transparent 39%, currentColor 41% 59%, transparent 61%),
+      linear-gradient(-45deg, transparent 39%, currentColor 41% 59%, transparent 61%) !important;
+    background-size: 0.4rem 0.4rem !important;
+    background-position: right 1.4rem center, right 1rem center !important;
+    background-repeat: no-repeat !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components, .fly-form) select:not([multiple], [size]:not([size='1'])):dir(rtl) {
+    background-position: left 1rem center, left 1.4rem center !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components, .fly-form) input[type='range'] {
+    all: revert !important;
+    box-sizing: border-box !important;
+    inline-size: min(20rem, 100%) !important;
+    min-inline-size: 0 !important;
+    block-size: max(24px, 1.6rem) !important;
+    margin: 0 !important;
+    color-scheme: inherit !important;
+    accent-color: var(--fly-selection) !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components, .fly-form) input[type='range']::-webkit-slider-runnable-track {
+    all: revert !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components, .fly-form) input[type='range']::-webkit-slider-thumb {
+    all: revert !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components, .fly-form) input[type='range']::-moz-range-track {
+    all: revert !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components, .fly-form) input[type='range']::-moz-range-progress {
+    all: revert !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components, .fly-form) input[type='range']::-moz-range-thumb {
+    all: revert !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components, .fly-form) input[type='range']:focus-visible {
+    outline: 2px solid var(--fly-focus-ring) !important;
+    outline-offset: 2px !important;
+  }
+  .md-typeset:not(#\#) :is(
+    .fltheme-components input:is(.input, .du-checkbox, .du-radio, .du-toggle),
+    .fly-form input
+  ):is([type='checkbox'], [type='radio']) {
+    appearance: none !important;
+    position: relative !important;
+    display: inline-grid !important;
+    place-items: center !important;
+    inline-size: 1.4rem !important;
+    block-size: 1.4rem !important;
+    padding: 0 !important;
+    border: 1px solid var(--fly-control-border) !important;
+    border-radius: 0.25rem !important;
+    background: var(--fly-paper-3) !important;
+    color: var(--fly-selection) !important;
+    box-shadow: none !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(
+    .fltheme-components input:is(.input, .du-checkbox, .du-radio, .du-toggle),
+    .fly-form input
+  ):is([type='checkbox'], [type='radio']) {
+    flex: none;
+    min-block-size: 0;
+    margin: 0;
+    vertical-align: middle;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components, .fly-form) input:is(.input, .du-checkbox, .du-radio, .du-toggle, .fly-form input):is(
+    [type='checkbox'], [type='radio']
+  )::before {
+    content: '' !important;
+    position: absolute !important;
+    inset: 0 !important;
+    margin: auto !important;
+    padding: 0 !important;
+    border: 0 !important;
+    inline-size: 0.75rem !important;
+    block-size: 0.75rem !important;
+    background: currentColor !important;
+    border-radius: 0 !important;
+    mask: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+    transform: none !important;
+    scale: none !important;
+    translate: none !important;
+    rotate: none !important;
+    opacity: 0 !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components, .fly-form) input:is(.input, .du-checkbox, .fly-form input):is(
+    [type='checkbox']:not([role='switch'])
+  )::before {
+    clip-path: polygon(14% 40%, 0 55%, 40% 96%, 100% 16%, 84% 3%, 38% 66%) !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components, .fly-form) input:is(.input, .du-radio, .fly-form input)[type='radio'], .md-typeset:not(#\#) :is(.fltheme-components, .fly-form) input:is(.input, .du-radio, .fly-form input)[type='radio']::before {
+    border-radius: 50% !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components, .fly-form) input:is(.input, .du-checkbox, .du-radio, .fly-form input):is(
+    [type='checkbox'], [type='radio']
+  ):checked::before {
+    opacity: 1 !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components, .fly-form) input:is(.input, .du-checkbox, .fly-form input):indeterminate::before {
+    clip-path: inset(40% 0) !important;
+    opacity: 1 !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components input:is(.du-toggle, .input[role='switch']), .fly-form input[role='switch'])[type='checkbox'] {
+    grid-template-columns: 1fr 1fr !important;
+    inline-size: 2.5rem !important;
+    border-radius: 2rem !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components input:is(.du-toggle, .input[role='switch']), .fly-form input[role='switch'])[type='checkbox']::before {
+    position: static !important;
+    grid-area: 1 / 1 !important;
+    inline-size: 0.9rem !important;
+    block-size: 0.9rem !important;
+    border-radius: 50% !important;
+    opacity: 1 !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components input:is(.du-toggle, .input[role='switch']), .fly-form input[role='switch'])[type='checkbox']:checked {
+    background: var(--fly-selection) !important;
+    color: var(--fly-paper-3) !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components input:is(.du-toggle, .input[role='switch']), .fly-form input[role='switch'])[type='checkbox']:checked::before {
+    grid-column: 2 !important;
+  }
+  .md-typeset:not(#\#) .fltheme-components input:is(.input[type='checkbox'], .du-toggle)::after {
+    content: none !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.fltheme-components, .fly-form) :is(input, select, textarea):disabled {
+    opacity: 0.55;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.grid > .card, .grid.cards > ul > li) {
+    background-color: var(--fly-surface-raised);
+    color: var(--fly-ink);
+    border: 1px solid var(--fly-card-border);
+    border-radius: var(--fly-card-radius);
+    box-shadow: none;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components :is(.card, .du-card.du-card-border, .dialog > div, .alert-dialog > div, .du-modal-box), dialog.fly-dialog) {
+    background-color: var(--fly-surface-raised) !important;
+    border: 1px solid var(--fly-card-border) !important;
+    border-radius: var(--fly-card-radius) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.fltheme-components :is(.card, .du-card.du-card-border, .dialog > div, .alert-dialog > div, .du-modal-box), dialog.fly-dialog) {
+    color: var(--fly-ink);
+    box-shadow: none;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.fltheme-components .card, .grid > .card, .grid.cards > ul > li) {
+    gap: var(--fly-half);
+    padding: var(--fly-card-padding);
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components .card > :is(header, section, footer) {
+    padding-inline: 0;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components .du-card-body {
+    --du-card-p: var(--fly-card-padding);
+    --du-card-fs: var(--fly-body-size);
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .tabbed-labels {
+    box-sizing: border-box;
+    inline-size: 100%;
+    box-shadow: inset 0 -1px var(--fly-card-border);
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    padding: 0;
+    height: auto;
+    --md-default-fg-color: var(--fly-selection);
+    --md-accent-fg-color: var(--fly-selection);
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(.tabs [role='tablist']:not([aria-orientation='vertical']), .du-tabs-border) {
+    inline-size: 100% !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components :is(.tabs [role='tablist']:not([aria-orientation='vertical']), .du-tabs-border) {
+    box-sizing: border-box;
+  }
+  .md-typeset:not(#\#) .fltheme-components .tabs [role='tablist'] {
+    box-shadow: inset 0 -1px var(--fly-card-border) !important;
+    background: transparent !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+    padding: 0 !important;
+    height: auto !important;
+  }
+  .md-typeset:not(#\#) .fltheme-components .tabs [role='tablist']:not([aria-orientation='vertical']) {
+    justify-content: flex-start !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components .tabs [role='tablist']:not([aria-orientation='vertical']) {
+    gap: 0;
+  }
+  .md-typeset:not(#\#) .fltheme-components .tabs [role='tablist']:not([aria-orientation='vertical']) > [role='tab'] {
+    flex: none !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .tabbed-labels > label {
+    box-sizing: border-box;
+    block-size: var(--fly-control-height);
+    min-block-size: var(--fly-control-height);
+    align-content: center;
+    font-family: var(--fly-control-font);
+    font-size: var(--fly-control-size);
+    font-weight: var(--fly-control-weight);
+    text-decoration: none;
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(.tabs [role='tab'], .du-tab) {
+    block-size: var(--fly-control-height) !important;
+    min-block-size: var(--fly-control-height) !important;
+    font-family: var(--fly-control-font) !important;
+    font-size: var(--fly-control-size) !important;
+    font-weight: var(--fly-control-weight) !important;
+    text-decoration: none !important;
+    padding: 0 var(--fly-half) !important;
+    background: transparent !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+    box-shadow: inset 0 -1px var(--fly-card-border) !important;
+    color: var(--fly-quiet) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components :is(.tabs [role='tab'], .du-tab) {
+    box-sizing: border-box;
+    align-content: center;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .tabbed-labels:not(.tabbed-labels--linked) > label {
+    padding: 0 var(--fly-half);
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .tabbed-labels--linked > label {
+    padding: 0;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .tabbed-labels--linked > label > a {
+    display: grid;
+    align-items: center;
+    height: 100%;
+    padding: 0 var(--fly-half);
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .tabbed-labels > label a {
+    color: inherit;
+    font: inherit;
+    text-decoration: none;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .tabbed-labels::before {
+    background: var(--fly-selection);
+    height: 2px;
+  }
+  .md-typeset:not(#\#) .fltheme-components .du-tabs-border::after {
+    position: static !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components .du-tabs-border::after {
+    content: '';
+    flex: 1 0 0;
+    align-self: flex-end;
+    height: 1px;
+    background: var(--fly-card-border);
+  }
+  .md-typeset:not(#\#) .fltheme-components .du-tabs-border > .du-tab::before {
+    content: none !important;
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(.tabs [aria-selected='true'], .du-tab:is(:checked, :has(:checked), .du-tab-active, [aria-selected='true'], [aria-current='page'])) {
+    color: var(--fly-selection) !important;
+    box-shadow: inset 0 -2px var(--fly-selection) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.md-tag, mark.fly-badge) {
+    display: inline-flex;
+    align-items: center;
+    min-block-size: 1.65rem;
+    padding: 0 0.55em;
+    border: 1px solid var(--fly-card-border);
+    border-radius: var(--fly-control-radius);
+    background: var(--fly-surface-raised);
+    color: var(--fly-ink);
+    font-family: var(--fly-control-font);
+    font-size: var(--fly-size-xs);
+    font-weight: var(--fly-control-weight);
+    text-decoration: none;
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(.badge, .du-badge) {
+    border: 1px solid var(--fly-card-border) !important;
+    border-radius: var(--fly-control-radius) !important;
+    font-family: var(--fly-control-font) !important;
+    font-size: var(--fly-size-xs) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components :is(.badge, .du-badge) {
+    display: inline-flex;
+    align-items: center;
+    min-block-size: 1.65rem;
+    padding: 0 0.55em;
+    background: var(--fly-surface-raised);
+    color: var(--fly-ink);
+    font-weight: var(--fly-control-weight);
+    text-decoration: none;
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(.badge[data-variant='secondary'], .du-badge-neutral) {
+    background: var(--fly-surface-raised) !important;
+    color: var(--fly-ink) !important;
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(.badge[data-variant='outline'], .du-badge-outline) {
+    background: transparent !important;
+    color: var(--fly-ink) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components details:is(.accordion > details, .du-collapse) {
+    padding: 0;
+    background-color: var(--fly-surface-raised);
+    border: 1px solid var(--fly-control-border);
+    border-radius: var(--fly-control-radius);
+    font-family: var(--fly-control-font);
+    font-size: var(--fly-control-size);
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components details:is(.accordion > details, .du-collapse) > summary {
+    position: relative;
+    display: flex;
+    align-items: center;
+    min-block-size: var(--fly-control-height);
+    margin: 0;
+    padding: 0.5rem 2rem 0.5rem var(--fly-card-padding);
+    background: transparent;
+    color: var(--fly-ink);
+    font-size: inherit;
+    font-weight: var(--fly-control-weight);
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components details:is(.accordion > details, .du-collapse) > summary::before {
+    content: none;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.fltheme-components .accordion > details, .fltheme-components .du-collapse-arrow, details:not(.fltheme-components *)) > summary:not(:has(> svg))::after {
+    content: '';
+    position: absolute;
+    display: block;
+    inset-inline: auto var(--fly-card-padding);
+    top: 50%;
+    width: 0.55rem;
+    height: 0.55rem;
+    border: solid currentColor;
+    border-width: 0 1.5px 1.5px 0;
+    box-shadow: none;
+    background: none;
+    mask: none;
+    transform: none;
+    transform-origin: center;
+    rotate: 45deg;
+    translate: 0 -70%;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.fltheme-components .accordion > details, .fltheme-components .du-collapse-arrow, details:not(.fltheme-components *))[open] > summary:not(:has(> svg))::after {
+    rotate: 225deg;
+    translate: 0 -30%;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .fltheme-components details[open]:is(.accordion > details, .du-collapse) > :not(summary) {
+    padding: 0 var(--fly-card-padding) var(--fly-card-padding);
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components :is(.dialog > div, .alert-dialog > div, .du-modal-box), dialog.fly-dialog) {
+    inline-size: min(var(--fly-dialog-width), calc(100vw - 2rem)) !important;
+    max-inline-size: none !important;
+    max-block-size: calc(100dvh - 2rem) !important;
+    padding: calc(1.5 * var(--fly-card-padding)) !important;
+    box-shadow: var(--fly-shadow-down) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.fltheme-components :is(.dialog > div, .alert-dialog > div, .du-modal-box), dialog.fly-dialog) {
+    box-sizing: border-box;
+    overflow-y: auto;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components :is(.dialog[open] > div, .alert-dialog[open] > div, .du-modal-box), dialog.fly-dialog[open]) {
+    display: flex !important;
+    gap: var(--fly-half) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.fltheme-components :is(.dialog[open] > div, .alert-dialog[open] > div, .du-modal-box), dialog.fly-dialog[open]) {
+    flex-direction: column;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components :is(.dialog > div, .alert-dialog > div, .du-modal-box), dialog.fly-dialog) > :is(header, section, h2, h3, p, footer, form, .du-modal-action), .md-typeset:not(#\#) .fltheme-components :is(.dialog, .alert-dialog) > div > :is(header, section) > :is(h2, h3, p):only-child {
+    margin-block: 0 !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components :is(.dialog, .alert-dialog) > div > footer, .fltheme-components .du-modal-action, dialog.fly-dialog > form[method='dialog']) {
+    flex-flow: row wrap !important;
+    justify-content: flex-end !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) :is(.fltheme-components :is(.dialog, .alert-dialog) > div > footer, .fltheme-components .du-modal-action, dialog.fly-dialog > form[method='dialog']) {
+    display: flex;
+    gap: var(--fly-half);
+  }
+  .md-typeset:not(#\#) :is(dialog.fly-dialog .md-button--primary, .fltheme-components dialog :is(.du-btn-primary, .btn:not([data-variant]), .btn[data-variant='primary'])):not(:disabled, [aria-disabled='true'], .du-btn-disabled) {
+    background-color: var(--fly-selection) !important;
+    color: var(--fly-paper-3) !important;
+  }
+  .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) dialog.fly-dialog {
+    margin: auto;
+  }
+  .md-typeset:not(#\#) .fltheme-components dialog.du-modal:modal {
+    background: transparent !important;
+  }
+  .md-typeset:not(#\#) :is(.fltheme-components dialog:is(.dialog, .alert-dialog, .du-modal), dialog.fly-dialog)::backdrop {
+    display: block !important;
+    background: rgb(0 0 0 / 32%) !important;
+    backdrop-filter: none !important;
+    opacity: 1 !important;
+  }
+  @media (prefers-reduced-transparency: reduce) {
+    .md-typeset:not(#\#) :is(.fltheme-components dialog:is(.dialog, .alert-dialog, .du-modal), dialog.fly-dialog)::backdrop {
+      background: var(--fly-paper-3) !important;
+    }
   }
   .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) kbd {
     display: inline-flex;
@@ -1918,11 +2790,24 @@
     font-variation-settings: var(--fly-nav-variation);
     line-height: var(--fly-nav-leading);
     letter-spacing: 0.01em;
-    color: var(--foreground, var(--fly-ink));
-    background: var(--muted, var(--fly-key));
-    border: 1px solid color-mix(in srgb, currentColor 20%, transparent);
-    border-radius: 0.5208rem;
+    color: var(--fly-ink);
+    background: var(--fly-surface-raised);
+    border: 1px solid var(--fly-card-border);
+    border-radius: var(--fly-control-radius);
     box-shadow: none;
+  }
+  .md-typeset:not(#\#) .fltheme-components :is(kbd.kbd, kbd.du-kbd) {
+    height: 1.7em !important;
+    border: 1px solid var(--fly-card-border) !important;
+    border-radius: var(--fly-control-radius) !important;
+    color: var(--fly-ink) !important;
+    background: var(--fly-surface-raised) !important;
+    font-family: var(--fly-nav-family) !important;
+    font-size: var(--fly-nav-size) !important;
+    padding: 0.2em 0.3em 0.1em !important;
+    font-weight: var(--fly-nav-weight) !important;
+    line-height: var(--fly-nav-leading) !important;
+    box-shadow: none !important;
   }
   .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) kbd[data-fl-key-symbol]::before {
     content: attr(data-fl-key-symbol);
@@ -2283,8 +3168,15 @@
     outline-offset: -1px;
   }
   .md-typeset:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) .md-button:focus-visible {
-    outline: 2px solid var(--fly-ink);
+    outline: 2px solid var(--fly-focus-ring);
     outline-offset: 2px;
+  }
+  .md-typeset :is(
+    .fltheme-components :is(.btn, .du-btn, input, select, textarea, .select > button),
+    .fly-form :is(input, select, textarea), dialog.fly-dialog button
+  ):focus-visible {
+    outline: 2px solid var(--fly-focus-ring) !important;
+    outline-offset: 2px !important;
   }
   .md-header:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#) {
     --fl-focus-color: var(--fly-bar-ink);
@@ -2325,6 +3217,19 @@
     background-color: var(--fly-scrollbar);
   }
   @media (prefers-reduced-motion: reduce) {
+    .md-typeset .fltheme-components,
+    .md-typeset .fltheme-components *,
+    .md-typeset .fltheme-components *::before,
+    .md-typeset .fltheme-components *::after {
+      transition: none !important;
+      animation: none !important;
+      scroll-behavior: auto !important;
+    }
+
+    .md-typeset .fltheme-components details::details-content {
+      transition: none !important;
+    }
+
     *:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#),
     *:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#)::before,
     *:not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#):not(#\#)::after {

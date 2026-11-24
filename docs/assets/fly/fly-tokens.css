@@ -119,12 +119,12 @@
     --fly-nav-tracking: 0;
     --fly-nav-scale: 1;
 
-    --fly-table-family: var(--fly-nav-family);
-    --fly-table-weight: 400;
-    --fly-table-stretch: var(--fly-nav-stretch);
-    --fly-table-features: normal;
-    --fly-table-variation: var(--fly-nav-variation);
-    --fly-table-size: calc(var(--fly-size-sm) * var(--fly-table-scale));
+    --fly-table-family: var(--fly-body-family);
+    --fly-table-weight: var(--fly-body-weight);
+    --fly-table-stretch: var(--fly-body-stretch);
+    --fly-table-features: var(--fly-body-features);
+    --fly-table-variation: var(--fly-body-variation);
+    --fly-table-size: calc(var(--fly-body-size) * 0.9 * var(--fly-table-scale));
     --fly-table-leading: 1.3;
     --fly-table-tracking: 0;
     --fly-table-scale: 1;
@@ -165,10 +165,10 @@
     --fly-sans-stretch: 90%;
     --fly-sans-variation: 'slnt' 0;
     --fly-sans-adjust: 0.95;
-    --fly-button-family: var(--fly-sans-family);
-    --fly-button-size: 0.9em;
-    --fly-button-weight: 500;
-    --fly-button-tracking: 0.06em;
+    --fly-button-family: var(--fly-control-font);
+    --fly-button-size: var(--fly-control-size);
+    --fly-button-weight: var(--fly-control-weight);
+    --fly-button-tracking: normal;
     --fly-ui-family: system-ui, sans-serif;
     --fly-icon-family: 'Material Symbols Outlined';
     --fly-nav-current-weight: 600;
@@ -620,7 +620,6 @@
     --fly-part-rail: clamp(12.5rem, 15vw, 19.4444rem);
     --fly-sliver: clamp(4.1667rem, 5vw, 6.9444rem);
     --fly-l1: var(--fly-rail);
-    --fly-l1-label: 10.0694rem;
     --fly-l1-reveal: var(--fly-rail);
     --fly-notch: var(--fly-size-sm);
     --fly-h1-measure: 16ch;
@@ -637,8 +636,8 @@
   }
   @media screen and (76.25em <= width < 100em) {
     :root {
+      --fly-sliver: 10rem;
       --fly-l1: var(--fly-sliver);
-      --fly-l1-reveal: calc(1.1111rem + var(--fly-l1-label) + 1.3889rem);
     }
 
     .fly-no-l2 {
@@ -739,4 +738,22 @@
     --md-code-hl-constant-color: var(--fly-indigo-soft);
     --md-code-hl-keyword-color: var(--fly-cobalt-soft);
     --md-code-hl-string-color: var(--fly-emerald-soft);
+  }
+  :root {
+    --fly-control-height: max(44px, 3rem);
+    --fly-control-radius: 0.5rem;
+    --fly-control-font: var(--fly-sans-family);
+    --fly-control-size: calc(var(--fly-body-size) * 0.9);
+    --fly-control-weight: 500;
+    --fly-dialog-width: 28rem;
+    --fly-card-padding: var(--fly-half);
+    --fly-card-radius: 0.75rem;
+    --fly-card-title-size: var(--fly-size-md);
+  }
+  :where(:root, [data-md-color-scheme], [data-fly-hue]) {
+    --fly-surface-raised: var(--fly-paper-2);
+    --fly-control-border: color-mix(in srgb, var(--fly-ink) 58%, var(--fly-paper-3));
+    --fly-card-border: color-mix(in srgb, var(--fly-ink) 35%, var(--fly-paper-3));
+    --fly-selection: var(--fly-ink);
+    --fly-focus-ring: var(--fly-accent-text);
   }

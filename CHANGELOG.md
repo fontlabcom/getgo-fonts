@@ -6,11 +6,11 @@ this_file: CHANGELOG.md
 
 ## Unreleased
 
-- Site now uses the fly-january 0.2.1 theme (chrome: fontlab).
+- Site now uses the fly-january 0.2.1 theme (chrome: fontlab). Adoption and upgrade: `c1ddf1e`, `93ea24c`. The strict build passed without warnings, and all 101 generated routes reference the Fly assets.
 
 ## v1.0.1 (2026-10-16)
 
-Build script fixes: specimen SVG normalization for current vharfbuzz, cache fingerprint with --force, deterministic ZIP member modes, description-only edits skip re-rendering, corrupt caches fall back to cold builds, no private paths in docs.
+Build script fixes: specimen SVG normalization for current vharfbuzz, cache fingerprint with --force, deterministic ZIP member modes, description-only edits skip re-rendering, corrupt caches fall back to cold builds, no private paths in docs. Verified in `bb4443f` with 19 catalogue tests and cold and warm builds of the 99-font tree.
 
 
 Incremental catalogue builds.
@@ -34,7 +34,7 @@ First tagged release. Includes the issue 106 VFJ export fixes (cosm, rafi, scig,
 
 ## 2026-10-16: release build (issue 106)
 
-Merged issue-106-vfj-export-fixes and rebuilt the site with tools/build_getgo.py and ./build.sh. fonts.json, getgo-fonts-for-fontlab.zip (99 VFJ + 99 TTF, hashes equal the tree) and docs/ are regenerated. The seven regenerated TTFs have fresh WOFF2 files and specimen images; other fonts' images, specimens and Markdown are unchanged. The family name of scig-var is now "GG Scig OFL" (it follows the VFJ default master). rafi-var and rafi-italic-var list Cyrillic in their script summary.
+Merged issue-106-vfj-export-fixes and rebuilt the site with tools/build_getgo.py and ./build.sh (`cf1319f`). fonts.json, getgo-fonts-for-fontlab.zip (99 VFJ + 99 TTF, hashes equal the tree) and docs/ are regenerated. The seven regenerated TTFs have fresh WOFF2 files and specimen images; other fonts' images, specimens and Markdown are unchanged. The family name of scig-var is now "GG Scig OFL" (it follows the VFJ default master). rafi-var and rafi-italic-var list Cyrillic in their script summary.
 
 ## 2026-10-16: VFJ export fixes (issue 106, branch issue-106-vfj-export-fixes)
 

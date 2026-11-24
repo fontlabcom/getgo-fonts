@@ -28,8 +28,8 @@
     --fly-size-md: 1.625rem;
   }
   :root {
-    --fly-h1-family: 'newsserif-huge-variable', Georgia, serif;
-    --fly-h1-weight: 700;
+    --fly-h1-family: 'polymath-display', Arial, sans-serif;
+    --fly-h1-weight: 900;
     --fly-h1-stretch: normal;
     --fly-h1-features: normal;
     --fly-h1-variation: normal;
@@ -38,14 +38,14 @@
     --fly-h1-tracking: -0.01em;
     --fly-h1-scale: 1;
 
-    --fly-h2-family: 'grtsk-vf', Arial, sans-serif;
-    --fly-h2-weight: 300;
+    --fly-h2-family: 'polymath', Arial, sans-serif;
+    --fly-h2-weight: 500;
     --fly-h2-stretch: normal;
     --fly-h2-features: normal;
     --fly-h2-variation: normal;
     --fly-h2-size: calc(clamp(1.75rem, 1.25rem + 1vw, 2.1875rem) * var(--fly-h2-scale));
     --fly-h2-leading: round(up, 1em, 1rem);
-    --fly-h2-tracking: -0.02em;
+    --fly-h2-tracking: 0;
     --fly-h2-scale: 1;
 
     --fly-h3-family: var(--fly-nav-family);
@@ -68,7 +68,7 @@
     --fly-h4-tracking: 0;
     --fly-h4-scale: 1;
 
-    --fly-h5-family: var(--fly-h2-family);
+    --fly-h5-family: var(--fly-sans-family);
     --fly-h5-weight: 400;
     --fly-h5-stretch: normal;
     --fly-h5-features: normal;

@@ -14,7 +14,7 @@ The fonts are licensed under CC-0 (public domain), Apache or OFL, and are availa
 ## Build the website
 
 Run `./build.sh --strict` with uv installed. ProperDocs uses `src_docs/mkdocs.yml`
-and the locked fly-january 0.1.1 theme to build `src_docs/md/` into `docs/`
+and the locked fly-january 0.2.1 theme to build `src_docs/md/` into `docs/`
 for GitHub Pages. The site uses the FontLab menu and footer with local catalogue search.
 
 To regenerate the font catalogue and downloadable ZIP before building the site:

@@ -4,7 +4,7 @@ this_file: THEME.md
 
 # GetGo Fonts catalogue theme
 
-ProperDocs builds the catalogue with the published fly-january 0.1.1 theme.
+ProperDocs builds the catalogue with the published fly-january 0.2.1 theme.
 The active configuration is `src_docs/mkdocs.yml`. The `fly` plugin supplies
 the theme assets and maps the bare `search` plugin to MaterialX search.
 
@@ -28,4 +28,4 @@ Check the home page and a font page for the Fly stylesheet and scripts under
 Check the search index, editable specimen and VFJ download links.
 
 Package documentation and supported options are in the
-[fly-january 0.1.1 release](https://pypi.org/project/fly-january/0.1.1/).
+[fly-january 0.2.1 release](https://pypi.org/project/fly-january/0.2.1/).

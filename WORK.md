@@ -4,7 +4,9 @@ this_file: WORK.md
 
 # Work
 
-## 2026-11-23: fly-january 0.1.1
+The catalogue currently uses fly-january 0.2.1.
+
+## 2026-11-23: catalogue theme migration
 
 Migrated the sole publication config, `src_docs/mkdocs.yml`, to packaged
 FontLab chrome. Rebuilt `docs/` with `./build.sh --strict` on Python 3.13.
